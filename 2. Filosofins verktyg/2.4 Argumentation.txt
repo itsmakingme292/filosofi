@@ -94,7 +94,7 @@ Givetvis finns det fall där vi faktiskt inte kan göra så mycket annat än att
 **Falska dilemman** eller *falska dikotomier* är argument där när man “låtsas” som att det bara finns två möjliga alternativ.
 
 > *Exempel på falska dilemman:*
-> > “Antingen är du med mig, eller så är du emot mig. Då måste välja sida.”
+> > “Antingen är du med mig, eller så är du emot mig. Du måste välja sida.”
 > 
 > > “Antingen tror du på gud, eller så har du ingen moral.”
 
