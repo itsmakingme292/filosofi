@@ -12,13 +12,12 @@ En **slutledning** är ett helt resonemang där flera påståenden eller antagan
 
 En sådan förutsättning, så som “förutsatt att han också är en människa”, kallas för en **premiss**. Premisser är själva utgångspunkterna i ett resonemang: de antaganden eller påståenden som *måste* vara sanna för att slutsatsen ska *kunna* vara sann. Om vi resonerar *korrekt* är därför slutsatsen *alltid* en *konsekvens* av premisserna.
 
-När vi resonerar till vardags låter vi ofta premisser vara outtalade och tar väldigt många av dem för givna. Detta skapar inte allt för sällan problem. Inte minst om vi tar helt *felaktiga* premisser för givna eller om vi i ett samtal med varandra utgår från helt *olika* premisser. Inom logiken (och filosofin) är man i regel därför väldigt noggrann med att göra premisser *synliga*.
+När vi resonerar till vardags låter vi ofta premisser vara outtalade och tar många av dem för givna. Detta skapar inte allt för sällan problem. Inte minst om vi tar helt *felaktiga* premisser för givna eller om vi i ett samtal med varandra utgår från helt *olika* premisser. Inom logiken (och filosofin) är man i regel därför väldigt noggrann med att göra premisser *synliga*.
 
 > *Den logiska strukturen i vår slutledning är följande:*
-
->> *Premiss 1:* Alla människor är dödliga   
->> *Premiss 2:* Pelle är en människa   
->> *Slutsats:* Alltså är Pelle dödlig   
+> > *Premiss 1:* Alla människor är dödliga   
+> > *Premiss 2:* Pelle är en människa   
+> > *Slutsats:* Alltså är Pelle dödlig   
 
 I detta exempel har vi tydligt skrivit ut en premiss som förmodligen lika gärna kan tas för given: premissen att “alla människor är dödliga”. De flesta skulle fortfarande förstå slutledningen om vi bara hade sagt “Om Pelle är människa är han också dödlig”. Alla *vet* redan att ingen människa är odödlig. Värre blir det dock när vi missar att skriva ut premisser som kanske inte är lika självklara.
 
@@ -26,77 +25,74 @@ Huruvida människor faktiskt är dödliga eller ej är dock inget själva logike
 
 En slutledning som kan vara både sann och falsk kallas för en *logiskt giltig* eller en *korrekt slutledning*. En slutledning som faller redan på sin bristande logik, alltså innan vi ens behöver jämföra premisserna med verkligheten, kallas för ett *felslut* eller en *logiskt ogiltig slutledning*. En sådan ogiltig slutledning kan förvisso av en *slump* producera en *slutsats* som trots allt är sann - men bara om vi har ”tur”, inte för att vi resonerat  korrekt (och själva *slutledningen* är därav likväl ogiltig). 
 
->*Exempel på en slutledning som är logiskt giltig:*  
-  
+> *Exempel på en slutledning som är logiskt giltig, men som lika gärna kan ge oss en osann slutsats:*  
+> 
 >> *Premiss 1:* Lisa är antingen hemma eller på jobbet.   
 >> *Premiss 2:* Lisa är inte på jobbet.   
 >> *Slutsats:* Lisa är hemma.
 
-Men även om *slutledningen* är riktig och *logiskt giltig* kan fortfarande en eller flera av premisserna vara falska och då kan slutsatsen likväl vara *osann*. Det kan ju exempelvis vara så att Nils inte alls bara kan vara hemma eller på jobbet, han kanske också kan vara hos sin kompis Pelle. Alltså kanske den första premissen är falsk.
+Även om den ovanstående *slutledningen* är riktig och *logiskt giltig* kan fortfarande en eller flera av premisserna vara falska och då kan slutledningen likväl ge oss en *osann* slutsats. Det kan ju exempelvis vara så att Lisa inte alls bara kan vara hemma eller på jobbet, hon kanske också kan vara hos sin kompis Pelle. 
 
-> *Exempel på slutledningar som är logiskt ogiltiga:*
+> *Exempel på en slutledning som är logiskt ogiltig, men som ändå kan "råka" producera en sann slutsats*
+> 
+> > *Premiss 1:* Om någon är en människa så är denne dödlig   
+> > *Premiss 2:* Nils är dödlig.   
+> > *Slutsats:* Nils är en människa.
 
->> *Premiss 1:* Om någon är en människa är denne dödlig   
->> *Premiss 2:* Nils är dödlig.   
->> *Slutsats:* Nils är en människa.
-
->> *Premiss 1:* Om jag skaffar körkort blir jag mer fri.  
->> *Premiss 2:* Om jag blir mer fri blir jag gladare.   
->> *Slutsats:* Jag måste ta körkort för att bli gladare.
-
-Ovanstående är bra exempel på det vi till vardags kallar *förhastade slutsatser*. Den första slutledningen är ogiltig eftersom Nils inte alls behöver vara en människa bara för att han är dödlig. Det finns ganska många exempel på andra dödliga djur - kanske är Nils namnet på någons katt. Den andra slutledningen är ogiltigt eftersom det inte följer att jag just måste ta körkort för att bli mer glad. Kanske kan jag känna mig mer fri, och därmed mer glad, på andra sätt. Premisserna kan i bägge exempel vara sanna, men slutsatserna är likväl felaktiga.
+Ovanstående är ett bra exempel på det vi till vardags kallar *förhastade slutsatser*. Denna slutledning är *ogiltig* eftersom Nils inte alls måste vara en människa enbart därför att han är dödlig. Det finns många exempel på andra dödliga djur – kanske är Nils namnet på någons katt. Premisserna är rimligen sanna och kanske är också slutsatsen ett *sant påstående*, men *slutledningen* är likväl *ogiltig* eftersom den inte *följer av premisserna*.
 
 ## Deduktion & induktion
 
-Inom logiken skiljer man mellan två olika typer av slutledningar: *deduktiva* och *induktiva*. Deduktiva slutledningar är sådana vi hittills tittat på. Alltså slutledningar där vi utifrån ett antal premisser härleder en slutsats och på så vis “utvinner ny information”.
+Inom logiken skiljer man mellan två olika typer av slutledningar: *deduktiva* och *induktiva*. Deduktiva slutledningar är sådana vi hittills tittat på. Alltså slutledningar där vi utifrån ett antal premisser drar en slutsats (härleder) och på så vis “utvinner ny information”.
 
-**Induktion** handlar istället om att härleda slutsatser från *erfarenheter* genom *generaliseringar*. Om att utgå från ett antal företeelser och utifrån dessa dra en *allmän* slutsats om *samtliga* existerande eller *nästkommande* företeelser av samma *typ*. Om vi under hela världshistorien exempelvis sett väldigt många vita svanar, men aldrig en enda svart, verkar det rimligt att det bara finns vita svanar. Och om solen gått upp varje dag, ja då går den nog upp imorgon också.
+**Induktion** handlar istället om att härleda slutsatser från *erfarenheter* genom *generaliseringar*. Om att utgå från ett antal företeelser eller händelser och utifrån dessa dra en *allmän* slutsats om *samtliga* existerande eller *nästkommande* företeelser eller händelser av samma *typ*. Om vi under hela världshistorien exempelvis sett väldigt många vita svanar, men aldrig en enda svart, verkar det rimligt att det bara finns vita svanar. Och om solen gått upp varje dag, ja då går den nog upp imorgon också.
 
 > *Exempel på induktion:*
+> > *Iakttagelse:* Jag har träffat många människor i mitt liv, både vettiga och ovettiga, men ingen människa som gillat glass har någonsin varit ovettig.
+> 
+> > *Slutsats:* Endast vettiga människor gillar glass.
 
->> *Iakttagelse:* Jag har träffat många människor i mitt liv, både vettiga och ovettiga, men ingen människa som gillat glass har någonsin varit ovettig.   
+Den uppmärksamme märker dock att det finns något lite lurigt med induktiva resonemang. Ovanstående slutsats är mer uppenbart förhastad, men även slutsatsen att det endast finns vita svanar har visat sig felaktig. Att alla svanar är vita var vad man länge trodde, och vad all erfarenhet sa. Men på 1800-talet upptäckte man att det faktiskt fanns svarta svanar (även om de var få). Och då kan man fråga sig: om nu inte århundrade efter århundrade av erfarenhet av endast vita svanar räckte för att korrekt kunna dra slutsatsen att *alla* svanar är vita, hur mycket erfarenhet är då någonsin tillräckligt?
+
+Detta har ändå sedan 1700-talet varit en stor fråga bland filosofer. Vissa, ganska många rentav, har hävdat att en induktiv slutledning överhuvudtaget inte kan vara logiskt giltig. Detta eftersom det alltid verkar finnas en viss lucka mellan vår erfarenhet om en begränsad mängd företeelser/saker/händelser och vår slutsats om att alla företeelser/saker/händelser av denna sort alltid är på ett visst sätt. Generaliseringar är kort och gott alltid problematiska (inte minst generaliseringar av typen "endast vettiga människor gillar glass).
+
+Samtidigt bygger mycket av vår kunskap på just induktiva slutledningar, och det vore mycket svårt att leva utan dem. Hur skulle det exempelvis se ut om vi antog att solen lika gärna *inte* skulle gå upp imorgon? Vad de flesta filosofer i vart fall *är* överens om är att det inte är *möjligt* eller ens *önskvärt* att helt *sluta tänka induktivt*. Inte minst hade det varit mycket svårt att bedriva vetenskaplig verksamhet om vi inte gav induktiva slutledningar någon form av legitimitet. 
   
->> *Slutsats:* Endast vettiga människor gillar glass.
-
-Den uppmärksamme märker dock att det finns något lite lurigt med induktiva resonemang. För om vi tar exemplet med svanar *är* det faktiskt inte så att alla svanar är vita. Detta var vad man länge trodde, och vad all erfarenhet sa. Men på 1800-talet upptäckte man att det faktiskt fanns svarta svanar. Och då kan man fråga sig: om nu inte århundrade efter århundrade av erfarenhet av endast vita svanar räckte för att korrekt kunna dra slutsatsen att *alla* svanar är vita, hur mycket erfarenhet ska då räcka?
-
-Detta har ändå sedan 1700-talet varit en stor fråga bland filosofer. Vissa, ganska många rentav, har hävdat att en induktiv slutledning överhuvudtaget inte kan vara logiskt giltig. Detta eftersom det alltid verkar finnas en viss lucka mellan vår erfarenhet om en begränsad mängd företeelser/saker och vår slutsats om att alla företeelser/saker av denna sort är på samma sätt. Generaliseringar är kort och gott alltid problematiska (inte minst generaliseringar av typen "endast vettiga människor gillar glass).
-
-Samtidigt bygger mycket av vår kunskap på just induktiva slutledningar. För hur skulle vi exempelvis kunna leva om vi antog att solen lika gärna inte skulle gå upp imorgon? Vad de flesta filosofer i vart fall *är* överens om är att det inte är *möjligt* eller ens *önskvärt* att helt *sluta tänka induktivt*.  
+Det är här också viktigt att göra en distinktion mellan *det som är sant* och *det som är sannolikt*. Induktion handlar i första hand om det senare. För även om vi inte för all framtid _logiskt_ kan sluta oss till att solen *alltid* kommer att gå upp, verkar det likväl *sannolikt* att den gör det (utifrån vår erfarenhet).  
   
-Det är här också viktigt att göra distinktionen mellan *det som är sant* och *det som är sannolikt*. Induktion handlar om det senare. För även om vi inte för all framtid logiskt kan sluta oss till att solen *alltid* kommer att gå upp, verkar det likväl *sannolikt* att den gör det (utifrån vår erfarenhet).  
-  
-Att induktionen har en svagare logisk grund än deduktionen beror helt enkelt på att det inte finns någon *nödvändighet* i induktiva resonemang. Dessa är i slutändan alltid temporära ”gissningar” - om än mer eller mindre *kvalificerade*. Induktiva resonemang är till skillnad från deduktiva resonemang (där slutsatsen är en *direkt konsekvens* av premisserna) alltså en fråga om *grad*. Något kan vara mycket eller lite sannolikt, men aldrig hundra procent säkert. 
+Att induktion har en svagare logisk grund än deduktion beror helt enkelt på att det inte finns någon *nödvändighet* i induktiva resonemang. Dessa är i slutändan alltid temporära ”gissningar” – om än mer eller mindre *kvalificerade*  (vetenskapens gissningar verkar åtminstone säkrare än mannen på gatans). Induktiva resonemang är till skillnad från deduktiva resonemang (där slutsatsen är en *direkt konsekvens* av premisserna) alltså en fråga om *grad*. Något kan vara mycket eller lite sannolikt, men aldrig hundra procent säkert. 
 
 ## Implicit & explicit
 
-Om ett påstående föreligger **implicit** betyder det att detta påstående “döljs” bakom ett annat påstående och/eller logiskt följer av det. Säger jag att min favoritfärg är röd säger jag också *implicit* att min favoritfärg *inte är grön*, även om jag i ord inte uttrycker just det. (Förutsatt premissen att vi, då vi talar om ”favoritfärg”, syftar till *en och endast en färg*.) Att min favoritfärg inte är grön är en *logisk konsekvens* av att min favoritfärg är röd. Ett **explicit** påstående är tvärtom det som *uttryckligen* sägs. Det vi med ord *yttrar*, alltså i detta fall: ”Min favoritfärg är röd”.
+Om ett påstående föreligger **implicit** betyder det att detta påstående “gömmer sig” bakom ett annat påstående och/eller logiskt följer av det. Påstår jag att min favoritfärg är röd påstår jag också *implicit* att min favoritfärg *inte är grön*, även om jag i ord inte uttrycker just det. (Förutsatt premissen att vi, då vi talar om ”favoritfärg”, syftar till *en och endast en färg*.) Att min favoritfärg inte är grön är en *logisk konsekvens* av att min favoritfärg är röd. Ett **explicit** påstående är tvärtom det som *uttryckligen* sägs. Det vi med ord *yttrar*, alltså i detta fall: ”Min favoritfärg är röd”.
 
-Då vi kritiserar någon i en diskussion gör vi detta ofta lika mycket på grund av det som sägs explicit, som på grund av det som sägs implicit. Om någon hävdar att “alla i Sverige måste jobba” kommer förmodligen en annan raskt svara “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Den andra personen utsätter här den första för *implikationen* av det som sagts.  
+Då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grund av det som sagts implicit, som på grund av det som sagts explicit. Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts.  
   
-Det är dock viktigt att skilja mellan *logisk* implikation och *språklig* implikation. Om någon säger ”Pelle gick till restaurangen.” är oftast den *språkliga* implikationen att han *gick dit för att äta*. Detta är den underförstådda meningen, som inte uttryckligen sägs, och därmed implikationen. Men det är inte en *logisk* implikation eftersom det inte finns någon *nödvändighet* i det faktum att han skulle äta. Kanske skulle han bara hälsa på en vän som jobbar där. 
+Det är dock viktigt att skilja mellan *logisk* implikation och *språklig* implikation. Om någon säger ”Pelle gick till restaurangen” är oftast den *språkliga* implikationen att han *gick dit för att äta*. Detta är den *underförstådda meningen*, som inte uttryckligen sägs (och därmed implikationen). Men denna "underförstådda mening" är inte en *logisk* implikation eftersom det inte finns någon *nödvändighet* i det faktum att han skulle äta. Kanske skulle Pelle bara hälsa på en vän som jobbar där. 
 
-En annan viktig distinktion är den mellan  "implicit" rent *psykologiskt* och "implicit" strikt logiskt. Inom psykologin betyder "implicit" att något (exempelvis en kunskap, eller en föreställning) befinner sig på ett omedvetet plan. 
-Givetvis är vi ofta omedvetna om de logiska  implikationerna av det vi säger, men det är inte huruvida vi är *omedvetna* eller inte som vi rent logiskt intresserar oss för, utan endast vilka påståenden som *måste följa* av de påståenden vi *explicit* uttrycker. Med andra ord: vilka andra påståenden vi måste acceptera om vi inte vill förkasta eller modifiera det vi explicit har sagt. 
+En annan viktig distinktion är den mellan  "implicit" rent *psykologiskt* och implicit strikt logiskt. Inom psykologin betyder "implicit" att något (exempelvis en kunskap, eller en föreställning) befinner sig på ett _omedvetet plan_. 
+Givetvis är vi ofta omedvetna om de logiska implikationerna av det vi säger och det är också ofta just detta som skapar problem. Men huruvida vi är *omedvetna* eller inte spelar ingen _logisk_ roll. Logiken intresserar sig endast för vilka påståenden som *måste följa* av de påståenden som vi *explicit* uttrycker. 
+
+Den logiska implikationen av det vi påstår är alltså alla ytterligare påståenden vi också måste hålla med om, så länge vi inte vill förkasta eller modifiera det vi explicit har sagt. Med andra ord: de påståenden vi måste acceptera för att _inte tala motsägelsefullt_. 
 
 ## Korrelation & kausalitet
 
-**Kausalitet** är ett finare ord för orsakssamband: en kedja eller serie av orsak och verkan. Ett enkelt sätt att beskriva orsak och verkan är att vi föreställer oss att vi spelar biljard. När vi håller i biljardkön och för den framåt mot den vita biljardbollen *orsakar* vi att biljardkön stöter mot den vita bollen. Detta är den första *verkan*. Men vi sätter också igång en större kausal kedja (händelseförlopp av orsak och verkan). Den vita bollen börjar (förhoppningsvis) i sin tur rulla framåt, och den kommer (förhoppningsvis) stöta emot en annan kula (orsak). Och denna kula kommer i sin tur (förhoppningsvis) hamna i ett hål (verkan). 
+**Kausalitet** är ett finare ord för orsakssamband: en kedja eller serie av orsak och verkan. Ett enkelt sätt att beskriva orsak och verkan är att vi föreställer oss att vi spelar biljard. När vi håller i biljardkön och för den framåt mot den vita biljardbollen *orsakar* vi att biljardkön stöter mot den vita bollen och när denna sedan börjar rulla framåt är detta vår *verkan*. Men vi sätter också igång en större kausal _kedja_ (ett händelseförlopp av orsak och verkan). Den vita bollen kommer (förhoppningsvis) i sin tur stöta emot en annan kula (orsak) som (förhoppningsvis) hamnar i ett hål (verkan). 
 
-Något vi ibland misstar för kausalitet är **korrelation**. Om något korrelerar menar vi att två eller flera saker ofta förekommer samtidigt. Ett exempel på detta kan vara att det ofta regnar på midsommar. Att det ofta regnar på midsommar beror dock inte på att det just är midsommar. Det finns inget hos midsommaren som *orsakar* regn. Brännvinet och sillen upprör förmodligen inga vädergudar. Det handlar bara om ett olyckligt sammanträffande. Ett annat exempel är att cancersjuka ofta tappar hår. Detta beror inte på deras *cancer* utan på den *medicinska behandlingen* de får som cancerpatienter (att de tar cellgifter).
+Något vi ibland misstar för kausalitet är **korrelation**. Om något korrelerar menar vi att två eller flera saker ofta förekommer samtidigt. Ett exempel på detta kan vara att det ofta regnar på midsommar. Att det ofta regnar på midsommar beror dock inte på att det just är midsommar. Det finns inget hos midsommaren som *orsakar* regn. Brännvinet och sillen upprör rimligen inga vädergudar. Midsommarregnet handlar bara om ett olyckligt sammanträffande. Ett annat exempel är att cancersjuka ofta tappar hår. Detta beror inte på deras *cancer* utan på den *medicinska behandlingen* de får som cancerpatienter (att de tar cellgifter).
 
-Två saker kan alltid eller ofta förekomma samtidigt, men det betyder inte nödvändigtvis att den ena förekomsten orsakar den andra eller vice versa. Ibland kan vi dock upptäcka en korrelation som visar sig ha ett orsakssamband och det är i stort så här vetenskapen arbetar. När man upptäckt en korrelation som verkar vara ett orsakssamband måste man dock avgöra i vilken **riktning** denna går. Exempelvis: Om positiva människor oftast tillhör de som lyckas bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas på arbetsmarknaden, eller är det snarare så att *de blir positiva* av att lyckas?
+Två saker kan alltid eller ofta förekomma samtidigt, men det betyder inte nödvändigtvis att den ena förekomsten orsakar den andra eller vice versa. Ibland kan vi dock upptäcka en korrelation som visar sig ha ett orsakssamband. Det är i stort så här vetenskapen arbetar: denna letar efter korrelationer därför att dessa _potentiellt_ kan vara orsakssamband. När man upptäckt en korrelation som verkar vara ett orsakssamband måste man dock avgöra i vilken **riktning** denna går. Exempelvis: om positiva människor oftast tillhör de som lyckas bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas på arbetsmarknaden, eller är det snarare så att *de blivit positiva av* att lyckas?
 
-Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt tror att riktningen går åt två håll. Men bara för att en första sak orsakar en andra betyder det inte att den andra också orsakar den första.
+Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt tror att den går åt båda håll. Men bara för att en första sak orsakar en andra betyder det inte att den andra också orsakar den första.
 
->*Exempel på korrekt riktning:*
-
->> *Premiss 1:* Om det åskar så regnar det.   
->> *Premiss 2:* Det åskar.   
->> *Slutsats:* Det regnar.
-
->*Exempel på felaktig riktning:*
-
->> *Premiss 1:* det åskar så regnar det.   
->> *Premiss 2:* Det regnar.   
->> *Slutsats:* Det åskar.
+> *Exempel på korrekt riktning:*
+>
+> > *Premiss 1:* Om det åskar så regnar det.   
+> > *Premiss 2:* Det åskar.   
+> > *Slutsats:* Det regnar.
+>
+> *Exempel på felaktig riktning:*
+>
+> > *Premiss 1:* Om det åskar så regnar det.   
+> > *Premiss 2:* Det regnar.   
+> > *Slutsats:* Det åskar.
