@@ -156,7 +156,7 @@ Ovanstående är mer enkla exempel på cirkelresonemang. Oftast handlar det om g
 
 Att vi inte _uppskattar_ ett sakpåstående påverkar aldrig dess sanningsvärde. Att vi helst inte vill vara släkt med apor, eller helst inte vill dra ner på vårt bilåkande, spelar i detta sammanhang ingen roll. Frågan är inte om vi är *bekväma* med ovanstående teorier, frågan är om dessa är *sannolika*. 
 
-**Hänvisning till okunskap** är argument som kommer i två olika varianter. Den första varianten är då man försöker bevisa det man tror på genom att peka på att det inte finns bevis för att tesen skulle vara felaktig. Den andra varianten är att man avfärdar något för att man *personligen* inte kan förstå det.
+**Hänvisning till okunskap** är argument som kommer i två olika varianter. Den första varianten är då man försöker bevisa det man tror på genom att peka på att det inte finns _bevis_ för att tesen skulle vara _felaktig_. Den andra varianten är att man avfärdar något för att man *personligen* inte kan _förstå_ det.
 
 > *Exempel på hänvisning till okunskap:*  
 > 
@@ -164,7 +164,11 @@ Att vi inte _uppskattar_ ett sakpåstående påverkar aldrig dess sanningsvärde
 > 
 > > “Jag tror inte på kvantfysiken, för jag kan då inte begripa hur den hänger ihop.”
 
-Att en tes ännu inte blivit motbevisad är i sig inget bevis för att den är sann eller rimlig. Om alla påståenden som inte är motbevisade automatiskt blev sanna skulle vi behöva acceptera ganska många konstiga påståenden. Att vi inte kan förstå något säger givetvis heller ingenting om sanningshalten eller rimligheten.
+Att det kan vara svårt att helt motbevisa tesen att spöken existerar är i sig inget bevis för att denna är sann eller sannolik. Om allt som ännu inte är motbevisat   _automatiskt_ blev sant skulle vi behöva acceptera många märkliga påståenden. 
+
+Låt säga att en person är fast övertygad om att det någonstans i en galax långt långt borta finns en planet som bebos av talande katter. Denna person har själv inga konkreta belägg för sin ståndpunkt, men det är samtidigt mycket svårt för oss andra att lägga fram bevis för att *det inte skulle kunna vara så*. 
+
+Vad gäller det andra exemplet: Kvantfysiken må vara svårgreppbar för en lekman, men detta är i första hand ingen bedömning av teorins förtjänst, utan främst en bedömning av lekmannens kunskap. Vår brist på förståelse av en tes eller teori påverkar aldrig dess sannolikhet. 
 
 ## Avrundning
 
