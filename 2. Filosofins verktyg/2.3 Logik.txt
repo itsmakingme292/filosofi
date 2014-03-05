@@ -66,14 +66,18 @@ Att induktion har en svagare logisk grund än deduktion beror helt enkelt på at
 
 Om ett påstående föreligger **implicit** betyder det att detta påstående “gömmer sig” bakom ett annat påstående och/eller logiskt följer av det. Påstår jag att min favoritfärg är röd påstår jag också *implicit* att min favoritfärg *inte är grön*, även om jag i ord inte uttrycker just det. (Förutsatt premissen att vi, då vi talar om ”favoritfärg”, syftar till *en och endast en färg*.) Att min favoritfärg inte är grön är en *logisk konsekvens* av att min favoritfärg är röd. Ett **explicit** påstående är tvärtom det som *uttryckligen* sägs. Det vi med ord *yttrar*, alltså i detta fall: ”Min favoritfärg är röd”.
 
-Då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grund av det som sagts implicit, som på grund av det som sagts explicit. Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts.  
+Då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grund av det som sagts implicit, som på grund av det som sagts explicit. Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts. 
   
 Det är dock viktigt att skilja mellan *logisk* implikation och *språklig* implikation. Om någon säger ”Pelle gick till restaurangen” är oftast den *språkliga* implikationen att han *gick dit för att äta*. Detta är den *underförstådda meningen*, som inte uttryckligen sägs (och därmed implikationen). Men denna "underförstådda mening" är inte en *logisk* implikation eftersom det inte finns någon *nödvändighet* i det faktum att han skulle äta. Kanske skulle Pelle bara hälsa på en vän som jobbar där. 
 
-En annan viktig distinktion är den mellan  "implicit" rent *psykologiskt* och implicit strikt logiskt. Inom psykologin betyder "implicit" att något (exempelvis en kunskap, eller en föreställning) befinner sig på ett _omedvetet plan_. 
-Givetvis är vi ofta omedvetna om de logiska implikationerna av det vi säger och det är också ofta just detta som skapar problem. Men huruvida vi är *omedvetna* eller inte spelar ingen _logisk_ roll. Logiken intresserar sig endast för vilka påståenden som *måste följa* av de påståenden som vi *explicit* uttrycker. 
+En annan viktig distinktion är den mellan  "implicit" rent *psykologiskt* och implicit strikt logiskt. Inom psykologin betyder "implicit" att något (exempelvis en kunskap, eller en föreställning) befinner sig på ett _omedvetet plan_. Givetvis är vi ofta omedvetna om de logiska implikationerna av det vi säger och det är också ofta just detta som skapar problem. Men huruvida vi är *omedvetna* eller inte spelar ingen _logisk_ roll. Logiken intresserar sig endast för vilka påståenden som *måste följa* av de påståenden som vi *explicit* uttrycker. 
 
-Den logiska implikationen av det vi påstår är alltså alla ytterligare påståenden vi också måste hålla med om, så länge vi inte vill förkasta eller modifiera det vi explicit har sagt. Med andra ord: de påståenden vi måste acceptera för att _inte tala motsägelsefullt_. 
+Den _logiska_ implikationen av det vi påstår är alltså alla ytterligare påståenden vi _också_ måste hålla med om – så länge vi inte vill förkasta eller modifiera det vi explicit har sagt. Med andra ord: de påståenden vi måste acceptera för att _inte tala motsägelsefullt_. 
+
+Det är inte minst med anledning av detta som det är viktigt att *precisera* det man säger. 
+
+<!--Skriva mer ovanstående? Eller få in det någon annanstans? -->
+
 
 ## Korrelation & kausalitet
 
