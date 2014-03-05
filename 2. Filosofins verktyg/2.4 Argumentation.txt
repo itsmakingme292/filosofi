@@ -61,7 +61,7 @@ När vi argumenterar och diskuterar kan vi ibland hamna i logiska felslut och ar
 
 Som ni nu säkert förstår är man inom filosofin väldigt noga med att både *undvika* och *syna* sådana argumentationsfel. Här följer en lista över några av de vanligaste.
 
-**Majoritetsargument** är argument som försöker styrka en viss åsikt eller tro genom att hänvisa till att många, de flesta, eller alla, delar  denna. Dessa argument är inte allt för ovanliga i exempelvis reklam.
+**Majoritetsargument** är argument som försöker styrka en viss åsikt genom att hänvisa till att många, de flesta, eller alla, delar  denna. Denna typ av argument är inte allt för ovanlig i exempelvis reklam.
 
 > *Exempel på majoritetsargument:*
 >
@@ -69,9 +69,9 @@ Som ni nu säkert förstår är man inom filosofin väldigt noga med att både *
 > 
 > > “Alla andra fuskar på proven, så då gör jag det med.”
 
-Vi kan aldrig veta huruvida en miljon eller ens en miljard människor har rätt eller fel bara genom att se till antalet. Hela det västerländska samhället trodde under en ganska lång tid att jorden var platt, det gjorde inte denna tro mer sann.
+Vi kan aldrig veta huruvida, en miljon eller ens en miljard, människor har rätt eller fel bara genom att se till antalet. Hela det västerländska samhället trodde under en  lång tid att jorden var platt, detta gjorde inte denna tro mer sann.
 
-**Auktoritetsargument** är argument som hänvisar till en person som har någon form av “högre status” eller en viss auktoritet. Detta kan vara sådant som lärare, politiker, popstjärnor, vetenskapsmän, präster, osv. I ett auktoritetsargument “låtsas” man att ett visst påstående blir mer sant bara för att en viss person, med en viss ställning, *sagt det*.
+**Auktoritetsargument** är argument som hänvisar till en person som har någon form av “högre status” eller en viss auktoritet. Sådana personer kan vara lärare, politiker, popstjärnor, vetenskapsmän, präster, osv. I ett auktoritetsargument “låtsas” man att ett visst påstående blir mer sant bara för att en viss person, med en viss ställning, *sagt det*.
 
 > *Exempel på auktoritetsargument:*
 > 
@@ -81,7 +81,7 @@ Vi kan aldrig veta huruvida en miljon eller ens en miljard människor har rätt 
 
 Viktigt att tänka på är att ett auktoritetsargument inte är detsamma som att faktiskt *återge* någon annans argument. Att använda sig av argument som någon annan först kommit på, är en sak. Men att tro att något *automatiskt* blir mer sant bara för att en person sagt det, är en helt annan.
 
-Givetvis finns det också fall där vi faktiskt inte kan göra så mycket annat än att tro på en viss auktoritet eller expertis. Att exempelvis blint förlita sig på en rörmokare när det kommer till renoveringen av ett badrum är inte detsamma som att blint förlita sig på en präst, en politiker eller en popstjärnas åsikter när det kommer till att ta livsavgörande beslut. Skillnaden är att de flesta av oss i det första fallet vet för lite för att kunna göra något annat, medan vi i det andra fallet har en helt annan erfarenhet och möjlighet att ifrågasätta och *tänka själva*.
+Givetvis finns det fall där vi faktiskt inte kan göra så mycket annat än att tro på en viss expertis eller auktoritet. Att exempelvis förlita sig på en rörmokare när det gäller renoveringen av ett badrum är inte detsamma som att blint förlita sig på en präst, en politiker eller en popstjärnas åsikter när det gäller livsavgörande beslut. Skillnaden är att de flesta av oss i det första fallet vet för lite för att kunna göra något annat, medan vi i det andra fallet har en helt annan erfarenhet och möjlighet att ifrågasätta och *tänka själva*.
 
 **Personangrepp** är i stort sett raka motsatsen till auktoritetsargument. Här *avfärdar* man istället en annan persons påståenden och argument genom att hänvisa till dennes *påstått negativa* egenskaper.
 
