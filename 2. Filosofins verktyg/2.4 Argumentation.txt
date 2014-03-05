@@ -87,18 +87,20 @@ Givetvis finns det fall där vi faktiskt inte kan göra så mycket annat än att
 
 > *Exempel på personangrepp:*
 >
-> > “Pelle är lite knäpp, ta honom inte på så stort allvar.”
+> > “En person med så usel musiksmak som Pelle kan knappast veta något om kultur.”
 > 
-> > “Du är för ung, du kan inte fatta sånt här.”
+> > “Du är för ung, du förstår inte sådant här.”
 
 **Falska dilemman** eller *falska dikotomier* är argument där när man “låtsas” som att det bara finns två möjliga alternativ.
 
 > *Exempel på falska dilemman:*
-> > “Antingen är du med mig, eller så är du emot mig.”
+> > “Antingen är du med mig, eller så är du emot mig. Då måste välja sida.”
 > 
 > > “Antingen tror du på gud, eller så har du ingen moral.”
 
-Ibland handlar det om att man försöker göra sin egen tes mer sann genom att peka på det osanna i en annan. Ibland handlar det om att man vill sätta motståndaren i en så kallad *rävsax* där denne bara ges valet mellan två negativa alternativ. Och ibland handlar det om att framställa en ståndpunkt som rimlig genom att peka på en annan motsatt orimlig ståndpunkt och därigenom dölja det faktum att det kan finnas *andra* potentiellt rimliga ståndpunkter.
+Genom ett falskt dilemma försöker vi framställa en ståndpunkt som mer rimlig genom att peka på det orimliga i en annan.  Därigenom döljer vi det faktum att det kan finnas *andra* potentiellt rimliga ståndpunkter. Ibland innebär detta att vi sätter motståndaren i en så kallad *rävsax* där denne bara ges valet mellan två negativa alternativ.
+
+<!-- Ha rävsax som egen här? -->
 
 **Post hoc, ergo propter hoc** är latin och betyder “efter detta, därför på grund av detta”. Ett sådant argument tolkar in orsakssamband där det inte finns några (se ”korrelation & kausalitet”). I korthet: Bara för att någonting händer efter något annat betyder det inte att det sista hänt på grund av det första.
 
