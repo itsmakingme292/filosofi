@@ -81,7 +81,7 @@ Det är sällan man stöter på missförstånd vid användningen av ordet “bol
 
 Och kanske är allt detta i vart fall en fingervisning om att det inte alltid är så lätt eller möjligt (eller kanske *aldrig* helt möjligt?) att *utesluta* allt som *är* “x” och *innefatta* allt som *inte är* “x” i ett begrepp. Även om detta är en bra grundinställning kanske vi också måste förhålla oss ödmjuka inför det faktum att språket innehåller *vagheter* som inte så lätt kan undanröjas.
 
-(Notera att försöket till en definition av begreppet ”boll” bara är ett *konstruerat* exempel. Kanske går det att definiera begreppet boll på ett mycket bättre sätt?)
+(Att notera: försöket att definiera begreppet ”boll” är bara ett *konstruerat* exempel. Kanske går det att definiera begreppet boll på ett mycket bättre sätt?)
 
 ## Vaghet
 
