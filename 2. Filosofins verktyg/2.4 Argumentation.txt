@@ -51,7 +51,7 @@ Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt 
 > > > > > 
 > > > > > *Argument av fjärde ordningen:* Det är dumt att göra chefen arg.
 
-Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argument och dels då man vill skapa en överblick då man bygger egna.
+Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argumentation och dels då man vill skapa en överblick då man bygger egna.
 
 <!--Få in ovan att det ofta är mycket svårt att se en argumentations struktur i en redan skriven text och att detta i sig är ett argument för att tänka så här -->
 
