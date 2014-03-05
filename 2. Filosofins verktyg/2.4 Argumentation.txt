@@ -57,9 +57,9 @@ Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta efters
 
 ## Fula argumentationsknep, bristande logik & olika typer av irrelevanta argument.
 
-När vi argumenterar och diskuterar kan vi ibland hamna i logiska felslut och argumentatoriska fallgropar. Inte minst om vi väldigt gärna vill "vinna" en diskussion. Detta är i vissa fall en medveten strategi som går ut på att använda “fula knep” som man hoppas att ingen kommer märka, för att på så vis *låta* mer övertygande - men alltså egentligen inte vara det. Men lika ofta kan vi göra dessa argumentationsfel helt omedvetet, alltså utan att vi tänker på det.
+När vi argumenterar och diskuterar kan vi ibland hamna i logiska felslut och argumentatoriska fallgropar. Inte minst om vi väldigt gärna vill "vinna" en diskussion. I vissa fall är detta en medveten strategi som innebär att vi använder “fula knep” för att på så vis *låta* mer övertygande – utan att egentligen vara det. Men lika ofta gör vi dessa argumentationsfel helt omedvetet, alltså utan att vi ens tänker på det.
 
-Som ni nu säkert förstår är man inom filosofin väldigt noga med att både *undvika* och *syna* sådana argumentationsfel. Nedan följer en lista på några av de vanligaste.
+Som ni nu säkert förstår är man inom filosofin väldigt noga med att både *undvika* och *syna* sådana argumentationsfel. Här följer en lista över några av de vanligaste.
 
 **Majoritetsargument** är argument som försöker styrka en viss åsikt eller tro genom att hänvisa till att många, de flesta, eller alla, delar  denna. Dessa argument är inte allt för ovanliga i exempelvis reklam.
 
