@@ -10,46 +10,50 @@ Att utveckla sin förmåga att argumentera handlar lika mycket om att kunna *ge*
 
 ## Relevans & hållbarhet
   
-Ett argument är i grund och botten ett påstående man ger för att antingen styrka eller försvaga ett annat påstående (tesen). De argument vi ger i syfte att styrka ett annat påstående kallar vi för *pro*-argument eller *för*-argument och de vi ger i syfte att försvaga ett annat påstående kallar vi för *kontra*-argument eller *mot*-argument.   
+Ett argument är i grund och botten ett påstående man ger för att antingen styrka eller försvaga ett annat påstående (tesen). De argument vi ger i syfte att _styrka_ ett annat påstående kallar vi för ***pro*-argument** eller *för*-argument och de vi ger i syfte att _försvaga_ ett annat påstående kallar vi för ***kontra*-argument** eller *mot*-argument. 
   
 Eftersom vi alltid ger ett argument i syfte att antingen styrka eller försvaga ett annat påstående räcker det inte att våra argument är sanna, rimliga eller sannolika. Våra argument måste därtill vara *relevanta*. Med andra ord: våra argument måste ha med saken (vår tes) att göra. Ett argument som inte styrker eller försvagar tesen är *irrelevant*, oavsett om påståendet som utgör argumentet är sant eller ej. Ett användbart argument måste vara både **hållbart** (sannolikt, rimligt eller sant) *och* **relevant** (ha kraften att öka den upplevda rimligheten, sannolikheten eller sanningen hos ett *annat* påstående). 
 
->*Exempel på irrelevanta argument:*  
+<!--Formulera om ovanstående mening nån gång när jag orkar -->
 
->> “Stina måste vara rik eftersom hon äger en iPhone.”   
->> “Italien måste vara ett fantastiskt land med tanke på alla bra  fotbollslag de haft genom åren.”
+> *Exempel på irrelevanta argument:*  
+>
+> > “Stina måste vara rik eftersom hon äger ett guldsmycke.”
+> > “Italien måste vara ett fantastiskt land med tanke på alla bra  fotbollslag de haft genom åren.”
 
-Det må vara sant att Stina äger en iPhone - och att hon förmodligen inte är fattig. Men även ganska orika människor (iaf med svenska mått mätt) äger iPhones. Att Stina äger en iPhone är inte *relevant* för huruvida hon är rik eller ej. Det må också vara sant att Italien producerat både ett och annat bra fotbollslag. Men bra fotbollslag kan även den mest hemska och korrupta diktatur skaka fram.
+Det må vara sant att Stina äger ett guldsmycke – och att hon förmodligen inte är helt utfattig. Men även mindre rika människor (i alla fall med svenska mått mätt) äger guldsmycken. Att Stina äger ett guldsmycke är därför inte ett *relevant* argument för tesen att hon är rik. Det må också vara sant att Italien producerat både ett och annat bra fotbollslag. Men bra fotbollslag kan även den mest hemska och korrupta diktatur skaka fram.
 
-Vad gäller argumentet angående ”Stinas iPhone” skulle vi möjligen kunna säga att detta argument tillsammans med ytterligare information har potential att *bli relevant*, men att argumentet *ensamt* förblir *otillräckligt*. Att Stina har en iPhone säger *i sig* inget om huruvida hon är rik, men om vi vet att hennes iPhone bara är *en i raden* av en mängd andra dyra prylar blir situationen möjligen annorlunda. 
+Vad gäller argumentet ”Stinas guldsmycke” skulle vi möjligen kunna säga att detta argument tillsammans med ytterligare information har *potential att bli relevant* men att argumentet *ensamt* förblir *otillräckligt*. Att Stina äger _ett_ guldsmycke säger *i sig* inget om huruvida hon är rik, men om vi vet att detta guldsmycke bara är *ett i raden* av en mängd dyra smycken blir situationen möjligen annorlunda. 
 
 ## Olika nivåer av argument
 
-När man argumenterar gör man oftast detta i flera led. Med andra ord: man argumenterar för eller emot en tes med flera påståenden som i sin tur styrks av ytterligare påståenden. När man analyserar argument kan man därför dela upp argumentationen i olika nivåer för att på så vis få en tydligare överblick. Inom filosofin kallas detta för att dela upp argumenten i **argument av olika ordning**.
+När man argumenterar gör man oftast detta i _flera led_. Med andra ord: man argumenterar för eller emot en tes med flera påståenden som i sin tur styrks av ytterligare påståenden. När man analyserar argument kan man därför dela upp argumentationen i _olika nivåer_ för att på så vis få en tydligare överblick. Inom filosofin kallas detta för att dela upp argumenten i **argument av olika ordning**.
 
-Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt själva tesen (eller om det är ett motargument: *försvagar* rimligheten hos tesen). Ett *argument av andra ordningen* är ett argument som i sin tur ger stöd åt (eller försvagar) ett argument av den första ordningen. Och så vidare.
-<hr>
+Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt själva tesen (eller om det är ett motargument: *försvagar* rimligheten hos tesen). Ett *argument av andra ordningen* är ett argument som i sin tur ger stöd åt (eller försvagar) ett argument av den första ordningen (och därmed _indirekt_ åt tesen). Och så vidare.
+
 > *Ett exempel på en argumentations struktur:*
+> 
+> > **Tes:** Jag borde inte stanna uppe så länge natten innan en arbetsdag.
+> > 
+> > > *Argument av första ordningen:* Man är trött under hela arbetsdagen om man stannat uppe för länge.
+> > > 
+> > > > *Argument av andra ordningen:* Är man trött gör man ett sämre arbete.
+> > > > 
+> > > > > *Argument av tredje ordningen:* Gör man ett sämre arbete drabbas arbetskollegor av detta.
+> > > > > 
+> > > > > > *Argument av fjärde ordningen:* Ingen annan ska behöva drabbas av mina dåliga val.
+> > > > > > 
+> > *Argument av första ordningen:* Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
+> > > 
+> > > *Argument av andra ordningen:* Då blir jag sen till jobbet.
+> > > > 
+> > > > *Argument av tredje ordningen:* Blir jag sen blir min chef arg.  
+> > > > > 
+> > > > > *Argument av fjärde ordningen:* Det är dumt att göra chefen arg.
 
->> **Tes:** Jag borde inte stanna uppe så länge natten innan en arbetsdag.
+Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argument och dels då man vill skapa en överblick då man bygger egna.
 
->>> *Argument av första ordningen:* Man är trött under hela arbetsdagen om man stannat uppe för länge.
-
->>>> *Argument av andra ordningen:* Är man trött gör man ett sämre arbete.
-
->>>>> *Argument av tredje ordningen:* Gör man ett sämre arbete drabbas arbetskollegor av detta.
-
->>>>>> *Argument av fjärde ordningen:* Ingen annan ska behöva drabbas av mina dåliga val.
-
->> *Argument av första ordningen:* Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
-
->>> *Argument av andra ordningen:* Då blir jag sen till jobbet.
-
->>>> *Argument av tredje ordningen:* Blir jag sen blir min chef arg.  
-
->>>>> *Argument av fjärde ordningen:* Det är dumt att göra chefen arg.
-
-Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument.  Om detta låter knepigt, så är det för att det också *är* lite knepigt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argument och dels då man vill skapa en överblick då man bygger egna.
+<!--Få in ovan att det ofta är mycket svårt att se en argumentations struktur i en redan skriven text och att detta i sig är ett argument för att tänka så här -->
 
 ## Fula argumentationsknep, bristande logik & olika typer av irrelevanta argument.
 
@@ -60,16 +64,20 @@ Som ni nu säkert förstår är man inom filosofin väldigt noga med att både *
 **Majoritetsargument** är argument som försöker styrka en viss åsikt eller tro genom att hänvisa till att många, de flesta, eller alla, delar  denna. Dessa argument är inte allt för ovanliga i exempelvis reklam.
 
 > *Exempel på majoritetsargument:*
->> “En miljon svenskar kan inte ha fel, köp vår produkt!”   
->> “Alla andra fuskar på proven, så då gör jag det med.”
+>
+> > “En miljon svenskar kan inte ha fel, köp vår produkt!”   
+> 
+> > “Alla andra fuskar på proven, så då gör jag det med.”
 
 Vi kan aldrig veta huruvida en miljon eller ens en miljard människor har rätt eller fel bara genom att se till antalet. Hela det västerländska samhället trodde under en ganska lång tid att jorden var platt, det gjorde inte denna tro mer sann.
 
 **Auktoritetsargument** är argument som hänvisar till en person som har någon form av “högre status” eller en viss auktoritet. Detta kan vara sådant som lärare, politiker, popstjärnor, vetenskapsmän, präster, osv. I ett auktoritetsargument “låtsas” man att ett visst påstående blir mer sant bara för att en viss person, med en viss ställning, *sagt det*.
 
->*Exempel på auktoritetsargument:*  
->> “Sverige borde införa Euro. Statsministern är ju för det.”   
->> “Man får mask i magen om man äter snö, det har min mamma sagt.”
+> *Exempel på auktoritetsargument:*
+> 
+> > “Sverige borde införa Euro. Statsministern är ju för det.”
+> 
+> > “Man får mask i magen om man äter snö, det har min mamma sagt.”
 
 Viktigt att tänka på är att ett auktoritetsargument inte är detsamma som att faktiskt *återge* någon annans argument. Att använda sig av argument som någon annan först kommit på, är en sak. Men att tro att något *automatiskt* blir mer sant bara för att en person sagt det, är en helt annan.
 
@@ -78,80 +86,81 @@ Givetvis finns det också fall där vi faktiskt inte kan göra så mycket annat 
 **Personangrepp** är i stort sett raka motsatsen till auktoritetsargument. Här *avfärdar* man istället en annan persons påståenden och argument genom att hänvisa till dennes *påstått negativa* egenskaper.
 
 > *Exempel på personangrepp:*
+>
+> > “Pelle är lite knäpp, ta honom inte på så stort allvar.”
+> 
+> > “Du är för ung, du kan inte fatta sånt här.”
 
->> “Pelle är lite knäpp, ta honom inte på så stort allvar.”   
->> “Du är för ung, du kan inte fatta sånt här.”
+**Falska dilemman** eller *falska dikotomier* är argument där när man “låtsas” som att det bara finns två möjliga alternativ.
 
-**Falska dilemman** eller *falska dikotomier *är argument där när man “låtsas” som att det bara finns två möjliga alternativ.
-
->*Exempel på falska dilemman:*
-
->> “Antingen är du med mig, eller så är du emot mig.”       
->> “Antingen tror du på gud, eller så har du ingen moral.”
+> *Exempel på falska dilemman:*
+> > “Antingen är du med mig, eller så är du emot mig.”
+> 
+> > “Antingen tror du på gud, eller så har du ingen moral.”
 
 Ibland handlar det om att man försöker göra sin egen tes mer sann genom att peka på det osanna i en annan. Ibland handlar det om att man vill sätta motståndaren i en så kallad *rävsax* där denne bara ges valet mellan två negativa alternativ. Och ibland handlar det om att framställa en ståndpunkt som rimlig genom att peka på en annan motsatt orimlig ståndpunkt och därigenom dölja det faktum att det kan finnas *andra* potentiellt rimliga ståndpunkter.
 
 **Post hoc, ergo propter hoc** är latin och betyder “efter detta, därför på grund av detta”. Ett sådant argument tolkar in orsakssamband där det inte finns några (se ”korrelation & kausalitet”). I korthet: Bara för att någonting händer efter något annat betyder det inte att det sista hänt på grund av det första.
 
->*Exempel på "Post hoc, ergo propter hoc":*
-
->> ”Vi kan inte ta med Lisa på våra utflykter mer eftersom det alltid börjar regna när vi gör det.”   
-
->> “Jag hade ont i halsen och åt en massa frukt. Dagen efter blev jag frisk. Alltså måste frukten botat min halsont.”
+> *Exempel på "Post hoc, ergo propter hoc":*
+>
+> > ”Vi kan inte ta med Lisa på våra utflykter mer eftersom det alltid börjar regna när vi gör det.”
+>
+> > “Jag hade ont i halsen och åt en massa frukt. Dagen efter blev jag frisk. Alltså måste frukten botat min halsont.”
 
 **Halmgubben** är ett argument där man tillskriver en motpart en åsikt eller en ståndpunkt som denne faktiskt inte framfört (och förmodligen inte har). Detta är ganska vanligt inom politiken. Men många kan nog också känna igen denna typ av “argument” från bråk med nära och kära.
 
->*Exempel på ”halmgubbar”:*  
-  
->> “Jaså du gillar tv-spel, du tycker alltså att man bara ska vara hemma och slappa jämt och ständigt.”   
-  
->> “Jaså du är feminist, du tycker alltså att alla människor ska vara exakt likadana.”
+> *Exempel på ”halmgubbar”:*
+>
+> > “Jaså du gillar tv-spel, du tycker alltså att man bara ska vara hemma och slappa jämt och ständigt.”
+>
+> > “Jaså du är feminist, du tycker alltså att alla människor ska vara exakt likadana.”
 
 I halmgubbar kan det finnas olika grader av sanning. Men framförallt handlar det om att man tar en sak (ett strå) och gör någonting annat och större av det (en halmgubbe). Något vi ibland också kan kalla "att göra en höna av en fjäder". Den som gillar tv-spel kanske gillar att “slappa” någon gång då och då, men den tycker nödvändigtvis inte att man *bara* ska spela tv-spel hela dagarna för det. Den som är feminist kanske tycker att vi gör för stor skillnad *mellan könen*, men det betyder inte att denne tycker att alla ska vara likadana (förmodligen tvärtom). 
 
 **Cirkelresonemang**, cirkel*argument* eller cirkel*bevis* är när man använder slutsatsen som en premiss i en och samma slutledning. Med andra ord när man i sitt resonemang *förutsätter* det som ska bevisas för att på så vis (felaktigt) ”bevisa” det.
 
->*Exempel på cirkelresonemang:* 
-  
->> “Gud finns, för det säger Bibeln, och Bibeln är Guds ord.”   
- 
->> “Peter talar sanning, om han säger att han talar sanning.”
+> *Exempel på cirkelresonemang:* 
+>  
+> > “Gud finns, för det säger Bibeln, och Bibeln är Guds ord.”
+>
+> > “Peter talar sanning, om han säger att han talar sanning.”
 
 Ovanstående är mer enkla exempel på cirkelresonemang. Oftast handlar det om ganska komplexa cirklar som bildas i längre slutledningar och dessa är svårare att upptäcka.
 
 **Ensidigt urval** är då man endast fokuserar på det som stödjer ens tes och i stort undviker allt som säger emot den. Ett ensidigt urval handlar alltså om att bara ge den del av “sanningen” som styrker ens egen ståndpunkt. Detta är ett ganska mänskligt misstag, och ofta svårt att undvika helt, men det handlar likväl om ett misstag.
 
->*Exempel på ensidigt urval:*
-  
->> “I Sverige har vi knappt några samhällsproblem. Alla har tillgång till fri vård, fri skola och en pension.”   
-  
->> “I Sverige har vi bara en massa samhällsproblem. Segregation, hög arbetslöshet och en skola på nedgång.”
+> *Exempel på ensidigt urval:*
+>  
+> > “I Sverige har vi knappt några samhällsproblem. Alla har tillgång till fri vård, fri skola och en pension.”   
+>
+> > “I Sverige har vi bara en massa samhällsproblem. Segregation, hög arbetslöshet och en skola på nedgång.”
 
 **Oberättigade generaliseringar** är när man utifrån ett *fåtal enskilda* fall drar en allmän slutsats, trots att man egentligen skulle behöva många fler fall för att överhuvudtaget kunna stödja den. Fördomar mot andra grupper av människor fungerar ofta på detta sätt.
 
->*Exempel på oberättigade generaliseringar:*
-  
->> “Norskar är trevligare än danskar. Jag har träffat både norskar och danskar, och det var stor skillnad mellan dem.”
-
->> “Det är alltid väldigt varmt och fuktigt i New York. Jag har varit där två gånger och båda gångerna kändes det som att stiga rakt in i en bastu.”
+> *Exempel på oberättigade generaliseringar:*
+>  
+> > “Norskar är trevligare än danskar. Jag har träffat både norskar och danskar, och det var stor skillnad mellan dem.”
+> 
+> > “Det är alltid väldigt varmt och fuktigt i New York. Jag har varit där två gånger och båda gångerna kändes det som att stiga rakt in i en bastu.”
 
 **Irrelevant hänvisning till konsekvenser** är när man argumenterar för eller mot ett *sakpåstående* genom att peka på önskade eller oönskade konsekvenser av detta sakpåstående. En hänvisning till konsekvenser är endast ett giltigt argument för *värdepåståenden*, alltså i de fall där  konsekvenser faktiskt *kan* spela en roll för påståendets rimlighet.
 
->*Exempel på irrelevant hänvisning till konsekvenser:*  
-  
->> “Jag tror inte på global uppvärmning, för jag vill inte behöva  ändra mitt sätt att leva.”   
-  
->> “Evolutionsteorin kan rimligen inte stämma, för den säger ju oss att vi inte är bättre än apor.”
+> *Exempel på irrelevant hänvisning till konsekvenser:*
+>   
+> > “Jag tror inte på global uppvärmning, för jag vill inte behöva  ändra mitt sätt att leva.”
+> 
+> > “Evolutionsteorin kan rimligen inte stämma, för den säger ju oss att vi inte är bättre än apor.”
 
 Om vi tar det andra exemplet spelar det ingen roll för sanningshalten i evolutionsteorin om den för vissa skulle få oönskade negativa konsekvenser (exempelvis: att vi är nära besläktade med apor). Frågan är om evolutionsteorin är *sann* inte om vi är *bekväma* med den. 
 
 **Hänvisning till okunskap** är argument som kommer i två olika varianter. Den första varianten är då man försöker bevisa det man tror på genom att peka på att det inte finns bevis för att tesen skulle vara felaktig. Den andra varianten är att man avfärdar något för att man *personligen* inte kan förstå det.
 
->*Exempel på hänvisning till okunskap:*  
-  
->> “Ingen har någonsin lyckats bevisa att spöken inte existerar, därför tror jag på spöken.”   
-  
->> “Jag tror inte på kvantfysiken, för jag kan då inte begripa hur den hänger ihop.”
+> *Exempel på hänvisning till okunskap:*  
+> 
+> > “Ingen har någonsin lyckats bevisa att spöken inte existerar, därför tror jag på spöken.”   
+> 
+> > “Jag tror inte på kvantfysiken, för jag kan då inte begripa hur den hänger ihop.”
 
 Att en tes ännu inte blivit motbevisad är i sig inget bevis för att den är sann eller rimlig. Om alla påståenden som inte är motbevisade automatiskt blev sanna skulle vi behöva acceptera ganska många konstiga påståenden. Att vi inte kan förstå något säger givetvis heller ingenting om sanningshalten eller rimligheten.
 
