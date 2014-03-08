@@ -127,19 +127,19 @@ Inom språkfilosofin skiljer man mellan olika *typer* av satser. De allra vanlig
 > > “Sveriges konung heter Bertil.”   
 > > “Andra världskriget började 1936.”
 
-Ibland vill man dock kunna uttrycka sakpåståenden utan att på förhand veta om det man påstår är helt sant eller inte. Ofta lägger vi i dessa fall till sådant som “jag tror” eller “jag antar”. Men fortfarande är det sakpåståenden vi uttrycker.  
+Ibland uttrycker vi sakpåståenden utan att på förhand veta om det vi påstår är sant eller inte. Ofta lägger vi i sådana fall till "brasklappar" så som “jag tror” eller “jag antar”. Men det är likväl sakpåståenden vi uttrycker.  
   
 Viktigt att komma ihåg är också att *olika* satser kan uttrycka *samma* påstående. Satsen ”Stockholm är Sveriges huvudstad” och satsen ”Sveriges huvudstad är Stockholm” är förvisso *två olika satser* men de uttrycker likväl *ett och samma påstående*. 
 
 **Värdesatser** är de satser där man på ett eller annat sätt *värderar* något. Då man uttrycker påståenden (eller uppmaningar) som beskriver något i termer av bra, dåligt, gott, ont, fel, rätt, fult, snyggt, osv.
 
-1. *Expressiva* värdesatser är satser där man uttrycker en åsikt eller en känsla inför något. Exempelvis: “Peter är snäll”.  
+1. *Expressiva* värdesatser är satser där man uttrycker en åsikt eller en känsla inför något. Exempelvis “Anna är snäll” eller "det är skönt med soligt väder".  
 
-2. *Preskriptiva* värdesatser är satser där man uppmanar eller befaller ett visst beteende. Exempelvis “Man bör inte döda” eller “stäng dörren när du går”.  
+2. *Preskriptiva* värdesatser är satser där man uppmanar eller föreskriver ett visst beteende. Exempelvis “Man bör inte döda” eller “stäng dörren när du går”.  
 
-Värdesatser ses vanligen inom filosofin inte som en viss typ av sakpåstående, utan som en *helt annan kategori*. Sakpåståenden antar vi är falska eller sanna. Men värdesatser är något knepigare. Dessa bör kanske snarast ses som *rimliga* eller *orimliga*. Att det är fel att slå barn är inte ett fakta utan någonting vi kommer fram till då vi resonerar kring vilka värden vi vill knyta till en god barnuppfostran. Ser vi exempelvis till fakta kring vad våld gör mot barnet och dess psyke räcker inte detta för att alla ska se våldet som orätt. Vi måste också bestämma oss för att denna effekt av våldet är något *vi inte önskar* (värde). 
+Värdesatser ses vanligen inte som en viss typ av sakpåstående, utan som en *helt annan kategori*. Sakpåståenden är, åtminstone i princip, falska eller sanna, men värdesatser är något knepigare. Dessa är snarare *rimliga* eller *orimliga*. Att det är fel att slå barn är _inte ett fakta_ utan någonting vi kommer fram till då vi resonerar kring vad en god barnuppfostran _bör_ innebära. Fakta så som vad våld gör mot barn och deras psyke räcker i detta sammanhang inte för att alla, per automatik, ska se våldet som _orätt_. Vi måste också _bestämma oss_ för att denna effekt av våldet är något *vi inte önskar*. Vi måste för att uttrycka ett _värdepåstående_ tillskriva dessa fakta ett visst _värde_. 
 
-Om vi tar ett enklare och mindre brännande exempel, så som huruvida gröt är gott eller inte, vore det absurt att påstå att en person som uttrycker “gröt är äckligt” talar osant bara för att vi själva inte håller med. Om jag gillar gröt och någon annan inte gillar gröt, kan vi aldrig lösa denna tvist genom att "kolla upp fakta". Att gröt är gott handlar därför inte om sant eller falskt. Om någon istället skulle påstå att “sand är gott”, skulle vi dock utifrån sandkorns fysiska kvalité och vår kunskap om mänskligt smaksinne kunna förmoda att personen ifråga skojade. Detta eftersom ett sådant uttalande verkar *helt orimligt*.
+Om vi tar ett enklare och mindre brännande exempel, så som huruvida gröt är gott eller inte, vore det absurt om vi påstod att en person som uttrycker “gröt är äckligt” talar osant bara för att vi själva inte håller med. Om jag gillar gröt och någon annan inte gillar gröt, kan vi aldrig lösa denna tvist genom att "kolla upp fakta". Att gröt är gott handlar därför inte om sant eller falskt. Om någon istället påstod att “sand är gott”, skulle vi däremot utifrån vad vi vet om sandkorns fysiska kvalité och mänskligt smaksinne kunna _förmoda_ att personen ifråga skojade. Detta eftersom ett sådant uttalande verkar *helt orimligt*.
 
 Märk väl att ett sakpåstående kan *handla om* ett värdepåstående. Ett exempel på detta är påståendet “Pelle tycker att Arsenal är ett dåligt fotbollslag”. Ett sådant påstående kan vi lätt kontrollera med verkligheten. Vi kan fråga Pelle vad han tycker om Arsenal. Men det är inte huruvida Arsenal är dåliga eller inte vi i så fall kontrollerar, endast Pelles åsikt i frågan.
 
