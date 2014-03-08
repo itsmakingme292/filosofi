@@ -64,7 +64,12 @@ Att induktion har en svagare logisk grund än deduktion beror helt enkelt på at
 
 ## Implicit & explicit
 
-Om ett påstående föreligger **implicit** betyder det att detta påstående “gömmer sig” bakom ett annat påstående och/eller logiskt följer av det. Påstår jag att min favoritfärg är röd påstår jag också *implicit* att min favoritfärg *inte är grön*, även om jag i ord inte uttrycker just det. (Förutsatt premissen att vi, då vi talar om ”favoritfärg”, syftar till *en och endast en färg*.) Att min favoritfärg inte är grön är en *logisk konsekvens* av att min favoritfärg är röd. Ett **explicit** påstående är tvärtom det som *uttryckligen* sägs. Det vi med ord *yttrar*, alltså i detta fall: ”Min favoritfärg är röd”.
+Om ett påstående föreligger **implicit** betyder det att detta påstående “gömmer sig” bakom ett annat påstående och/eller _logiskt följer_ av det vi sagt. Påstår jag att min favoritfärg är röd påstår jag också *implicit* att min favoritfärg *inte är grön* – även om jag i ord inte uttrycker just det. Att min favoritfärg inte är grön är en *logisk konsekvens* av att min favoritfärg är röd. Ett **explicit** påstående är tvärtom det som *uttryckligen* sägs. Det vi _ordagrant_ *yttrar*. Alltså i detta fall: ”Min favoritfärg är röd”.
+
+<!--Tog bort denna: (Förutsatt premissen att vi, då vi talar om ”favoritfärg”, syftar till *en och endast en färg*.) -->
+
+<!--Eventuell ny variant av början: Ett **implicit** påstående är ett påstående som  “gömmer sig” bakom ett annat påstående och/eller _logiskt följer_ av det vi sagt.  -->
+
 
 Då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grund av det som sagts implicit, som på grund av det som sagts explicit. Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts. 
   
