@@ -81,7 +81,7 @@ Då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grun
 
 Vad gäller det första exemplet leder vårt *explicita* påstående till en stor mängd implicita påståenden eftersom vi med detta påstår att _varje_ person som *inte tränar* gör fel. Vad gäller det andra exemplet borde vi kanske inte uttryckt oss fullt så tvärsäkert, eftersom vi med detta utesluter möjligheten att det kan finnas andra bra serier.
 
-Ovanstående är goda exempel på varför vi bör vara försiktiga med ord så som "alla", "allt", "alltid", "aldrig", "uteslutande" "endast" och så vidare. Sådana ord riskerar att göra våra påståenden onödigt *kategoriska* (av typen: "svart eller vitt"), vilket lätt leder till att vi påstår något som vi inte hade tänkt.
+Ovanstående är goda exempel på varför vi bör vara försiktiga med ord så som "alla", "allt", "alltid", "aldrig", "uteslutande" "endast" och så vidare. Sådana ord riskerar att göra våra påståenden onödigt *kategoriska* (av typen: "svart eller vitt"), vilket lätt kan leda till att vi påstår något som vi inte hade tänkt.
   
 Det är här också viktigt att skilja mellan *logisk* implikation och *språklig* implikation. Om någon säger ”Pelle gick till restaurangen” är oftast den *språkliga* implikationen att han *gick dit för att äta*. Detta är den *underförstådda meningen*, som inte uttryckligen sägs (och därmed implikationen). Men denna "underförstådda mening" är inte en *logisk* implikation eftersom det inte finns någon *nödvändighet* i det faktum att han skulle äta. Kanske skulle Pelle bara hälsa på en vän som jobbar där. Den språkliga implikationen är det vi har _anledning att tro_ att någon menar. Den logiska implikationen är de implicita påståenden som logiskt _måste följa_ utifrån ett visst explicit påstående. 
 
