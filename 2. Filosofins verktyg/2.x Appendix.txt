@@ -68,7 +68,11 @@
 > > “I jämförelse med Pelle framstår Kalle som riktigt bra på fotboll.”  
 > > ”Jag gillar choklad mer än kaffe, men kaffe mer än godis.”  
 > > ”Jag tycker att de flesta i Sverige jobbar för mycket.”  
+>
+> **Försök komma på några egna exempel på implikationer av explicita påståenden**
+> > Försök också avgöra vilka som handlar om *språklig* och vilka som handlar om *logisk* implikation.
 
+## Övningsuppgift 6
 > **Kom på några slutledningar som är exempel på:**
 > > 1. Slutledningar där slutsatsen är korrekt, men premisserna osanna.
 > > 2. Slutledningar där slutsatsen är fel, men premisserna sanna.
