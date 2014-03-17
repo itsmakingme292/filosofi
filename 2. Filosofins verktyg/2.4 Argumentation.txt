@@ -11,10 +11,16 @@ Att utveckla sin förmåga att argumentera handlar lika mycket om att kunna *ge*
 ## Relevans & hållbarhet
   
 Ett argument är i grund och botten ett påstående man ger för att antingen styrka eller försvaga ett annat påstående (tesen). De argument vi ger i syfte att _styrka_ ett annat påstående kallar vi för ***pro*-argument** eller *för*-argument och de vi ger i syfte att _försvaga_ ett annat påstående kallar vi för ***kontra*-argument** eller *mot*-argument. 
-  
-Eftersom vi alltid ger ett argument i syfte att antingen styrka eller försvaga ett annat påstående räcker det inte att våra argument är sanna, rimliga eller sannolika. Våra argument måste därtill vara *relevanta*. Med andra ord: våra argument måste ha med saken (vår tes) att göra. Ett argument som inte styrker eller försvagar tesen är *irrelevant*, oavsett om påståendet som utgör argumentet är sant eller ej. Ett användbart argument måste vara både **hållbart** (rimligt, sant eller sannolikt) *och* **relevant** (ha kraften att öka den upplevda rimligheten, sanningen eller sannolikheten hos ett *annat* påstående). 
 
-<!--Formulera om ovanstående mening nån gång när jag orkar, få till en förklaring: Ju större relevans vårt argument har i förhållande till tesen, desto mindre rimligt är det att förkasta Tesen om man samtidigt accepterar påståendet som utgör argumentet -->
+Då vi avgör värdet eller styrkan hos ett argument ser vi till två olika egenskaper: _hållbarhet_ och _relevans_.
+
+<!-- I en **argumentationanalys** ser vi till två olika egenskaper hos argumenten för att avgöra värdet eller styrkan hos dem. Dessa egenskaper är _hållbarhet_ och _relevans_. -->
+
+**Hållbarhet** handlar om huruvida ett argument är rimligt, sant eller sannolikt. Huruvida påståendet som utgör argumentet _i sig_ verkar stämma. Denna del av vår argumentationsanalys handlar om argumentets *trovärdighet*. 
+
+Att ett argument är rimligt, sant eller sannolikt räcker dock inte för att det ska kunna styrka vår tes. Våra argument måste därtill _ha med saken att göra_. De måste inneha en viss **relevans**. 
+
+Ett påstående är endast ett relevant argument om det också har kraften att öka den upplevda rimligheten, sanningen eller sannolikheten hos ett *annat* påstående – och detta påstående måste i slutändan alltid vara *tesen*. Ett argument som inte styrker eller försvagar tesen (antingen direkt eller indirekt) är *irrelevant*, oavsett om påståendet som utgör argumentet är sant eller ej. 
 
 > *Exempel på irrelevanta argument:*  
 >
@@ -24,6 +30,9 @@ Eftersom vi alltid ger ett argument i syfte att antingen styrka eller försvaga 
 Det må vara sant att Stina äger ett guldsmycke – och att hon förmodligen inte är helt utfattig. Men även mindre rika människor (i alla fall med svenska mått mätt) äger guldsmycken. Att Stina äger ett guldsmycke är därför inte ett *relevant* argument för tesen att hon är rik. Det må också vara sant att Italien producerat både ett och annat bra fotbollslag. Men bra fotbollslag kan även den mest hemska och korrupta diktatur skaka fram.
 
 Vad gäller argumentet ”Stinas guldsmycke” skulle vi möjligen kunna säga att detta argument tillsammans med ytterligare information har *potential att bli relevant* men att argumentet *ensamt* förblir *otillräckligt*. Att Stina äger _ett_ guldsmycke säger *i sig* inget om huruvida hon är rik, men om vi vet att detta guldsmycke bara är *ett i raden* av en mängd dyra smycken blir situationen möjligen annorlunda. 
+
+> _Ett sätt att "mäta" relevansen hos våra argument är att tänka på följande vis:_
+> > Desto större relevans vårt argument har i förhållande till tesen desto mindre rimligt är det att vi förkastar tesen om vi samtidigt accepterar trovärdigheten hos påståendet som utgör argumentet. 
 
 ## Olika nivåer av argument
 
