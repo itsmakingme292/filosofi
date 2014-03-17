@@ -83,7 +83,7 @@ Viktigt att tänka på är att ett auktoritetsargument inte är detsamma som att
 
 Givetvis finns det fall där vi faktiskt inte kan göra så mycket annat än att tro på en viss expertis eller auktoritet. Att exempelvis förlita sig på en rörmokare när det gäller renoveringen av ett badrum är inte detsamma som att blint förlita sig på en präst, en politiker eller en popstjärnas åsikter när det gäller livsavgörande beslut. Skillnaden är att de flesta av oss i det första fallet vet för lite för att kunna göra något annat, medan vi i det andra fallet har en helt annan erfarenhet och möjlighet att ifrågasätta och *tänka själva*.
 
-**Personangrepp** är i stort sett raka motsatsen till auktoritetsargument. Här *avfärdar* man istället en annan persons påståenden och argument genom att hänvisa till dennes *påstått negativa* egenskaper.
+**Personangrepp** (på latin: Ad Hominem) är i stort sett raka motsatsen till auktoritetsargument. Här *avfärdar* man istället en annan persons påståenden och argument genom att hänvisa till dennes (påstådda och oftast _negativa_) egenskaper. Man attackerar därmed _personen_ istället för det den säger.
 
 > *Exempel på personangrepp:*
 >
@@ -110,7 +110,7 @@ Genom ett falskt dilemma försöker vi framställa en ståndpunkt som mer rimlig
 >
 > > “Jag hade ont i halsen och åt en massa frukt. Dagen efter blev jag frisk. Alltså måste frukten botat min halsont.”
 
-**Halmgubben** är ett argument där man tillskriver en motpart en åsikt eller en ståndpunkt som denne faktiskt inte framfört (och förmodligen inte har). Detta är ganska vanligt inom politiken. Men många kan nog också känna igen denna typ av “argument” från bråk med nära och kära.
+**Halmgubben** är ett argument där man tillskriver en motpart en åsikt eller en ståndpunkt som denne faktiskt inte framfört (och förmodligen inte har). Ofta genom att vi ger en förenklad och karikatyrmässig beskrivning av vår motpart. Detta är ganska vanligt inom politiken, men många kan nog också känna igen denna typ av “argument” från bråk med nära och kära.
 
 > *Exempel på ”halmgubbar”:*
 >
