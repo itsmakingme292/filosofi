@@ -4,11 +4,11 @@
 
 De flesta av oss har någon gång använt ordet “logiskt”. Men ofta är det ganska oklart vad vi egentligen menar. Ibland tycks ordet “logiskt” närmast likställas med *det som är förnuftigt*. I denna beskrivning ligger det dock en viss sanning. För om vi skulle summera logiken är den framförallt: *konsten att resonera korrekt*.
 
-Som filosofisk gren är logiken studiet av regler för slutsatsdragning och principer för tänkandet. Inom logiken undersöker man därmed vilka _typer_ av resonemang som är _giltiga_ och inte. Att resonera logiskt är i denna mening att förstå vad som är *möjligt* att säga utifrån en viss information.
+Som filosofisk gren är logiken studiet av regler för slutsatsdragning och principer för sunt tänkande. Inom logiken undersöker man därmed vilka _typer_ av resonemang som är _giltiga_ och hur ett fullgott resonemang *hänger samman*. Att resonera logiskt är i denna mening att förstå vad som är *möjligt* att säga utifrån en viss information – att förstå vilka slutsatser vi kan dra utifrån det vi tror oss veta.
 
 ## Premisser, slutledningar & slutsatser
   
-En **slutledning** är ett helt resonemang där flera påståenden eller antaganden kopplas samman för att utvinna “ny” information. Exempelvis “Om Pelle är en människa och alla människor är dödliga så är också Pelle dödlig.”. **Slutsatsen** är det man till sist kommer fram till. Med andra ord det som blir följden av hela slutledningen. I detta exempel alltså att: Pelle är dödlig, förutsatt att han också är en människa.
+En **slutledning** är ett helt resonemang där flera påståenden eller antaganden kopplas samman för att utvinna “ny” information. Exempelvis: “Om Pelle är en människa och alla människor är dödliga så är också Pelle dödlig.”. **Slutsatsen** är det man till sist kommer fram till. Med andra ord det som blir följden av hela slutledningen. I detta exempel alltså att: Pelle är dödlig, förutsatt att han också är en människa.
 
 En sådan förutsättning, så som “förutsatt att han också är en människa”, kallas för en **premiss**. Premisser är själva utgångspunkterna i ett resonemang: de antaganden eller påståenden som *måste* vara sanna för att slutsatsen ska *kunna* vara sann. Om vi resonerar *korrekt* är därför slutsatsen *alltid* en *konsekvens* av premisserna.
 
@@ -58,9 +58,12 @@ Detta har ändå sedan 1700-talet varit en stor fråga bland filosofer. Vissa, g
 
 Samtidigt bygger mycket av vår kunskap på just induktiva slutledningar, och det vore mycket svårt att leva utan dem. Hur skulle det exempelvis se ut om vi antog att solen lika gärna *inte* skulle gå upp imorgon? Vad de flesta filosofer i vart fall *är* överens om är att det inte är *möjligt* eller ens *önskvärt* att helt *sluta tänka induktivt*. Inte minst hade det varit mycket svårt att bedriva vetenskaplig verksamhet om vi inte gav induktiva slutledningar någon form av legitimitet. 
   
-Det är här också viktigt att göra en distinktion mellan *det som är sant* och *det som är sannolikt*. Induktion handlar i första hand om det senare. För även om vi inte för all framtid _logiskt_ kan sluta oss till att solen *alltid* kommer att gå upp, verkar det likväl *sannolikt* att den gör det (utifrån vår erfarenhet).  
+Det är här också viktigt att göra en distinktion mellan *det som är sant* och *det som är sannolikt*. Induktion handlar i första hand om det senare. För även om vi inte för all framtid _logiskt_ kan sluta oss till att solen *alltid* kommer att gå upp, verkar det likväl *sannolikt* att den gör det (utifrån vår erfarenhet). 
   
-Att induktion har en svagare logisk grund än deduktion beror helt enkelt på att det inte finns någon *nödvändighet* i induktiva resonemang. Dessa är i slutändan alltid temporära ”gissningar” – om än mer eller mindre *kvalificerade*  (vetenskapens gissningar verkar åtminstone säkrare än mannen på gatans). Induktiva resonemang är till skillnad från deduktiva resonemang (där slutsatsen är en *direkt konsekvens* av premisserna) alltså en fråga om *grad*. Något kan vara mycket eller lite sannolikt, men aldrig hundra procent säkert. 
+Att induktion har en svagare logisk grund än deduktion beror helt enkelt på att det inte finns någon *nödvändighet* i induktiva resonemang. Dessa är i slutändan alltid temporära ”gissningar” – om än mer eller mindre *kvalificerade* (vetenskapens gissningar verkar åtminstone säkrare än mannen på gatans). Induktiva resonemang är till skillnad från deduktiva resonemang (där slutsatsen är en *direkt konsekvens* av premisserna) alltså en fråga om *grad*. Något kan vara mycket eller lite sannolikt, men aldrig hundra procent säkert. 
+
+<!--Möjligheten att vi dragit en felaktig induktiv slutsats är aldrig långt borta. -->
+
 
 ## Implicit & explicit
 
@@ -83,7 +86,9 @@ Vad gäller det första exemplet leder vårt *explicita* påstående till en sto
 
 Ovanstående är goda exempel på varför vi bör vara försiktiga med ord så som "alla", "allt", "alltid", "aldrig", "uteslutande" "endast" och så vidare. Sådana ord riskerar att göra våra påståenden onödigt *kategoriska* (av typen: "svart eller vitt"), vilket lätt kan leda till att vi påstår något som vi inte hade tänkt.
   
-Det är här också viktigt att skilja mellan *logisk* implikation och *språklig* implikation. Om någon säger ”Pelle gick till restaurangen” är oftast den *språkliga* implikationen att han *gick dit för att äta*. Detta är den *underförstådda meningen*, som inte uttryckligen sägs (och därmed implikationen). Men denna "underförstådda mening" är inte en *logisk* implikation eftersom det inte finns någon *nödvändighet* i det faktum att han skulle äta. Kanske skulle Pelle bara hälsa på en vän som jobbar där. Den språkliga implikationen är det vi har _anledning att tro_ att någon menar. Den logiska implikationen är de implicita påståenden som logiskt _måste följa_ utifrån ett visst explicit påstående. 
+Det är här också viktigt att skilja mellan *logisk* implikation och *språklig* implikation. Om någon säger ”Pelle gick till restaurangen” är oftast den *språkliga* implikationen att han *gick dit för att äta*. Detta är den *underförstådda meningen*, som inte uttryckligen sägs (och därmed implikationen). Men denna "underförstådda mening" är inte en *logisk* implikation eftersom det inte finns någon *nödvändighet* i det faktum att han skulle äta. Kanske skulle Pelle bara hälsa på en vän som jobbar där. Den språkliga implikationen är det vi har _anledning att tro_ att någon _menar_. Den logiska implikationen är de implicita påståenden som logiskt _måste följa_ utifrån ett visst explicit påstående. 
+
+<!--(ordet "fett" betyder exempelvis förmodligen olika saker för mormor och hennes barnbarn) -->
 
 En annan viktig distinktion är den mellan  implicit logisk och "implicit" *psykologiskt*. Inom psykologin betyder "implicit" att något (exempelvis en kunskap, eller en föreställning) befinner sig på ett _omedvetet plan_ i vårt psyke. Givetvis är vi ofta omedvetna om de logiska implikationerna av det vi säger och det är ofta just detta som skapar problem. Men huruvida vi är *omedvetna* eller inte spelar ingen _logisk_ roll. Logiken intresserar sig, återigen, endast för det som är en *logisk konsekvens* av det vi sagt.
 
