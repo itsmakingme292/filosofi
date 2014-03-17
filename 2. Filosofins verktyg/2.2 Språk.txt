@@ -21,15 +21,15 @@ Men innan vi gör det måste vi skilja på två olika sorters meningar. Den ena 
 
 Bakom de ord vi använder och sammansätter i satser finns det alltid en viss mening (betydelse). Denna menings “behållare” kallas för **begrepp**. Att man inom språkfilosofin väljer att skilja mellan själva orden och “behållaren för mening” beror på tre saker:
 
-1. Ett ord kan ha flera olika innebörder. Sådana ord kallas **mångtydiga**. Exempel på dessa ord är “såpa”, “sticka” och “mes”. Ordet “mes” kan antingen syfta till en fågel eller en feg person, ordet “såpa” kan antingen syfta till en tv-serie eller ett rengöringsmedel och ordet “sticka” kan antingen syfta till en träflis, att ägna sig åt ett hantverk, eller till att “dra någonstans”. <!--Ska jag använda semikolon i denna mening? -->
+1. Ett ord kan ha flera olika innebörder och därmed syfta till *olika* begrepp. Sådana ord kallas **mångtydiga**. Exempel på dessa ord är “såpa”, “sticka” och “mes”. Ordet “mes” kan antingen syfta till en fågel eller en feg person, ordet “såpa” kan antingen syfta till en tv-serie eller ett rengöringsmedel och ordet “sticka” kan antingen syfta till en träflis, att ägna sig åt ett hantverk, eller till att “dra någonstans”. <!--Ska jag använda semikolon i denna mening? -->
   
-2. Flera olika ord kan också ha en och samma innebörd och alltså syfta till ett och samma begrepp. Sådana ord kallar vi för synonymer. Exempelvis: “trevligt” och “angenämt”.
+2. Flera olika ord kan också ha mycket liknande innebörd och ibland mer eller mindre helt syfta till ett och samma begrepp. Sådana ord kallar vi för synonymer. Exempelvis: “trevligt” och “angenämt”.
 
 3. Två ord kan tillsammans också utgöra ett enda begrepp. Exempel på sådana begrepp är “kritiskt tänkande”, “representativ demokrati” och "historisk händelse".
 
 <!-- Gammal version: Ett ords begreppsliga innehåll är den information som ligger bakom ordet. Den information som låter oss peka ut de objekt i världen vi åsyftar då vi använder just detta ord. Inom språkfilosofin skiljer man här mellan ett begrepps **mening** (det begreppsliga innehållet – alltså själva innebörden hos ordet) och ett begrepps **referens** eller **omfång** (det som pekas ut – alltså alla de faktiska ”saker” man vill/kan sätta den tänkta ”etiketten” på). Hur dessa två hänger ihop har man inom språkfilosofin genom åren tvistat om. I princip handlar det om att vi genom begreppets mening kan sluta oss till referensen, men vi kan också tänka oss fall där kopplingen kanske inte är lika glasklar.  -->
 
-Ett ords begreppsliga innehåll är den  bakomliggande beskrivningen av ordet. Den information som låter oss peka ut de objekt i världen vi åsyftar då vi använder just detta ord. Inom språkfilosofin skiljer man här mellan ett begrepps **mening** och ett begrepps **referens** eller **omfång**. Meningen är själva beskrivningen (det begreppsliga innehållet) och omfånget (referensen) är summan av alla de "saker" som faktiskt stämmer in på denna beskrivning (allt det som "pekas ut"). 
+Ett ords begreppsliga innehåll är den  bakomliggande beskrivningen av ordet. Den information som ryms inom ett visst begrepp och som låter oss peka ut de objekt i världen vi åsyftar då vi använder just detta begrepp/ord. Inom språkfilosofin skiljer man här mellan ett begrepps **mening** och ett begrepps **referens** eller **omfång**. Meningen är själva beskrivningen (det begreppsliga innehållet) och omfånget (referensen) är summan av alla de "saker" som faktiskt stämmer in på denna beskrivning (allt det som "pekas ut"). 
 
 <!--Tog bort detta, förvirrar bara? : Hur dessa två hänger ihop i vår vardagliga användning av ord har man inom språkfilosofin genom åren tvistat om. I princip handlar det om att vi genom begreppets mening kan sluta oss till referensen, men vi kan också tänka oss fall där kopplingen kanske inte är lika glasklar.  -->
 
@@ -49,7 +49,7 @@ Detta är inte minst vad man försöker göra i ordböcker och uppslagsverk. Den
 
 I detta fall är ovanstående själva *meningen* hos begreppet och *referensen*, eller *omfånget*, alla de objekt som stämmer in på de ovanstående beskrivna egenskaperna.
 
-I den bästa av världar *innefattar* ett begrepp allt som *är* den avsedda referensen, samtidigt som det *utesluter* allt som *inte är* den avsedda referensen. Med detta menas att vi, då vi definierat ett ords begreppsliga innehåll, vill att ordet endast ska peka ut de objekt i världen som faktiskt också (i detta fallet) *är* en boll. 
+I den bästa av världar *innefattar* ett begrepp allt som *är* den avsedda referensen, samtidigt som det *utesluter* allt som *inte är* den avsedda referensen. Med detta menas att vi, då vi reder ut ett ords begreppsliga innehåll, vill att ordet endast ska peka ut de objekt i världen som faktiskt också (i detta fallet) *är* en boll. Vi definierar  ord/begrepp därför att vi vill att *rätt saker* ska hamna inom dess *omfång*.
 
 Tyvärr är det oftast inte så här enkelt. Inte ens med något så till synes okomplicerat som ordet “boll”. För om vi ser till vår nuvarande definition verkar den t.ex. innefatta sådant som bowlingklot, eftersom dessa också är sfäriska objekt man använder i en sport.
 
@@ -155,7 +155,7 @@ Om ett *vagt* ord ingår i en sats blir oftast satsen automatiskt vag. Men om en
 
 I de fall där en sats rymmer vagheter och oklarheter kan vi **precisera** satsen. En precisering är här för _hela satser_ vad en definition är för enstaka begrepp (att  definiera ord kan också vara en *del* av en precisering). Att precisera innebär att man _minskar antalet rimliga tolkningar_ av det man vill säga. Att man skapar ett så litet utrymme som möjligt för feltolkningar. Detta genom att i en eller flera efterföljande satser beskriva vad man i den första satsen faktiskt syftar på. 
 
-Precisera bör vi alltså göra då sammanhanget självt inte kan berätta för oss vilken tolkning som är den rimliga. Beroende på vilken typ av samtal det handlar om är det givetvis olika uppenbart när en precisering krävs och inte. Men det är allt som oftast bättre att vara övertydlig än vag. Ett exempel på en typ av samtal som nästan aldrig mår dåligt av extra tydlighet är det filosofiska. Ett annat exempel är det politiska. Det politiska samtalet är inte minst ett där oprecisa påståenden kan vara extra problematiska och där man kanske allt för ofta, trots detta, hör just sådana. 
+Precisera bör vi alltså göra då sammanhanget självt inte kan berätta för oss vilken tolkning som är den rimliga. Beroende på vilken typ av samtal det handlar om är det givetvis olika uppenbart när en precisering krävs och inte. Olika sammanhang ger den vi talar med olika "ledtrådar" för vår avsedda mening, men det är allt som oftast bättre att vara övertydlig än vag. Ett exempel på en typ av samtal som nästan aldrig mår dåligt av extra tydlighet är det filosofiska. Ett annat exempel är det politiska. Det politiska samtalet är inte minst ett där oprecisa påståenden kan vara extra problematiska och där man kanske allt för ofta, trots detta, hör just sådana. 
 
 Låt säga att en politiker i sin valkampanj uttrycker påståendet: “Alla ska ha rätt till ett värdigt och meningsfullt liv”. Detta påstående säger egentligen inte särskilt mycket om vad personen ifråga _faktiskt vill_ att alla *ska ha rätt till*. Få skulle nog påstå motsatsen: att människor *inte* har rätt till ett värdigt och meningsfullt liv. Men vad exakt ett _värdigt_ och _meningsfullt_ liv innebär kan man ha väldigt delade meningar om. Det är därför viktigt att vi preciserar sådant som detta.
 
@@ -183,13 +183,18 @@ Att definiera ord och precisera satser gör vi som sagt för att skapa tydlighet
 
 1. Vad vi tror om talarens *intentioner*. Med andra ord, hur vi föreställer oss att talaren tänker när denne yttrar en sats. Vad denne vill, vad denne menar, osv.  
 
-2. I vilket *sammanhang* satsen yttras. Med andra ord, vart, när och hur satsen yttras, osv.  
+2. I vilket *sammanhang* satsen yttras. Med andra ord: vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv.  
 
-3. I vilket *språkligt* sammanhang satsen yttras. Med andra ord, vilka andra satser som föregått satsen och vilka som följer efter den, osv.  
+3. I vilket *språkligt* sammanhang satsen yttras. Med andra ord, vilka andra satser som föregått satsen, vilka som följer efter den, språkliga konventioner och sättet talaren använder språket, osv. 
 
-Det som händer när vi hör en sats yttras är att vi automatiskt fyller på med mening som från början inte ryms i satsen.
+Det som händer när vi hör en sats yttras är att vi automatiskt fyller på med mening som från början inte *direkt* ryms inom satsen. Vad vi tänker om den avsedda meningen skiftar därför beroende på vad vi vet om ovanstående punkter. 
+
+<!--Det är också därför det kan vara svårt att förstå en sats som ryckts ur sitt sammanhang. -->
 
 Om jag är hemma hos en kompis och säger “jag är hungrig”, varpå han svarar “ta vad du vill i kylen”, förstår jag medvetet eller omedvetet att allt inte är inkluderat. Jag förstår att kompisen inte menar att jag kan ta precis vad som helst. Jag tolkar därför automatiskt in en “lista” på saker (och av en viss mängd) som jag tror är helt okej att ta. Detta gör jag utifrån vad jag vet om min kompis och det sammanhang vi befinner oss i. Kanske vet jag att kompisen är fattig, och då tar jag lite mindre, och under inga omständigheter tar jag fram ett par tomma kassar, börjar tömma kylen på innehåll och traskar hem med kassarna fyllda.
   
-Eftersom vår tolkning alltid är beroende av vad vi tror om talarens intentioner är det viktigt att understryka att detta kan vara problematisk. Är vi exempelvis helt övertygade om att en person är "korkad" (även då denna faktiskt inte är det) kommer vi också att tolka denna persons yttrade satser som mer "korkade" än vad de kanske egentligen är. Möjligheten till en rimlig tolkning minskar alltid i takt med bristande kunskap och felaktiga fördomar. 
+Eftersom vår tolkning alltid är beroende av vad vi tror om talarens intentioner och sammanhanget är det viktigt att understryka att detta kan vara problematisk. Möjligheten till en rimlig tolkning minskar alltid i takt med bristande kunskap och felaktiga fördomar. Stereotypa bilder av talaren och sammanhanget står alltid i vägen för vår förståelse. Desto mer vi faktiskt vet om dessa, desto större chans är det att vår tolkning är korrekt. 
+
+<!--Tog bort: Är vi exempelvis helt övertygade om att en person är "korkad" (även då denna faktiskt inte är det) kommer vi också att tolka denna persons yttrade satser som mer "korkade" än vad de kanske egentligen är.  -->
+
 
