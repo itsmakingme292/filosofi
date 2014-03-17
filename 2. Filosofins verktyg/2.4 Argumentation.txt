@@ -12,9 +12,9 @@ Att utveckla sin förmåga att argumentera handlar lika mycket om att kunna *ge*
   
 Ett argument är i grund och botten ett påstående man ger för att antingen styrka eller försvaga ett annat påstående (tesen). De argument vi ger i syfte att _styrka_ ett annat påstående kallar vi för ***pro*-argument** eller *för*-argument och de vi ger i syfte att _försvaga_ ett annat påstående kallar vi för ***kontra*-argument** eller *mot*-argument. 
   
-Eftersom vi alltid ger ett argument i syfte att antingen styrka eller försvaga ett annat påstående räcker det inte att våra argument är sanna, rimliga eller sannolika. Våra argument måste därtill vara *relevanta*. Med andra ord: våra argument måste ha med saken (vår tes) att göra. Ett argument som inte styrker eller försvagar tesen är *irrelevant*, oavsett om påståendet som utgör argumentet är sant eller ej. Ett användbart argument måste vara både **hållbart** (sannolikt, rimligt eller sant) *och* **relevant** (ha kraften att öka den upplevda rimligheten, sannolikheten eller sanningen hos ett *annat* påstående). 
+Eftersom vi alltid ger ett argument i syfte att antingen styrka eller försvaga ett annat påstående räcker det inte att våra argument är sanna, rimliga eller sannolika. Våra argument måste därtill vara *relevanta*. Med andra ord: våra argument måste ha med saken (vår tes) att göra. Ett argument som inte styrker eller försvagar tesen är *irrelevant*, oavsett om påståendet som utgör argumentet är sant eller ej. Ett användbart argument måste vara både **hållbart** (rimligt, sant eller sannolikt) *och* **relevant** (ha kraften att öka den upplevda rimligheten, sanningen eller sannolikheten hos ett *annat* påstående). 
 
-<!--Formulera om ovanstående mening nån gång när jag orkar -->
+<!--Formulera om ovanstående mening nån gång när jag orkar, få till en förklaring: Ju större relevans vårt argument har i förhållande till tesen, desto mindre rimligt är det att förkasta Tesen om man samtidigt accepterar påståendet som utgör argumentet -->
 
 > *Exempel på irrelevanta argument:*  
 >
