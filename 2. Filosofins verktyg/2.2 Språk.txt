@@ -181,13 +181,13 @@ Vi ska också komma ihåg att missförstånd ofta uppstår därför att vi själ
 
 ## En sats mening kräver tolkning
 
-Att definiera ord och precisera satser gör vi som sagt för att skapa tydlighet i vårt språk. Men till vardags behöver vi inte alltid vara så värst tydliga för att göra oss förstådda (vilket enkelt kan kontrasteras mot sådant som både juridik, vetenskap och filosofi). Detta beror på att vi människor ofta är ganska duktiga på att tolka och läsa in underförstådda betydelser. Vår tolkning av satser utgår framförallt ifrån tre saker.
+Att definiera ord och precisera satser gör vi – som sagt – för att skapa tydlighet i vårt språk. Men till vardags behöver vi inte alltid vara så värst tydliga för att göra oss förstådda (vilket enkelt kan kontrasteras mot sådant som både juridik, vetenskap och filosofi). Detta beror på att vi människor ofta är ganska duktiga på att tolka och läsa in underförstådda betydelser. Vår tolkning av satser utgår framförallt ifrån tre saker.
 
-1. Vad vi tror om talarens *intentioner*. Med andra ord, hur vi föreställer oss att talaren tänker när denne yttrar en sats. Vad denne vill, vad denne menar, osv.  
+1. Vår _föreställning av talaren_. Vad vi tror om talarens *intentioner*. Hur vi föreställer oss att den tänker när den yttrar en sats, vad den vill och menar med det den säger, osv.  
 
-2. I vilket *sammanhang* satsen yttras. Med andra ord: vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv.  
+2. I vilket _fysiskt, socialt_ (och eventuellt _medialt_) *sammanhang* satsen yttras. Vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv. 
 
-3. I vilket *språkligt* sammanhang satsen yttras. Med andra ord, vilka andra satser som föregått satsen, vilka som följer efter den, språkliga konventioner och sättet talaren använder språket, osv. 
+3. I vilket *språkligt* sammanhang satsen yttras. Vilka andra satser som föregår och efterföljer satsen, språkliga konventioner och sättet talaren använder språket på, osv. 
 
 Det som händer när vi hör en sats yttras är att vi automatiskt fyller på med mening som från början inte *direkt* ryms inom satsen. Vad vi tänker om den avsedda meningen skiftar därför beroende på vad vi vet om ovanstående punkter. 
 
