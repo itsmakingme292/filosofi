@@ -129,7 +129,7 @@ Inom språkfilosofin skiljer man mellan olika *typer* av satser. De allra vanlig
 
 Ibland uttrycker vi sakpåståenden utan att på förhand veta om det vi påstår är sant eller inte. Ofta lägger vi i sådana fall till "brasklappar" så som “jag tror” eller “jag antar”. Men det är likväl sakpåståenden vi uttrycker.
   
-Viktigt att komma ihåg är också att *olika* satser kan uttrycka *samma* påstående. Satsen ”Stockholm är Sveriges huvudstad” och satsen ”Sveriges huvudstad är Stockholm” är förvisso *två olika satser* men de uttrycker likväl *ett och samma påstående*. 
+Tänk även på att *olika* satser kan uttrycka *samma* påstående. Satsen ”Stockholm är Sveriges huvudstad” och satsen ”Sveriges huvudstad är Stockholm” är *två olika satser* men de uttrycker likväl *ett och samma påstående*. 
 
 **Värdepåståenden** är de satser där man på ett eller annat sätt *värderar* något. Då man uttrycker påståenden (eller uppmaningar) som beskriver något i termer av bra, dåligt, gott, ont, fel, rätt, fult, snyggt, osv.
 
