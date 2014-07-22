@@ -6,7 +6,7 @@ Att argumentera är att ha en ståndpunkt eller en åsikt som man vill ge andra 
 
 God argumentation handlar om att presentera  information och påståenden som man själv tänker borde leda fram till en viss övertygelse. Verkligt god argumentation handlar om att ge _tillräckliga anledningar_ att tro på något. Att argumentera handlar därför inte bara om att *övertyga* utan också om att *upplysa*. 
 
-Konsten att tala väl och “övertygande” kallas i första hand inte för argumentation utan för *retorik* – och denna konst kan även den  som _argumenterar_ _dåligt_ vara bra på. En hederlig argumentatör vill inte bara *få rätt* och vinna över andra på “sin sida". En hederlig argumentatör är påläst, för ett logiskt sammanhängande resonemang och upplyser i detta om *varför* den tänker sig sin tes som rimligare eller mer sannolik än andra. 
+Konsten att tala väl och “övertygande” kallas i första hand inte för argumentation utan för *retorik* – och denna konst kan även den som _argumenterar_ _dåligt_ vara bra på. En hederlig argumentatör vill inte bara *få rätt* och vinna över andra på “sin sida". En hederlig argumentatör är påläst, för ett logiskt sammanhängande resonemang och upplyser i detta om *varför* den tänker sig sin tes som rimligare eller mer sannolik än andra. 
 
 <!--Någon slags brygga mellan de två styckena här exempelvis: Att argumentera för "sin sak" handlar vidare inte bara om att vara kritisk till andras tankar, utan också (och kanske framförallt) till sina egna. -->
 
@@ -31,12 +31,15 @@ Ett påstående är endast ett relevant argument om det också har kraften att �
 > > “Stina måste vara rik eftersom hon äger ett guldsmycke.”
 > > “Italien måste vara ett fantastiskt land med tanke på alla bra  fotbollslag de haft genom åren.”
 
-Det må vara sant att Stina äger ett guldsmycke – och att hon förmodligen inte är helt utfattig. Men även mindre rika människor (i alla fall med svenska mått mätt) äger guldsmycken. Att Stina äger ett guldsmycke är därför inte ett *relevant* argument för tesen att hon är rik. Det må också vara sant att Italien producerat både ett och annat bra fotbollslag. Men bra fotbollslag kan även den mest hemska och korrupta diktatur skaka fram.
+Det må vara sant att Stina äger ett guldsmycke – och att hon förmodligen inte är helt utfattig. Men även mindre rika människor (i alla fall med svenska mått mätt) äger guldsmycken. Att Stina äger ett guldsmycke är därför inte ett *relevant* argument för tesen att hon är rik. Det må också vara sant att Italien producerat både ett och annat bra fotbollslag. Men ett bra fotbollslag kan även den mest korrupta och hemska av diktaturer skaka fram.
 
 Vad gäller argumentet ”Stinas guldsmycke” skulle vi möjligen kunna säga att detta argument tillsammans med ytterligare information har *potential att bli relevant* men att argumentet *ensamt* förblir *otillräckligt*. Att Stina äger _ett_ guldsmycke säger *i sig* inget om huruvida hon är rik, men om vi vet att detta guldsmycke bara är *ett i raden* av en mängd dyra smycken blir situationen möjligen annorlunda. 
 
 > _Ett sätt att "mäta" relevansen hos våra argument är att tänka på följande vis:_
 > > Desto större relevans vårt argument har i förhållande till tesen desto mindre rimligt är det att vi förkastar tesen om vi samtidigt accepterar trovärdigheten hos påståendet som utgör argumentet. 
+
+<!--Få in något om beviskraft här? Vilket alltså är en effekt av hållbarhet+relevans och ej är binärt utan skalärt -->
+
 
 ## Olika nivåer av argument
 
@@ -185,7 +188,9 @@ Vad gäller det andra exemplet: Kvantfysiken må vara svårgreppbar för en lekm
 
 ## Avrundning
 
-God argumentation handlar om allt det vi gått igenom i detta kapitel. Om att ha en god förståelse för såväl språk som logik. 
+God argumentation handlar om allt det vi gått igenom i detta kapitel. 
+
+<!--Om att ha en god förståelse för såväl språk som logik. --> 
 
 <!--Gamla: Om att precisera det man menar och att använda begrepp på ett korrekt sätt. Om att ha koll på sina premisser och slutledningar och förstå vad man säger explicit likväl som implicit. Om att tala både relevant och sant och att undvika fula knep för att ”vinna”. -->
 
@@ -195,7 +200,7 @@ God argumentation handlar om allt det vi gått igenom i detta kapitel. Om att ha
 
 3. **Att vi har koll på våra premisser och slutledningar**: För att tydligt visa hur våra resonemang hänger ihop och vilka antaganden dessa förutsätter.
 
-4. **Att vi förstår vad vi säger implicit, såväl som explicit**: För att på så vis undvika att säga något som vi faktiskt inte vill säga.
+4. **Att vi förstår vad vi säger implicit, såväl som explicit**: För att på så vis undvika att säga något som vi faktiskt inte avser att säga.
 
 5. **Att vi använder relevanta och hållbara argument**: För att vi aldrig bör söka stöd i tvivelaktiga påståenden eller i påståenden som inte har med saken att göra. 
 
