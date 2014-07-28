@@ -117,7 +117,7 @@ Något som kan vara bra att tänka på är att alla människor såklart inte har
 
 Inom språkfilosofin skiljer man mellan olika *typer* av satser. De allra vanligaste typerna är _sakpåståenden_, _värdepåståenden_ och _frågor_.
 
-**Sakpåståenden** är de satser som försöker beskriva hur något rent faktiskt är. Dessa satser är informativa, alltid sanna eller falska, och förmedlar “rena fakta”. Detta innebär att ett sakpåstående alltid kan kontrolleras och jämföras med verkligheten.
+**Sakpåståenden** eller *deskriptiva* satser, är de satser som försöker beskriva hur något rent faktiskt är. Dessa satser är informativa, förmedlar “rena fakta” och är alltid sanna eller falska. Vilket innebär att sakpåståenden alltid kan kontrolleras och jämföras med verkligheten.
 
 > *Exempel på sanna sakpåståenden:*
 > > “Stockholm är Sveriges huvudstad.”   
@@ -135,7 +135,7 @@ Tänk även på att *olika* satser kan uttrycka *samma* påstående. Satsen ”S
 
 1. *Expressiva* värdepåståenden är satser där man uttrycker en åsikt eller en känsla inför något. Exempelvis “Anna är snäll” eller "Det är skönt med soligt väder".  
 
-2. *Preskriptiva* värdepåståenden är satser där man uppmanar eller föreskriver ett visst beteende. Exempelvis “Man bör inte döda” eller “Stäng dörren när du går”.  
+2. *Preskriptiva* värdepåståenden är satser där man uppmanar eller föreskriver ett visst beteende (dessa kallas ibland även för _normativa_ påståenden). Exempelvis “Man bör inte döda” eller “Stäng alltid dörren när du går”.  
 
 Värdepåståenden ses vanligen inte som en viss typ av sakpåstående, utan som en *helt annan kategori*. Sakpåståenden är, åtminstone i princip, falska eller sanna, men värdepåståenden är något knepigare. Dessa är snarare *rimliga* eller *orimliga*. 
 
