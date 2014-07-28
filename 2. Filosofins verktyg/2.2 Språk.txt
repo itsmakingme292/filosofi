@@ -117,7 +117,7 @@ Något som kan vara bra att tänka på är att alla människor såklart inte har
 
 Inom språkfilosofin skiljer man mellan olika *typer* av satser. De allra vanligaste typerna är _sakpåståenden_, _värdepåståenden_ och _frågor_.
 
-**Sakpåståenden** eller *deskriptiva* satser, är de satser som försöker beskriva hur något rent faktiskt är. Dessa satser är informativa, förmedlar “rena fakta” och är alltid sanna eller falska. Vilket innebär att sakpåståenden alltid kan kontrolleras och jämföras med verkligheten.
+**Sakpåståenden** (eller *deskriptiva* satser) är de satser som försöker beskriva hur något rent faktiskt är. Dessa satser är informativa, neutralt konstaterande, förmedlar “rena fakta” och är alltid sanna eller falska. Vilket innebär att sakpåståenden alltid kan kontrolleras och jämföras med verkligheten (åtminstone i princip, vissa saker är givetvis svårare att kontrollera än andra).
 
 > *Exempel på sanna sakpåståenden:*
 > > “Stockholm är Sveriges huvudstad.”   
@@ -127,8 +127,10 @@ Inom språkfilosofin skiljer man mellan olika *typer* av satser. De allra vanlig
 > > “Sveriges konung heter Bertil.”   
 > > “Andra världskriget började 1936.”
 
-Ibland uttrycker vi sakpåståenden utan att på förhand veta om det vi påstår är sant eller inte. Ofta lägger vi i sådana fall till "brasklappar" så som “jag tror” eller “jag antar”. Men det är likväl sakpåståenden vi uttrycker.
-  
+Ibland uttrycker vi sakpåståenden utan att på förhand veta om det vi påstår är sant eller inte. Ofta lägger vi i sådana fall till "brasklappar" så som “jag tror” eller “jag antar” – men det är likväl sakpåståenden vi uttrycker. Det är alltså inte att vi _vet_ att en sats är sann som gör satsen till ett sakpåstående, utan att vi med satsen _påstår_ något som _måste_ vara sant _eller_ falskt.
+
+<!--Låt säga att vi har en låda som ingen hittills kunnat öppna och att det i denna låda möjligen finns ett antal föremål. Alla påståenden om denna lådas innehåll är sakpåståenden även om vi aldrig kommer att kunna öppna lådan och se efter.  -->
+
 Tänk även på att *olika* satser kan uttrycka *samma* påstående. Satsen ”Stockholm är Sveriges huvudstad” och satsen ”Sveriges huvudstad är Stockholm” är *två olika satser* men de uttrycker likväl *ett och samma påstående*. 
 
 **Värdepåståenden** är de satser där man på ett eller annat sätt *värderar* något. Då man uttrycker påståenden (eller uppmaningar) som beskriver något i termer av bra, dåligt, gott, ont, fel, rätt, fult, snyggt, osv.
