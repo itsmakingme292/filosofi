@@ -94,18 +94,20 @@ En annan viktig distinktion är den mellan  implicit logisk och "implicit" *psyk
 
 Den _logiska_ implikationen av det vi påstår är alltså alla ytterligare påståenden vi _också_ måste hålla med om – så länge vi inte vill förkasta eller modifiera det vi explicit har sagt. Med andra ord: de påståenden vi måste acceptera för att _inte tala motsägelsefullt_. 
 
-Det är inte minst med anledning av detta som det är viktigt att *precisera* det man säger. 
+Det är inte minst med anledning av detta som det är viktigt att vi *preciserar* det vi säger. 
 
 <!--Skriva mer ovanstående? Eller få in det någon annanstans? -->
 
 
 ## Korrelation & kausalitet
 
-**Kausalitet** är ett finare ord för orsakssamband: en kedja eller serie av orsak och verkan. Ett enkelt sätt att beskriva orsak och verkan är att vi föreställer oss att vi spelar biljard. När vi håller i biljardkön och för den framåt mot den vita biljardbollen *orsakar* vi att biljardkön stöter mot den vita bollen och när denna sedan börjar rulla framåt är detta vår *verkan*. Men vi sätter också igång en större kausal _kedja_ (ett händelseförlopp av orsak och verkan). Den vita bollen kommer (förhoppningsvis) i sin tur stöta emot en annan kula (orsak) som (förhoppningsvis) hamnar i ett hål (verkan). 
+**Kausalitet** är ett finare ord för orsakssamband: en kedja eller serie av orsak och verkan. Ett enkelt sätt att beskriva orsak och verkan är att vi föreställer oss att vi spelar biljard. När vi håller i biljardkön och för den framåt mot den vita biljardbollen *orsakar* vi att biljardkön stöter mot den vita bollen och när denna sedan börjar rulla framåt är detta vår *verkan*. Men vi sätter också igång en större kausal _kedja_ (ett händelseförlopp av orsak och verkan). Den vita bollen kommer (förhoppningsvis) i sin tur stöta emot en annan kula som (förhoppningsvis) hamnar i ett hål (verkan). 
 
-Något vi ibland misstar för kausalitet är **korrelation**. Om något korrelerar menar vi att två eller flera saker ofta förekommer samtidigt. Ett exempel på detta kan vara att det ofta regnar på midsommar. Att det ofta regnar på midsommar beror dock inte på att det just är midsommar. Det finns inget hos midsommaren som *orsakar* regn. Brännvinet och sillen upprör förmodligen inga vädergudar. Midsommarregnet handlar bara om ett olyckligt sammanträffande. Ett annat exempel är att cancersjuka ofta tappar hår. Detta beror inte på deras *cancer* utan på den *medicinska behandlingen* de får som cancerpatienter (att de tar cellgifter).
+<!--När den vita bollen stöter emot en annan kula, är detta en verkan av att biljardkön stöter mot den vita bollen, men det är också en orsak till att en annan kula i sin tur hamnar i ett hål.  -->
 
-Två saker kan alltid eller ofta förekomma samtidigt, men det betyder inte nödvändigtvis att den ena förekomsten orsakar den andra eller vice versa. Ibland kan vi dock upptäcka en korrelation som visar sig ha ett orsakssamband. Det är i stort så här vetenskapen arbetar: denna letar efter korrelationer därför att dessa _potentiellt_ kan vara orsakssamband. När man upptäckt en korrelation som verkar vara ett orsakssamband måste man dock avgöra i vilken **riktning** denna går. Exempelvis: om positiva människor oftast tillhör de som lyckas bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas på arbetsmarknaden, eller är det snarare så att *de blivit positiva av* att lyckas?
+Något vi ibland misstar för kausalitet är **korrelation**. Om något korrelerar menar vi att två eller flera saker ofta förekommer samtidigt. Ett exempel på detta kan vara att det ofta regnar på midsommar. Men om det regnar denna dag är det inte därför att vi firar midsommar. Det finns inget hos midsommaren som *orsakar* regn. Brännvinet och sillen upprör förmodligen inga vädergudar. Midsommarregnet handlar bara om ett olyckligt sammanträffande. Ett annat exempel är att cancersjuka ofta tappar hår. Detta beror inte på deras *cancer* utan på den *medicinska behandlingen* de får som cancerpatienter (att de ges cellgifter).
+
+Två saker kan alltid eller ofta förekomma samtidigt, men det betyder inte nödvändigtvis att den ena förekomsten orsakar den andra eller vice versa. Ibland kan vi dock upptäcka en korrelation som visar sig ha ett orsakssamband. Det är i stort så här vetenskapen arbetar: denna letar efter korrelationer därför att dessa _potentiellt_ kan vara orsakssamband. När man upptäckt en korrelation som verkar vara ett orsakssamband måste man dock avgöra i vilken **riktning** denna går. Exempelvis: om vi kan se att positiva människor generellt tillhör de som lyckats bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas, eller är det snarare så att de *blivit positiva av* att lyckas?
 
 Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt tror att den går åt båda håll. Men bara för att en första sak orsakar en andra betyder det inte att den andra också orsakar den första.
 
