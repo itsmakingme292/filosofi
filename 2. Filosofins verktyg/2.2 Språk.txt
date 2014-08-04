@@ -19,9 +19,9 @@ Språkfilosofi handlar i detta lika mycket om att förstå _undret_ i hur vi öv
 
 
 ## Ord & begrepp
-Låt oss nu börja från början med *orden*. Dessa läten och symboler vi sammanfogar till hela meningar (satser) för att göra oss själva förstådda.
+Låt oss nu börja från början med *orden*. Dessa läten och symboler vi sammanfogar till hela meningar (satser) för att göra oss förstådda.
 
-Men innan vi gör det måste vi skilja på två olika sorters meningar. Den ena “meningen” är den som börjar med stor bokstav och slutar med en punkt. Inom filosofin kallar man en sådan “mening” för en **sats**. Anledningen till detta är att vi, för tydlighetens skull, vill reservera ordet “mening” till synonymen “betydelse”. Hädanefter kommer jag därför uteslutande använda ordet “sats” när jag syftar på “en samling ord” och “mening” då jag syftar på “innebörd” eller “betydelse”.
+Men innan vi gör det måste vi skilja på två olika sorters meningar. Den ena “meningen” är den som börjar med stor bokstav och slutar med en punkt. Inom filosofin kallar man en sådan “mening” för en **sats**. Anledningen till detta är att vi, för tydlighetens skull, vill reservera ordet “mening” till synonymen “betydelse”. Hädanefter kommer jag därför uteslutande använda ordet “sats” när jag syftar på “en samling ord” och ordet “mening” då jag syftar på “innebörd” eller “betydelse”.
 
 <!-- det vi syftar på då vi beskriver mängden av de ord som befinner sig mellan en stor bokstav och en punkt (eller ett kommatecken) Nya är nog ändå enklare och bättre-->
 
@@ -39,9 +39,9 @@ Ett ords begreppsliga innehåll är den  bakomliggande beskrivningen av ordet. D
 
 <!--Tog bort detta, förvirrar bara? : Hur dessa två hänger ihop i vår vardagliga användning av ord har man inom språkfilosofin genom åren tvistat om. I princip handlar det om att vi genom begreppets mening kan sluta oss till referensen, men vi kan också tänka oss fall där kopplingen kanske inte är lika glasklar.  -->
 
-Ett sätt att göra denna skiljelinje tydlig är att tänka på ord som faktiskt inte har någon referens. Begreppen “sjöjungfru”, “enhörning” och “jultomten” är exempel på sådana ord. Vi kan alla föreställa oss hur sjöjungfrur, enhörningar och jultomtar ser ut. Vi har sett dem på film och ibland har till och med någon i familjen klätt ut sig till en (eller kanske flera) av dem. Men vi vet alla att begreppet “sjöjungfru” inte pekar ut något faktiskt existerande objekt i världen. Ordet sjöjungfru *har en mening* (ett begreppsligt innehåll) men *saknar referens* (ett begreppsligt omfång).
+Ett sätt att göra denna skiljelinje tydlig är att tänka på ord som faktiskt inte har någon referens. Begreppen “sjöjungfru”, “enhörning” och “jultomten” är exempel på sådana ord. Vi kan föreställa oss hur sjöjungfrur, enhörningar och jultomtar ser ut. Vi har sett dem på film och ibland har till och med någon i familjen klätt ut sig till en (eller kanske flera) av dem. Men vi vet att begreppet “sjöjungfru” inte pekar ut något faktiskt existerande objekt i världen. Ordet sjöjungfru *har en mening* (ett begreppsligt innehåll) men *saknar referens* (ett begreppsligt omfång).
 
-Om vi skulle ge oss på att, en gång för alla, hitta en sjöjungfru så vet vi genom begreppet vad vi skulle leta efter. Känner vi till det begreppsliga innehållet förstår vi hur en sjöjungfru ser ut och skulle därför kunna peka ut en sjöjungfru *om* vi såg den. Men eftersom vi (förmodligen) aldrig kommer att hitta någon sådan kommer begreppet förbli referenslöst.
+Om vi ger oss ut för att finna en sjöjungfru så vet vi genom begreppet vad vi ska leta efter. Känner vi till det begreppsliga innehållet förstår vi hur en sjöjungfru ser ut och kan därför peka ut en sjöjungfru *om* vi ser den. Men då vi förmodligen aldrig kommer finna någon sjöjungfru förblir begreppet referenslöst.
 
 ## Definitioner & distinktioner
 
