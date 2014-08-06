@@ -36,9 +36,9 @@ Ett påstående är endast ett relevant argument om det också har kraften att �
 > *Exempel på irrelevanta argument:*  
 >
 > > “Stina måste vara rik eftersom hon äger ett guldsmycke.”
-> > “Italien måste vara ett fantastiskt land med tanke på alla bra  fotbollslag de haft genom åren.”
+> > “Italien måste vara ett fantastiskt land med tanke på alla bra fotbollslag de haft genom åren.”
 
-Det må vara sant att Stina äger ett guldsmycke – och att hon förmodligen inte är helt utfattig. Men även mindre rika människor (i alla fall med svenska mått mätt) äger guldsmycken. Att Stina äger ett guldsmycke är därför inte ett *relevant* argument för tesen att hon är rik. Det må också vara sant att Italien producerat både ett och annat bra fotbollslag. Men ett bra fotbollslag kan även den mest korrupta och hemska av diktaturer skaka fram.
+Det må vara sant att Stina äger ett guldsmycke – och att hon förmodligen inte är helt utfattig. Men även mindre rika människor (i alla fall med svenska mått mätt) äger guldsmycken. Att Stina äger ett guldsmycke är därför inte ett *relevant* argument för tesen att hon är rik. Det må också vara sant att Italien producerat både ett och annat bra fotbollslag. Men ett bra fotbollslag kan även en korrupt diktatur skaka fram.
 
 Vad gäller argumentet ”Stinas guldsmycke” skulle vi möjligen kunna säga att detta argument tillsammans med ytterligare information har *potential att bli relevant* men att argumentet *ensamt* förblir *otillräckligt*. Att Stina äger _ett_ guldsmycke säger *i sig* inget om huruvida hon är rik, men om vi vet att detta guldsmycke bara är *ett i raden* av en mängd dyra smycken blir situationen möjligen annorlunda. 
 
@@ -80,9 +80,9 @@ Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta efters
 
 ## Fula argumentationsknep, bristande logik & olika typer av irrelevanta argument.
 
-När vi argumenterar och diskuterar kan vi ibland hamna i logiska felslut och argumentatoriska fallgropar. Inte minst om vi väldigt gärna vill "vinna" en diskussion. I vissa fall är detta en medveten strategi som innebär att vi använder “fula knep” för att på så vis *låta* mer övertygande – utan att egentligen vara det. Men lika ofta gör vi dessa argumentationsfel helt omedvetet, alltså utan att vi ens tänker på det.
+När vi argumenterar och diskuterar kan vi ibland hamna i logiska felslut och argumentatoriska fallgropar. Inte minst då vi väldigt gärna vill "vinna" en diskussion. I vissa fall är detta en medveten strategi som innebär att vi använder “fula knep” för att på så vis *låta* mer övertygande – utan att egentligen vara det. Men lika ofta gör vi dessa argumentationsfel omedvetet (utan att vi  tänker på det).
 
-Som ni nu säkert förstår är man inom filosofin väldigt noga med att både *undvika* och *syna* sådana argumentationsfel. Här följer en lista över några av de vanligaste.
+Inom filosofin är vi noga med att både *undvika* och *syna* argumentationsfel. Här följer en lista över några av de vanligast förekommande.
 
 **Majoritetsargument** är argument som försöker styrka en viss åsikt genom att hänvisa till att många, de flesta, eller alla, delar  denna. Denna typ av argument är inte allt för ovanlig i exempelvis reklam.
 
@@ -92,7 +92,7 @@ Som ni nu säkert förstår är man inom filosofin väldigt noga med att både *
 > 
 > > “Alla andra fuskar på proven, så då gör jag det med.”
 
-Vi kan aldrig veta huruvida, en miljon eller ens en miljard, människor har rätt eller fel bara genom att se till antalet. Hela det västerländska samhället trodde under en  lång tid att jorden var platt, detta gjorde inte denna tro mer sann.
+Att miljontals människor har en viss övertygelse säger ingenting om huruvida denna  är rimlig eller sannolik. Hela det västerländska samhället trodde under en lång tid att jorden var platt, detta gjorde inte denna tro mer sann.
 
 **Auktoritetsargument** är argument som hänvisar till en person som har någon form av “högre status” eller en viss auktoritet. Sådana personer kan vara lärare, politiker, popstjärnor, vetenskapsmän, präster, osv. I ett auktoritetsargument “låtsas” man att ett visst påstående blir mer sant bara för att en viss person, med en viss ställning, *sagt det*.
 
@@ -131,9 +131,9 @@ Genom ett falskt dilemma försöker vi framställa en ståndpunkt som mer rimlig
 >
 > > ”Innan jag färgade mitt hår svart hade jag alltid kul, nu har jag alltid tråkigt. Jag borde blondera mitt hår.”
 >
-> > “Jag hade ont i halsen och åt en massa frukt. Dagen efter blev jag frisk. Alltså måste frukten botat min halsont.”
+> > “Jag hade ont i halsen och åt en frukt. Dagen efter blev jag frisk. Alltså måste frukten botat min halsont.”
 
-**Halmgubben** är ett argument där man tillskriver en motpart en åsikt eller en ståndpunkt som denne faktiskt inte framfört (och förmodligen inte har). Ofta genom att vi ger en förenklad och karikatyrmässig beskrivning av vår motpart. Detta är ganska vanligt inom politiken, men många kan nog också känna igen denna typ av “argument” från bråk med nära och kära.
+**Halmgubben** är ett argument där vi tillskriver en motpart en åsikt eller en ståndpunkt som denne faktiskt inte framfört (och förmodligen inte har). Ofta genom att vi ger en förenklad och karikatyrmässig beskrivning av vår motpart. Detta är ganska vanligt inom politiken, men många kan nog också känna igen denna typ av “argument” från bråk med nära och kära.
 
 > *Exempel på ”halmgubbar”:*
 >
@@ -153,7 +153,7 @@ I halmgubbar kan det finnas olika grader av sanning. Men framförallt handlar de
 
 Ovanstående är mer enkla exempel på cirkelresonemang. Oftast handlar det om ganska komplexa cirklar som bildas i längre slutledningar och dessa är svårare att upptäcka.
 
-**Ensidigt urval** är då man endast fokuserar på det som stödjer ens tes och i stort undviker allt som säger emot den. Ett ensidigt urval handlar alltså om att bara ge den del av “sanningen” som styrker ens egen ståndpunkt. Detta är ett ganska mänskligt misstag, och ofta svårt att undvika helt, men det handlar likväl om ett misstag.
+**Ensidigt urval** är då man endast fokuserar på det som stödjer ens tes och i stort undviker allt som talar emot den. Ett ensidigt urval handlar alltså om att bara ge den del av “sanningen” som styrker ens egen ståndpunkt. Detta är ett ganska mänskligt misstag, och ofta svårt att undvika helt, men det handlar likväl om ett misstag.
 
 > *Exempel på ensidigt urval:*
 >  
@@ -169,7 +169,7 @@ Ovanstående är mer enkla exempel på cirkelresonemang. Oftast handlar det om g
 > 
 > > “Det är alltid väldigt varmt och fuktigt i New York. Jag har varit där två gånger och båda gångerna kändes det som att stiga rakt in i en bastu.”
 
-**Irrelevant hänvisning till konsekvenser** är när man argumenterar för eller mot ett *sakpåstående* genom att peka på önskade eller oönskade konsekvenser av detta sakpåstående. En hänvisning till konsekvenser är endast ett giltigt argument för *värdepåståenden*, alltså i de fall där  konsekvenser faktiskt *kan* spela en roll för påståendets rimlighet.
+**Irrelevant hänvisning till konsekvenser** är när man argumenterar för eller mot ett *sakpåstående* genom att peka på önskade eller oönskade konsekvenser av detta sakpåstående. En hänvisning till konsekvenser kan endast (potentiellt) vara ett giltigt argument för *värdepåståenden*, alltså i de fall där  konsekvenser faktiskt *kan* spela en roll för påståendets rimlighet.
 
 > *Exempel på irrelevant hänvisning till konsekvenser:*
 >   
