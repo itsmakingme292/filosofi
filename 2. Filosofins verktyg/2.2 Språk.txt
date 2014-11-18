@@ -119,6 +119,9 @@ Förutom ords begreppsliga innehåll, finns det också ett associativt innehåll
 
 Något som kan vara bra att tänka på är att alla människor såklart inte har samma associativa innehåll kopplat till ett visst ord. Om någon  kallar sig kommunist, måste denne också vara beredd på att vissa associerar det ordet med folkmord och stalinism. För att undvika liknande jobbigheter kanske han eller hon istället väljer att kalla sig “socialist” eller “marxist”, vilket rent teoretiskt betyder ungefär samma sak, men samtidigt inte är lika “nedsvärtat” med hemska associationer.
 
+ <!--Fast socialism och kommunism ÄR ju inte samma sak. Kommunism är en typ av socialism, javisst. Men.. Ja... -->
+
+
 ## Satsers funktion
 
 Inom språkfilosofin skiljer man mellan olika *typer* av satser. De allra vanligaste typerna är _sakpåståenden_, _värdepåståenden_ och _frågor_.
