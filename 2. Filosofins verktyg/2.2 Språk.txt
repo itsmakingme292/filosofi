@@ -196,7 +196,7 @@ Att definiera ord och precisera satser gör vi – som sagt – för att skapa t
 
 1. Vår _föreställning av talaren_. Vad vi tror om talarens *intentioner*. Hur vi föreställer oss att den tänker när den yttrar en sats, vad den vill och menar med det den säger, osv.  
 
-2. I vilket _fysiskt, socialt_ (och eventuellt _medialt_) *sammanhang* satsen yttras. Vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv. 
+2. I vilket _socialt_ (och eventuellt _medialt_) *sammanhang* satsen yttras. Vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv. 
 
 3. I vilket *språkligt* sammanhang satsen yttras. Vilka andra satser som föregår och efterföljer satsen, språkliga konventioner och sättet talaren använder språket på, osv. 
 

@@ -21,7 +21,6 @@ Att utilitarismen är universalistisk innebär att vi i en etisk handling inte b
 Det sagt kan en moralisk handling, i en viss mening, fortfarande vara altruistisk, men den är det i så fall endast för att vi resonerat oss fram till att andra individers intressen/lycka i en viss situation *väger tyngre*. Inte för att vi bara övervägt konsekvenserna för andra individer (och utelämnat oss själva).
 
 > *Den utilitaristiska principen kan alltså formuleras som följande:* 
-
 > > "Handla på ett sådant sätt att din handling producerar den största möjliga ökningen av den totala lyckan i världen."
 
 > *Eller kort och gott:*
