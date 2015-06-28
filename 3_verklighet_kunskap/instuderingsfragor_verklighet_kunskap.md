@@ -1,110 +1,112 @@
-# Instuderings-frågor
+# Instuderingsfrågor & Läsanvisningar
 
-Vad är metafysik och ontologi? 
+## Instuderingsfrågor
 
-Vad är epistemologi?
+- Vad är metafysik och ontologi? 
 
-Hur ser du att de ovanstående filosofiska ämnesområdena hänger samman?
+- Vad är epistemologi?
 
-Vad är materialism/fysikalism?
+- Hur ser du att de ovanstående filosofiska ämnesområdena hänger samman?
 
-Vad är monism, dualism och pluralism?
+- Vad är materialism/fysikalism?
 
-Hur skiljer sig idealism från realism?
+- Vad är monism, dualism och pluralism?
 
-Vad är skillnaden mellan objektiv, subjektiv och kritisk idealism?
+- Hur skiljer sig idealism från realism?
 
-Vad är solipsism?
+- Vad är skillnaden mellan objektiv, subjektiv och kritisk idealism?
 
-Vad är den klassiska definitionen av kunskap? Vilka är dess tre kriterier och vad innebär dessa?
+- Vad är solipsism?
 
-Varför kan en dator eller en bok inte ”ha kunskap” men däremot innehålla information?
+- Vad är den klassiska definitionen av kunskap? Vilka är dess tre kriterier och vad innebär dessa?
 
-Beskriv Getters invändning mot den klassiska definitionen av kunskap.
+- Varför kan en dator eller en bok inte ”ha kunskap” men däremot innehålla information?
 
-Vad är det att nå kunskap enligt Platon?
+- Beskriv Getters invändning mot den klassiska definitionen av kunskap.
 
-Hur ser Platon på förhållandet mellan sinnevärlden och idévärlden och vice versa?
+- Vad är det att nå kunskap enligt Platon?
 
-Vad betyder det att sinnevärldens ting är förgängliga? På vilket sätt kontrasterar detta mot idévärlden hos Platon?
+- Hur ser Platon på förhållandet mellan sinnevärlden och idévärlden och vice versa?
 
-På vilket sätt är Platon en objektiv idealist och i vilken bemärkelse är han en särskild typ av realist?
+- Vad betyder det att sinnevärldens ting är förgängliga? På vilket sätt kontrasterar detta mot idévärlden hos Platon?
 
-Beskriv Kants uppdelning av världen och hans syn på människans förmåga till kunskap.
+- På vilket sätt är Platon en objektiv idealist och i vilken bemärkelse är han en särskild typ av realist?
 
-Vad menar Kant med de mänskliga åskådningsformerna och kategorierna?
+- Beskriv Kants uppdelning av världen och hans syn på människans förmåga till kunskap.
 
-Nämn de mänskliga åskådningsformerna och någon av kategorierna hos Kant.
+- Vad menar Kant med de mänskliga åskådningsformerna och kategorierna?
 
-På vilket sätt kan man säga att Kant löser upp den gamla skiljelinjen mellan rationalism och empirism?
+- Nämn de mänskliga åskådningsformerna och någon av kategorierna hos Kant.
 
-På vilket sätt kan Kant sägas stå för en objektiv kunskapsuppfattning och på vilket sätt kan han sägas stå för en relativ? Hur kommer det sig att båda tolkningar är möjliga?
+- På vilket sätt kan man säga att Kant löser upp den gamla skiljelinjen mellan rationalism och empirism?
 
-Vad är skillnaden mellan naiv och kritisk realism?
+- På vilket sätt kan Kant sägas stå för en objektiv kunskapsuppfattning och på vilket sätt kan han sägas stå för en relativ? Hur kommer det sig att båda tolkningar är möjliga?
 
-Vad är skillnaden mellan primära och sekundära egenskaper enligt Locke?
+- Vad är skillnaden mellan naiv och kritisk realism?
 
-Hur resonerar Locke kring medfödd kunskap?
+- Vad är skillnaden mellan primära och sekundära egenskaper enligt Locke?
 
-Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
+- Hur resonerar Locke kring medfödd kunskap?
 
-Hur skiljer sig objektivism från relativism? Vart finner vi sanningen?
+- Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
 
-Vad finns det för några olika typer av relativism?
+- Hur skiljer sig objektivism från relativism? Vart finner vi sanningen?
 
-Vad är absolutism?
+- Vad finns det för några olika typer av relativism?
 
-Vad är fallibilism?
+- Vad är absolutism?
 
-Vad är skepticism?
+- Vad är fallibilism?
 
-Hur använde Descartes skepticismen?
+- Vad är skepticism?
 
-Vad gjorde Hume till en skeptiker?
+- Hur använde Descartes skepticismen?
 
-På vilka sätt kan man vara skeptiker?
+- Vad gjorde Hume till en skeptiker?
 
-På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika?
+- På vilka sätt kan man vara skeptiker?
 
-Vad är empirism och vad är rationalism?
+- På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika?
 
-Vad anser du själv om den huvudsakliga källan till kunskap?
+- Vad är empirism och vad är rationalism?
 
-På vilket sätt är Hume en extrem empirist?
+- Vad anser du själv om den huvudsakliga källan till kunskap?
 
-Vad betyder ”cogito ergo sum”, hur använder Descartes tanken på en ond ande/demon och på vilket sätt spelar Gud en roll i allt detta?
+- På vilket sätt är Hume en extrem empirist?
 
-Beskriv pragmatismens syn på sanning och kunskap.
+- Vad betyder ”cogito ergo sum”, hur använder Descartes tanken på en ond ande/demon och på vilket sätt spelar Gud en roll i allt detta?
 
-Vilken syn på verklighet, sanning och kunskap har du? Hur hänger denna ihop med filosoferna och de olika filosofiska ismerna?
+- Beskriv pragmatismens syn på sanning och kunskap.
 
-Är du relativist eller objektivist? Varför? Vilken typ av relativist eller objektivist? Eller vill du inta en tredje position? Hur ser i så fall denna ut? Och hur hänger detta samman med din syn på verkligheten?
+- Vilken syn på verklighet, sanning och kunskap har du? Hur hänger denna ihop med filosoferna och de olika filosofiska ismerna?
 
-# Läsanvisningar
+- Är du relativist eller objektivist? Varför? Vilken typ av relativist eller objektivist? Eller vill du inta en tredje position? Hur ser i så fall denna ut? Och hur hänger detta samman med din syn på verkligheten?
 
-**14-20:** Grundläggande om verklighet <br>
-**27-35:** Antik metafysik (framförallt Platon & Aristoteles) <br>
-**102-122:** Kunskapsteori <br>
-**167-170:** Sanning <br>
-<br>
-Totalt ca: 40 sidor
+## Läsanvisningar
 
-# Vidare läsning
+*Totalt ca: 40 sidor*
 
-### På svenska
+* **14-20:** Grundläggande om verklighet
+* **27-35:** Antik metafysik (framförallt Platon & Aristoteles)
+* **102-122:** Kunskapsteori
+* **167-170:** Sanning
 
-**Wikipedia**
-Det går att söka på flesta begreppen, ismerna och filosoferna på svenska wikipedia. Om man behärskar det engelska språket är allt som oftast dock den engelska varianten något matigare.
+## Vidare läsning
 
-**Filosofi Gotland**
+ #### På svenska
+
+> **Wikipedia**
+> Det går att söka på flesta begreppen, ismerna och filosoferna på svenska wikipedia. Om man behärskar det engelska språket är allt som oftast dock den engelska varianten något matigare.
+
+> **Filosofi Gotland**
 http://www.filosofi.gotland.se/kunskaps.htm
 (klicka dig vidare på de olika filosoferna)
 
 
-### På engelska
+#### På engelska
 
-**Internet Encyclopedia of Philosophy**
+> **Internet Encyclopedia of Philosophy**
 http://www.iep.utm.edu/
 
-**Stanford Encyclopedia of Philosophy**
+> **Stanford Encyclopedia of Philosophy**
 http://plato.stanford.edu/

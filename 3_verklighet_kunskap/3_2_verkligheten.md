@@ -1,3 +1,5 @@
+# Verklighet
+
 ## Realism
 
 Realismen kan i sin enklaste form beskrivas som uppfattningen att 
@@ -19,9 +21,18 @@ Viktigt att tänka på är att inte sammanblanda den grundläggande formen av re
 > Ovan nämnda typer av ”realism” återfinns bägge hos Platon. Se sidorna 30-32. För att göra kopplingen mellan Platons objektiva idealism och realism med avseende på matematiken och allmänbegreppen, se även sidorna 14-16. 
 
 ## Idealism
-Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter yttervärlden. Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” verklighet existerar (se Platons idévärld, sidorna 30-32 i läroboken). 
+Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter yttervärlden. Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” verklighet existerar 
 
-**Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande (se Berkeley, sidorna 116-117 i läroboken). 
+> se Platons idévärld, sidorna 30-32 i läroboken 
 
-En tredje form av idealism är Kants **kritiska idealism**. Enligt Kant finns det förvisso någonting bakom det vi kallar för yttervärlden, men om detta ”något” kan vi inget veta. Kant delar således upp världen i *tinget-i-sig* (så som världen är oberoende av oss) och *tinget-som-fenomen* (så som världen framträder för oss).  Se Kant på sidorna 120-122 i läroboken, samt kartan och artikeln i slutet av kompendiet. 
+**Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande 
+
+> se Berkeley, sidorna 116-117 i läroboken
+
+En tredje form av idealism är Kants **kritiska idealism**. Enligt Kant finns det förvisso någonting bakom det vi kallar för yttervärlden, men om detta ”något” kan vi inget veta. Kant delar således upp världen i *tinget-i-sig* (så som världen är oberoende av oss) och *tinget-som-fenomen* (så som världen framträder för oss).  
+
+> Se Kant på sidorna 120-122 i läroboken
+
+<!--få in min karta över kant här! -->
+
 

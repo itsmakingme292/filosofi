@@ -1,3 +1,5 @@
+# Kunskap & Sanning
+
 ## Relativism
 
 En relativistisk ståndpunkt är den som hävdar att sanning alltid existerar i relation till ett tänkande subjekt och/eller i en viss kontext. 
