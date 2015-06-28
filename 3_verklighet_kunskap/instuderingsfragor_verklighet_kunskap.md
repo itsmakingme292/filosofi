@@ -2,6 +2,75 @@
 
 ## Instuderingsfrågor
 
+- Vad är metafysik och ontologi?
+	- Vad är monism, dualism och pluralism? 
+- Vad är epistemologi? 
+	- Hur ser du att epistemologi hänger ihop med metafysik? 
+- Vad är materialism/fysikalism? 
+	- Gällande vilken fråga uppstår flest invändningar mot denna?
+
+- Vad är den klassiska definitionen av kunskap?  
+	- Vilka är dess tre kriterier och vad innebär dessa?
+		- Varför kan en dator eller en bok inte "ha kunskap"? Vad kan de ha istället?
+- Vad är skillnaden mellan objektivism och relativism?
+	- Vilka olika typer av relativism finns det?
+	- Vad är absolutism?
+- Vad är skepticism?
+	- Vad gjorde Hume till en skeptiker och en extrem empirist? Vad kan vi veta? Vad kan vi inte veta?
+	- Vad kallas Descartes särskilda form av skepticism och varför kallas den så? 
+		- Vad betyder ”cogito ergo sum”, hur använder Descartes tanken på en ond ande/demon, och på vilket sätt spelar Gud en roll i allt detta? 
+- Vad är fallibilism? 
+	- På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika? 
+- Beskriv pragmatismens syn på sanning och kunskap.
+	- På vilket sätt är denna närbesläktad med fallibilismen? 
+
+
+- Hur skiljer sig idealism från realism?
+	- Vad är skillnaden mellan objektiv, subjektiv och kritisk idealism?
+	- Vad är skillnaden mellan naiv och kritisk realism?
+	- Platon är främst en viss typ av idealist, men också en viss typ av realist. Vilka?
+- Vad är solipsism?
+	- På vilket sätt är denna rimlig? På vilket sätt är den orimlig?
+	- Är solipsism en typ av idealism eller en typ av realism? Varför?
+- Vad är empirism och vad är rationalism?
+	- Vilka av filosoferna Platon, Locke, Descartes och Hume är rationalister och vilka av dem är empirister? 
+- Beskriv Kants uppdelning av världen/tingen och hans syn på människans förmåga till kunskap. 
+	- Var Kant realist eller idealist?
+	- Vilken roll spelar Kants kategorier och vilka är de två mänskliga åskådningsformerna?
+	- På vilket sätt kan man säga att Kant löser upp den gamla skiljelinjen mellan rationalism och empirism? 
+	- På vilket sätt kan Kant sägas stå för en objektiv kunskapsuppfattning och på vilket sätt kan han sägas stå för en relativ? Hur kommer det sig att båda tolkningar är möjliga?
+
+- Vad är skillnaden mellan primära och sekundära egenskaper enligt Locke? 
+	- Vad skulle en naiv realist säga om Lockes primära och sekundära egenskaper?
+- Hur resonerar Locke kring medfödd kunskap? 
+	- Vad säger han att människan föds som? 
+	- Och framförallt: hur hänger detta ihop med hans empirism? 
+- Vad kallas de två världarna hos Platon och i vilken av dessa finner vi kunskapen?
+	- Hur ser Platon på kunskap och förhållandet mellan sinnevärlden och idévärlden? Vad betyder det exempelvis att sinnevärldens ting är förgängliga och på vilket sätt kontrasterar detta mot idévärlden?
+	
+ 
+
+
+<!--ovanstående är direkt taget från sista versionen av mina seminarie-lappar -->
+
+<!--Frågor som var borttagna från seminariet 
+
+(OBS, vissa har jag lagt till igen, se skiss på nya lappar eller liknande i min mapp med filosofi-filer)
+
+
+
+
+
+
+Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
+
+ -->
+
+
+<!-- gamla instuderingsfrågorna 
+
+## Instuderingsfrågor
+
 - Vad är metafysik och ontologi? 
 
 - Vad är epistemologi?
@@ -82,6 +151,8 @@
 
 - Är du relativist eller objektivist? Varför? Vilken typ av relativist eller objektivist? Eller vill du inta en tredje position? Hur ser i så fall denna ut? Och hur hänger detta samman med din syn på verkligheten?
 
+-->
+
 ## Läsanvisningar
 
 *Totalt ca: 40 sidor*
@@ -91,7 +162,7 @@
 * **102-122:** Kunskapsteori
 * **167-170:** Sanning
 
-### Vidare läsning
+## Vidare läsning
 
  #### På svenska
 
