@@ -2,7 +2,7 @@
 
 ## Övningsuppgift 1
 
-### Att göra på egen hand
+#### Att göra på egen hand
 
 > **Försök definiera följande begrepp:**  
 > > “Skola”, ”Bok”, ”Hockey”.
@@ -12,7 +12,7 @@
 > > ”Att skaffa sig en bra utbildning är viktigt.”   
 > > ”Människor borde inte tycka så himla mycket.”   
 
-### Att göra i grupp...
+#### Att göra i grupp...
 
 > **Jämför era definitioner av begreppen**
 > > - Var det lätt eller svårt att definiera begreppen?
@@ -27,14 +27,14 @@
 > > - I hur stort behov är era preciseringar i sin tur av preciseringar?  
 
 ## Övningsuppgift 2
-1. Förklara varför orden “mål”, “hopp” och “rötter” är mångtydiga.
-2. Ge några exempel på vaga ord/begrepp.   
-3. Vilka av nedanstående satser är sakpåståenden och vilka är värdepåståenden?
-> > ”Picasso var en bättre konstnär än Dali"<br>
-> > ”I Sverige har vi en monarki.”<br>
-> > ”I Sverige har vi det bra.”<br>
-> > ”Det är alltid fel att döda.”<br>
-> > ”Pelle tycker att det alltid är fel att döda.”
+> 1. Förklara varför orden “mål”, “hopp” och “rötter” är mångtydiga.
+> 2. Ge några exempel på vaga ord/begrepp.   
+> 3. Vilka av nedanstående satser är sakpåståenden och vilka är värdepåståenden?
+	* ”Picasso var en bättre konstnär än Dali"
+	* ”I Sverige har vi en monarki.”
+	* ”I Sverige har vi det bra.”
+	* ”Det är alltid fel att döda.”
+	* ”Pelle tycker att det alltid är fel att döda.”
 
 ## Övningsuppgift 3
 

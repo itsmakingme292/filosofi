@@ -1,31 +1,29 @@
 # Filosofi?
 
-Innan jag själv började studera filosofi var jag inte helt säker på vad det var jag skulle ge mig in på. Jag visste att ordet filosofi utlöste ett stort mått nyfikenhet hos mig och att jag såg fram emot att fördjupa mig i ämnet. Men om någon bad mig upplysa dem, om vad det egentligen var jag skulle syssla med den närmsta tiden, fick jag allt som oftast en smärre tunghäfta. På ett liknande sätt är det säkert för många av er.
+<!--Innan jag själv började studera filosofi var jag inte helt säker på vad det var jag skulle ge mig in på. Jag visste att ordet filosofi utlöste ett stort mått nyfikenhet hos mig och att jag såg fram emot att fördjupa mig i ämnet. Men om någon bad mig upplysa dem, om vad det egentligen var jag skulle syssla med den närmsta tiden, fick jag allt som oftast en smärre tunghäfta. På ett liknande sätt är det säkert för många av er.  Idag har jag givetvis en klarare bild, och det hoppas jag att ni, under denna kurs, också kommer att få. Det sagt bör ni redan nu räkna med att mycket kommer att vara förvirrande - och därav svårt. Ja, till och med denna introduktion. För vilken fråga skulle kunna vara mer filosofisk än frågan om *vad filosofi är*? Många är de filosofer som under årtusenden försökt utreda denna, men få är de som gett samma svar (och även om jag nuförtiden sällan drabbas av tunghäfta, är inte heller jag själv helt på det klara med den).  Så istället för att nu *slutgiltigt* försöka definiera “filosofi” kommer vi först att gå bakvägen och säga något om vad den i vart fall *inte är*, för att på så vis samtidigt måla fram en bild av vad den åtminstone *kan* och *borde* vara. Inte för att som katten cirkulera kring het gröt, utan för att de stora frågorna, så som frågan om filosofin, oftare kan *omringas* än fångas. För om frågan om filosofin, likt många andra frågor, upplevs som en hal tvål, gör vi bäst i att inte krama den allt för hårt.   *** -->
 
-Idag har jag givetvis en klarare bild, och det hoppas jag att ni, under denna kurs, också kommer att få. Det sagt bör ni redan nu räkna med att mycket kommer att vara förvirrande - och därav svårt. Ja, till och med denna introduktion. För vilken fråga skulle kunna vara mer filosofisk än frågan om *vad filosofi är*? Många är de filosofer som under årtusenden försökt utreda denna, men få är de som gett samma svar (och även om jag nuförtiden sällan drabbas av tunghäfta, är inte heller jag själv helt på det klara med den).
-
-Så istället för att nu *slutgiltigt* försöka definiera “filosofi” kommer vi först att gå bakvägen och säga något om vad den i vart fall *inte är*, för att på så vis samtidigt måla fram en bild av vad den åtminstone *kan* och *borde* vara. Inte för att som katten cirkulera kring het gröt, utan för att de stora frågorna, så som frågan om filosofin, oftare kan *omringas* än fångas. För om frågan om filosofin, likt många andra frågor, upplevs som en hal tvål, gör vi bäst i att inte krama den allt för hårt.
+<!--Ovanstående är alltså introt som är borttaget tillsvidare -->
 
 <!--Få in hur den glider hur händerna här annars i liknelsen? -->
 
 
-# Vad filosofi <br>inte är
+## Vad filosofi inte är
 
-## Filosofi är inte ett historiskt ämne
+#### Filosofi är inte ett historiskt ämne
 
 Filosofi handlar inte om en lös samling sedan länge döda gubbar, som tyckt och tänkt egensinniga tankar om allt mellan himmel och jord. Filosofi är något lika aktuellt som evigt, något lika praktiskt som teoretiskt och något lika vardagligt som extraordinärt. Filosofi handlar om alla de frågor som de flesta någon gång i livet ställer sig. Frågor så som ”vad är verkligt?”, ”vad kan vi veta?”, ”vad är meningen med livet?” och ”vad är rätt och fel?”. Om alla de *stora frågor* som kanske inte är särskilt lätta att svara på, men som likväl kräver sina, om inte slutgiltiga svar, så åtminstone goda samtal och kvalificerade gissningar.
 
 Filosofins frågor är därför lika viktiga för oss idag, som förr, och i detta kan vi fortfarande finna en ovärderlig hjälp hos “de gamla gubbarna”. För även om filosofi har en viss personlig dimension är det genom samtalet och i kontakt med dessa filosofers teorier och tankegods som vi lättast rör oss framåt.
 
 
-## Filosofi är inte att “ha en filosofi”
+#### Filosofi är inte att “ha en filosofi”
 
 Ibland används ordet filosofi som en synonym till att blott ha en uppsättning tankar, idéer eller principer kring en viss sak. Detta är sant i den mån att filosofi är något “alla har” och att varje fråga rymmer filosofi (det är också p.g.a. detta vi kan kalla den personlig). Men filosofisk blir frågan, och filosofiska blir vi, först då vi *medvetandegjort* detta faktum och börjat syna dessa tankar. I detta blir filosofin inte bara någonting *vi redan har*, utan också en ständigt pågående *aktivitet.*
 
 Att ägna sig åt filosofi innebär därför i första ledet att inta en “nollställd” inställning till världen och sig själv. Att inte ta något för givet för att sedan noggrant, logiskt och sammanhängande bygga upp sin förståelse av den på nytt. Att bli medvetna om vårt eget tänkande och hur detta formar de objekt vi tänker på. Att söka klarhet i de antaganden vi gör och hur dessa föranleder våra slutsatser. Och att inte acceptera något utan att först utsätta det för kritik. Att kort och gott “ha en filosofi” kan vara en början, men aldrig ett slutmål.
 
 
-## Filosofi är inte en vetenskap, så som natur- och samhällsvetenskaperna, men inte heller religion eller mytologi
+#### Filosofi är inte en vetenskap, så som natur- och samhällsvetenskaperna, men inte heller religion eller mytologi
 
 Filosofi handlar inte om någon typ av rena fakta. Filosofin utgör tvärtom kunskapens gränsområden. De områden där vi inte längre kan iträda labbrockar och utföra experiment. De områden där vi allt som oftast är föga hjälpta av statistiska undersökningar. De områden där vi kort och gott inte längre kan utforska möjliga svar på våra frågor genom att endast “gå ut i världen och se efter” (även om detta ofta kan vara en bra start). Filosofi är platsen vi hamnar då frågornas vikt blir större i takt med svårigheterna att besvara dem. En plats där vårt samlade förnuft blir vårt enda verktyg. Filosofi är därför i grunden en mer spekulativ verksamhet än de övriga vetenskaperna. Men långt ifrån en lös sådan.
 
@@ -34,7 +32,7 @@ För där religion och mytologi å andra sidan handlar om tro och påbud. Om att
 Detta innebär inte att man i filosofiska sammanhang inte kan eller får hysa religiösa åsikter. Men om dessa ska tas upp i en filosofisk diskussion måste det likväl ske genom argument och inte med hänvisning till gudomliga auktoriteter eller heliga skrifter. Inte heller innebär det att det inte hjälper i filosofiska sammanhang att vara påläst inom andra vetenskaper. Tvärtom kan det vara en god idé att först förstå något om vad de övriga vetenskaperna kan säga oss, inte minst för att också kunna veta något om vad de *inte* kan säga oss. Mellan filosofin och andra vetenskaper kommer det alltid att ske ett viktigt utbyte.
 
 
-## Filosofi är inte något “flummigt” och handlar inte bara om att ställa frågor
+#### Filosofi är inte något “flummigt” och handlar inte bara om att ställa frågor
 
 Ett ganska vanligt påstående om filosofin är att den aldrig kommer med svar, endast med frågor. Detta är i stort sett en nidbild. Det är sant att filosofin rymmer fler frågor än svar, men det är också sant inom alla andra typer av vetenskaper (även om filosofin i en striktare mening kanske  inte bör klassas som en vetenskap, utan som just filosofi). Ingen forskning är någonsin slutgiltig och att det finns få säkra svar innebär heller inte att alla tankar är lika goda.
 
@@ -43,7 +41,7 @@ Inom filosofi må det vara svårare att nå en teori som merparten, åtminstone 
 En annan vanlig föreställning om filosofi är att den berör sådant som anses flummigt. I detta sammanblandar man ofta “flum” med den spekulativa aspekten som kommer av de filosofiska frågornas svårighet. Men sådana svårigheter möts och löses inte genom en frånvaro av seriositet och struktur till förmån för “flum”, utan genom ett krav på, och en vilja till, motsatsen. Om en fråga är svår, är man föga hjälpt om man inte tar den på allvar.
 
 
-## Filosofi är inte “läran om allt”, men inte heller “läran om resten”
+#### Filosofi är inte “läran om allt”, men inte heller “läran om resten”
 
 Ordet filosofi är från början grekiska och betyder “kärlek till visdom”. Fram till ganska nyligen i historien var därför filosofin också “läran om allt” och rymde allt ifrån fysik till estetik. Men i takt med de övriga vetenskapernas framväxt och avknoppning från filosofin har den (lite skämtsamt) kommit att bli “läran om resten”. Ett vanligt sätt att beskriva ämnet filosofi är därför att räkna upp ett antal mindre ämnesområden som filosofer vanligen sysslar med.
 
@@ -55,14 +53,14 @@ Filosofi är lika mycket grunden som gränsen för vårt tänkande. Gränsen dä
 
 Att ägna sig åt filosofi är i slutändan, som Sokrates påpekar, att leva det reflekterade livet, eller som Nietzsche omformulerade det, att bli författaren till sitt eget liv. Och detta är både *ämnet, syftet och metoden*.
 
-# Vad filosofi <br>kan vara
+## Vad filosofi kan vara
 Filosofi handlar om en vilja att blottlägga våra föreställningar om världen och utsätta dessa för kritiska prövningar. Att plocka isär och noggrant granska varje beståndsdel, förkasta, modifiera och ta till sig nya komponenter, för att sedan varsamt montera allt samman till en ny och bättre kunskap. I de fall filosofiska frågor uppfattas som flummiga handlar det allt som oftast om att vi brister i detta projekt. Om att vi alldeles för snabbt försöker ge lika enkla som diffusa svar på redan allt för dåligt ställda frågor. 
 
 I detta handlar filosofi alltid om att *gå till botten* med det ämne vi tar för oss. Om att söka en frågas allra mest grundläggande natur och problematik. Och i denna mening kan man också säga att de flesta frågor någonstans slutar i filosofi, om vi bara synar dem tillräckligt noga. För om det är något som utmärker den filosofiska frågan så är det att den alltid är allmängiltig och principiell. Att den går på djupet och *bortom* det individuella och enskilda. 
 
 Om vi exempelvis skulle ägna oss åt en filosofisk analys av begreppet "kärlek" så räcker det inte med att fråga Lisa hur hon känner sig när hon är kär, eller hur det svenska folket uppfattar ordet "kärlek" (detta är ett jobb för socialantropologer, inte filosofer). Vi kan förvisso ha mycket olika uppfattningar om vad kärlek innebär *för oss*, men dessa uppfattningar är personliga och filosofin sysslar, som sagt, med det allmängiltiga. Vi frågar oss istället om det finns någonting *utmärkande* för den upplevelse vi vanligen brukar kalla kärlek. Vi försöker finna en *generell princip* som sammanbinder *alla former* av kärlek och/eller olika sätt att särskilja mellan *olika typer* av kärlek. Vi försöker kort och gott finna en kärlekens *minsta gemensamma nämnare*. 
 
-## En kort resumé över några centrala filosofiska frågeställningar
+## Exempel på filosofiska frågeställningar
 
 * Vad är det att vara en människa? Vad är *mänsklighet*? Finns det något gemensamt drag hos alla människor? Kan en dator vara mänsklig? 
 
