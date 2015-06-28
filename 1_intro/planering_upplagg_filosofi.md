@@ -9,10 +9,10 @@
 	* Språk, logik & argumentation.
 3. Verklighet & kunskap
 	* Samt eventuell kortare del om vetenskap
-	* *Examinerande moment:* Seminarium eller hemtenta
+	* Examinerande moment: Seminarium eller hemtenta
 4. Moralfilosofi
-	* *Examinerande moment:* Hemtenta samt ev. förberedande grupparbete eller seminarium
-5. Eventuellt kortare del om politisk filosofi
+	* Examinerande moment: Hemtenta samt ev. förberedande grupparbete eller seminarium
+5. Eventuell kortare del om politisk filosofi
 
 
 **Notera att:** Kursens upplägg är preliminärt och delmomentens innehåll kan komma att ändras. Denna wiki uppdateras kontinuerligt – och utifrån feedback från er. 
