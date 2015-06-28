@@ -10,14 +10,13 @@ I sin mest ”extrema” form talar man om **naiv realism**. En sådan realism m
 
 De flesta behöver inte tänka särskilt länge för att inse att en sådan ståndpunkt verkar orimlig. Vår upplevelse av verkligheten verkar ofta bedra oss. Den vanligaste formen av realismen är därför inte den *naiva* utan den *kritiska*. Enligt den **kritiska realismen** är yttervärlden bara *delvis* så som vi upplever den. 
 
-Ett exempel på en kritisk realist är John Locke. Om honom, och mer om kritisk realism, läser man i läroboken på sidorna 114-115. 
+> Ett exempel på en kritisk realist är John Locke. Om honom, och mer om kritisk realism, läser man i läroboken på sidorna 114-115. 
 
-
-## Angående andra former av realism
+### Angående andra former av realism
 
 Viktigt att tänka på är att inte sammanblanda den grundläggande formen av realism, som är en realism med avseende på *yttervärlden*, med andra sorters realism. Man kan exempelvis även vara realist med avseende på allmänbegreppen (begreppsrealism) eller realist med avseende på matematiken (den existerar oberoende av oss). Men de två senare typerna av ”realism” inryms snarare (även om det på ytan kan verka förvirrande) inom den *objektiva idealismen*. Detta eftersom det inte handlar om något *reellt* i bemärkelsen att dessa skulle tillhöra yttervärlden. Varken matematiken eller allmänbegreppen finnes under en sten.  Tvärtom existerar de i sina ”egna världar”. 
 
-Ovan nämnda typer av ”realism” återfinns bägge hos Platon. Se sidorna 30-32. För att göra kopplingen mellan Platons objektiva idealism och realism med avseende på matematiken och allmänbegreppen, se även sidorna 14-16. 
+> Ovan nämnda typer av ”realism” återfinns bägge hos Platon. Se sidorna 30-32. För att göra kopplingen mellan Platons objektiva idealism och realism med avseende på matematiken och allmänbegreppen, se även sidorna 14-16. 
 
 ## Idealism
 Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter yttervärlden. Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” verklighet existerar (se Platons idévärld, sidorna 30-32 i läroboken). 
