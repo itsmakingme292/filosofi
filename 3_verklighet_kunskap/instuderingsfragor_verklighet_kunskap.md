@@ -91,7 +91,7 @@
 * **102-122:** Kunskapsteori
 * **167-170:** Sanning
 
-## Vidare läsning
+### Vidare läsning
 
  #### På svenska
 
