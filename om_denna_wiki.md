@@ -11,8 +11,6 @@ Om inget annat anges är det alltid jag (Fredrik Ståhl) som står bakom innehå
 
 **Tips:** Tanken är att ni inte ska behöva skriva ut från denna sida, men om ni absolut vill göra det tänk då på att skriva ut 2 sidor per ark (utskrifts-stilen är anpassad för detta).
 
-***
-
 ## Markeringsverktyg
 
 Denna wiki innehåller markering- och anteckningsverktyget hypothesis. För att era markeringar ska sparas måste ni först skapa ett konto. Detta gör ni genom att trycka på pilen högst upp i högra hörnet. När ni sedan markerar text dyker det automatiskt upp två ikoner, välj pennan om ni vill spara en markering, välj pratbubblan om ni vill spara en markering _och_ göra en anteckning. 
@@ -20,8 +18,6 @@ Denna wiki innehåller markering- och anteckningsverktyget hypothesis. För att 
 Vanliga markeringar är automatiskt privata (bara ni kan se dem), men markeringar med tillhörande anteckningar är som standard publika (alla kan se dem). För att göra en anteckning privat klicka på "Public" och välj "Only me". Publika anteckningar kan även andra användare kommentera på.
 
 **OBS:** Detta verktyg fungerar i dagsläget dessvärre inte på läsplattor och smartphones och är därför avstängt för dessa. 
-
-***
 
 ## Kontakt & frågor
 
@@ -34,8 +30,6 @@ Frågor ställer man i första hand under lektionstid. Om man känner att man in
 Det är i första hand på denna sida ni finner information om delmomenten, material och uppgifter. Via Schoolsoft kommer främst omdömen och betyg att rapporteras, samt deadlines för inlämningar och provtillfällen i provschemat. 
 
 För mer information om bedömning och betyg [klicka här](1_intro/bedomning.md).
-
-***
 
 ## Uppdateringar
 
