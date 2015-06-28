@@ -50,9 +50,10 @@ Då vi exempelvis söker njutning agerar vi, enligt Kant, inte fritt, vi agerar 
 
 ## Människan som mål
 <!---Människan som ett mål och aldrig som ett medel-->
+
 Att vi kan ha olika plikter i olika typer av relationer beror på att en plikt alltid är en moralisk skyldighet *gentemot en individ* (antingen gentemot en annan människa eller gentemot den egna personen). Av denna anledning ger Kant oss en kompletterande formulering av det kategoriska imperativet, vilken uttrycker en slags miniminivå för vilken typ av plikt vi har gentemot *alla människor*. En slags ”gyllene regel” för hur vi alltid bör *behandla* såväl oss själva som andra individer.
 
-> ”Handla så att du *aldrig* behandlar mänskligheten, i såväl din egen som i varje annan person, bara som ett medel utan alltid tillika som ett ändamål”
+> "Handla så att du *aldrig* behandlar mänskligheten, i såväl din egen som i varje annan person, bara som ett medel utan alltid tillika som ett ändamål"
 
 Med detta menas att vi aldrig får behandla en annan människa som blott ett verktyg för vår egen vilja: att vara etisk är att bejaka den fria viljan och förnuftet, såväl hos sig själv *som hos andra*.  Vi kan kort och gott inte behandla människor så som vi behandlar saker. Att behandla någon som blott ett medel är att inte ge denne något val. Att kort och gott *utnyttja* en människa och ringakta dennes mänsklighet. 
 

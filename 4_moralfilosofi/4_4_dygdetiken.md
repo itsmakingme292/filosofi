@@ -53,10 +53,9 @@ De praktiska dygderna är alltså den typen av dygder vi vanligen förknippar me
 ## Den gyllene medelvägen
 Gemensamt för de praktiska dygderna är att de handlar om en slags "gyllene medelväg". Att de utgör en mittpunkt mellan två extremer – ofta mellan ett överflöd och ett underskott av något visst karaktärsdrag.
 
-> Några exempel: <br>
-
-> > Feghet – Mod – Dumdristighet <br>
-> > Blygsamhet – Ödmjukhet – Skrytsamhet <br>
+> Några exempel:
+> > Feghet – Mod – Dumdristighet 
+> > Blygsamhet – Ödmjukhet – Skrytsamhet 
 > > Snålhet – Generositet – Slösaktighet
 
 Detta ska inte förväxlas med att alltid vara *måttfull*. Medelvägen handlar inte om ett *exakt mellanting* utan om det *rätta måttet* i rätt situation. Ibland kräver dygden att vi handlar med kraft, ibland med försiktighet. Att vara dygdig är att finna denna rätta balansen mellan våra egenskaper, attityder och känslor, i varje given situation. 

@@ -53,7 +53,7 @@ Det andra svaret är det **preferentialistiska**. Här ser man istället maximer
 
 Både den hedonistiska och den preferentialistiska utilitarismen kommer i många varianter. Ibland kombinerar man också dem för att skapa en tredje hybridvariant. Jag kommer nu att gå igenom de två vanligaste skiljelinjerna inom respektive uppfattning.
 
-## Hedonism: Kvantitet eller kvalité?
+### Hedonism: Kvantitet eller kvalité?
 Den stora skiljelinjen inom hedonismen kan dras mellan två av de tidigare och mycket betydelsefulla förespråkarna för utilitarismen: Jeremy Bentham (1748-1832) och John Stuart Mill (1806-1873).
 
 För Bentham var frågan om lycka förhållandevis okomplicerad. Lycka handlar om ett välbehag som rent kvantitativt går att mäta, en slags enhet, likt centimeter eller kilo. För Bentham kan man alltså, i både teori och praktik, sätta en siffra på lyckan. Graden av lycka är endast en fråga om mängd och källan till denna lycka är helt och hållet oväsentlig: att spela plockepinn kan vara lika gott som ett läsa poesi. 
@@ -81,7 +81,7 @@ Viktigt att komma ihåg är att Mill inte *helt* motsäger Bentham: mängden nju
 
 Problemet med den kvalitativa hedonismen är dock hur vi mer exakt ska gå tillväga för att kunna rangordna olika former av njutningar i ”högt” och ”lågt”. Inte minst hamnar vi lätt i någon form av "elitism" där vissa människor görs till mer kvalificerade än andra att avgöra en lyckas kvalitéer. Detta innebär inte nödvändigtvis att teorin är fel, men det innebär åtminstone att den är svårare att tillämpa och finna enighet kring. 
 
-## Preferentialism: Det vi vill eller det vi borde vilja?
+### Preferentialism: Det vi vill eller det vi borde vilja?
 
 Oavsett om vi anser att lycka ska jämföras kvantitativt eller också kvalitativt kommer våra "mätningar" alltid att bära på en viss problematik. Det är helt enkelt mycket svårt att med exakta mått uttala sig om människors olika njutningar och därtill väga dessa mot varandra. 
 
@@ -171,7 +171,7 @@ Detta kan utilitarismen möjligen lösa, vi kan resonera som så att en föräld
 
 I denna mening förblir utilitarismen en radikal moralfilosofi för den med ett stort världssamvete. 
 
-## Absolut eller skalärt?
+### Absolut eller skalärt?
 
 Att vi alltid ska handla så att vi maximerar lyckan i världen är, som sagt, en ganska oförlåtande princip. Vissa utilitarister har därför velat "mjuka upp" kraven något. Dessa talar inte om ett *absolut rätt* utan om att vi kan handla både "rätt", ”*mer* rätt", ”*mindre* rätt", "fel", "jättefel" osv. 
 
