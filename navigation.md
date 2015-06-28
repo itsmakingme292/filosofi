@@ -20,6 +20,7 @@
   * [4. Argumentation](2_fil_verktyg/2_4_argumentation.md)
   - - - -
   * [Övningsuppgifter](2_fil_verktyg/ovningsuppgifter_fil_verktyg.md)
+  * [Instuderingsfrågor](2_fil_verktyg/instuderingsfragor_fil_verktyg.md)
     
 [Verklighet & Kunskap]()
 
