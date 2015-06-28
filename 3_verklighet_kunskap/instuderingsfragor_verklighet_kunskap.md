@@ -46,7 +46,8 @@
 	- Vad säger han att människan föds som? 
 	- Och framförallt: hur hänger detta ihop med hans empirism? 
 - Vad kallas de två världarna hos Platon och i vilken av dessa finner vi kunskapen?
-	- Hur ser Platon på kunskap och förhållandet mellan sinnevärlden och idévärlden? Vad betyder det exempelvis att sinnevärldens ting är förgängliga och på vilket sätt kontrasterar detta mot idévärlden?
+	- Hur ser Platon på kunskap och förhållandet mellan sinnevärlden och idévärlden? 
+		- Vad betyder det exempelvis att sinnevärldens ting är förgängliga och på vilket sätt kontrasterar detta mot idévärlden?
 	
  
 
