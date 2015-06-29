@@ -55,6 +55,10 @@
   - - - -
   * # Övningar & Diskussionsunderlag
   * [...](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
+
+[Filosofi 2]()
+
+  * # ...
   
 <!--Ha resurser/länkar, eller filosofi 2 här... -->
 
