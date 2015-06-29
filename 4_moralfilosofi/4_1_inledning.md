@@ -104,9 +104,9 @@ Ett konkret exempel på detta är att vi aldrig kan argumentera för att något 
 
 > **Ej brott mot Humes lag:**
 > > *Faktapåstående*: Vi har alltid gjort på detta sätt.
-> > *Värdepåstående*: Vi har kommit fram till att detta är det bästa vi kan göra.
+> > *Värdepåstående*: Vi har kommit fram till att detta är det bästa vi kan göra med anledning av x och y.
 > > *Slutsats*: Vi bör fortsätta att göra på detta sätt.
 
-Det sagt spelar fakta en mycket stor roll för våra moralfilosofiska omdömen. Det enda Humes lag säger är att vi inte *enbart* kan bygga en moralfilosofisk ståndpunkt på fakta. Viktigt att komma ihåg är också att värdepåståendet i det ovanstående exemplet därtill måste uppbackas med argument för att inte bryta mot de två första minimikraven.
+Det sagt spelar fakta en mycket stor roll för våra moralfilosofiska omdömen. Det enda Humes lag säger är att vi inte *enbart* kan bygga en moralfilosofisk ståndpunkt på fakta. Viktigt att komma ihåg är också att värdepåståendet i det ovanstående exemplet därtill måste uppbackas med argument för att inte bryta mot de två första minimikraven (variablerna i "med anledning av x och y" måste fyllas med något).
 
 <!---Vilket ofta innebär att vi ställer upp en rad sakpåstående som vi så att säga parar hop med antingen positiva eller negativa värdeomdömen-->
