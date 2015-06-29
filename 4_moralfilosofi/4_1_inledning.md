@@ -98,14 +98,14 @@ Inom filosofin kallas detta för **Humes Lag** (från filosofen med samma namn) 
 
 Ett konkret exempel på detta är att vi aldrig kan argumentera för att något är rätt bara med en hänvisning till att "vi alltid gjort på detta sätt". Vi måste också avgöra om det vi gjort är bra eller dåligt. Att vi alltid gjort på ett visst sätt spelar ingen roll för vår eventuella moralfilosofiska slutsats.
 
-> *Brott mot Humes lag:* <br>
-> > *Faktapåstående*: Vi har alltid gjort på detta sätt. <br>
-> > *Slutsats*: Vi bör fortsätta att göra på detta sätt. <br>
+> **Brott mot Humes lag:**
+> > *Faktapåstående*: Vi har alltid gjort på detta sätt. 
+> > *Slutsats*: Vi bör fortsätta att göra på detta sätt. 
 
-> *Ej brott mot Humes lag:* <br>
-> > *Faktapåstående*: Vi har alltid gjort på detta sätt. <br>
-> > *Värdepåstående*: Vi har kommit fram till att detta är det bästa vi kan göra. <br>
-> > *Slutsats*: Vi bör fortsätta att göra på detta sätt. <br>
+> **Ej brott mot Humes lag:**
+> > *Faktapåstående*: Vi har alltid gjort på detta sätt.
+> > *Värdepåstående*: Vi har kommit fram till att detta är det bästa vi kan göra.
+> > *Slutsats*: Vi bör fortsätta att göra på detta sätt.
 
 Det sagt spelar fakta en mycket stor roll för våra moralfilosofiska omdömen. Det enda Humes lag säger är att vi inte *enbart* kan bygga en moralfilosofisk ståndpunkt på fakta. Viktigt att komma ihåg är också att värdepåståendet i det ovanstående exemplet därtill måste uppbackas med argument för att inte bryta mot de två första minimikraven.
 
