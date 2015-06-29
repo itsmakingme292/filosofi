@@ -11,7 +11,7 @@ Om inget annat anges är det alltid jag (Fredrik Ståhl) som står bakom innehå
 
 **Tips:** Tanken är att ni inte ska behöva skriva ut från denna sida, men om ni absolut vill göra det tänk då på att skriva ut 2 sidor per ark (utskrifts-stilen är anpassad för detta).
 
-## Markeringsverktyg
+## Anteckningsverktyg
 
 Denna wiki innehåller markering- och anteckningsverktyget hypothesis. För att era markeringar ska sparas måste ni först skapa ett konto. Detta gör ni genom att trycka på pilen högst upp i högra hörnet. När ni sedan markerar text dyker det automatiskt upp två ikoner, välj pennan om ni vill spara en markering, välj pratbubblan om ni vill spara en markering _och_ göra en anteckning. 
 
