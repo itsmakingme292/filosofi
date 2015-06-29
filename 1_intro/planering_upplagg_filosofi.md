@@ -4,9 +4,7 @@
 ## Filosofi 1
 
 1. Introduktion
-	* Vad är filosofi?
 2. Filosofins verktyg
-	* Språk, logik & argumentation.
 3. Verklighet & kunskap
 	* Samt eventuell kortare del om vetenskap
 	* Seminarium eller hemtenta
@@ -14,7 +12,7 @@
 	* Hemtenta samt ev. förberedande grupparbete eller seminarium
 5. Eventuell kortare del om politisk filosofi
 
-***
+
 **Notera att:** Kursens upplägg är preliminärt och delmomentens innehåll kan komma att ändras. Denna wiki uppdateras kontinuerligt – och utifrån feedback från er. 
 
 
