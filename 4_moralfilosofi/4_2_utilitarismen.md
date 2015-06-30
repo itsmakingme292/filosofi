@@ -1,10 +1,14 @@
 # Utilitaristisk konsekvensetik
 ## Konsekvensen framför allt!
 
-I en *konsekvensetik* är det konsekvenserna av en handling som avgör det moraliska värdet hos densamma. Vilka avsikter man har med en viss handling spelar mindre roll, det som räknas är själva *effekten*. I detta säger en konsekvensetik att vi alltid ska handla på ett sådant sätt att vår handling *maximerar* det som är gott. 
+I en *konsekvensetik* är det konsekvenserna av en handling som avgör det moraliska värdet hos handlingen ifråga. Vilka avsikter man har med en viss handling spelar mindre roll, det som räknas är själva *effekten*. I detta säger en konsekvensetik att vi alltid ska handla på ett sådant sätt att vår handling *maximerar* det som är gott. 
 
 <!--Ändra ovan till?:-->
-<!--I en *konsekvensetik* är det konsekvenserna av en handling som avgör det moraliska värdet. Vilka avsikter man har med en viss handling spelar mindre roll, det som i första hand räknas är själva *effekten* av denna handling. -->
+
+<!--I en *konsekvensetik* är det *konsekvenserna* som avgör det moraliska värdet hos en handling. Vilka avsikter man har med en viss handling spelar mindre roll, det som i första hand räknas är själva *effekten* av denna handling. -->
+
+<!--eller kanske inte, fick nu bort den gamla konstiga ”av densamma”-formuleringen -->
+
 
 Exakt vad som är gott, och för vem detta kan, eller ska, vara gott, beror lite på vilken typ av konsekvensetik vi frågar. Den allra vanligaste typen av konsekvensetik är **utilitarismen**. Denna menar att *lycka* är det goda som ska maximeras. Det finns givetvis andra svar på detta, men vi kommer nu att fokusera på det utilitaristiska. 
 
