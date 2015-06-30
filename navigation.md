@@ -43,10 +43,11 @@
   * [3. Kantiansk pliktetik](4_moralfilosofi/4_3_pliktetiken.md)
   * [4. Aristotelisk dygdetik](4_moralfilosofi/4_4_dygdetiken.md)
   - - - -
+  * [En första diskussion](4_moralfilosofi/moral_en_forsta_diskussion.md)
   * [Övningsuppgifter](4_moralfilosofi/ovningsuppgifter_moralfilosofi.md)
   - - - -
   * # Examinerande moment
-  * [...](4_moralfilosofi/.md)
+  * [Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md)
     
 [Politisk filosofi]()
 

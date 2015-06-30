@@ -82,7 +82,7 @@ Då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grun
 > > **Explicit:** Det finns endast en bra TV-serie och det är "Vänner"
 > > **Implicit:** TV-serien "Seinfeld" är dålig
 
-Vad gäller det första exemplet leder vårt *explicita* påstående till en stor mängd implicita påståenden eftersom vi med detta påstår att _varje_ person som *inte tränar* gör fel (obs: i vårt exempel antar vi att Karin i Haparanda är en person som existerar och som därtill inte tränar – förlåt Karin om detta inte är sant). Vad gäller det andra exemplet borde vi kanske inte uttryckt oss fullt så tvärsäkert, eftersom vi med detta påstående utesluter möjligheten att det kan finnas andra bra serier.
+Vad gäller det första exemplet leder vårt *explicita* påstående till en stor mängd implicita påståenden eftersom vi med detta påstår att _varje_ person som *inte tränar* gör fel (i vårt exempel antar vi att Karin i Haparanda är en person som existerar och som därtill inte tränar – förlåt Karin om detta inte är sant). Vad gäller det andra exemplet borde vi kanske inte uttryckt oss fullt så tvärsäkert, eftersom vi med detta påstående utesluter möjligheten att det kan finnas andra bra serier.
 
 Ovanstående är goda exempel på varför vi bör vara försiktiga med ord så som "alla", "allt", "alltid", "aldrig", "uteslutande" "endast" och så vidare. Sådana ord riskerar att göra våra påståenden onödigt *kategoriska* (av typen: "svart eller vitt"), vilket lätt kan leda till att vi påstår något som vi inte hade tänkt.
   
