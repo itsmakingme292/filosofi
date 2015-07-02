@@ -1,8 +1,10 @@
-# Bedömning för lärande
+# Bedömning & Betyg
 
 **Om denna sida:** Nedanstående text är skriven av mig och Travis Trimmer och är en del i ett pågående arbete med lärande bedömning här på Mikael Elias. 
 
 När vi talar om bedömning blandar vi ofta samman två olika typer av bedömning. Den ena typen av bedömning kallas *summativ bedömning* och den andra *formativ bedömning* eller *bedömning för lärande*.
+
+***
 
 ## Summativ bedömning
 
