@@ -26,7 +26,7 @@
 
 * Ha mer än gärna åsikter om kursens innehåll, upplägget och min pedagogik. Om det finns något ni tycker jag kan göra bättre - *berätta det*. Jag kanske inte alltid kan möta era önskemål, men jag kommer alltid att lyssna, ta till mig det ni sagt och motivera mina val.
 
-OBS: Alla examinerande moment är obligatoriska för kursen. 
+**OBS:** Alla examinerande moment är obligatoriska för kursen. Skulle man missa ett examinerande moment eller hamna efter är det viktigt (och ens eget ansvar) att man pratar med mig om detta.
 
 
 ## Väl mött!
