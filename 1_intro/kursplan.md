@@ -1,6 +1,6 @@
 # Kursplan FIOFIO01
 
-**Om denna sida:** Texten nedan är kopierad från skolverkets kursplan för Filosofi 1. <!--Eventuella kommentarer från mig är skrivna inom rutor. -->
+**Om denna sida:** Nedanstående text är kopierad från skolverkets kursplan för Filosofi 1. Kommentarer från mig är skrivna inom rutor.
 
 ## Centralt innehåll
 
@@ -20,11 +20,17 @@ Eleven identifierar **med viss säkerhet** filosofiska frågor samt gör **enkla
 
 Eleven urskiljer och förklarar **med viss säkerhet** språkliga nyanser och logisk argumentation i olika sammanhang samt underbygger egna ställningstaganden i filosofiska frågor med **enkla** argument.
 
+***
+
 ### Betyget D
 
 Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.
 
+***
+
 ### Betyget C
+
+**Kommentar:** "Utförligt" innebär enligt skolverkets stödmaterial att elevens svar är "mer exakt, fylligt och innehållsrikt, såväl kvalitativt som kvantitativt". Med detta menas kort och gott att man i hög utsträckning redogör för sådant som är centralt inom ämnet på ett korrekt sätt. "Välgrundade argument" handlar vidare om att man har fog för det man säger, att man bygger sina argument på någorlunda rimliga tolkningar av teorierna, är någorlunda logisk i sina slutledningar, osv. 
 
 Eleven redogör **utförligt** för och diskuterar **utförligt och med välgrundade argument flera** frågor och teorier som gäller existens, kunskap, vetenskap, värdefilosofi, samhällsfilosofi, språkfilosofi och nutida filosofiska riktningar. Eleven gör också **välgrundade** jämförelser mellan olika filosofiska teorier. Dessutom använder eleven **med viss säkerhet flera** relevanta filosofiska begrepp.
 
@@ -32,11 +38,17 @@ Eleven identifierar **med viss säkerhet** filosofiska frågor samt gör **välg
 
 Eleven urskiljer och förklarar **med viss säkerhet** språkliga nyanser och logisk argumentation i olika sammanhang samt underbygger egna ställningstaganden i filosofiska frågor med **välgrundade** argument.
 
+***
+
 ### Betyget B
 
 Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.
 
+***
+
 ### Betyget A
+
+**Kommentar:** "Nyanserat" innebär enligt skolverkets stödmaterial att elevens svar "innehåller flera olika perspektiv och infallsvinklar". För att ge en nyanserad beskrivning räcker det dock inte att bara rada upp en mängd möjliga perspektiv på en viss fråga eller ett visst ämnesinnehåll. Att redogöra för något på ett nyanserat vis handlar också om att kunna se olika aspekter, viktiga "detaljer", styrkor och svagheter _inom_ ett visst perspektiv samt att kunna se viktiga skillnader och likheter _mellan_ olika perspektiv. Att vara nyanserad handlar lika mycket om att gå på djupet, som att gå på bredden. Men det räcker inte med kvantitet, vi måste också ha en viss kvalitet i våra redogörelser och resonemang. Kort sagt är vi nyanserade först när vi undgår att dra för snabba slutsatser.
 
 Eleven redogör **utförligt och nyanserat** för och diskuterar **utförligt och med välgrundade och nyanserade argument flera** frågor och teorier som gäller existens, kunskap, vetenskap, värdefilosofi, samhällsfilosofi, språkfilosofi och nutida filosofiska riktningar. Eleven gör också **välgrundade och nyanserade** jämförelser mellan olika filosofiska teorier. Dessutom använder eleven **med säkerhet flera** relevanta filosofiska begrepp.
 
