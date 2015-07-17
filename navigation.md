@@ -1,3 +1,5 @@
+<script async defer src="//hypothes.is/embed.js"></script>
+
 # Filosofi
 
 [Intro & Info]()
