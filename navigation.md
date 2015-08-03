@@ -53,11 +53,7 @@
     
 [Politisk filosofi]()
 
-  * # Läsning
-  * [...](4_norm/material/innehall_laslista_norm_makt.md)
-  - - - -
-  * # Övningar & Diskussionsunderlag
-  * [...](4_norm/diskussionsunderlag/kulturell_och_social_tillhorighet.md)
+  * # ...
 
 [Filosofi 2]()
 
