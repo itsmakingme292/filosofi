@@ -2,7 +2,9 @@
 
 <!--Innan jag själv började studera filosofi var jag inte helt säker på vad det var jag skulle ge mig in på. Jag visste att ordet filosofi utlöste ett stort mått nyfikenhet hos mig och att jag såg fram emot att fördjupa mig i ämnet. Men om någon bad mig upplysa dem, om vad det egentligen var jag skulle syssla med den närmsta tiden, fick jag allt som oftast en smärre tunghäfta. På ett liknande sätt är det säkert för många av er.  Idag har jag givetvis en klarare bild, och det hoppas jag att ni, under denna kurs, också kommer att få. Det sagt bör ni redan nu räkna med att mycket kommer att vara förvirrande - och därav svårt. Ja, till och med denna introduktion. För vilken fråga skulle kunna vara mer filosofisk än frågan om *vad filosofi är*? Många är de filosofer som under årtusenden försökt utreda denna, men få är de som gett samma svar (och även om jag nuförtiden sällan drabbas av tunghäfta, är inte heller jag själv helt på det klara med den).  Så istället för att nu *slutgiltigt* försöka definiera “filosofi” kommer vi först att gå bakvägen och säga något om vad den i vart fall *inte är*, för att på så vis samtidigt måla fram en bild av vad den åtminstone *kan* och *borde* vara. Inte för att som katten cirkulera kring het gröt, utan för att de stora frågorna, så som frågan om filosofin, oftare kan *omringas* än fångas. För om frågan om filosofin, likt många andra frågor, upplevs som en hal tvål, gör vi bäst i att inte krama den allt för hårt.   *** -->
 
-<!--Ovanstående är alltså introt som är borttaget tillsvidare -->
+<!--Ovanstående är alltså introt som är borttaget tillsvidare eftersom det var för anekdotiskt-->
+
+<!-- Ha ev. som förord något om anledning bakom svårigheten att definiera filosofi och att det handlar om en verksamhet och dra paralleller till andra sådana. Undvik det anekdotiska. @överväg @iförstahand Skriv mer om tanken (just nu) bakom kompendierna? Eller för tidigt? Ej historisk expose iaf? -->
 
 <!--Få in hur den glider hur händerna här annars i liknelsen? -->
 

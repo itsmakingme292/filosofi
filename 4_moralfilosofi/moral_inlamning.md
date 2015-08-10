@@ -44,7 +44,7 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 * Skillnaden mellan vänner och främlingar?
 * Dödshjälp, aktiv såväl som passiv?
 * Dödsstraff?
-* Abort?
+* M.m.
 
 
 ## Betygskriterier för denna uppgift
