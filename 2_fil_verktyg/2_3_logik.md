@@ -122,3 +122,8 @@ Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt t
 > > *Premiss 1:* Om det åskar så regnar det.   
 > > *Premiss 2:* Det regnar.   
 > > *Slutsats:* Det åskar.
+
+
+## [Frågeformulär] 
+
+<iframe src="https://docs.google.com/forms/d/1UzeeFJW5tZ64oDEqpsTvIKBClzocelv8ckYURqFUbSs/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

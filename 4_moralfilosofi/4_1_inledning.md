@@ -110,3 +110,7 @@ Ett konkret exempel på detta är att vi aldrig kan argumentera för att något 
 Det sagt spelar fakta en mycket stor roll för våra moralfilosofiska omdömen. Det enda Humes lag säger är att vi inte *enbart* kan bygga en moralfilosofisk ståndpunkt på fakta. Viktigt att komma ihåg är också att värdepåståendet i det ovanstående exemplet därtill måste uppbackas med argument för att inte bryta mot de två första minimikraven (variablerna i "med anledning av x och y" måste fyllas med något).
 
 <!---Vilket ofta innebär att vi ställer upp en rad sakpåstående som vi så att säga parar hop med antingen positiva eller negativa värdeomdömen-->
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/1IfV42PSSCOJqZ0qV-qR8fjjTNF4LrdaWnrjgt43q8tw/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

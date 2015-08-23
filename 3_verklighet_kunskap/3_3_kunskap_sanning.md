@@ -52,3 +52,8 @@ Istället menar pragmatikerna att vi bör använda ordet ”sant” för ”det 
 
 Märk väl att detta inte innebär att exempelvis en lögn blir sann bara för att den ”fungerar” (någon tror på den). Lögnen ger oss inte en ”fungerande” bild av verkligheten, tvärtom inser vi att den är en lögn så snart vi också inser att den är mycket dålig på att förklara hur saker och ting förhåller sig (det ligger ju i lögnens natur).
 
+
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/1NRQFa5R2TsqpDSomT13W5KtSlrC26oG51-inGWLoRbA/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

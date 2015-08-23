@@ -101,3 +101,8 @@ På många sätt kanske dygdetiken därför inte bör ses som en *rivaliserande*
 
 
 
+
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/14alwsm1oL6io28wDFXZePyNlpEncx51zodjKbhhmK0g/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

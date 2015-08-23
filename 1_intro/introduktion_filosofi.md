@@ -119,3 +119,7 @@ Om vi exempelvis skulle ägna oss åt en filosofisk analys av begreppet "kärlek
 * Filosofi är svårt, men också väldigt roligt och samtidigt nyttigt. Försök att fokusera på det senare och se det som en utmaning. Få ämnen vässar det analytiska tänkandet på samma sätt som filosofi - och med övning kommer färdighet. Vilket är något ni alla kommer att ha nytta av, både i framtida (eventuella) studier och i livet.
 
 * Filosofi kan ibland kännas främmande, men handlar i slutändan alltid om era liv och er verklighet, om de stora frågorna alla ställer sig (eller åtminstone borde ställa sig). Så behandla inte filosofin som ett ämne bland andra, utan som ett *verktyg* lika mycket som ett mål i sig självt.
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/18g2FoI-xCvhd_PK9wUaP7OY6WUKj9Y1HD5xgASc_3fM/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

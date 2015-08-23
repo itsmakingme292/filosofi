@@ -29,3 +29,8 @@ För enkelhetens skull måste det dock ske någon slags uppdelning när man ska 
 
 
 <!--För att se den ”större bilden” har ni den ”stora kartan” till hjälp. -->
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/1UpE41WgyDEOnkkoPT28WYlCiFn8Ssd6Q0X2LphI4DIU/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+

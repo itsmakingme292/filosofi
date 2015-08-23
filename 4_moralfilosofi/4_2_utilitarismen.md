@@ -182,3 +182,7 @@ Att vi alltid ska handla så att vi maximerar lyckan i världen är, som sagt, e
 Denna typ av utilitarism sätter alltså moraliska handlingar utmed en *skala* istället för att göra moralen till ett "antingen eller" (binär). Det sagt utgår **skalär utilitarism** (som vi kallar denna) fortfarande utifrån *principen* att man bör *sträva* efter att maximera lyckan.
 
 Jag skulle kunna åka till ett valfritt utvecklingsland imorgon och arbeta som volontär, och det skulle möjligen  maximera lyckan mer än om jag fortsätter att arbeta som lärare. Men jag gör åtminstone inte *helt fel* i att välja Sverige och lärarjobbet.
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/1vwDQVeoUvKI842liEKD3TcCePnAymkQHwd0dwTy7aNc/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

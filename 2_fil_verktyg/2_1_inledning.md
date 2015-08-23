@@ -38,3 +38,8 @@ Det sagt kommer vi under detta moment bara att skrapa på ytan. Språk, logik oc
 
 <!-- Gammal version av sista delen av stycket: Det allra viktigaste att ta med sig från detta kapitel är en viss känsla för filosofisk noggrannhet och en ständig nyfikenhet på *vad som egentligen “menas”*. Inte minst vill jag ge er en användbar filosofisk verktygslåda som gör er bättre rustade att ta er an framtida frågor, såväl inom filosofin, som utanför. -->
 
+
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/1_cEeBAuZDPM6HctHabdKtt_UX-6xce41bQr4MfwXiTo/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

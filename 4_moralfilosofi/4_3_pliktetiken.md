@@ -79,3 +79,7 @@ Likaså kan vi från ett utilitaristiskt håll fråga oss om det verkligen är e
 Den stora frågan blir i slutändan huruvida vi anser att moralen *alltid bör* eller *aldrig bör* vara villkorad. Huruvida något är *rätt i sig självt* eller huruvida något är rätt *som ett medel* för något annat. 
 
 Pliktetikens goda vilja ”skiner som en juvel”, men hur mycket är den egentligen värd? Allt, säger vissa. Inte mycket, säger andra.
+
+## [Frågeformulär] 
+
+<iframe src="https://docs.google.com/forms/d/1NENvkauiQAlTVJlfNtw9GzkiMIqr5YOb6KFyOTbIhFc/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

@@ -213,3 +213,8 @@ Eftersom vår tolkning alltid är beroende av vad vi tror om talarens intentione
 <!--Tog bort: Är vi exempelvis helt övertygade om att en person är "korkad" (även då denna faktiskt inte är det) kommer vi också att tolka denna persons yttrade satser som mer "korkade" än vad de kanske egentligen är.  -->
 
 
+
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/1cfMFrjT71V8CCKCMCIMnktOQkWXZd4hxefvNtN_OxBk/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
