@@ -11,7 +11,7 @@
   - - - -
   * # Viktig information
   * [Bedömning & Betyg](1_intro/bedomning.md)
-  * [Källhantering & Plagiat](1_intro/kallhantering.md)
+  * [Källor & Plagiat](1_intro/kallhantering.md)
   
 [Filosofins verktyg]()
 
@@ -30,7 +30,7 @@
   * [1. Inledning](3_verklighet_kunskap/3_1_inledning.md)
   * [2. Verklighet](3_verklighet_kunskap/3_2_verkligheten.md)
   * [3. Kunskap & Sanning](3_verklighet_kunskap/3_3_kunskap_sanning.md)
-<!--  * [4. Vetenskap](3_verklighet_kunskap/3_4_vetenskapen.md) -->
+  * [4. Vetenskap](3_verklighet_kunskap/3_4_vetenskapen.md)
 
   - - - -
   * [Inledande diskussionsunderlag](3_verklighet_kunskap/diskussion_verklighet_kunskap.md)
