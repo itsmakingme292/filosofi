@@ -185,4 +185,4 @@ Jag skulle kunna åka till ett valfritt utvecklingsland imorgon och arbeta som v
 
 ## [Frågeformulär]
 
-<iframe src="https://docs.google.com/forms/d/1vwDQVeoUvKI842liEKD3TcCePnAymkQHwd0dwTy7aNc/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1vwDQVeoUvKI842liEKD3TcCePnAymkQHwd0dwTy7aNc/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

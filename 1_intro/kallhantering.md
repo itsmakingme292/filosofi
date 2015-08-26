@@ -2,7 +2,7 @@
 
 ## Källhantering
 
-Grundläggande för källhantering är att man uppger vart man hämtar sin information ifrån, inte plagierar och att man är _källkritisk_. Källkritik kommer vi att gå igenom kort under introduktionen och även återkomma till längre fram (framförallt under momentet kritiskt tänkande). För varje inlämningsuppgift står det i instruktionerna vad som gäller, men fråga mig om ni känner er osäkra. Se även länkarna nedan för vidare läsning.
+Grundläggande för källhantering är att man uppger vart man hämtar sin information ifrån, inte plagierar och att man är _källkritisk_. Om ni känner er osäkra, fråga.
 
 ## Plagiat
 
@@ -16,7 +16,7 @@ Alla era inlämningar går via **URKUND**, ett system som mycket lätt upptäcke
 
 Ofta handlar plagiat om svårare gränsfall än ovanstående. Ingen kan uppnå 100% originalitet i sina tankar – och detta är  inte heller poängen. Men man kan kort och gott förhålla sig olika _självständigt_ i förhållande till källorna. "Efterapning" kan ske på fler sätt än genom ren avskrivning. Det är viktigt  att man som elev tänker på att _kommunicera sin egen förståelse_ (och inte någon annans). 
 
-OBS: I de fall då plagiat upptäcks kan en inlämning inte längre tjäna som betygsunderlag. Beroende på hur mycket man plagierat får man antingen (helt eller delvis) göra om samma uppgift, eller göra en helt ny. 
+**OBS:** I de fall då plagiat upptäcks kan en inlämning inte längre tjäna som betygsunderlag. Beroende på hur mycket man plagierat får man antingen (helt eller delvis) göra om samma uppgift, eller göra en helt ny. 
 
 ## Länkar för vidare läsning
 
