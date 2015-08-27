@@ -9,7 +9,7 @@
 
 <!--Få in hur den glider hur händerna här annars i liknelsen? -->
 
-***
+
 
 ## Vad filosofi inte är
 
