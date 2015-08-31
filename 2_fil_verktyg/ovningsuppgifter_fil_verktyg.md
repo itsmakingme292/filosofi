@@ -2,15 +2,19 @@
 
 ## Övningsuppgift 1
 
+**OBS:** Slå _inte_ upp orden, utan försök själva. Ta er också god tid att verkligen fundera på hur ni med era definitioner kan _fånga_ alla "objekt som är x" och _utesluta_ "alla objekt som inte är x". När det gäller precisionerna, fråga er hela tiden: "men vad menas?" och stanna inte vid första bästa precisering.
+
 #### Att göra på egen hand
 
+
 > **Försök definiera följande begrepp:**  
-> > “Skola”, ”Bok”, ”Hockey”.
+> > “Skola”, ”Bok”, "Kärlek", "Frihet"
 
 > **Ge möjliga preciseringar av följande satser:**   
 > > ”Att äta frukost är en bra start på dagen.”
-> > ”Att skaffa sig en bra utbildning är viktigt.”   
-> > ”Människor borde inte tycka så himla mycket.”   
+> > ”Att skaffa sig en bra utbildning är viktigt.”  
+
+
 
 #### Att göra i grupp...
 
@@ -18,7 +22,8 @@
 > > - Var det lätt eller svårt att definiera begreppen?
 > > - Hur skiljer sig era definitioner åt? Blev de ganska lika eller olika?   
 > > - Vilka definitioner blev bäst? Varför?   
-> > - Kan ni komma på bättre definitioner tillsammans?   
+> > - Kan ni komma på bättre definitioner tillsammans? Går de att kombinera på något sätt? 
+> > - Finns det några viktiga distinktioner som behöver göras?   
 
 > **Jämför era preciseringar av satserna** 
 > > - Fick satserna liknande innebörd eller helt olika?   
@@ -27,6 +32,8 @@
 > > - I hur stort behov är era preciseringar i sin tur av preciseringar?  
 
 ## Övningsuppgift 2
+Gör denna övningsuppgift tillsammans med en klasskamrat och turas om att förklara för varandra.
+
 > 1. Förklara varför orden “mål”, “hopp” och “rötter” är mångtydiga.
 > 2. Ge några exempel på vaga ord/begrepp.   
 > 3. Vilka av nedanstående satser är sakpåståenden och vilka är värdepåståenden?
@@ -57,9 +64,9 @@
 > > *Slutsats:* Alltså blir jag blöt.
 
 ## Övningsuppgift 4
-> **Hitta så många premisser du kan i följande resonemang:**
+> **Hitta så många (dolda) premisser du kan i följande resonemang:**
 > > “Jag går aldrig till tandläkaren, det är bara läskigt och kostar pengar.”   
-> > ”Om jag tror att jag är på en viss plats, så är jag också på denna plats.”  
+> > ”Jag vet att Sveriges huvudstad är Oslo, för det sa min lärare”  
 > > ”Om datorn inte startar så är det för att strömmen är avstängd.”
 
 ## Övningsuppgift 5
