@@ -1,6 +1,8 @@
 # Instuderingsfrågor
 
-Ägna tid och tankekraft åt att förstå såväl frågorna som svaren och försök konstruera egna exempel för att jobba med dessa. Läs först noggrant, men tänk också på att ta tillfället i akt att ställa frågor på den lektionstid som ges för arbete med dessa.
+Ägna tid och tankekraft åt att förstå såväl frågorna som svaren och försök konstruera egna exempel för att jobba med dessa. Läs först noggrant, men tänk också på att ta tillfället i akt att ställa frågor när ni ges lektionstid för arbete med dessa.
+
+**OBS:** Detta läsår kommer jag inte examinera detta moment. Vi kommer därför inte jobba med dessa instuderingsfrågor i samma utsträckning (om någon). Men använd dem gärna för att själv kolla hur mycket du hängt med och lärt dig under detta moment.
 
 ***
 
@@ -124,7 +126,7 @@
 
     -   Vad innebär det att vi kan ha olika nivåer av argument?
 
-        -   Vad är skillnaden mellan ett argument och ett motargument i detta sammanhang?
+        -  Vad är skillnaden mellan ett argument och ett motargument i detta sammanhang?
 
 -   Vad är relevans och vad är hållbarhet?
 
