@@ -1,5 +1,18 @@
 # Instuderingsfrågor & Läsanvisningar
 
+## Läsanvisningar
+
+*Utöver innehållet under fliken för detta delmoment kommer merparten av läsningen utgå ifrån kursboken, totalt ca: 50 sidor*
+
+* **14-20:** Grundläggande om verklighet
+* **27-35:** Antik metafysik (framförallt Platon & Aristoteles)
+* **102-122:** Kunskapsteori
+* **129-143**: Vetenskapen
+* **167-170:** Sanning
+
+**Info:** På sikt kommer ovanstående att ersättas med material här på denna wiki. Men de delar jag har är ännu inte tillräckliga för att kunna ersätta kursboken. 
+
+
 ## Instuderingsfrågor
 
 - Vad är metafysik och ontologi?
@@ -68,7 +81,7 @@ Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
  -->
 
 
-<!-- gamla instuderingsfrågorna 
+<!-- **GAMLA instuderingsfrågorna** 
 
 ## Instuderingsfrågor
 
@@ -154,16 +167,7 @@ Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
 
 -->
 
-## Läsanvisningar
-
-*Totalt ca: 40 sidor*
-
-* **14-20:** Grundläggande om verklighet
-* **27-35:** Antik metafysik (framförallt Platon & Aristoteles)
-* **102-122:** Kunskapsteori
-* **167-170:** Sanning
-
-## Vidare läsning
+## Ev. vidare läsning
 
  #### På svenska
 

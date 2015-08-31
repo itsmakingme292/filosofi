@@ -1,6 +1,8 @@
 # Inledning
 <!--Här beskriver jag vad kapitlet ska handla om, detta är en note -->
 
+**OBS:** För detta moment har jag inte skapat tillräckligt med eget material för att det ska kunna utgöra den enda läsningen. För att se vilka sidor som gäller i kursboken gå till "[Läsanvisningar & Instuderingsfrågor](instuderingsfragor_verklighet_kunskap.md)"
+
 ## Metafysik & Ontologi
 
 De första och mest fundamentala av frågor som filosofin berör är ofta ontologiska till sin natur. **Ontologin** är nämligen *läran om vad som finns*.  Vår ”egen ontologi” kan därför sägas vara den ”lista” på saker som vi påstår, eller antar, existerar (medvetet eller ej). På någons lista kanske vi finner ”Gud”, på en annans kanske ”bord och stolar”, på en tredje kanske ”själar”, och så vidare. 
