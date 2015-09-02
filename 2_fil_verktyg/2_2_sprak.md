@@ -117,9 +117,11 @@ Ett sätt att praktiskt ändå “definiera” ett begrepp som präglas av famil
 
 Förutom ords begreppsliga innehåll, finns det också ett associativt innehåll. Med detta menas att ord har kraften att väcka vissa minnen eller känslor. Kanske tänker vi på en resa vi gjort när vi hör ordet “England”. Kanske känner vi kväljningar när vi hör ordet “blodpudding”. Kanske gör ordet “Gais” oss alldeles upprymda och stolta. Kort och gott kopplar vi samman vissa känslor och inre bilder till vissa ord. Det associativa innehållet handlar alltså om vårt eget *personliga* förhållande till ett ord.
 
-Något som kan vara bra att tänka på är att alla människor såklart inte har samma associativa innehåll kopplat till ett visst ord. Om någon  kallar sig kommunist, måste denne också vara beredd på att vissa associerar det ordet med folkmord och stalinism. För att undvika liknande jobbigheter kanske han eller hon istället väljer att kalla sig “socialist” eller “marxist”, vilket rent teoretiskt betyder ungefär samma sak, men samtidigt inte är lika “nedsvärtat” med hemska associationer.
+Något som kan vara bra att tänka på är att ord inte har samma associativa innehåll för alla människor. Detta kan ibland skapa problem, inte minst om ett vi använder ord som för oss har en positiv laddning men för andra en negativ. Ett konkret exempel på detta är Lars Ohly, Vänsterpartiets förra partiledare, som fick mycket kritik för att han kallade sig för kommunist. Några år senare fick han frågan om han fortfarande kallade sig för detta, han svarade då så här:
 
- <!--Fast socialism och kommunism ÄR ju inte samma sak. Kommunism är en typ av socialism, javisst. Men.. Ja... -->
+>  "Det var ett misstag att göra det och skälet är att kommunismen som begrepp är så belastat att många människor förknippar det med diktatur och förtryck. Att då ta på sig att försöka ändra begreppets innebörd i människors ögon är en fullständigt omöjlig uppgift – särskilt för en partiledare. Jag insåg detta 2005, kanske lite väl sent. Sedan dess använder jag inte begreppet eftersom det leder tankarna fel." [(Lars Ohly, Svenska Dagbladet, 2009)](http://www.svd.se/kallar-du-dig-fortfarande-kommunist-lars-ohly)
+
+<!--Gamla versionen: Om någon kallar sig kommunist, måste denne också vara beredd på att vissa associerar det ordet med folkmord och totalitära regimer. För att undvika liknande jobbigheter kanske han eller hon istället väljer att kalla sig “revolutionär socialist” eller “marxist”, vilket rent teoretiskt betyder ungefär samma sak, men samtidigt inte är lika nedsvärtat med hemska associationer. -->
 
 
 ## Satsers funktion
@@ -150,7 +152,7 @@ Tänk även på att *olika* satser kan uttrycka *samma* påstående. Satsen ”S
 
 Värdepåståenden ses vanligen inte som en viss typ av sakpåstående, utan som en *helt annan kategori*. Sakpåståenden är, åtminstone i princip, falska eller sanna, men värdepåståenden är något knepigare. Dessa är snarare *rimliga* eller *orimliga*. 
 
-Om vi exempelvis påstår att barnaga är fel är detta förvisso ett mycket giltigt påstående, men det är likväl inte ett sakpåstående utan ett värdepåstående. Att det är _fel_ att slå barn är _mycket_ *rimligt* men _inte ett faktum_. Barnaga är fel därför att vi utrett vad en god barnuppfostran _bör_ innebära. Fakta så som vad våld gör mot barns psykiska välmående räcker inte för att vi, per automatik, ska se våldet som _orätt_. Vi måste också _bestämma oss_ för att denna effekt av våldet är något *vi inte önskar*. Vi måste tillskriva dessa fakta ett visst _värde_ (mer om detta i kapitlet "Moralfilosofi"). 
+Om vi exempelvis påstår att barnaga är fel är detta förvisso ett mycket giltigt påstående, men det är likväl inte ett sakpåstående utan ett värdepåstående. Att det är _fel_ att slå barn är _mycket_ *rimligt* men _inte ett faktum_. Barnaga är fel därför att vi utrett vad en god barnuppfostran _bör_ innebära. Fakta så som vad våld gör mot barns psykiska välmående räcker inte för att vi, per automatik, ska se våldet som _orätt_. Vi måste också _bestämma oss_ för att denna effekt av våldet är något *vi inte önskar*. Vi måste tillskriva dessa fakta ett visst _värde_ (mer om detta i momentet "Moralfilosofi"). 
 
 Poängen med att använda ett sådant uppenbart hemskt och vidrigt exempel som barnaga är att ett sådant exempel med all önskvärd tydlighet visar att det _alltid_ är ett tankefel att sammanblanda värdepåståenden med sakpåståenden. Bara för att ett visst värde känns givet och självklart förvandlas det inte till ett fakta.
 

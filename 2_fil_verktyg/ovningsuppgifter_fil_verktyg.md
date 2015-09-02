@@ -8,7 +8,7 @@
 
 
 > **Försök definiera följande begrepp:**  
-> > “Skola”, ”Bok”, "Kärlek", "Frihet"
+> > “Skola”, ”Bok”, "Kärlek", "Frihet" <!--Ha med , ”Rättvisa” här? -->
 
 > **Ge möjliga preciseringar av följande satser:**   
 > > ”Att äta frukost är en bra start på dagen.”
