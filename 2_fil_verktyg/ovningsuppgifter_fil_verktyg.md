@@ -14,7 +14,7 @@
 #### Att göra i grupp...
 
 > **Jämför era definitioner av begreppen**
-> > - Var det lätt eller svårt att definiera begreppen?
+> > - Var det lätt eller svårt att definiera begreppen? Varför? 
 > > - Hur skiljer sig era definitioner åt? Blev de ganska lika eller olika?   
 > > - Vilka definitioner blev bäst? Varför?   
 > > - Kan ni komma på bättre definitioner tillsammans? Går de att kombinera på något sätt? 
