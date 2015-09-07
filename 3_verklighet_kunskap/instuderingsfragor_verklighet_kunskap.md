@@ -15,6 +15,8 @@
 
 ## Instuderingsfrågor
 
+**OBS:** Dessa instuderingsfrågor är just nu under utveckling. Frågor kring vetenskapsfilosofi kommer exempelvis att tillkomma. 
+
 - Vad är metafysik och ontologi?
 	- Vad är monism, dualism och pluralism? 
 - Vad är epistemologi? 

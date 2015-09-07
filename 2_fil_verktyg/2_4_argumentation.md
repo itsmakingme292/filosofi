@@ -71,7 +71,7 @@ Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta efters
 
 <!--Få in ovan att det ofta är mycket svårt att se en argumentations struktur i en redan skriven text och att detta i sig är ett argument för att tänka så här -->
 
-## Fula argumentationsknep, bristande logik & olika typer av irrelevanta argument.
+## Argumentationsfel
 
 När vi argumenterar och diskuterar kan vi ibland hamna i logiska felslut och argumentatoriska fallgropar. Inte minst då vi väldigt gärna vill "vinna" en diskussion. I vissa fall är detta en medveten strategi som innebär att vi använder “fula knep” för att på så vis *låta* mer övertygande – utan att egentligen vara det. Men lika ofta gör vi dessa argumentationsfel omedvetet (utan att vi  tänker på det).
 
