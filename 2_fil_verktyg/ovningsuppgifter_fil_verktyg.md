@@ -92,3 +92,9 @@ Gör denna övningsuppgift tillsammans med en klasskamrat och turas om att förk
 > > 2. Slutledningar där slutsatsen är fel, men premisserna sanna.
 > > 3. Slutledningar där premisserna är sanna och slutsatsen korrekt.
 > > 4. Slutledningar där premisserna är falska och slutsatsen fel.
+
+## Övningsuppgift 8
+
+Diskutera i grupp situationer då ni hört eller läst exempel på olika typer av argumentationsfel. Håller ni med varandra om era kategoriseringar? Är det lätt eller svårt att säga vad som är ett argumentationsfel och inte? Anteckna era exempel och resonera lite kring vilka typer av argumentationsfel som är vanligast förekommande. Fundera också på i vilka situationer olika typer av argumentationsfel uppkommer, samt i vilken utsträckning ni själva gjort er "skyldiga" till dessa.
+
+**Tips:** Använd er av listan över argumentationsmisstag i [argumentationsavsnittet](2_4_argumentation.md) för att ha ett par typer att utgå ifrån. Har ni svårt att komma igång, kan ni även använda resten av internet som inspiration...
