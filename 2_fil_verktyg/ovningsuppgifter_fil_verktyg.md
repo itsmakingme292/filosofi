@@ -22,13 +22,14 @@
 
 ## Övningsuppgift 2
 
-**OBS:** När det gäller preciseringarna, fråga er hela tiden: "men vad menas?" och stanna inte vid första bästa precisering.
+**OBS:** Ni kan givetvis inte veta vad som exakt ska menas med satserna och i detta fall finns det ingen ni kan fråga, använd därför er fantasi och försök ge _flera_ möjliga preciseringar. Försök också göra dessa så _precisa_ ni bara kan (och orkar).
 
 #### Att göra på egen hand
 
 > **Ge möjliga preciseringar av följande satser:**   
+> > "Man borde inte ljuga, men ibland måste man."
 > > ”Att äta frukost är en bra start på dagen.”
-> > ”Att skaffa sig en bra utbildning är viktigt.”  
+> > ”Att skaffa sig en utbildning är viktigt.”  
 
 #### Att göra i grupp...
 
