@@ -22,7 +22,7 @@
 
 ## Övningsuppgift 2
 
-**OBS:** Ni kan givetvis inte veta vad som exakt ska menas med satserna och i detta fall finns det ingen ni kan fråga, använd därför er fantasi och försök ge _flera_ möjliga preciseringar. Försök också göra dessa så _precisa_ ni bara kan (och orkar).
+**OBS:** Använd er fantasi och försök ge _flera_ möjliga preciseringar. Försök också göra dessa så _precisa_ ni bara kan (och orkar).
 
 #### Att göra på egen hand
 
