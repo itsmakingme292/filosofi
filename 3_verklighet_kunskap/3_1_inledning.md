@@ -5,7 +5,7 @@
 
 ## Metafysik & Ontologi
 
-De första och mest fundamentala av frågor som filosofin berör är ofta ontologiska till sin natur. **Ontologin** är nämligen *läran om vad som finns*.  Vår ”egen ontologi” kan därför sägas vara den ”lista” på saker som vi påstår, eller antar, existerar (medvetet eller ej). På någons lista kanske vi finner ”Gud”, på en annans kanske ”bord och stolar”, på en tredje kanske ”själar”, och så vidare. 
+De första och mest fundamentala av frågor som filosofin berör är ofta ontologiska till sin natur. **Ontologin** är nämligen *läran om vad som finns*. Vår ”egen ontologi” kan därför sägas vara den ”lista” på saker som vi påstår, eller antar, existerar (medvetet eller ej). På någons lista kanske vi finner ”Gud”, på en annans kanske ”bord och stolar”, på en tredje kanske ”själar”, och så vidare. 
 
 Denna lista kan i princip bli hur lång som helst och därför kanske vi _exempelvis_ vill anta vissa _kategorier_ av saker eller någon viss, eller några fåtal, mer grundläggande ”sak” som allt i grund och botten består av. 
 
@@ -13,9 +13,9 @@ Det är här metafysiken kommer in.
 
 För om ontologin är ”listan” över det existerande är **metafysiken** läran om hur allt detta hänger samman: hur verkligheten är beskaffad och vad som utgör de grundläggande dragen hos det som existerar. 
 
-Begreppen metafysik och ontologi används ibland på likartade sätt. Men om man ska göra en distinktion dem emellan är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som _behandlar _hur_ saker existerar. 
+Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt. Men om man ska göra en distinktion dem emellan är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
 
-**Kommentar:** Ett exempel på hur det i praktiken är svårt att prata om ontologi utan att tala om metafysik är frågor så som Guds (eventuella) existens och vår (eventuella) fria vilja. Dessa frågor handlar förvisso om enskilda existenser, men de påverkar likväl vår bild av verkligheten på ett sådant fundamentalt sätt att de ändå blir metafysiska. Många filosofer ser därför ontologin som en en _gren_ av metafysiken.
+**Kommentar:** Ett exempel på hur det i praktiken är svårt att prata om ontologi utan att tala om metafysik är frågor så som Guds (eventuella) existens och vår (eventuella) fria vilja. Dessa frågor handlar förvisso om enskilda existenser, men de påverkar likväl vår bild av verkligheten på ett sådant fundamentalt sätt att de ändå blir metafysiska.
 
 
 <!--%% Hur sakerna (ontologin) hänger samman -->
