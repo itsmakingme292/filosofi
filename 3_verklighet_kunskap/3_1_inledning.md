@@ -13,9 +13,10 @@ Det är här metafysiken kommer in.
 
 För om ontologin är ”listan” över det existerande är **metafysiken** läran om hur allt detta hänger samman: hur verkligheten är beskaffad och vad som utgör de grundläggande dragen hos det som existerar. 
 
-Begreppen metafysik och ontologi används ibland på likartade sätt. Men om man ska göra en distinktion dem emellan är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som behandlar _hur_ saker existerar. Med andra ord talar vi alltid om ontologi när vi talar om metafysik, men inte nödvändigtvis om metafysik när vi talar om ontologi. 
+Begreppen metafysik och ontologi används ibland på likartade sätt. Men om man ska göra en distinktion dem emellan är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som _behandlar _hur_ saker existerar. 
 
-**Kommentar:** Ett exempel på hur det i praktiken ofta är svårt att tala om ontologi utan att tala om metafysik är frågor så som Guds (eventuella) existens och vår (eventuella) fria vilja. Dessa frågor handlar förvisso om enskilda existenser, men de påverkar likväl vår bild av verkligheten på ett sådant fundamentalt sätt att de ändå anses vara metafysiska. 
+**Kommentar:** Ett exempel på hur det i praktiken är svårt att prata om ontologi utan att tala om metafysik är frågor så som Guds (eventuella) existens och vår (eventuella) fria vilja. Dessa frågor handlar förvisso om enskilda existenser, men de påverkar likväl vår bild av verkligheten på ett sådant fundamentalt sätt att de ändå blir metafysiska. Många filosofer ser därför ontologin som en en _gren_ av metafysiken.
+
 
 <!--%% Hur sakerna (ontologin) hänger samman -->
 
