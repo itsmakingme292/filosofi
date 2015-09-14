@@ -1,17 +1,17 @@
 # Preliminär planering
 
 
-## Filosofi 1
+## Filosofi 1 – 50p, HT
 
 1. Introduktion
 2. Filosofins verktyg
 3. Verklighet & kunskap
-	* Samt eventuell kortare del om vetenskap
-	* Seminarium eller hemtenta
+	* Seminarium
 4. Moralfilosofi
-	* Hemtenta samt ev. förberedande grupparbete eller seminarium
-5. Eventuell kortare del om politisk filosofi
+	* Hemtenta
+<!--5. Eventuell kortare del om politisk filosofi -->
 
+**Kommentar:** Delmoment 1 och 2 har ej någon examinerande del, men de är likväl viktiga. Det vi gör under introduktionen och filosofins verktyg tar ni givetvis med er under de följande delmomenten. 
 
 **Notera att:** Kursens upplägg är preliminärt och delmomentens innehåll kan komma att ändras. Denna wiki uppdateras kontinuerligt – och utifrån feedback från er. 
 
