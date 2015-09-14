@@ -13,7 +13,9 @@ Det är här metafysiken kommer in.
 
 För om ontologin är ”listan” över det existerande är **metafysiken** läran om hur allt detta hänger samman: hur verkligheten är beskaffad och vad som utgör de allra mest grundläggande dragen hos det som existerar. 
 
-Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt. Men om man ska göra en distinktion dem emellan är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
+**Kommentar:** En uppdelning där vi har två olika kategorier av saker kallar vi för en _dualism_. Det vanligaste exemplet på en sådan är "kropp och själ"-dualism. Är vi denna typ av dualist tänker vi att det dels finns en materiell (fysisk) verklighet men också en immateriell (själslig) verklighet. 
+
+Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
 
 **Kommentar:** Ett exempel på hur det i praktiken är svårt att prata om ontologi utan att tala om metafysik är frågor så som Guds (eventuella) existens och vår (eventuella) fria vilja. Dessa frågor handlar förvisso om enskilda existenser, men de påverkar likväl vår bild av verkligheten på ett sådant fundamentalt sätt att de ändå blir metafysiska.
 
@@ -26,11 +28,11 @@ Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begr
 
 När vi når fram till **epistemologin** frågar vi oss till sist om  vår möjlighet till kunskap om allt detta som vi antar existerar. Om *vad* vi kan veta, *hur* vi kan veta detta och vart den slutgiltiga *gränsen* för vår kunskap går. Epistemologi är således ett finare ord för *kunskapsfilosofi* eller *kunskapsteori*. 
 
-Metafysik och epistemologi hänger emellertid samman. Vi kan inte anta att något existerar om vi inte vet någonting om detta ”något”: vi måste ha någon sorts anledning att tro att detta ”något” existerar. Likaså kan vi inte ha kunskap om något vi inte tror existerar: att säga sig ha kunskap om något är alltid att anta en viss sorts existens. Vidare är det lika mycket metafysik som epistemologi att tala om den mänskliga ”kunskapsapparaten”: om man påstår något om vår förmåga till kunskap påstår man också något om vår grundläggande *natur*. 
+Metafysik och epistemologi hänger emellertid samman. Vi kan inte anta att något existerar om vi inte vet någonting om detta ”något”: vi måste ha någon sorts anledning att tro att detta ”något” existerar. Likaså kan vi inte ha kunskap om något vi inte tror existerar: att säga sig ha kunskap om något är alltid att anta en viss sorts existens. Vidare är det lika mycket metafysik som epistemologi att tala om den mänskliga ”kunskapsapparaten” – om man påstår något om vår förmåga till kunskap påstår man också något om vår grundläggande *natur*. 
 
 Det är kort sagt väldigt svårt att tala om epistemologi utan att på något sätt komma in på metafysik. 
 
-Och på samma sätt som det är svårt att hålla isär epistemologin från metafysiken är det inte alltid så lätt att hålla isär frågor om vad som är verkligt, vad som är kunskap och vad som är sant. Dessa frågor hänger samman och dess svar förutsätter varandra. Vilken syn vi har på verkligheten får effekter på vilken syn vi har på kunskapen och vilken syn vi har på kunskapen får effekter på vilken syn vi har på sanning – och vice versa. Det går helt enkelt inte att dra skarp gräns för när vi talar om det ena och när vi talar om det andra. 
+Frågor om vad som är verkligt, vad som är kunskap och vad som är sant hänger samman och våra potentiella svar förutsätter varandra. Vilken syn vi har på verkligheten får effekter på vilken syn vi har på kunskapen och vilken syn vi har på kunskapen får effekter på vilken syn vi har på sanning – och vice versa. Det går helt enkelt inte att dra skarp gräns för när vi talar om det ena och när vi talar om det andra. 
 
 <!--För enkelhetens skull måste det dock ske någon slags uppdelning när man ska tala om saker. Denna uppdelning är dock aldrig särskilt given. Det sätt på vilket vi delar upp dessa frågor bör man därför förhålla sig vaksam till.  -->
 
