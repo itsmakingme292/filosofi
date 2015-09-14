@@ -42,4 +42,4 @@ Det sagt kommer vi under detta moment bara att skrapa på ytan. Språk, logik oc
 
 ## [Frågeformulär]
 
-<iframe src="https://docs.google.com/forms/d/1_cEeBAuZDPM6HctHabdKtt_UX-6xce41bQr4MfwXiTo/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1_cEeBAuZDPM6HctHabdKtt_UX-6xce41bQr4MfwXiTo/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

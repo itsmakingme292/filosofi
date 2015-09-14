@@ -219,4 +219,4 @@ Eftersom vår tolkning alltid är beroende av vad vi tror om talarens intentione
 
 ## [Frågeformulär]
 
-<iframe src="https://docs.google.com/forms/d/1cfMFrjT71V8CCKCMCIMnktOQkWXZd4hxefvNtN_OxBk/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1cfMFrjT71V8CCKCMCIMnktOQkWXZd4hxefvNtN_OxBk/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

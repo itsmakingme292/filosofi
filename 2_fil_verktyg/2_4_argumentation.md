@@ -215,4 +215,4 @@ Så använd det väl!
 
 ## [Frågeformulär] 
 
-<iframe src="https://docs.google.com/forms/d/14bKEVfUJV9OPYs0_vJYuPmvEvpwTL_pRsjkbXd0AHYA/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/14bKEVfUJV9OPYs0_vJYuPmvEvpwTL_pRsjkbXd0AHYA/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

@@ -56,4 +56,4 @@ Märk väl att detta inte innebär att exempelvis en lögn blir sann bara för a
 
 ## [Frågeformulär]
 
-<iframe src="https://docs.google.com/forms/d/1NRQFa5R2TsqpDSomT13W5KtSlrC26oG51-inGWLoRbA/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1NRQFa5R2TsqpDSomT13W5KtSlrC26oG51-inGWLoRbA/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

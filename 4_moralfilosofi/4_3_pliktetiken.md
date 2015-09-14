@@ -82,4 +82,4 @@ Pliktetikens goda vilja ”skiner som en juvel”, men hur mycket är den egentl
 
 ## [Frågeformulär] 
 
-<iframe src="https://docs.google.com/forms/d/1NENvkauiQAlTVJlfNtw9GzkiMIqr5YOb6KFyOTbIhFc/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1NENvkauiQAlTVJlfNtw9GzkiMIqr5YOb6KFyOTbIhFc/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

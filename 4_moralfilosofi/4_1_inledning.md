@@ -113,4 +113,4 @@ Det sagt spelar fakta en mycket stor roll för våra moralfilosofiska omdömen. 
 
 ## [Frågeformulär]
 
-<iframe src="https://docs.google.com/forms/d/1IfV42PSSCOJqZ0qV-qR8fjjTNF4LrdaWnrjgt43q8tw/viewform?embedded=true" width="760" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1IfV42PSSCOJqZ0qV-qR8fjjTNF4LrdaWnrjgt43q8tw/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
