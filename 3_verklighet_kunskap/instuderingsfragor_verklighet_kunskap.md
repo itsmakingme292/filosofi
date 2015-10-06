@@ -14,7 +14,7 @@
 
 ## Instruktioner
 
-1. Inför detta seminarium kommer ni att få lektionstid till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. 
+1. Inför detta seminarium kommer ni att få lektionstid till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. Kom gärna även på studiepass för extra hjälp. 
 
 2. Följ i första hand ovanstående läsanvisningar, era lektionsanteckningar samt den text jag skrivit under detta delmoment, men titta gärna också på andra källor och jämför. 
 
@@ -131,4 +131,25 @@ http://plato.stanford.edu/
 
 > **Internet Encyclopedia of Philosophy**
 http://www.iep.utm.edu/
+
+## Datum, tider och grupper
+
+Datum: 
+
+* Se datum i provschemat på Schoolsoft
+* Meddelande om gruppindelning kommer cirka en vecka innan första seminarietillfället. 
+* För SA13mfl-gruppen kommer vi att gå förlänga lektionstiden för de två tillfällen då vi har seminarium.
+* För EK13-gruppen kommer vi utöver de lektionstillfällen som är ute på provschemat lägga till tid under studiepass (eller liknande).
+* Den tid andra grupper än ens egen har seminarium är man ledig.
+
+Tid och antal elever per grupp:
+
+* ca 4-5 elever per grupp
+* ca 40 minuter per grupp
+
+
+
+**LYCKA TILL!**
+
+/ Fredrik
 
