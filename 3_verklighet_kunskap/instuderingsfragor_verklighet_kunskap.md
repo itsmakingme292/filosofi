@@ -1,4 +1,4 @@
-# Instuderingsfrågor & Läsanvisningar
+# Seminarium: Läsanvisningar & Instuderingsfrågor
 
 ## Läsanvisningar
 
@@ -10,20 +10,39 @@
 * **129-143**: Vetenskapen
 * **167-170:** Sanning
 
-**Info:** På sikt kommer ovanstående att ersättas med material här på denna wiki. Men de delar jag har är ännu inte tillräckliga för att kunna ersätta kursboken. 
+**Info:** På sikt kommer ovanstående att ersättas med material här på denna wiki. Men inte under detta läsår. 
+
+## Instruktioner
+
+1. Inför detta seminarium kommer ni att få lektionstid till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. 
+
+2. Följ i första hand ovanstående läsanvisningar, era lektionsanteckningar samt den text jag skrivit under detta delmoment, men titta gärna också på andra källor och jämför. 
+
+3. Under ert arbete förbereder ni anteckningar med stolpar över sådant ni funnit intressant och viktigt. Det är här viktigt att ni verkligen försöker utveckla era egna resonemang, tankar, argument och idéer. Dessa anteckningar har ni sedan som stöd inför era förberedelser, men ni får inte ta med dem till seminariet.
+
+4. Under seminariet kommer jag att ställa frågor, men  diskussionen är delvis fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som möjligt. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att instuderingsfrågorna är ett underlag och att ni gärna får tänka utanför dem, samt att inte alla instuderingsfrågor kan ges samma utrymme (om alls).
+
+
+#### För ett högre omdöme gäller det att du i hög grad
+
+1. Uttrycker dina kunskaper i ämnet med säkerhet och i detta redovisar relevanta delar på ett utförligt och nyanserat sätt.
+
+2. Tar ett stort eget ansvar för efterforskningar i ämnet, formulerar dig självständigt utifrån de källor som du använt, samt för dina egna och väl genomtänka resonemang.
+
+3. Ger intressanta infallsvinklar och driver diskussionen framåt, samt argumenterar på ett tydligt, hållbart och relevant sätt.
 
 
 ## Instuderingsfrågor
 
-**OBS:** Dessa instuderingsfrågor är just nu under utveckling. Frågor kring vetenskapsfilosofi kommer exempelvis att tillkomma. 
+**Tips:** Läs först igenom alla instuderingsfrågor och lägg upp en strategi för hur du tänker jobba med dem. Det är exempelvis inte nödvändigt att göra dem i samma ordning som de står i här. 
 
 - Vad är metafysik och ontologi?
-	- Vad är monism, dualism och pluralism? 
+	- Vad är monism, dualism och pluralism?
+		- Ge ett exempel på en dualism 
+	- Vad är materialism/fysikalism? 
 - Vad är epistemologi? 
+	- Vilka frågor berör epistemologi?
 	- Hur ser du att epistemologi hänger ihop med metafysik? 
-- Vad är materialism/fysikalism? 
-	- Gällande vilken fråga uppstår flest invändningar mot denna?
-
 - Vad är den klassiska definitionen av kunskap?  
 	- Vilka är dess tre kriterier och vad innebär dessa?
 		- Varför kan en dator eller en bok inte "ha kunskap"? Vad kan de ha istället?
@@ -37,7 +56,9 @@
 - Vad är fallibilism? 
 	- På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika? 
 - Beskriv pragmatismens syn på sanning och kunskap.
-	- På vilket sätt är denna närbesläktad med fallibilismen? 
+	- På vilket sätt är denna närbesläktad med fallibilismen?
+- Vad är empirism och vad är rationalism?
+	- Vilka av filosoferna Platon, Locke, Descartes och Hume är rationalister och vilka av dem är empirister? Hur då? 
 
 
 - Hur skiljer sig idealism från realism?
@@ -46,11 +67,10 @@
 	- Platon är främst en viss typ av idealist, men också en viss typ av realist. Vilka?
 - Vad är solipsism?
 	- På vilket sätt är denna rimlig? På vilket sätt är den orimlig?
-	- Är solipsism en typ av idealism eller en typ av realism? Varför?
-- Vad är empirism och vad är rationalism?
-	- Vilka av filosoferna Platon, Locke, Descartes och Hume är rationalister och vilka av dem är empirister? 
+	- Är solipsism en typ av idealism eller en typ av realism? Varför? 
+
 - Beskriv Kants uppdelning av världen/tingen och hans syn på människans förmåga till kunskap. 
-	- Var Kant realist eller idealist?
+	- Var Kant realist eller idealist? Vilken typ och varför?
 	- Vilken roll spelar Kants kategorier och vilka är de två mänskliga åskådningsformerna?
 	- På vilket sätt kan man säga att Kant löser upp den gamla skiljelinjen mellan rationalism och empirism? 
 	- På vilket sätt kan Kant sägas stå för en objektiv kunskapsuppfattning och på vilket sätt kan han sägas stå för en relativ? Hur kommer det sig att båda tolkningar är möjliga?
@@ -63,115 +83,38 @@
 - Vad kallas de två världarna hos Platon och i vilken av dessa finner vi kunskapen?
 	- Hur ser Platon på kunskap och förhållandet mellan sinnevärlden och idévärlden? 
 		- Vad betyder det exempelvis att sinnevärldens ting är förgängliga och på vilket sätt kontrasterar detta mot idévärlden?
-	
- 
+
+* Vad är skillnaden mellan verifikationism och falsifikationism?
+	* Hur menar Popper att vetenskap kännetecknas av falsifierbarhet snarare än verifikation? Varför är detta en viktig fråga för Popper? 
+	* Hur hänger falsifikationism ihop med fallibilism? 
+* Vilken syn på vetenskap och filosofi har den logiska positivismen? 
+	* Hur tänker du själv här? Vad är ett meningsfullt påstående? 
+* Vad är Kuhns syn på vetenskapen? 
+	* Vad innebär det att vetenskapen är paradigmatisk? 
+	* På vilket sätt är paradigmen ojämförbara? 
+
+- Vilken syn på verklighet, sanning och kunskap har du? 
+	- Hur står du i relation till filosoferna och de olika filosofiska ismerna?
+	- Är du relativist eller objektivist? Varför? 
+		- Vilken typ av relativist eller objektivist? Eller om du vill du inta en tredje position: hur ser i så fall denna ut? 
+		- Hur hänger detta samman med din syn på verkligheten?
+	- Hur ser du på kunskapens källa? Hur får vi kunskap? Lutar du mer åt rationalism eller empirism? Varför? 
+	- Hur tänker du kring kunskapens säkerhet? Kan vi någonsin veta att vi har sann kunskap? Är detta ett problem? 
 
 
-<!--ovanstående är direkt taget från sista versionen av mina seminarie-lappar -->
+<!--Frågor som är borttagna
 
-<!--Frågor som var borttagna från seminariet 
+* Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
 
-(OBS, vissa har jag lagt till igen, se skiss på nya lappar eller liknande i min mapp med filosofi-filer)
-
-
-
-
-
-
-Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
+- Vad är materialism/fysikalism? 
+	- Gällande vilken fråga uppstår ibland invändningar mot denna?
 
  -->
 
 
-<!-- **GAMLA instuderingsfrågorna** 
+## Tips på ev. vidare läsning
 
-## Instuderingsfrågor
-
-- Vad är metafysik och ontologi? 
-
-- Vad är epistemologi?
-
-- Hur ser du att de ovanstående filosofiska ämnesområdena hänger samman?
-
-- Vad är materialism/fysikalism?
-
-- Vad är monism, dualism och pluralism?
-
-- Hur skiljer sig idealism från realism?
-
-- Vad är skillnaden mellan objektiv, subjektiv och kritisk idealism?
-
-- Vad är solipsism?
-
-- Vad är den klassiska definitionen av kunskap? Vilka är dess tre kriterier och vad innebär dessa?
-
-- Varför kan en dator eller en bok inte ”ha kunskap” men däremot innehålla information?
-
-- Beskriv Getters invändning mot den klassiska definitionen av kunskap.
-
-- Vad är det att nå kunskap enligt Platon?
-
-- Hur ser Platon på förhållandet mellan sinnevärlden och idévärlden och vice versa?
-
-- Vad betyder det att sinnevärldens ting är förgängliga? På vilket sätt kontrasterar detta mot idévärlden hos Platon?
-
-- På vilket sätt är Platon en objektiv idealist och i vilken bemärkelse är han en särskild typ av realist?
-
-- Beskriv Kants uppdelning av världen och hans syn på människans förmåga till kunskap.
-
-- Vad menar Kant med de mänskliga åskådningsformerna och kategorierna?
-
-- Nämn de mänskliga åskådningsformerna och någon av kategorierna hos Kant.
-
-- På vilket sätt kan man säga att Kant löser upp den gamla skiljelinjen mellan rationalism och empirism?
-
-- På vilket sätt kan Kant sägas stå för en objektiv kunskapsuppfattning och på vilket sätt kan han sägas stå för en relativ? Hur kommer det sig att båda tolkningar är möjliga?
-
-- Vad är skillnaden mellan naiv och kritisk realism?
-
-- Vad är skillnaden mellan primära och sekundära egenskaper enligt Locke?
-
-- Hur resonerar Locke kring medfödd kunskap?
-
-- Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
-
-- Hur skiljer sig objektivism från relativism? Vart finner vi sanningen?
-
-- Vad finns det för några olika typer av relativism?
-
-- Vad är absolutism?
-
-- Vad är fallibilism?
-
-- Vad är skepticism?
-
-- Hur använde Descartes skepticismen?
-
-- Vad gjorde Hume till en skeptiker?
-
-- På vilka sätt kan man vara skeptiker?
-
-- På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika?
-
-- Vad är empirism och vad är rationalism?
-
-- Vad anser du själv om den huvudsakliga källan till kunskap?
-
-- På vilket sätt är Hume en extrem empirist?
-
-- Vad betyder ”cogito ergo sum”, hur använder Descartes tanken på en ond ande/demon och på vilket sätt spelar Gud en roll i allt detta?
-
-- Beskriv pragmatismens syn på sanning och kunskap.
-
-- Vilken syn på verklighet, sanning och kunskap har du? Hur hänger denna ihop med filosoferna och de olika filosofiska ismerna?
-
-- Är du relativist eller objektivist? Varför? Vilken typ av relativist eller objektivist? Eller vill du inta en tredje position? Hur ser i så fall denna ut? Och hur hänger detta samman med din syn på verkligheten?
-
--->
-
-## Ev. vidare läsning
-
- #### På svenska
+#### På svenska
 
 > **Wikipedia**
 > Det går att söka på flesta begreppen, ismerna och filosoferna på svenska wikipedia. Om man behärskar det engelska språket är allt som oftast dock den engelska varianten något matigare.
@@ -183,8 +126,9 @@ http://www.filosofi.gotland.se/kunskaps.htm
 
 #### På engelska
 
+> **Stanford Encyclopedia of Philosophy**
+http://plato.stanford.edu/
+
 > **Internet Encyclopedia of Philosophy**
 http://www.iep.utm.edu/
 
-> **Stanford Encyclopedia of Philosophy**
-http://plato.stanford.edu/

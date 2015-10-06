@@ -36,7 +36,7 @@
   * [Inledande diskussionsunderlag](3_verklighet_kunskap/diskussion_verklighet_kunskap.md)
   - - - -
   * # Examinerande moment
-  * [Läsanvisningar & Instuderingsfrågor](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
+  * [Seminarium: Läsanvisningar & Instuderingsfrågor](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
   
 [Moralfilosofi]()
 
