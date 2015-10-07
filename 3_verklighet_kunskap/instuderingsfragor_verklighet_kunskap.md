@@ -51,8 +51,10 @@
 	- Vad är absolutism?
 - Vad är skepticism?
 	- Vad gjorde Hume till en skeptiker och en extrem empirist? Vad kan vi veta? Vad kan vi inte veta?
-	- Vad kallas Descartes särskilda form av skepticism och varför kallas den så? 
-		- Vad betyder ”cogito ergo sum”, hur använder Descartes tanken på en ond ande/demon, och på vilket sätt spelar Gud en roll i allt detta? 
+	- Vad kallas Descartes särskilda form av skepticism, varför kallas den så och varför är den egentligen inte en skepticism? 
+		- Vad betyder ”cogito ergo sum” och vad menas? 
+		- Hur använder Descartes tanken på en ond ande/demon?
+		- På vilket sätt spelar Gud en roll i allt detta? 
 - Vad är fallibilism? 
 	- På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika? 
 - Beskriv pragmatismens syn på sanning och kunskap.
