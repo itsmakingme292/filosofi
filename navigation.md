@@ -31,6 +31,7 @@
   * [2. Verklighet](3_verklighet_kunskap/3_2_verkligheten.md)
   * [3. Kunskap & Sanning](3_verklighet_kunskap/3_3_kunskap_sanning.md)
   * [4. Vetenskap](3_verklighet_kunskap/3_4_vetenskapen.md)
+  * [5. Filosoferna](3_verklighet_kunskap/3_5_filosoferna.md)
 
   - - - -
   * [Inledande diskussionsunderlag](3_verklighet_kunskap/diskussion_verklighet_kunskap.md)
@@ -52,9 +53,9 @@
   * # Examinerande moment
   * [Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md)
     
-[Politisk filosofi]()
+[Länktips]()
 
-  * # ...
+  * [Encyklopedier, filmer, m.m.](x_lankar/lanklista.md)
 
 [Filosofi 2]()
 

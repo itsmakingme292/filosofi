@@ -116,23 +116,7 @@
 
 ## Tips på ev. vidare läsning
 
-#### På svenska
-
-> **Wikipedia**
-> Det går att söka på flesta begreppen, ismerna och filosoferna på svenska wikipedia. Om man behärskar det engelska språket är allt som oftast dock den engelska varianten något matigare.
-
-> **Filosofi Gotland**
-http://www.filosofi.gotland.se/kunskaps.htm
-(klicka dig vidare på de olika filosoferna)
-
-
-#### På engelska
-
-> **Stanford Encyclopedia of Philosophy**
-http://plato.stanford.edu/
-
-> **Internet Encyclopedia of Philosophy**
-http://www.iep.utm.edu/
+[Se länklista här](../x_lankar/lanklista.md)
 
 ## Datum, tider och grupper
 
