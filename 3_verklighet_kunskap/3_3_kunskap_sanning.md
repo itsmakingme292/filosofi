@@ -30,7 +30,7 @@ Vad gäller den andra frågan står den vanligaste skiljelinjen mellan de som an
 
 ## Objektivism
 
-**Absolutismen** är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt.  Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
+**Absolutismen** är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt. Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
 
 Absolutismen är dock inte den enda formen av objektivism. För även om vi resonerar som så att en objektiv sanning förmodligen existerar, så kan vi likväl samtidigt resonera som så att det är mycket svårt, eller rent av omöjligt, att helt och fullt *nå insikt* om denna sanning. 
 
@@ -39,6 +39,8 @@ Absolutismen är dock inte den enda formen av objektivism. För även om vi reso
 Anledningen till varför det ändå kan vara på sin plats att göra en distinktion mellan ren absolutism och objektivism är dock att vi kan anta olika ståndpunkter där vi förvisso erkänner att sanning är objektiv men samtidigt också att vi aldrig kan vara så säkra på just vilken den är.--> 
 
 Enligt **fallibilismen** är verklig kunskap alltid objektivt sann, men huruvida vi själva besitter denna kan vi däremot aldrig veta med säkerhet. Den mänskliga kunskapen är både osäker/felbar och temporär/provisorisk. Samtidigt ska vi inte frestas att inta en relativistisk ståndpunkt. All tro är varken lika berättigad eller lika sann. Och inte heller ska vi passiviseras av skepticism. Även om vi alltid bör förbli skeptiska, kan vi nå framsteg i vår kunskap. 
+
+<!--Få in något om skepticism här och hur fallibilism kan ses som en typ av skepticism, men att den ändå skiljer sig från den mer rena formen av skepticism. Kanske ska nedanstående med allt för tydlig koppling till falsifikationism tas bort eller så får kopplingen göras explicit -->
 
 Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen. Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. En hypotes som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa. 
 

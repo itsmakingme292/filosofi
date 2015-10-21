@@ -15,12 +15,11 @@ För om ontologin är ”listan” över det existerande är **metafysiken** lä
 
 **Kommentar:** _Monism_ innebär att det bara existerar en typ av saker som verkligheten består av, ett exempel på detta är materialism (se sid. 19 i boken). En uppdelning där vi har två olika kategorier av saker kallar vi för en _dualism_. Det vanligaste exemplet på en sådan är "kropp och själ"-dualism. Är vi denna typ av dualist tänker vi att det dels finns en materiell (fysisk) verklighet men också en immateriell (själslig) verklighet. _Pluralism_ innebär att det finns flera olika kategorier av saker som verkligheten i grund och botten består av. 
 
-Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt eller rentav synonymt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
+Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt eller rentav synonymt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den _kan_ behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
 
-<!--Få in någon kritik av metafysiken här? -->
+<!--Få in någon kritik av metafysiken här? Och kanske ta bort nedanstående? Eller kanske inte -->
 
 **Kommentar:** Ett exempel på hur det i praktiken är svårt att prata om ontologi utan att tala om metafysik är frågor så som Guds (eventuella) existens och vår (eventuella) fria vilja. Dessa frågor handlar förvisso om enskilda existenser, men de påverkar likväl vår bild av verkligheten på ett sådant fundamentalt sätt att de ändå blir metafysiska.
-
 
 <!--%% Hur sakerna (ontologin) hänger samman -->
 
