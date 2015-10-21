@@ -11,18 +11,20 @@ Denna lista kan i princip bli hur lång som helst och därför kanske vi _exempe
 
 Det är här metafysiken kommer in. 
 
-För om ontologin är ”listan” över det existerande är **metafysiken** läran om hur allt detta hänger samman: hur verkligheten är beskaffad och vad som utgör de allra mest grundläggande dragen hos det som existerar. 
+För om ontologin är ”listan” över det existerande är **metafysiken** läran om hur allt detta hänger samman: hur verkligheten är beskaffad och vad som utgör de allra mest grundläggande dragen hos det som existerar. Ordet "meta" i "metafysik" betyder "bortom" eller "underliggande". Metafysiken behandlar alltså frågan om hur saker existerar oberoende av vår (direkta) upplevelse av dem, vad som finns bortom det vi upplever med våra sinnen. 
 
 **Kommentar:** _Monism_ innebär att det bara existerar en typ av saker som verkligheten består av, ett exempel på detta är materialism (se sid. 19 i boken). En uppdelning där vi har två olika kategorier av saker kallar vi för en _dualism_. Det vanligaste exemplet på en sådan är "kropp och själ"-dualism. Är vi denna typ av dualist tänker vi att det dels finns en materiell (fysisk) verklighet men också en immateriell (själslig) verklighet. _Pluralism_ innebär att det finns flera olika kategorier av saker som verkligheten i grund och botten består av. 
 
-Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
+Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt eller rentav synonymt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den kan behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
+
+<!--Få in någon kritik av metafysiken här? -->
 
 **Kommentar:** Ett exempel på hur det i praktiken är svårt att prata om ontologi utan att tala om metafysik är frågor så som Guds (eventuella) existens och vår (eventuella) fria vilja. Dessa frågor handlar förvisso om enskilda existenser, men de påverkar likväl vår bild av verkligheten på ett sådant fundamentalt sätt att de ändå blir metafysiska.
 
 
 <!--%% Hur sakerna (ontologin) hänger samman -->
 
-**OBS:** Metafysik ska inte blandas ihop med fysik/naturvetenskapen. Metafysiken tar vid där andra vetenskaper slutar. Det sagt kan _teoretisk fysik_ sägas befinna sig i gränslandet mellan naturvetenskap och filosofi.
+**OBS:** Metafysik ska inte blandas ihop med fysik/naturvetenskapen. Metafysiken tar vid där andra vetenskaper slutar. Det sagt kan _teoretisk fysik_ sägas befinna sig i gränslandet mellan naturvetenskap och filosofi. 
 
 ## Epistemologi
 
