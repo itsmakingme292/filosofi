@@ -30,7 +30,7 @@ Vad gäller den andra frågan står den vanligaste skiljelinjen mellan de som an
 
 ## Objektivism
 
-En objektivistisk syn på kunskap/sanning innebär att det finns något som är sant oberoende av våran subjektiva uppfattning och att två helt motstridiga påståenden inte samtidigt kan vara (lika) sanna. 
+En objektivistisk syn på kunskap/sanning innebär att det finns något som är sant oberoende av våran subjektiva uppfattning och att två helt motstridiga påståenden inte samtidigt kan vara lika sanna. 
 
 **Absolutismen** är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt. Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
 
