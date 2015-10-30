@@ -63,6 +63,9 @@ http://www.vux-gotland.se/filosofi/
 **Gymnasiefilosofi** (på svenska)
 http://gymnasiefilosofi.se
 
+**Filosofilärarnas förening** (på svenska)
+www.filosofilararna.se
+
 ## Övrigt
 
 **Philosophical Health Check**
