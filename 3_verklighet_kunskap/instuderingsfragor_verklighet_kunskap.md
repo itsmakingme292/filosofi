@@ -20,9 +20,9 @@
 
 3. Under ert arbete förbereder ni anteckningar med stolpar över sådant ni funnit intressant och viktigt. Det är här viktigt att ni verkligen försöker utveckla era egna resonemang, tankar, argument och idéer. Dessa anteckningar har ni sedan som stöd inför era förberedelser. 
 
-4. Det är tillåtet att ta med sig  stödanteckningar till seminariet, men ta inte med er samtliga anteckningar från era  förberedelser, utan försök snarare få fram ett antal punkter ni finner intressanta och vill ta upp under seminariet. Stödanteckningarna ska inte vara ett alternativ till att inte ha läst på ordentligt. Läser man innantill drar detta givetvis ner omdömet. 
+4. Det är tillåtet att ta med sig stödanteckningar till seminariet, men ta inte med er samtliga anteckningar från era  förberedelser, utan försök snarare få fram ett antal punkter ni finner intressanta och vill ta upp under seminariet. Stödanteckningarna ska inte vara ett alternativ till att inte ha läst på ordentligt. Läser man innantill drar detta givetvis ner omdömet. 
 
-4. Under seminariet kommer jag att ställa frågor, men  diskussionen är delvis fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som möjligt. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att instuderingsfrågorna är ett underlag och att ni gärna får tänka utanför dem, samt att inte alla instuderingsfrågor kan ges samma utrymme (om alls).
+4. Under seminariet kommer jag att ställa frågor om så behövs, men diskussionen är delvis fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som möjligt. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att instuderingsfrågorna endast är ett underlag och att ni därför bör tänka utanför dem, samt att inte alla frågor kan ges samma utrymme (om alls). 
 
 
 #### För ett högre omdöme gäller det att du i hög grad
@@ -36,7 +36,7 @@
 
 ## Instuderingsfrågor
 
-**Tips:** Läs först igenom alla instuderingsfrågor och lägg upp en strategi för hur du tänker jobba med dem. Det är exempelvis inte nödvändigt att göra dem i samma ordning som de står i här. 
+**Tips:** Läs först igenom alla instuderingsfrågor och lägg upp en strategi för hur du tänker jobba med dem. Det är exempelvis inte nödvändigt att göra dem i samma ordning som de står i här. Fundera under dina förberedelser också på olika sätt som nedanstående frågor hänger ihop.
 
 - Vad är metafysik och ontologi?
 	- Vad är monism, dualism och pluralism?
@@ -115,7 +115,6 @@
 	- Gällande vilken fråga uppstår ibland invändningar mot denna?
 
  -->
-
 
 ## Tips på ev. vidare läsning
 
