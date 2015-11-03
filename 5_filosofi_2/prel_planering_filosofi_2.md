@@ -22,8 +22,7 @@ Jag är öppen för önskemål, men filosofer jag tänker vi kan läsa originalt
 * Marx
 
 ## Del 2: Fördjupning verklighet och kunskap
-
-Vi börjar denna del med gemensam läsning av utdrag från originaltexter och har mini-seminarier om dessa. Detta följer vi sedan upp med en valfri fördjupning i någon eller några filosofer, ismer, filosofiska frågor eller liknande. Under arbetet med er valda fördjupning ges ni var och en, eller i grupp, handledning under lektionstid. Precis som på föregående moment är inlämning den examinerande delen men mini-seminarierna ligger också till grund för min bedömning.
+För denna del har vi redan lagt grunden under filosofi 1 och vi börjar därför direkt med gemensam läsning av utdrag från originaltexter och har mini-seminarier om dessa. Detta följer vi sedan upp med en valfri fördjupning i någon eller några filosofer, ismer, filosofiska frågor eller liknande. Under arbetet med er valda fördjupning ges ni var och en, eller i grupp, handledning under lektionstid. Precis som på föregående moment är inlämning den examinerande delen men mini-seminarierna ligger också till grund för min bedömning.
 
 Jag är öppen för önskemål, men filosofer jag tänker vi kan läsa originaltexter av under denna del är exempelvis:
 
@@ -35,4 +34,4 @@ Jag är öppen för önskemål, men filosofer jag tänker vi kan läsa originalt
 
 ## Del 3?
 
-I mån av tid hinner vi möjligen med en tredje del, men inte om det sker på bekostnad av läsningen och fördjupningen i de föregående delarna. Denna tredje del kommer isf förmodligen vara en fördjupning i moralfilosofi och kanske någon mer specifik etisk fråga. Diskuterar gärna vad ni tänker om detta.
+I mån av tid hinner vi möjligen med en tredje del, men inte om det sker på bekostnad av läsningen och fördjupningen i de föregående delarna. Denna tredje del kommer isf förmodligen vara en fördjupning i moralfilosofi och kanske någon mer specifik etisk fråga. Diskuterar gärna vad ni tänker om detta med mig. 
