@@ -3,7 +3,7 @@
 
 ## Instruktioner
 
-Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan användas för att analysera en valfri etisk fråga. I detta ska du på **max 3 A4**:
+Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan användas för att analysera en valfri etisk fråga. I detta ska du:
 
 1. **Diskutera vad teorierna har (eller borde ha) att säga om den etiska frågan.** Hur kan frågan analyseras utifrån teorierna? Vilka är de möjliga alternativen/positionerna här och varför? Vart går skiljelinjerna? Såväl inom varje etik, som mellan dem.
 
