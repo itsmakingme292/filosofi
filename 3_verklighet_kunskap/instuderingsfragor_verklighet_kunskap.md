@@ -154,10 +154,10 @@ Bjurö Olle , Beyene Selam , Hodzic Elma , Koohnavard Venessa
 Khatouri Josra , Andersson Hanna , Wenström Petra , Hodzic Emina 
 
 **Onsdag 18e, Pauling, 11.45-12.25**
-Laszewska Marta , Kaplan Maria-Manuella , Nakhaie Atena , Vedin Carl
+Niklasson Rebecca , Kaplan Maria-Manuella , Nakhaie Atena , Vedin Carl
 
 **Torsdag 19e, Pauling, 9.35-10.15** (börjar 5 min tidigare för att varje grupp ska få 40m)
-Jonsson Sanna , Niklasson Rebecca , Dilan Lana , Rundgren Sofie 
+Laszewska Marta ,  Jonsson Sanna , Dilan Lana , Rundgren Sofie
 
 **Torsdag 19e, Pauling, 10.15-10.55**
 Loewe Alma , Hansson Simon , Zuniga Barria Karina , Shaaban Walid 
