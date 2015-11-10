@@ -25,9 +25,13 @@ Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrå
 
 > se Platons idévärld, sidorna 30-32 i läroboken 
 
-**Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande 
+**Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande.
 
 > se Berkeley, sidorna 116-117 i läroboken
+
+Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i _solipsism_. Enligt solipsismen finns det ingen anledning att tro på existensen av andra medvetanden. Det enda vi kan veta är att vårt eget medvetande existerar. 
+
+<!--Skilja mellan metafysisk och epistemologisk solipsism här? -->
 
 En tredje form av idealism är Kants **kritiska idealism**. Enligt Kant finns det förvisso någonting bakom det vi kallar för yttervärlden, men om detta ”något” kan vi inget veta. Kant delar således upp världen i *tinget-i-sig* (så som världen är oberoende av oss) och *tinget-som-fenomen* (så som världen framträder för oss).  
 
