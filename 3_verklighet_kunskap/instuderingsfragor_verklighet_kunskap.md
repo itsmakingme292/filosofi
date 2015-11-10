@@ -122,18 +122,56 @@
 
 ## Datum, tider och grupper
 
-Datum: 
+### SA13 mfl
 
-* Se datum i provschemat på Schoolsoft
-* Meddelande om gruppindelning kommer cirka en vecka innan första seminarietillfället. 
-* För SA13mfl-gruppen kommer vi att gå förlänga lektionstiden för de två tillfällen då vi har seminarium.
-* För EK13-gruppen kommer vi utöver de lektionstillfällen som är ute på provschemat lägga till tid under studiepass (eller liknande).
-* Den tid andra grupper än ens egen har seminarium är man ledig.
+**Torsdag 19e, 12.50-13.30**
+Tilling William , Ashton David , Berg Fischier Matilda , Stjernholm Börjeson Hanna , Komljenovic Julia 
 
-Tid och antal elever per grupp:
+**Torsdag 19e, 13.30-14.10**
+Andreasson Tim , Schavon Båvenby Isabella , Dal Pozzo Julia , Tesfay Yerusaliem , Granath Matilda 
 
-* ca 4-5 elever per grupp
-* ca 40 minuter per grupp
+**Torsdag 19e, 14.10-14.50**
+Jerkin Josefine , Ryrvik Linnéa , Olsson Emmi , Beraki Merry 
+
+**Torsdag 19e, 14.50-15.30**
+Hultberg Klang Josefina , Hagby Elisa , Lundh Filippa , Karlsson Annie 
+
+**Torsdag 26e, 12.50-13.30**
+Dahlqvist Lisa , Rojas Lucia , Zaytoun Ornina , Beramand Linnéa 
+
+**Torsdag 26e, 13.30-14.10**
+Nesic Una , Fogelström Ida , Holmblad Magnus , Rhodén Maja 
+
+**Torsdag 26e, 14.10-14.50**
+Mehari Johanna Lea , Andersson Olle , Ekström Tilda , Wahlström Lovisa 
+
+**Torsdag 26e, 14.50-15.30**
+Bjurö Olle , Beyene Selam , Hodzic Elma , Koohnavard Venessa 
+
+### EK13
+
+**Onsdag 18e, Pauling, 11.05-11.45**
+Khatouri Josra , Andersson Hanna , Wenström Petra , Hodzic Emina 
+
+**Onsdag 18e, Pauling, 11.45-12.25**
+Laszewska Marta , Kaplan Maria-Manuella , Nakhaie Atena , Vedin Carl
+
+**Torsdag 19e, Pauling, 9.35-10.15** (börjar 5 min tidigare för att varje grupp ska få 40m)
+Jonsson Sanna , Niklasson Rebecca , Dilan Lana , Rundgren Sofie 
+
+**Torsdag 19e, Pauling, 10.15-10.55**
+Loewe Alma , Hansson Simon , Zuniga Barria Karina , Shaaban Walid 
+
+**Onsdag 25e, Pauling, 11.05-11.45**
+Pettersson Emma , Imamovic Mirza , Hedström Elin , Muradi Trifah 
+ 
+**Torsdag 26e, Pauling, 9.35-10.15** (börjar 5 min tidigare för att varje grupp ska få 40m)
+Lundqvist Julia , King Olivia , Gunic Enisa , Haggren Sofia 
+
+**Torsdag 26e, Pauling, 10.15-10.55**
+Rundström Molly , Kihlgren Martin , Kilvik Ella , Garis Tibela 
+
+<!--Datum:   * Se datum i provschemat på Schoolsoft * Meddelande om gruppindelning kommer cirka en vecka innan första seminarietillfället.  * För SA13mfl-gruppen kommer vi att gå förlänga lektionstiden för de två tillfällen då vi har seminarium. * För EK13-gruppen kommer vi utöver de lektionstillfällen som är ute på provschemat lägga till tid under studiepass (eller liknande). * Den tid andra grupper än ens egen har seminarium är man ledig.  Tid och antal elever per grupp:  * ca 4-5 elever per grupp * ca 40 minuter per grupp -->
 
 
 
