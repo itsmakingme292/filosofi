@@ -64,7 +64,8 @@ http://www.vux-gotland.se/filosofi/
 http://gymnasiefilosofi.se
 
 **Filosofilärarnas förening** (på svenska)
-www.filosofilararna.se
+[www.filosofilararna.se](www.filosofilararna.se
+)
 
 ## Övrigt
 

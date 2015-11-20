@@ -59,11 +59,9 @@
 		- På vilket sätt spelar Gud en roll i allt detta? 
 - Vad är fallibilism? 
 	- På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika? 
-- Beskriv pragmatismens syn på sanning och kunskap.
-	- På vilket sätt är denna närbesläktad med fallibilismen?
+- Beskriv pragmatismens syn på sanning och kunskap. Vad tänker du om denna? 
 - Vad är empirism och vad är rationalism?
 	- Vilka av filosoferna Platon, Locke, Descartes och Hume är rationalister och vilka av dem är empirister? Hur då? 
-
 
 - Hur skiljer sig idealism från realism?
 	- Vad är skillnaden mellan objektiv, subjektiv och kritisk idealism?
@@ -83,7 +81,7 @@
 	- Vad skulle en naiv realist säga om Lockes primära och sekundära egenskaper?
 - Hur resonerar Locke kring medfödd kunskap? 
 	- Vad säger han att människan föds som? 
-	- Och framförallt: hur hänger detta ihop med hans empirism? 
+	- Och framförallt: hur hänger detta ihop med hans empirism?  
 	- Vad tänker du? Vem här rätt här? Locke eller exempelvis Kant? 
 - Vad kallas de två världarna hos Platon och i vilken av dessa finner vi kunskapen?
 	- Hur ser Platon på kunskap och förhållandet mellan sinnevärlden och idévärlden? 
@@ -108,6 +106,9 @@
 
 
 <!--Frågor som är borttagna
+
+Under pragmatism:
+- Vad tänker du, finns det kunskap som är värdefull i sig eller är kunskap alltid värdefull i relation till något annat (instrumentell)?
 
 * Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
 
