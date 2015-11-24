@@ -26,7 +26,13 @@ Kvinnans man blir alltmer desperat. Han väljer, som sista utväg, att bryta sig
 ## Tankeexperiment 3: Spårvagnsproblemet
 En spårvagns bromsar har mitt i en lång och brant nedförsbacke slutat att fungera. Spårvagnen rullar nu i hög fart rakt mot fem människor som av oklar anledning blivit fastbundna vid rälsen. Av en händelse står du vid en spårväxel du har kontroll över. Med ett enkelt knapptryck kan du leda spårvagnen in på en annan räls. Vid den andra rälsen råkar det dock ligga en annan stackars människa fastbunden. 
 
-*Trycker du på knappen eller gör du ingenting?*
+* Trycker du på knappen eller gör du ingenting?
+* Titta på nedanstående klipp som jämför denna typ av situation med en annan liknande situation och fundera vidare...
+
+<!--Här är länk till youtube-klipp -->
+[](https://www.youtube.com/watch?v=bOpf6KcWYyw)
+
+Se fler variationer på temat här: [Lesser-known trolley problem variations](http://www.mcsweeneys.net/articles/lesser-known-trolley-problem-variations)
 
 ## Diskussionsunderlag:  Att ljuga eller tala sanning? 
 
@@ -61,16 +67,22 @@ Kan man rättfärdiga vad som helst med att det får bäst konsekvenser? Och vad
 
 > * Var det rätt av U.S.A. att bomba Hiroshima *om* detta förhindrade ytterligare krigsoffer (eftersom kriget därför fick sitt slut)? 
 
+<!--Fördjupningsfråga: Hur skulle man som utilitarist kunna lösa denna problematik?  -->
+
 **3) Tillåter utilitarismen för lite?**   
-Enligt en utilitaristisk princip verkar det mycket svårt att någonsin handla helt och håller rätt. Bara den bästa konsekvensen är i princip god nog och våra egna motiv och avsikter spelar mindre roll för det moraliska värdet hos våra handlingar. Är detta ett rimligt krav på moralen?   
+
+Enligt en utilitaristisk princip verkar det mycket svårt att någonsin handla helt och håller rätt. Bara den bästa konsekvensen är i princip god nog och våra egna motiv och avsikter spelar mindre roll för det moraliska värdet hos våra handlingar. Är detta ett rimligt krav på moralen? 
 
 > *Två exempel:*
 
-> * Har jag begått världens mest omoraliska handling då jag försökte mig på lite kemi för nybörjare och helt oavsiktligt råkade sätta igång en kosmisk reaktion som tillintetgjorde universum? Eller hade jag snarast bara ”lite” otur? Vilken roll spelar det egentligen att jag med en handling ”ville väl”?  
+> * Har jag begått världens mest omoraliska handling om jag försöker mig på lite kemi för nybörjare och helt oavsiktligt råkar sätta igång en kosmisk reaktion som tillintetgör universum? Eller har jag snarast bara ”lite” otur? Vilken roll spelar det egentligen att jag med en handling ”ville väl”?  
 
-> * Bör jag alltid välja att ge mina pengar till svältande barn i Afrika framför att spendera dem på egna nöjen? 100 mätta magar i Afrika verkar väl ändå alltid medföra mer lycka i världen än att jag ser en halvbra film?
+> * Bör jag alltid välja att ge mina pengar till svältande barn framför att spendera dem på egna nöjen? 100 mätta magar medför väl ändå mer lycka till världen än att jag ser en halvbra film?
 
-**4) Är pliktetiken en alldeles för ”tom” och fyrkantig syn på moralen?**
+<!--Fördjupningsfråga: Hur skulle man som utilitarist kunna lösa denna problematik?  -->
+
+
+**4) Är pliktetiken en fyrkantig syn på moralen?**
 
 Är pliktetiken för absolut och stelbent? Kan vi överhuvudtaget tillämpa en etisk princip på ett sådant ovillkorligt sätt?  
 
