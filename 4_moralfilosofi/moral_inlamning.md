@@ -38,12 +38,11 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 
 * Att döda en annan människa för ett större gott?
 * Lögn och ärlighet?
-* Djurens rätt?
+* Vegetarianism/veganism och djurens rätt?
 * Tortyr för att utvinna viktig information?
 * Rikas ansvar för fattiga?
 * Skillnaden mellan vänner och främlingar?
 * Dödshjälp, aktiv såväl som passiv?
-* Dödsstraff?
 
 **OBS:** Detta är som sagt bara exempel, ni är helt fria att välja helt andra etiska frågor/problem. Det kan dock givetvis vara en bra idé att diskutera ert val med mig. 
 
