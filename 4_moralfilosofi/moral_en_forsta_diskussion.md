@@ -1,7 +1,7 @@
 # En första diskussion
 
 ## Frågor
-* **Vad är moral och etik?**
+* **Vad uppstår det för några tankar när ni hör orden moral och etik?**
 	* Vad menar vi då vi säger att något är rätt eller fel?
 	* Hur och när använder ni begreppen rätt och fel till vardags? 
 		* Finns det någon skillnad tror ni mellan hur vi till vardags använder begreppen och hur man inom filosofin förstår dem? 
