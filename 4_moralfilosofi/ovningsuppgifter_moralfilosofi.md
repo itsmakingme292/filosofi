@@ -37,7 +37,7 @@ Se fler variationer på temat här: [Lesser-known trolley problem variations](ht
    
 
 ## Diskussionsunderlag:  Att ljuga eller tala sanning? 
-
+   
 1. Finns det några situationer då det är moraliskt rätt att ljuga? Vilka och varför just dessa?
 
 2. Finns det några situationer då det är absolut fel att ljuga? Vilka och varför just dessa? 
