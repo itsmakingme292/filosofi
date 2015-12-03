@@ -29,7 +29,7 @@ En spårvagns bromsar har mitt i en lång och brant nedförsbacke slutat att fun
 * Trycker du på knappen eller gör du ingenting?
 * Titta på nedanstående klipp som jämför denna typ av situation med en annan liknande situation och fundera vidare...
 
-<!--Här är länk till youtube-klipp -->
+
 [](https://www.youtube.com/watch?v=bOpf6KcWYyw)
 
 Se fler variationer på temat här: [Lesser-known trolley problem variations](http://www.mcsweeneys.net/articles/lesser-known-trolley-problem-variations)
