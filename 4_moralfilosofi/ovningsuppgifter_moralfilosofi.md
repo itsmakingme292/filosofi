@@ -34,6 +34,8 @@ En spårvagns bromsar har mitt i en lång och brant nedförsbacke slutat att fun
 
 Se fler variationer på temat här: [Lesser-known trolley problem variations](http://www.mcsweeneys.net/articles/lesser-known-trolley-problem-variations)
 
+   
+
 ## Diskussionsunderlag:  Att ljuga eller tala sanning? 
 
 1. Finns det några situationer då det är moraliskt rätt att ljuga? Vilka och varför just dessa?
