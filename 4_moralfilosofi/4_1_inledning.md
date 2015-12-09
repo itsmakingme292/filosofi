@@ -15,7 +15,7 @@ Den första nivån, **meta-etik**, behandlar frågan om moralens allra mest grun
 
 Den andra nivån, **normativ etik**, behandlar frågan om vilken eller vilka principer som är *bäst lämpade* för att avgöra vad som är rätt och vad som är fel. På denna nivå finner vi  grunden för vårt etiska handlande och teorier som ger oss *verktyg för att resonera oss fram till moralfilosofiska ställningstaganden.*
 
-Den tredje nivån, **tillämpad etik**, behandlar de konkreta moralfilosofiska frågorna. Till dessa hör sådant som: abort, dödshjälp, miljöetik, djurrätt och rikas ansvar inför fattiga. På denna nivå *tillämpar* vi till sist de normativa teorierna på enskilda fall (eller åtminstone *typer* av fall). 
+Den tredje nivån, **tillämpad etik**, behandlar de konkreta moralfilosofiska frågorna. Till dessa hör sådant som: medicinsk etik (exempelvis frågan om dödshjälp), miljöetik, djurrätt och rikas ansvar inför fattiga. På denna nivå *tillämpar* vi till sist de normativa teorierna på enskilda fall (eller åtminstone *typer* av fall). 
 
 ## Etik utan meta-etik
 Under detta delmoment kommer vi framförallt att fokusera på den normativa etiken. Till viss del innebär detta att vi berör frågor inom den tillämpade etiken, men det är i huvudsak själva *principerna* för ett moraliskt rätt handlande vi vill utreda. Detta innebär också att vi lämnar meta-etiken därhän, eftersom:
