@@ -15,7 +15,9 @@ En sådan egenskap, som är bra för alla att ha, kallar vi för en *dygd*. Dygd
 
 Dygden kan till viss del jämföras med en *god vana* eller en *färdighet*. Inte minst därför att dygden kräver träning och inte är medfödd. Men också därför att vi alltid måste *visa prov* på den. En bra konstnär upphör vara en bra konstnär i takt med att denne inte längre producerar bra konst. Efter ett dåligt verk hyser vi möjligen fortsatt tilltro till framtida storverk. Men efter ett flertal börjar vi så småningom tveka på konstnärens förmåga. Att vara en god konstnär handlar om att aldrig *stagnera* och på samma sätt förhåller det sig med våra dygder. Man finner exempelvis aldrig dygden *ärlighet* hos den som bara talar sanning ibland  (eller endast när det gynnar henne själv).
 
-Till skillnad från vanan (och till viss del färdigheten) är dock dygden aldrig något passivt, omedvetet eller automatiskt. Dygden handlar om en medveten och aktiv kunskap som gör oss uppmärksamma på det mest väsentliga i  varje given situation. En vana är på ett sätt raka motsatsen till detta. En vana är någonting vi ofta inte tänker på, något som vi efter en viss upprepning "bara gör". Något som gör oss lika förutsägbara som okänsliga inför varje situations unika karaktär. 
+<!-- Ha med denna del, eller skippa? Kanske bara reser onödiga frågor? **Kommentar:** Här kan man också fråga sig hur det förhåller sig med människor som verkar vara födda "snälla", eller som är naturligt "snälla". Kan dessa kallas dygdiga? Möjligen skulle man kunna argumentera för att ingen är född snäll utan att detta alltid är något vi lär oss i kontakt med andra. -->
+
+Till skillnad från vanan (och till viss del färdigheten) är dock dygden inte lika passiv, omedveten eller automatisk. Dygden handlar om en medveten och aktiv kunskap som gör oss uppmärksamma på det mest väsentliga i  varje given situation. En vana är på ett sätt raka motsatsen till detta. En vana är någonting vi ofta inte tänker på, något som vi efter en viss upprepning "bara gör". Något som gör oss lika förutsägbara som okänsliga inför varje situations unika karaktär. 
 
 I detta kan vi även finna en intressant kritik av regler och plikter. För dygdetiken kan nämligen plikter och regler jämföras med ett par kryckor. För den som är oförmögen att själv gå kan  kryckor hjälpa. Men för en person, som genom träning, lärt sig att gå utan kryckor, kommer kryckorna endast att leda till en mindre naturlig och följsam gång. 
 
@@ -75,13 +77,13 @@ Till Aristoteles försvar är den gyllene medelvägen inte tänkt som ett precis
 
 Det huvudsakliga sättet vi kan söka kunskap om dygden är för Aristoteles *att se till de dygdiga*. 
 
-Eftersom moralen, enligt Aristoteles, är en praktisk aktivitet är det också i kontakt med denna *praktik* som vi lär oss om dygden. På samma sätt som en blivande möbelsnickare bäst lär sig hantverket i kontakt med praktiserande möbelsnickare lär sig människan bäst om dygden i kontakt med dygdiga människor.
+Eftersom moralen, enligt Aristoteles, är en praktisk aktivitet är det också i kontakt med denna *praktik* som vi lär oss om dygden. På samma sätt som en blivande möbelsnickare bäst lär sig hantverket i kontakt med praktiserande möbelsnickare lär sig människan bäst om dygden i kontakt med dygdiga människor. Att bli en god människa kräver både träning och goda förebilder. 
 
 I detta menar Aristoteles att dygderna är sådana karaktärsdrag som vi *beundrar* hos andra. Egenskaper som gör att vi *prisar* andra människor och hellre söker deras sällskap än någon annans. 
 
 Här kan man givetvis undra hur vi ska kunna "se till de dygdiga" om vi från första början inte vet hur dygden ser ut? Hur vi ska kunna lära av goda människor när det just är frågan om *vad det är att vara en god människa* som vi försöker att utreda? 
 
-För Aristoteles är detta inte ett problem. Allt sökande efter kunskap bär på denna "paradox". Vi vet kort sagt inte vad vi söker *innan vi funnit det*. Vad som är verklig dygd vet vi först då vi *ser den* – först då andra människor, genom sitt goda handlande, gjort dygden *uppenbar* för oss.
+För Aristoteles är detta inte ett problem. Allt sökande efter kunskap bär på denna "paradox". Vi vet kort sagt inte vad vi söker *innan vi funnit det*. Därtill handlar moral, som sagt, i första hand inte om teori utan om praktisk kunskap. Vad som är verklig dygd vet vi först då vi *ser den* – först då andra människor, genom sitt goda handlande, gjort dygden *uppenbar* för oss. Vi kan kort och gott inte  "läsa oss till" vad det innebär att vara en god människa, vi måste _uppleva det_. 
 
 Problemet med detta råd tycks dock vara detsamma som problemet med den gyllene medelvägen. Dels verkar "rådet" inte ge oss så värst mycket information, dels verkar det högst individuellt vilka egenskaper vi uppskattar hos andra människor.
 
