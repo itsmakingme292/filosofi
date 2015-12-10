@@ -58,7 +58,7 @@ Gemensamt för de praktiska dygderna är att de handlar om en slags "gyllene med
 > > Blygsamhet – Ödmjukhet – Skrytsamhet 
 > > Snålhet – Generositet – Slösaktighet
 
-Detta ska inte förväxlas med att alltid vara *måttfull*. Medelvägen handlar inte om ett *exakt mellanting* utan om det *rätta måttet* i rätt situation. Ibland kräver dygden att vi handlar med kraft, ibland med försiktighet. Att vara dygdig är att finna denna rätta balansen mellan våra egenskaper, attityder och känslor, i varje given situation. 
+Här får vi dock inte ha en allt för enkel syn på *måttfullhet*. Medelvägen handlar inte om ett *exakt mellanting* utan om det *rätta måttet* i rätt situation. Ibland kräver dygden att vi handlar med kraft, ibland med försiktighet. Att vara dygdig är att finna denna rätta balansen mellan våra egenskaper, attityder och känslor, i varje given situation. 
 
 > Eller som Aristoteles själv uttryckte det:
 > > *Vem som helst kan bli arg – det är lätt. Men att bli arg på rätt person och lagom mycket, vid rätt tillfälle, av rätt anledning och på rätt sätt – är varken vanligt eller lätt.*
