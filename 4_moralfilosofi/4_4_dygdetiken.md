@@ -95,9 +95,11 @@ Det stora problemet är i slutändan att dygdetiken verkar mycket svår att fyll
 
 Inte minst blir detta tydligt då vi försöker göra någon slags lista över viktiga dygder. Dels därför att vi kan ha mycket olika åsikter om vilka egenskaper som bör finnas på en sådan lista. Dels eftersom vi därtill måste tolka vad dessa egenskaper egentligen *innebär*.
 
-Detta behöver inte vara ett tillräckligt skäl att avfärda dygdetiken. Att dygdetiken inte ger oss några entydiga svar kan ses som *både* en svaghet *och* en styrka. För vem har sagt att moralen så lätt låter sig definieras? 
+Detta behöver inte vara ett tillräckligt skäl att avfärda dygdetiken. Att dygdetiken inte ger oss några entydiga svar kan ses som *både* en svaghet *och* en styrka. För vem har sagt att moralen så lätt låter sig definieras? Kanske är det orimlig att ställa krav på mer precisa svar på vilka dygderna är och vad de konkret ska innebära, detta eftersom dygden i slutändan inte handlar om teori utan om praktik (och därmed är något vi fullt ut lär oss först i själva praktiserandet).
 
-Samtidigt bör varje moralfilosofi, som sagt, vara *vägledande* och i vilken utsträckning dygdetiken faktiskt är detta kan man fortfarande diskutera.
+Samtidigt bör varje moralfilosofi, som sagt, vara *vägledande* och i vilken utsträckning dygdetiken faktiskt är detta kan man fortfarande diskutera. Därtill kan vi fråga oss om vi inte genom dygdetiken  riskerar att hamna i relativism snarare än universalism. Den moraliska praktiken verkar kort och gott mycket beroende av den omgivande kulturen.
+
+<!-- och i kombination med dygdetikens vaghet blir steget till en relativistisk uppfattning därför inte särskilt stort. -->
 
 På många sätt kanske dygdetiken därför inte bör ses som en *rivaliserande* teori utan snarare som en *komplementerande* teori. För även om dygdetiken på egen hand kan ses som allt för svag, kan den i kombination med andra teorier kanske utgöra en nödvändig påminnelse om att kunskapen *om den goda människan* kan vara lika viktig som formuleringar av goda handlingsprinciper.
 
