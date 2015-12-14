@@ -9,6 +9,9 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 
 2. **Diskutera och argumentera kring vilken position du anser är mest rimlig!** Viktigt är dels att kunna förstå hur man genom teorierna kan komma fram till den moraliskt rätta handlingen (i olika situationer) och dels att kunna kritisera och problematisera detta.
 
+<!--Ha med detta?: **PS:** Av naturliga skäl är det inte säkert att ni kommer att ha lika mycket att skriva om dygdetiken.  -->
+
+
 *** 
 ### Att tänka på:
 

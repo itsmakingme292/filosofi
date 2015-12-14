@@ -5,13 +5,13 @@ Moralfilosofi är, som Sokrates en gång uttryckte det, ingen liten ”bagatell�
 
 Moralfilosofi handlar i detta om en vilja att rikta sig till en ”större publik”. Om att tala för *hela mänskligheten* – och inte enbart för *sig själv*. Om att på ett systematiskt vis resonera kring vad vi *alla borde* göra (åtminstone under samma förutsättningar och situation). 
 
-Att ägna sig åt moralfilosofi innebär därför att vi går bortom fördomar och sociala normer för att istället undersöka möjligheten till någon, eller några, mer *allmängiltiga* principer för moralen. För om vi exempelvis inte kan argumentera kring varför det är fel att mörda, våldta, tortera och så vidare: hur ska vi då kunna rättfärdiga att vi försöker förhindra att sådant sker? Att enbart hänvisa till kulturen, sociala normer eller ett ”allmänt ogillande” kan aldrig utgöra tillräckliga skäl. 
+Att ägna sig åt moralfilosofi innebär därför att vi går bortom fördomar och sociala normer för att istället undersöka möjligheten till någon, eller några, mer *allmängiltiga* principer för moralen. För om vi inte kan argumentera kring varför det är fel att exempelvis mörda, våldta, tortera och så vidare: hur ska vi då kunna rättfärdiga att vi försöker förhindra att sådant sker och att vi straffar människor som begår dessa handlingar? Att enbart hänvisa till kulturen, sociala normer eller ett ”allmänt ogillande” kan aldrig utgöra tillräckliga skäl. 
 
 Vissa skiljer ibland mellan det som kallas etik och det som kallas moral. I dessa sammanhang blir etiken "läran om moralen" och moralen "det beteende som etiken lär oss" eller ”den moraliska praktiken”. Filosofer har dock traditionellt inte lagt någon större vikt vid denna möjliga skiljelinje. Det ena ordet är från början grekiska och det andra från början latin och de har ursprungligen samma betydelse. Hädanefter kommer jag därför att använda orden (i stort sett) synonymt. 
 
 Vad man däremot, mer konsekvent, brukar göra är att skilja mellan tre olika *nivåer* av etiska teorier.
 
-Den första nivån, **meta-etik**, behandlar frågan om moralens allra mest grundläggande natur. På vilket sätt en moral kan sägas *existera* och vad vi egentligen *syftar till* och/eller *gör* då vi uttrycker etiska ståndpunkter. Om vi i moraliska omdömen kan göra anspråk på något objektivt utanför oss själva eller om vi bara uttrycker högst individuella och subjektiva åsikter, attityder eller känslor. 
+Den första nivån, **meta-etik**, behandlar frågan om moralens allra mest grundläggande natur. På vilket sätt en moral kan sägas *existera* och vad vi egentligen *refererar till* då vi uttrycker etiska ståndpunkter. Om vi i moraliska omdömen kan göra anspråk på något objektivt eller universellt utanför och oberoende av oss själva eller om vi bara uttrycker högst individuella eller kulturella åsikter, attityder eller känslor (eller någonting mittemellan).
 
 Den andra nivån, **normativ etik**, behandlar frågan om vilken eller vilka principer som är *bäst lämpade* för att avgöra vad som är rätt och vad som är fel. På denna nivå finner vi  grunden för vårt etiska handlande och teorier som ger oss *verktyg för att resonera oss fram till moralfilosofiska ställningstaganden.*
 
@@ -22,7 +22,7 @@ Under detta delmoment kommer vi framförallt att fokusera på den normativa etik
 
 1. Meta-etik är snårigt och krånglar oftast till det mer än den hjälper.
 2. Vi behöver inte meta-etiken för att komma fram till något inom den normativa etiken. 
-3. Oavsett om vi tror på moralen som något ”objektivt” eller ”subjektivt” vill vi ändå kunna föra diskussioner kring den och argumentera för våra ståndpunkter. 
+3. Oavsett om vi tror på moralen som något ”objektivt” eller ”subjektivt”/"relativt" vill vi ändå kunna föra diskussioner kring den och argumentera för våra ståndpunkter. 
 4. Om vi fastnar i ett synsätt där vi "bara tycker annorlunda" riskerar vi att blunda inför det faktum att vår oenighet alltid får verkliga och högst påtagliga effekter/konsekvenser/implikationer. Och om vi tvärtom fastnar i ett synsätt där vi "uppenbart har rätt" är vi inte längre mottagliga för goda argument. 
 
 Det sagt är gränsen mellan meta-etik och normativ etik inte alltid helt glasklar och det går sällan att säga något om den normativa etiken utan att antingen medvetet eller omedvetet förutsätta vissa meta-etiska förhållanden. Men det kan ändå vara klokt att inte gräva allt för djupt i denna aspekt av moralfilosofin – åtminstone till en början. 
