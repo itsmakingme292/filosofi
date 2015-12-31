@@ -4,7 +4,7 @@
 
 ## Avrundning
 
-God argumentation handlar om allt det vi gått igenom i detta kapitel. 
+God argumentation handlar om allt det vi gått igenom under detta moment. 
 
 <!--Om att ha en god förståelse för såväl språk som logik. --> 
 
