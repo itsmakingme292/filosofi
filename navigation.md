@@ -12,6 +12,8 @@
   * # Viktig information
   * [Bedömning & Betyg](1_intro/bedomning.md)
   * [Källor & Plagiat](1_intro/kallhantering.md)
+  - - - -
+  * [Kursutvärdering](kursutvardering.md)
   
 [Filosofins verktyg]()
 
