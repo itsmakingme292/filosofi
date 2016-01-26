@@ -32,6 +32,4 @@ Jag är öppen för önskemål, men filosofer jag tänker vi kan läsa originalt
 * Quine
 * Nagel
 
-## Del 3?
-
-I mån av tid hinner vi möjligen med en tredje del, men inte om det sker på bekostnad av läsningen och fördjupningen i de föregående delarna. Denna tredje del kommer isf förmodligen vara en fördjupning i moralfilosofi och kanske någon mer specifik etisk fråga. Diskuterar gärna vad ni tänker om detta med mig. 
+<!--## Del 3?  I mån av tid hinner vi möjligen med en tredje del, men inte om det sker på bekostnad av läsningen och fördjupningen i de föregående delarna. Denna tredje del kommer isf förmodligen vara en fördjupning i moralfilosofi och kanske någon mer specifik etisk fråga. Diskuterar gärna vad ni tänker om detta med mig.  -->
