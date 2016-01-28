@@ -12,19 +12,22 @@ _Övergripande upplägg:_
 
 Vi börjar eventuellt denna del med grundläggande föreläsningar om politisk filosofi och följer sedan upp med gemensam läsning av utdrag från originaltexter och mini-seminarier om dessa. Examinerande del kommer var en hemtenta, men jag kommer också titta på deltagandet och kvalitén i diskussionen av texterna. 
 
-Jag är öppen för önskemål, men filosofer jag tänker vi kan läsa originaltexter av under denna del är exempelvis:
+Jag är öppen för önskemål, men exempel på filosofer jag tänker vi kan läsa originaltexter av under denna del är:
 
 * Hobbes
 * Locke
 * Mill
 * Rawls
 * Nozick
+* Taylor
 * Marx
+
+(även om vi nog inte hinner alla)
 
 ## Del 2: Fördjupning verklighet och kunskap
 För denna del har vi redan lagt grunden under filosofi 1 och vi börjar därför direkt med gemensam läsning av utdrag från originaltexter och har mini-seminarier om dessa. Detta följer vi sedan upp med en valfri fördjupning i någon eller några filosofer, ismer, filosofiska frågor eller liknande. Under arbetet med er valda fördjupning ges ni var och en, eller i grupp, handledning under lektionstid. Precis som på föregående moment är inlämning den examinerande delen men mini-seminarierna ligger också till grund för min bedömning.
 
-Jag är öppen för önskemål, men filosofer jag tänker vi kan läsa originaltexter av under denna del är exempelvis:
+Jag är öppen för önskemål, men exempel på filosofer jag tänker vi kan läsa originaltexter av under denna del är:
 
 * Kant
 * Popper 
