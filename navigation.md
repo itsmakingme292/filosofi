@@ -62,6 +62,7 @@
 [Filosofi 2]()
 
   * [Preliminär planering](5_filosofi_2/prel_planering_filosofi_2.md)
+  * [Miniseminarier & Läsning](5_filosofi_2/lasanvisningar_fil2.md)
   
 <!--Ha resurser/länkar, eller filosofi 2 här... -->
 
