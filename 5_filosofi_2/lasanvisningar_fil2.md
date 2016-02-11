@@ -51,4 +51,31 @@
 * Hade Kant rätt? Har han fortfarande rätt? Är vi omyndiga och auktoritetsbundna? Är människor som stora barn?  Vad har förändrats sen Kant skrev sin text? Vad har inte förändrats? 
 * Vad behöver människan och samhället göra för att nå upplysning enligt Kant? Vad menar han med att vi lever i en _upplysningens_ tid, men inte i en _upplyst_ tid? ? 
 * Vilka kopplingar finns det mellan Kants upplysningstanke och liberalism/nyliberalism/libertarianism? 
-* Kant anser att människan måste lösgöra sig från samhällets  dogmer (sanningar som inte ifrågasätts i någon större grad). Vilka är vår tids dogman? Vad borde ifrågasätta mer?  
+* Kant anser att människan måste lösgöra sig från samhällets  dogmer (sanningar som inte ifrågasätts i någon större grad). Vilka är vår tids dogman? Vad borde ifrågasätta mer? 
+ 
+### Marx
+
+#### Sid. 67-73, ur kommunistiska manifestet
+
+- Vilken roll spelar klasstillhörighet? Är Marx historiska beskrivning rimlig? Hur ser det ut idag? Är det samma grundläggande konflikt, endast med nya uttryck?
+- På vilka sätt innebär den nya härskande klassen,  _Bourgeoisin_, en positiv utveckling jämfört med de härskande klasserna under tidigare historiska epoker? Vad säger Marx här? Vad tänker ni?  
+- Vad menar Marx med att "Bourgeoisin har icke blott smitt de vapen som skola bringa den döden, den har även satt de män till världen som ska föra dessa vapen – de moderna arbetarna – proletärerna"? 
+
+<!--- Dessa frågor fanns inte riktigt i texten: Är historiematerialismen sann?  - Är revolutionen nödvändig? Kommer det kapitalistiska samhället ersättas med det kommunistiska? -->
+
+
+#### Marx om alienation, 5 sidor från ekonomisk-filosofiska  manuskripten
+
+* Vad är alienation? Hur skulle du förklara det utifrån din läsning av Marx?
+* Vad menar Marx när han om arbetaren säger: "Han är hemma när han inte arbetar och när han arbetar är han icke hemma"?
+* I vilken utsträckning präglar alienation vårt samhälle?  Vad tänker ni? Har ni själva upplevelser av alienation? 
+* Varför är alienationen ett särskilt typisk drag hos kapitalistiska samhällen? Vad säger Marx? Vad säger ni?
+
+<!-- Vad menar Marx när han säger: "Tillägnelsen av objektet är i så hög grad en alienation, att ju fler objekt arbetaren producerar desto mindre kan han äga, och i desto större utsträckning blir han beroende av sin produkt, kapitalet"? -->
+
+<!--* Vad menar Marx med "Nationalekonomin utgår ifrån privategendomens faktum. Den förklarar det inte"? -->
+
+
+
+
+

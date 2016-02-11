@@ -27,6 +27,8 @@ Jag är öppen för önskemål, men exempel på filosofer jag tänker vi kan lä
 ## Del 2: Fördjupning verklighet och kunskap
 För denna del har vi redan lagt grunden under filosofi 1 och vi börjar därför direkt med gemensam läsning av utdrag från originaltexter och har mini-seminarier om dessa. Detta följer vi sedan upp med en valfri fördjupning i någon eller några filosofer, ismer, filosofiska frågor eller liknande. Under arbetet med er valda fördjupning ges ni var och en, eller i grupp, handledning under lektionstid. Precis som på föregående moment är inlämning den examinerande delen men mini-seminarierna ligger också till grund för min bedömning.
 
+**Viktig info:** Inlämningsuppgiften under denna del kommer med största säkerhet ersättas med redovisning i helklass. På så vis kan vi ta del av varandras fördjupningar samt skapa mer variation i examinationsformerna.
+
 Jag är öppen för önskemål, men exempel på filosofer jag tänker vi kan läsa originaltexter av under denna del är:
 
 * Kant

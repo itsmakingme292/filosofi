@@ -60,9 +60,13 @@
   * [Encyklopedier, filmer, m.m.](x_lankar/lanklista.md)
 
 [Filosofi 2]()
-
+ 
+  * # Övergripande
   * [Preliminär planering](5_filosofi_2/prel_planering_filosofi_2.md)
+  - - - -
+  * # Politisk filosofi
   * [Miniseminarier & Läsning](5_filosofi_2/lasanvisningar_fil2.md)
+  * [Inlämningsuppgift](..)
   
-<!--Ha resurser/länkar, eller filosofi 2 här... -->
+<!--Ha resurser/länkar, eller filosofi 2 här...-->
 
