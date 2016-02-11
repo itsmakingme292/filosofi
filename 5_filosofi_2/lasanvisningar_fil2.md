@@ -37,23 +37,21 @@
 * Robert Nozick: _Rättvisa och rättigheter_ (12 sid)
 * Charles Taylor: _Atomism_ (28 sid)
 
-## Textfrågor
-
-### Hobbes
+## Frågor: Hobbes
 * Vilken är Hobbes människosyn? Hur beskriver han människan? Har han rätt?
 * Hur ser Hobbes samhällskontrakt ut? Vad är det vi "skriver under på", med "vem", och varför? 
 * Hur ser Hobbes syn på rättvisa ut? Vad menar han att rättvisa i grunden bygger på?
 * Vad menar Hobbes med att "avtal utan svärd är endast ord"? Hur kan vi koppla detta till denna nuvarande rättsordningen i dagens samhälle? 
 * För Hobbes är äganderätten och statens skydd av denna en förutsättning för ett välfungerande samhälle. På vilket sätt löser äganderätten konflikter? Vilka är Hobbes argument? Vad tänker ni? Kan äganderätten också skapa konflikter? 
 
-### Kant
+## Frågor: Kant
 
 * Hade Kant rätt? Har han fortfarande rätt? Är vi omyndiga och auktoritetsbundna? Är människor som stora barn?  Vad har förändrats sen Kant skrev sin text? Vad har inte förändrats? 
 * Vad behöver människan och samhället göra för att nå upplysning enligt Kant? Vad menar han med att vi lever i en _upplysningens_ tid, men inte i en _upplyst_ tid? ? 
 * Vilka kopplingar finns det mellan Kants upplysningstanke och liberalism/nyliberalism/libertarianism? 
 * Kant anser att människan måste lösgöra sig från samhällets  dogmer (sanningar som inte ifrågasätts i någon större grad). Vilka är vår tids dogman? Vad borde ifrågasätta mer? 
  
-### Marx
+## Frågor: Marx
 
 #### Sid. 67-73, ur kommunistiska manifestet
 
