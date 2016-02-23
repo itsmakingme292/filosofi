@@ -79,7 +79,7 @@
 **OBS:** Vi läser i första hand sidorna 527-537.
 
 * Vad kommer ni fram till när ni själva utför Rawls tankeexperiment (okunnighetens slöja)? Vad tänker ni att Rawls teori bör leda till för något samhälle? 
-* Vad har Rawls gemensamt med tidigare kontraktsteoretiker så som Hobbes? Vart skiljer han sig? 
+* Vad har Rawls gemensamt med tidigare kontraktsteoretiker så som Hobbes? Hur skiljer han sig? 
 * Hur ser Rawls universalism ut? På vilka sätt kan vi jämföra denna med Kant och på vilka sätt är den annorlunda? Om vi tänker kring relativism kontra objektiva uppfattningar, vart hamnar då Rawls? 
 * Kan vi (helt) tänka bort vår egen situation? Är det möjligt att tänka bakom en "okunnighetens slöja"? På vilket sätt kan detta vara ett problem för Rawls teori? På vilket sätt behöver detta inte vara ett problem?
 - Rawls kritiserar utilitaristiska uppfattningar av rättvisa. Vad är hans argument? Samtidigt tycks det finnas vissa konsekventialistiska drag även i hans teori. Hur ser ni på detta?
