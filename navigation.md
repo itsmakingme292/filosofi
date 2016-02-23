@@ -63,10 +63,11 @@
  
   * # Övergripande
   * [Preliminär planering](5_filosofi_2/prel_planering_filosofi_2.md)
+  * [Skolverkets kursplan](5_filosofi_2/kursplan_filosofi2.md)
   - - - -
   * # Politisk filosofi
-  * [Miniseminarier & Läsning](5_filosofi_2/lasanvisningar_fil2.md)
-  * [Inlämningsuppgift](..)
+  * [Miniseminarier & Läsning](5_filosofi_2/lasanvisningar_politisk_filosofi.md)
+  * [Inlämningsuppgift](5_filosofi_2/inlamning_politisk_filosofi.md)
   
 <!--Ha resurser/länkar, eller filosofi 2 här...-->
 

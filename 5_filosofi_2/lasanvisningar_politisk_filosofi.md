@@ -74,6 +74,30 @@
 <!--* Vad menar Marx med "Nationalekonomin utgår ifrån privategendomens faktum. Den förklarar det inte"? -->
 
 
+## Frågor: Rawls
+
+**OBS:** Vi läser i första hand sidorna 527-537.
+
+* Vad kommer ni fram till när ni själva utför Rawls tankeexperiment (okunnighetens slöja)? Vad tänker ni att Rawls teori bör leda till för något samhälle? 
+* Vad har Rawls gemensamt med tidigare kontraktsteoretiker så som Hobbes? Vart skiljer han sig? 
+* Hur ser Rawls universalism ut? På vilka sätt kan vi jämföra denna med Kant och på vilka sätt är den annorlunda? Om vi tänker kring relativism kontra objektiva uppfattningar, vart hamnar då Rawls? 
+* Kan vi (helt) tänka bort vår egen situation? Är det möjligt att tänka bakom en "okunnighetens slöja"? På vilket sätt kan detta vara ett problem för Rawls teori? På vilket sätt behöver detta inte vara ett problem?
+- Rawls kritiserar utilitaristiska uppfattningar av rättvisa. Vad är hans argument? Samtidigt tycks det finnas vissa konsekventialistiska drag även i hans teori. Hur ser ni på detta?
+
+<!--* Hur ser Rawls på frågan om frivillighet vad gäller samhällskontraktet?  -->
+
+<!--För är det exempelvis inte att åberopa konsekvenser om vi menar att en ojämn fördelning är att föredra i de fall som denna i slutändan gynnar de sämst ställda? --> 
+
+## Frågor: Nozick
+
+* Hur hänger rättvisa och förvärv ihop enligt Nozick? Är hans analys rimlig?
+* Hur ser spänningen mellan frihet och fördelning ut hos Nozick? Vad tänker ni? På vilket sätt är Nozicks rättviseprinciper rent "historiska" och hur kontrasterar han själv detta mot rättviseprinciper som följer ett visst mönster? Vad är han ute efter här? Vad är hans argument? Håller ni med?
+- Är den minimala staten (nattväktarstaten) den enda legitima staten? Hur resonerar Nozick? Har han rätt? 
+- Borde staten vara (mer) anti-paternalistisk (låta medborgare bestämma mer själva)? Försök komma på exempel i vårt samhälle som talar för det ena eller det andra. Är det en rent principiell fråga? Eller har ni, till skillnad från Nozick, ett mer utilitaristiskt perspektiv här?  
+
+
+
+
 
 
 

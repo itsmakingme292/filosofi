@@ -29,7 +29,7 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 
 2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I ett sådant fall bifogar du en *källförteckning*. Vid direkta citat eller referat krävs *källhänvisning* i text. 
 
-3. Du genomför den uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive ev. källförteckning). 
+3. Du genomför uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive ev. källförteckning). 
 
 4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Filosofi, Moralfilosofi**”
 
