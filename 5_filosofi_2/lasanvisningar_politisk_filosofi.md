@@ -93,7 +93,7 @@
 * Hur hänger rättvisa och förvärv ihop enligt Nozick? Är hans analys rimlig?
 * Hur ser spänningen mellan frihet och fördelning ut hos Nozick? Vad tänker ni? På vilket sätt är Nozicks rättviseprinciper rent "historiska" och hur kontrasterar han själv detta mot rättviseprinciper som följer ett visst mönster? Vad är han ute efter här? Vad är hans argument? Håller ni med?
 - Är den minimala staten (nattväktarstaten) den enda legitima staten? Hur resonerar Nozick? Har han rätt? 
-- Borde staten vara (mer) anti-paternalistisk (låta medborgare bestämma mer själva)? Försök komma på exempel i vårt samhälle som talar för det ena eller det andra. Är det en rent principiell fråga? Eller har ni, till skillnad från Nozick, ett mer utilitaristiskt perspektiv här?  
+- Borde staten vara (mer) anti-paternalistisk (låta medborgare bestämma mer själva)? Försök komma på exempel i vårt samhälle som talar för det ena eller det andra. Är det en rent principiell fråga? Eller har ni, till skillnad från Nozick, ett mer utilitaristiskt, socialistiskt, konservativt och/eller kollektivistiskt perspektiv här?  
 
 
 
