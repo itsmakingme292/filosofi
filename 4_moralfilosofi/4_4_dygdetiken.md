@@ -23,7 +23,7 @@ I detta kan vi även finna en intressant kritik av regler och plikter. För dygd
 
 Den som har svårt att fatta ett moraliskt beslut i en viss situation är givetvis hjälpt av en regel. Men för den som har förmågan att *se det för moralen relevanta i varje unik situation*, innebär en sådan regel endast ett onaturligt hinder. 
 
-Om en viss handling är rätt i 99 procent av fallen är en regel som ordinerar denna handling en bättre utgångspunkt än ingen alls. Om vi följer regeln kommer vi åtminstone att göra rätt *för det mesta*. Men för att kunna vara *100 procent* moraliska krävs det att vi har *karaktärsegenskaper* som gör oss rustade att se de *en procent* av fallen då denna regel faktiskt *inte* går att tillämpa. 
+Om en viss handling är rätt i, låt säga 80 procent av fallen, är en regel som ordinerar denna handling en bättre utgångspunkt än ingen alls. Om vi följer regeln kommer vi åtminstone att göra rätt *för det mesta*. Men för att kunna vara *100 procent* moraliska krävs det att vi har *karaktärsegenskaper* som gör oss rustade att se de *20 procent* av fallen då denna regel faktiskt *inte* går att tillämpa. 
 
 <!--De fall då regeln får oss att bortse från situationens unika karaktär och därför får oss att handla fel.-->
 
