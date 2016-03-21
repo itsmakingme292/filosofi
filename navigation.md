@@ -66,8 +66,14 @@
   * [Skolverkets kursplan](5_filosofi_2/kursplan_filosofi2.md)
   - - - -
   * # Politisk filosofi
-  * [Miniseminarier & Läsning](5_filosofi_2/lasanvisningar_politisk_filosofi.md)
+  * [Miniseminarier](5_filosofi_2/lasanvisningar_politisk_filosofi.md)
   * [Inlämningsuppgift](5_filosofi_2/inlamning_politisk_filosofi.md)
+  
+  - - -
+  * # Fördjupning, verklighet & kunskap
+  * [Miniseminarier](5_filosofi_2/lasanvisningar_verklighet_kunskap.md)
+  * [Redovisning](5_filosofi_2/redovisning_verklighet_kunskap.md)
+  
   
 <!--Ha resurser/länkar, eller filosofi 2 här...-->
 

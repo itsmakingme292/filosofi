@@ -1,4 +1,4 @@
-# Miniseminarier & Läsning
+# Miniseminarier: Politisk filosofi
 
 ## Läsinstruktioner
 
