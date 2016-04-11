@@ -17,21 +17,43 @@
 
 ## Läslista, fördjupning: verklighet & kunskap
 
-**1700-talet**
+**Info:** Fokus för detta moments läsning är _existentialismen_ och  vetenskapsfilosofi. Vad gäller existentialismen kommer inte enbart ontologiska och kunskapsteorietiska frågor beröras utan också moralfilosofi. 
 
-* Immanuel Kant: Ur _Kritik av det rena förnuftet_ 
+<!--**1700-talet**  * Immanuel Kant: Ur _Kritik av det rena förnuftet_ -->
 
-**1800-talet**
+<!--**1800-talet**  * Friedrich Nietzsche: Ur _Så talade Zarathustra_ -->
 
-* Friedrich Nietzsche: Ur _Så talade Zarathustra_
-
-**1900-talet**
+#### Existentialism
 
 * Jean-Paul Sartre: Ur _Varat och intet_
+* Simone de Beauvoir: Ur _För en tvetydighetens moral_
+
+#### Vetenskapsfilosofi
 * Karl Popper: _Normalvetenskap och dess faror_ 
 * Thomas Kuhn: _Upptäckandets logik eller forskningspsykologi?_ 
-* W.V Quine: _Två av empirismens dogmer_ 
 
-## Frågor för varje text
+**OBS:** Eventuellt tillkommer fler texter...
 
-_Detta kommer..._
+<!--* W.V Quine: _Två av empirismens dogmer_  -->
+
+## Frågor: de Beauvoir
+
+* Vad innebär egentligen tvetydighet? På vilket sätt menar de Beauvoir att verkligheten och moralen är tvetydig? Vad tänker du? 
+* de Beauvoir hänvisar till Hegel och understryker att "det moraliska medvetanden kan bestå [...] endast i den mån natur och moral inte stämmer överens" (sid 25). Vad betyder detta? Och varför är detta en viktigt poäng inom existentialismen? 
+* Vad menas med att "människan gör sig till en brist men hon kan förneka bristen såsom brist" (sid 27)? 
+* Enligt de Beauvoir är människans ansvar totalt i en gudlös värld. Hurdå? 
+
+## Frågor: Sartre
+
+* Hur hänger varat och intet ihop? Varför är det inte möjligt att ställa frågor om varat utan ett intet? 
+* För Sartre är intet en högst verklig kategori och inte bara en egenskap hos våra omdömen. Hur förstår du denna ståndpunkt, är den begriplig och håller du med?
+* Vad innebär det att "varseblivningen alltid har karaktären ev en form mot en bakgrund"? Vilken roll spelar detta i exemplet om Pierre som inte var där?
+* Vad menar Sartre när han säger att Pierre "hemsöker" caféet? 
+
+## Frågor: Popper
+
+*Kommer snart...*
+
+## Frågor: Kuhn
+
+*Kommer snart...*
