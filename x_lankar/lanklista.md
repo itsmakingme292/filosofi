@@ -26,6 +26,10 @@ http://www.iep.utm.edu/
 **Justice with Michael Sandel**
 Gratis kurs om moralfilosofi med videoklipp från från föreläsningar av Harvardfilosofen Michael Sandel. [Spellista på Youtube med samtliga avsnitt](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
 
+**The Public Philosopher**
+Ännu en serie av Michael Sandel. Filosofisk analys av dagsaktuella frågor. 
+http://www.bbc.co.uk/programmes/b01nmlh2
+
 ## Podcasts
 
 **Philosophy Bites**
