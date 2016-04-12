@@ -32,11 +32,13 @@
 * Karl Popper: _Normalvetenskap och dess faror_ 
 * Thomas Kuhn: _Upptäckandets logik eller forskningspsykologi?_ 
 
-**OBS:** Eventuellt tillkommer fler texter...
+*Eventuellt tillkommer fler texter...*
 
 <!--* W.V Quine: _Två av empirismens dogmer_  -->
 
 ## Frågor: de Beauvoir
+
+**OBS:** Vi läser i första hand sidorna 23-29. Men hinner man med är man helt fri att läsa mer...
 
 * Vad innebär egentligen tvetydighet? På vilket sätt menar de Beauvoir att verkligheten och moralen är tvetydig? Vad tänker du? 
 * de Beauvoir hänvisar till Hegel och understryker att "det moraliska medvetanden kan bestå [...] endast i den mån natur och moral inte stämmer överens" (sid 25). Vad betyder detta? Och varför är detta en viktigt poäng inom existentialismen? 
@@ -45,15 +47,27 @@
 
 ## Frågor: Sartre
 
+**OBS:** Vi läser i första hand sidorna 272-278. Men hinner man med är man helt fri att läsa mer...
+
 * Hur hänger varat och intet ihop? Varför är det inte möjligt att ställa frågor om varat utan ett intet? 
 * För Sartre är intet en högst verklig kategori och inte bara en egenskap hos våra omdömen. Hur förstår du denna ståndpunkt, är den begriplig och håller du med?
 * Vad innebär det att "varseblivningen alltid har karaktären ev en form mot en bakgrund"? Vilken roll spelar detta i exemplet om Pierre som inte var där?
 * Vad menar Sartre när han säger att Pierre "hemsöker" caféet? 
 
-## Frågor: Popper
-
-*Kommer snart...*
-
 ## Frågor: Kuhn
 
-*Kommer snart...*
+**OBS:** Vi läser i första hand sidorna 19-25. Men hinner man med är man helt fri att läsa mer...
+
+<!-- "Jag påstår därför att Popper har beskrivit hela den vetenskapliga forskningen i termer som endast kan tillämpas på dess enstaka revolutionära delar" (sid 21) -->
+
+* Vad är det grundläggande problemet med Poppers beskrivning av vetenskaplig forskning enligt Kuhn? Har han rätt? 
+* Vad innebär normalvetenskap? Hur karaktäriserar Kuhn denna? På vilket sätt kan vetenskapen analyseras sociologiskt och psykologiskt snarare än filosofiskt här?
+* Vad menar Kuhn då han säger <!--För att vända på Poppers åsikt är det i en mening just övergivandet av den kritiska diskussionen som markerar övergången till en vetenskap. När denna övergång en gång har skett återkommer den kritiska diskussion endast vid kriser då dess grundvalar på nytt är i fara. --> "Endast när vetenskapsmän måste välja mellan konkurrerande teorier uppför de sig som filosofer" (sid 22)? 
+* Hur beskriver Kuhn skillnaden mellan astrologi och astronomi? På vilket sätt kan denna skillnad användas för att beskriva vad vetenskap är? 
+
+## Frågor: Popper
+
+* På vilket sätt menar Popper att Kuhn överdriver deras olikheter? På vilket sätt tänker du själv att de är lika respektive olika? 
+* Popper håller med Kuhn om att det finns en "normalvetenskap" men gör samtidigt distinktionen mellan  "tillämpad vetenskap" och "ren vetenskap". Vad innebär denna distinktion och varför är den så viktig för Popper? 
+* På vilket sätt tänker du (om alls) att det är problematiskt om blivande vetenskapsmän, eller människor i största allmänhet "bara vill lära sig fakta"? 
+* Hur angriper Popper vad han kallar "Myten om ramen"? Vad handlar denna myt om? Har Popper rätt? Vad tänker du? 
