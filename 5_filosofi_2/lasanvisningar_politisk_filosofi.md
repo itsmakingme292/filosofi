@@ -41,7 +41,7 @@
 * Vilken är Hobbes människosyn? Hur beskriver han människan? Har han rätt?
 * Hur ser Hobbes samhällskontrakt ut? Vad är det vi "skriver under på", med "vem", och varför? 
 * Hur ser Hobbes syn på rättvisa ut? Vad menar han att rättvisa i grunden bygger på?
-* Vad menar Hobbes med att "avtal utan svärd är endast ord"? Hur kan vi koppla detta till denna nuvarande rättsordningen i dagens samhälle? 
+* Vad menar Hobbes när han säger att "avtal utan svärd är endast ord"? Hur kan vi koppla detta till rättsordningen i dagens samhälle? 
 * För Hobbes är äganderätten och statens skydd av denna en förutsättning för ett välfungerande samhälle. På vilket sätt löser äganderätten konflikter? Vilka är Hobbes argument? Vad tänker ni? Kan äganderätten också skapa konflikter? 
 
 ## Frågor: Kant
