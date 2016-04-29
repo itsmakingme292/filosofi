@@ -23,6 +23,7 @@
   * [3. Logik](2_fil_verktyg/2_3_logik.md)
   * [4. Argumentation](2_fil_verktyg/2_4_argumentation.md)
   - - - -
+  * # Övningar & Diskussionsunderlag
   * [Övningsuppgifter](2_fil_verktyg/ovningsuppgifter_fil_verktyg.md)
   * [Instuderingsfrågor](2_fil_verktyg/instuderingsfragor_fil_verktyg.md)
     
@@ -36,10 +37,11 @@
   * [5. Filosoferna](3_verklighet_kunskap/3_5_filosoferna.md)
 
   - - - -
-  * [Inledande diskussionsunderlag](3_verklighet_kunskap/diskussion_verklighet_kunskap.md)
+  * # Övningar & Diskussionsunderlag
+  * [En första diskussion](3_verklighet_kunskap/diskussion_verklighet_kunskap.md)
   - - - -
   * # Examinerande moment
-  * [Seminarium: Läsanvisningar & Instuderingsfrågor](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
+  * [Seminarium: Läsanvisningar <br>& Instuderingsfrågor](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
   
 [Moralfilosofi]()
 
@@ -49,6 +51,7 @@
   * [3. Kantiansk pliktetik](4_moralfilosofi/4_3_pliktetiken.md)
   * [4. Aristotelisk dygdetik](4_moralfilosofi/4_4_dygdetiken.md)
   - - - -
+  * # Övningar & Diskussionsunderlag
   * [En första diskussion](4_moralfilosofi/moral_en_forsta_diskussion.md)
   * [Övningsuppgifter](4_moralfilosofi/ovningsuppgifter_moralfilosofi.md)
   - - - -

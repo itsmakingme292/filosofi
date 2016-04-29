@@ -1,4 +1,4 @@
-# En inledande diskussion
+# En första diskussion
 
 ## Instruktioner
 - Hur resonerar du/ni i nedanstående frågor?
