@@ -20,7 +20,7 @@ De originaltexter vi redan läst av Rawls och Nozick bör ni läsa igen. Det är
 
 2. Källförteckning är obligatoriskt. Vid direkta citat eller referat krävs *källhänvisning* i text. 
 
-3. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Filosofi, Moralfilosofi**”
+3. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Politisk Filosofi**”
 
 4. Du skickar till **fredrik.stahl.metg@analys.urkund.se** (se deadline i provschema på schoolsoft)
 
