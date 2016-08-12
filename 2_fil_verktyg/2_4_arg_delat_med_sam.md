@@ -56,7 +56,7 @@ Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt 
 > > > > > 
 > > > > > > *Argument av fjärde ordningen:* Ingen annan ska behöva drabbas av mina dåliga val. 
 > >
-> > *Argument av första ordningen:* Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
+> > > *Argument av första ordningen:* Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
 > > > 
 > > > *Argument av andra ordningen:* Då blir jag sen till jobbet.
 > > > > 
