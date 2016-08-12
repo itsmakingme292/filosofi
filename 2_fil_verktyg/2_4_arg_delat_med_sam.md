@@ -44,7 +44,7 @@ När vi argumenterar gör vi oftast detta i _flera led_. Med andra ord: vi argum
 
 Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt själva tesen (eller om det är ett motargument: *försvagar* rimligheten hos tesen). Ett *argument av andra ordningen* är ett argument som i sin tur ger stöd åt (eller försvagar) ett argument av den första ordningen (och därmed _indirekt_ åt tesen). Och så vidare.
 
-> *Ett exempel på en argumentations struktur:*
+> *ETT exempel på en argumentations struktur:*
 > 
 > > **Tes:** Jag borde inte stanna uppe så länge natten innan en arbetsdag.
 > > 
@@ -54,8 +54,8 @@ Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt 
 > > > > 
 > > > > > *Argument av tredje ordningen:* Gör man ett sämre arbete drabbas arbetskollegor av detta.
 > > > > > 
-> > > > > > *Argument av fjärde ordningen:* Ingen annan ska behöva drabbas av mina dåliga val.
-> > > > > > 
+> > > > > > *Argument av fjärde ordningen:* Ingen annan ska behöva drabbas av mina dåliga val. 
+> >
 > > *Argument av första ordningen:* Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
 > > > 
 > > > *Argument av andra ordningen:* Då blir jag sen till jobbet.

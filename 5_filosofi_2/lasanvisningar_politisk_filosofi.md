@@ -10,9 +10,10 @@
 
 ### Frågor att ställa sig
 
-* Vad är den huvudsakliga poängen? Vilka är de viktigaste  ståndpunkterna som förs fram? Hur hänger de ihop?
+* Vad är den huvudsakliga poängen? Vilka är de viktigaste  ståndpunkterna som förs fram? Hur hänger de ihop? Vad är din tolkning?
 * Vilken är debatten som texten deltar i? Vad anser du att texten tillför i denna debatt? 
 * Finns det brister i de resonemang som förs i texten eller är texten övertygande? Är argumenten hållbara och relevanta? 
+* Vad tänker du själv i de frågor som berörs?
 
 ## Läslista, politisk filosofi
 
