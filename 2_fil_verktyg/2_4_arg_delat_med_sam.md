@@ -58,11 +58,11 @@ Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt 
 > >
 > > > *Argument av första ordningen:* Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
 > > > 
-> > > *Argument av andra ordningen:* Då blir jag sen till jobbet.
-> > > > 
-> > > > *Argument av tredje ordningen:* Blir jag sen blir min chef arg.  
+> > > > *Argument av andra ordningen:* Då blir jag sen till jobbet.
 > > > > > 
-> > > > > *Argument av fjärde ordningen:* Det är dumt att göra chefen arg.
+> > > > > *Argument av tredje ordningen:* Blir jag sen blir min chef arg.  
+> > > > > > 
+> > > > > > *Argument av fjärde ordningen:* Det är dumt att göra chefen arg.
 
 Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argumentation och dels då man vill skapa en överblick då man bygger egna.
 
