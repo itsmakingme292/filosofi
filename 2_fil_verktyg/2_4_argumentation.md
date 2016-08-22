@@ -18,7 +18,7 @@ God argumentation handlar om allt det vi gått igenom under detta moment.
 
 4. **Att vi förstår vad vi säger implicit, såväl som explicit**: För att på så vis undvika att säga något som vi faktiskt inte avser att säga.
 
-5. **Att vi använder relevanta och hållbara argument**: För att vi aldrig bör söka stöd i tvivelaktiga påståenden eller i påståenden som inte har med saken att göra. 
+5. **Att vi använder hållbara och relevanta argument**: För att vi aldrig bör söka stöd i tvivelaktiga påståenden eller i påståenden som inte har med saken att göra. 
 
 6. **Att vi undviker fula retoriska knep**: För att argumentation inte är en tävling där man försöker vinna till varje pris.
 
