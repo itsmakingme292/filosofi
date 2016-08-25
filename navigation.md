@@ -62,6 +62,9 @@
 
   * [Encyklopedier, filmer, m.m.](x_lankar/lanklista.md)
 
+<!--OBS: Om jag lägger bort ytterligare kategori, ta bort "&nbsp;” från titeln på sidan... -->
+
+
 <!--[Filosofi 2]()     * # Övergripande   * [Preliminär planering](5_filosofi_2/prel_planering_filosofi_2.md)   * [Skolverkets kursplan](5_filosofi_2/kursplan_filosofi2.md)   - - - -   * # Politisk filosofi   * [Miniseminarier](5_filosofi_2/lasanvisningar_politisk_filosofi.md)   * [Inlämningsuppgift](5_filosofi_2/inlamning_politisk_filosofi.md)      - - -   * # Fördjupning, verklighet & kunskap   * [Miniseminarier](5_filosofi_2/lasanvisningar_verklighet_kunskap.md)   * [Redovisning](5_filosofi_2/redovisning_verklighet_kunskap.md) -->
 
   
