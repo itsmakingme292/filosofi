@@ -5,10 +5,11 @@
 
 1. Introduktion
 2. Filosofins verktyg
-3. Verklighet & kunskap
-	* Seminarium
-4. Moralfilosofi
+3. Moralfilosofi
 	* Hemtenta
+4. Verklighet & kunskap
+	* Seminarium
+
 <!--5. Eventuell kortare del om politisk filosofi -->
 
 **Kommentar:** Delmoment 1 och 2 har ej någon examinerande del, men de är likväl viktiga. Det vi gör under introduktionen och filosofins verktyg tar ni givetvis med er under de följande delmomenten. 

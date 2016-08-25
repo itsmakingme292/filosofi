@@ -1,6 +1,6 @@
 <script async defer src="//hypothes.is/embed.js"></script>
 
-# Filosofi
+# Filosofi 1 &nbsp; &nbsp; &nbsp;
 
 [Intro & Info]()
 
@@ -26,6 +26,21 @@
   * # Övningar & Diskussionsunderlag
   * [Övningsuppgifter](2_fil_verktyg/ovningsuppgifter_fil_verktyg.md)
   * [Instuderingsfrågor](2_fil_verktyg/instuderingsfragor_fil_verktyg.md)
+
+[Moralfilosofi]()
+
+  * # Läsning
+  * [1. Inledning](4_moralfilosofi/4_1_inledning.md)
+  * [2. Utilitarismen](4_moralfilosofi/4_2_utilitarismen.md)
+  * [3. Kantiansk pliktetik](4_moralfilosofi/4_3_pliktetiken.md)
+  * [4. Aristotelisk dygdetik](4_moralfilosofi/4_4_dygdetiken.md)
+  - - - -
+  * # Övningar & Diskussionsunderlag
+  * [En första diskussion](4_moralfilosofi/moral_en_forsta_diskussion.md)
+  * [Övningsuppgifter](4_moralfilosofi/ovningsuppgifter_moralfilosofi.md)
+  - - - -
+  * # Examinerande moment
+  * [Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md)
     
 [Verklighet & Kunskap]()
 
@@ -43,39 +58,12 @@
   * # Examinerande moment
   * [Seminarium: Läsanvisningar <br>& Instuderingsfrågor](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
   
-[Moralfilosofi]()
-
-  * # Läsning
-  * [1. Inledning](4_moralfilosofi/4_1_inledning.md)
-  * [2. Utilitarismen](4_moralfilosofi/4_2_utilitarismen.md)
-  * [3. Kantiansk pliktetik](4_moralfilosofi/4_3_pliktetiken.md)
-  * [4. Aristotelisk dygdetik](4_moralfilosofi/4_4_dygdetiken.md)
-  - - - -
-  * # Övningar & Diskussionsunderlag
-  * [En första diskussion](4_moralfilosofi/moral_en_forsta_diskussion.md)
-  * [Övningsuppgifter](4_moralfilosofi/ovningsuppgifter_moralfilosofi.md)
-  - - - -
-  * # Examinerande moment
-  * [Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md)
-    
 [Länktips]()
 
   * [Encyklopedier, filmer, m.m.](x_lankar/lanklista.md)
 
-[Filosofi 2]()
- 
-  * # Övergripande
-  * [Preliminär planering](5_filosofi_2/prel_planering_filosofi_2.md)
-  * [Skolverkets kursplan](5_filosofi_2/kursplan_filosofi2.md)
-  - - - -
-  * # Politisk filosofi
-  * [Miniseminarier](5_filosofi_2/lasanvisningar_politisk_filosofi.md)
-  * [Inlämningsuppgift](5_filosofi_2/inlamning_politisk_filosofi.md)
-  
-  - - -
-  * # Fördjupning, verklighet & kunskap
-  * [Miniseminarier](5_filosofi_2/lasanvisningar_verklighet_kunskap.md)
-  * [Redovisning](5_filosofi_2/redovisning_verklighet_kunskap.md)
+<!--[Filosofi 2]()     * # Övergripande   * [Preliminär planering](5_filosofi_2/prel_planering_filosofi_2.md)   * [Skolverkets kursplan](5_filosofi_2/kursplan_filosofi2.md)   - - - -   * # Politisk filosofi   * [Miniseminarier](5_filosofi_2/lasanvisningar_politisk_filosofi.md)   * [Inlämningsuppgift](5_filosofi_2/inlamning_politisk_filosofi.md)      - - -   * # Fördjupning, verklighet & kunskap   * [Miniseminarier](5_filosofi_2/lasanvisningar_verklighet_kunskap.md)   * [Redovisning](5_filosofi_2/redovisning_verklighet_kunskap.md) -->
+
   
   
 <!--Ha resurser/länkar, eller filosofi 2 här...-->
