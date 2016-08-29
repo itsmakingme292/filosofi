@@ -1,7 +1,7 @@
 # Preliminär planering
 
 
-## Filosofi 1 – 50p, HT
+## Filosofi 1 – 50p
 
 1. Introduktion
 2. Filosofins verktyg
