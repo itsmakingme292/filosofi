@@ -44,7 +44,7 @@ Inom filosofi må det vara svårare att nå en teori som merparten, åtminstone 
 
 <!-- (eller för att använda ett mindre fashionabelt ord: *visare*) -->
 
-En annan vanlig föreställning om filosofi är att den berör sådant som anses flummigt. I detta sammanblandar man ofta “flum” med den spekulativa aspekten som kommer av de filosofiska frågornas svårighet. Men sådana svårigheter möts och löses inte genom en frånvaro av seriositet och tankestruktur till förmån för “flum”, utan genom ett krav på, och en vilja till, motsatsen. Om en fråga är svår, är man föga hjälpt om man inte tar den på allvar.
+En annan vanlig föreställning om filosofi är att den berör sådant som anses flummigt. I detta sammanblandar man ofta “flum” med den spekulativa aspekten som kommer av de filosofiska frågornas svårighet. Men sådana svårigheter möts och löses inte genom en frånvaro av seriositet och tankestruktur till förmån för “flum”, utan genom ett krav på, och en vilja till, motsatsen. Om en fråga är svår, är man föga hjälpt om man inte tar den på allvar. Flum uppstår oftast när vi alldeles för snabbt försöker ge lika enkla som diffusa svar på redan allt för dåligt ställda frågor. 
 
 
 #### Filosofi är inte “läran om allt”, men inte heller “läran om resten”
@@ -60,9 +60,9 @@ Filosofi är lika mycket grunden som gränsen för vårt tänkande. Gränsen dä
 Att ägna sig åt filosofi är i slutändan, som Sokrates påpekar, att leva det reflekterade livet, eller som Nietzsche omformulerade det, att bli författaren till sitt eget liv. Och detta är både *ämnet, syftet och metoden*.
 
 ## Vad filosofi kan vara
-Filosofi handlar om en vilja att blottlägga våra föreställningar om världen och utsätta dessa för kritiska prövningar. Att plocka isär och noggrant granska varje beståndsdel, förkasta, modifiera och ta till sig nya komponenter. Detta för att sedan varsamt montera allt samman till en ny och bättre kunskap. I de fall filosofiska frågor uppfattas som flummiga handlar det allt som oftast om att vi brister i detta projekt. Om att vi alldeles för snabbt försöker ge lika enkla som diffusa svar på redan allt för dåligt ställda frågor. 
+Filosofi handlar om en vilja att blottlägga våra föreställningar om världen och utsätta dessa för kritiska prövningar. 
 
-I detta handlar filosofi alltid om att *gå till botten* med det ämne vi tar för oss. Om att söka en frågas allra mest grundläggande natur och problematik. Och i denna mening kan man också säga att de flesta frågor någonstans slutar i filosofi, om vi bara synar dem tillräckligt noga. För om det är något som utmärker den filosofiska frågan så är det att den alltid är allmängiltig och principiell. Att den går på djupet och *bortom* det individuella och enskilda. 
+I detta handlar filosofi alltid om att *gå till botten* med det ämne vi tar för oss. Om att söka en frågas allra mest grundläggande natur och problematik. Och i denna mening kan man också säga att de flesta frågor någonstans slutar i filosofi – om vi bara synar dem tillräckligt noga. För om det är något som utmärker den filosofiska frågan så är det att den alltid är allmängiltig och principiell. Att den går på djupet och *bortom* det individuella och enskilda. 
 
 Om vi exempelvis skulle ägna oss åt en filosofisk analys av begreppet "kärlek" så räcker det inte med att fråga Lisa hur hon känner sig när hon är kär, eller hur det svenska folket uppfattar ordet "kärlek" (detta är ett jobb för socialantropologer – inte filosofer). Vi kan förvisso ha mycket olika uppfattningar om vad kärlek innebär *för oss*, men dessa uppfattningar är personliga och filosofin sysslar, som sagt, med det _allmängiltiga_. Filosofiskt frågar vi oss istället om det kan finnas någonting *utmärkande* för den upplevelse vi vanligen brukar kalla kärlek. Vi försöker finna en *generell princip* som sammanbinder *alla former* av kärlek och/eller olika sätt att särskilja mellan *olika typer* av kärlek. Vi försöker kort och gott finna en kärlekens *minsta gemensamma nämnare*. 
 
