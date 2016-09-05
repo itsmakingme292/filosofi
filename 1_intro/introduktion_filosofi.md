@@ -22,7 +22,7 @@ Filosofins frågor är därför lika viktiga för oss idag, som förr, och i det
 
 #### Filosofi är inte att “ha en filosofi”
 
-Ibland används ordet filosofi som en synonym till att blott ha en uppsättning tankar, idéer eller principer kring en viss sak. Denna definition är korrekt i den mån att filosofi är något “alla har” och att varje fråga rymmer filosofi. Men filosofisk blir frågan, och filosofiska blir vi, först då vi *medvetandegjort* detta faktum och börjat syna dessa tankar. I detta blir filosofin inte bara någonting *vi redan har*, utan också en ständigt pågående *aktivitet.*
+Ibland används ordet filosofi som en synonym till att kort och gott ha en uppsättning tankar, idéer eller principer kring en viss sak. Denna definition är korrekt i den mån att filosofi är något “alla har” och att varje fråga rymmer filosofi. Men filosofisk blir frågan, och filosofiska blir vi, först då vi *medvetandegjort* detta faktum och börjat syna dessa tankar. I detta blir filosofin inte bara någonting *vi redan har*, utan också en ständigt pågående *aktivitet.*
 
 Att ägna sig åt filosofi innebär därför i första ledet att inta en “nollställd” inställning till världen och sig själv. Att inte ta något för givet för att sedan noggrant, logiskt och sammanhängande bygga upp sin förståelse av den på nytt. Att bli medveten om sitt eget tänkande och hur detta formar de objekt vi tänker på. Att söka klarhet i de antaganden vi gör och förstå hur dessa ligger till grund för våra slutsatser. Och att inte acceptera något utan att först utsätta det för kritik. Att kort och gott “ha en filosofi” kan vara en början, men aldrig ett slutmål.
 
