@@ -44,4 +44,4 @@ En tredje form av idealism är Kants **kritiska idealism**. Enligt Kant finns de
 
 ## [Frågeformulär]
 
-<iframe src="https://docs.google.com/forms/d/18A8m12GKHpGQkVk2_tIAf0PI330VPilL-v1KpvHfhlA/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/18A8m12GKHpGQkVk2_tIAf0PI330VPilL-v1KpvHfhlA/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

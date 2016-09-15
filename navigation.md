@@ -19,7 +19,8 @@
 
   * # Läsning
   * [1. Inledning](2_fil_verktyg/2_1_inledning.md)
-  * [2. Språk](2_fil_verktyg/2_2_sprak.md)
+  * [2.1. Språk: Begrepp](2_fil_verktyg/2_2_1_sprak_begrepp.md)
+  * [2.2. Språk: Satser](2_fil_verktyg/2_2_2_sprak_satser.md)
   * [3. Logik](2_fil_verktyg/2_3_logik.md)
   * [4. Argumentation](2_fil_verktyg/2_4_argumentation.md)
   - - - -

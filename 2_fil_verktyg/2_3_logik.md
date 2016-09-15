@@ -94,7 +94,7 @@ En annan viktig distinktion är den mellan  implicit logisk och "implicit" *psyk
 
 Den _logiska_ implikationen av det vi påstår är alltså alla ytterligare påståenden vi _också_ måste hålla med om – så länge vi inte vill förkasta eller modifiera det vi explicit har sagt. Med andra ord: de påståenden vi måste acceptera för att _inte tala motsägelsefullt_. 
 
-Det är inte minst med anledning av detta som det är viktigt att vi *preciserar* det vi säger. 
+Det är inte minst med anledning av detta som det är viktigt att vi *preciserar* det vi säger (se [precisering](2_2_2_sprak_satser.md#Precisering)). 
 
 <!--Skriva mer ovanstående? Eller få in det någon annanstans? -->
 
@@ -126,4 +126,4 @@ Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt t
 
 ## [Frågeformulär] 
 
-<iframe src="https://docs.google.com/forms/d/1UzeeFJW5tZ64oDEqpsTvIKBClzocelv8ckYURqFUbSs/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1UzeeFJW5tZ64oDEqpsTvIKBClzocelv8ckYURqFUbSs/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

@@ -42,5 +42,5 @@ Frågor om vad som är verkligt, vad som är kunskap och vad som är sant hänge
 
 ## [Frågeformulär]
 
-<iframe src="https://docs.google.com/forms/d/1UpE41WgyDEOnkkoPT28WYlCiFn8Ssd6Q0X2LphI4DIU/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
+<iframe src="https://docs.google.com/forms/d/1UpE41WgyDEOnkkoPT28WYlCiFn8Ssd6Q0X2LphI4DIU/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
 
