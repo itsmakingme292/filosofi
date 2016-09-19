@@ -1,5 +1,7 @@
 # Seminarium: Läsanvisningar & Instuderingsfrågor
 
+**OBS:** Nedan gäller inte för läsåret 2016-2017. Uppdatering kommer. Tanken är att vi helt ska kunna slippa kursboken detta läsåret och att det som finns nedan helt ska kunna ersättas med nya texter på denna sida. 
+
 ## Läsanvisningar
 
 *Utöver innehållet under fliken för detta delmoment kommer merparten av läsningen utgå ifrån kursboken, totalt ca: 50 sidor*
