@@ -8,7 +8,7 @@ Som filosofisk gren är logiken studiet av regler för slutsatsdragning och prin
 
 ## Premisser, slutledningar & slutsatser
   
-En **slutledning** är ett helt resonemang där flera påståenden eller antaganden kopplas samman för att utvinna “ny” information. Exempelvis: “Om Pelle är en människa och alla människor är dödliga så är också Pelle dödlig.”. **Slutsatsen** är det man till sist kommer fram till. Med andra ord det som blir följden av hela slutledningen. I detta exempel alltså att: Pelle är dödlig, förutsatt att han också är en människa.
+En **slutledning** är ett helt resonemang där flera påståenden eller antaganden kopplas samman för att utvinna “ny” information. Exempelvis: “Om Pelle är en människa och alla människor är dödliga så är också Pelle dödlig.”. **Slutsatsen** är det man till sist kommer fram till. Med andra ord det som blir följden av hela slutledningen. I detta exempel alltså att: Pelle är dödlig (förutsatt att han också är en människa).
 
 En sådan förutsättning, så som “förutsatt att han också är en människa”, kallas för en **premiss**. Premisser är själva utgångspunkterna i ett resonemang: de antaganden eller påståenden som *måste* vara sanna för att slutsatsen ska *kunna* vara sann. Om vi resonerar *korrekt* är därför slutsatsen *alltid* en *konsekvens* av premisserna.
 

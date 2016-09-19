@@ -26,7 +26,7 @@ Tänk även på att *olika* satser kan uttrycka *samma* påstående. Satsen ”S
 
 2. *Preskriptiva* värdepåståenden är satser där man uppmanar eller föreskriver ett visst beteende (dessa kallas ibland även för _normativa_ påståenden). Exempelvis “Man bör inte döda” eller “Stäng alltid dörren när du går”.  
 
-Värdepåståenden ses vanligen inte som en viss typ av sakpåstående, utan som en *helt annan kategori*. Sakpåståenden är, åtminstone i princip, falska eller sanna, men värdepåståenden är något knepigare. Dessa är snarare *rimliga* eller *orimliga*. 
+Värdepåståenden ses vanligen inte som en viss typ av sakpåstående, utan som en *helt egen kategori*. Sakpåståenden är, åtminstone i princip, falska eller sanna, men värdepåståenden är något knepigare. Dessa är snarare *rimliga* eller *orimliga*. 
 
 Om vi exempelvis påstår att barnaga är fel är detta förvisso ett mycket giltigt påstående, men det är likväl inte ett sakpåstående utan ett värdepåstående. Att det är _fel_ att slå barn är _mycket_ *rimligt* men _inte ett faktum_. Barnaga är fel därför att vi utrett vad en god barnuppfostran _bör_ innebära. Fakta så som vad våld gör mot barns psykiska välmående räcker inte för att vi, per automatik, ska se våldet som _orätt_. Vi måste också _bestämma oss_ för att denna effekt av våldet är något *vi inte önskar*. Vi måste tillskriva dessa fakta ett visst _värde_ (mer om detta i momentet "Moralfilosofi"). 
 
