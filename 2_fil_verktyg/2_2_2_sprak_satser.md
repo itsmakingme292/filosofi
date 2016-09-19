@@ -72,11 +72,11 @@ Vi ska också komma ihåg att missförstånd ofta uppstår därför att vi själ
 
 Att definiera ord och precisera satser gör vi – som sagt – för att skapa tydlighet i vårt språk. Men till vardags behöver vi inte alltid vara så värst tydliga för att göra oss förstådda (vilket enkelt kan kontrasteras mot sådant som både juridik, vetenskap och filosofi). Detta beror på att vi människor ofta är ganska duktiga på att tolka och läsa in underförstådda betydelser. Vår tolkning av satser utgår framförallt ifrån tre saker.
 
-1. Vår _föreställning av talaren_. Vad vi tror om talarens *intentioner*. Hur vi föreställer oss att den tänker när den yttrar en sats, vad den vill och menar med det den säger, osv.  
+1. Vår _föreställning av talaren_. Vad vi tror om talarens *intentioner*. Hur vi föreställer oss att den tänker när den yttrar en sats, vad den vill och menar med det den säger, osv. I en diskussion är det oftast lättare att förstå vad en vän vill säga än vad det är att förstå en främling. 
 
-2. I vilket _socialt_ (och eventuellt _medialt_) *sammanhang* satsen yttras. Vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv. 
+2. I vilket _socialt_ (och eventuellt _medialt_) *sammanhang* satsen yttras. Vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv. Om jag som lärare i ett klassrum till mina elever säger "nu ska vi göra något roligt" betyder det förmodligen en helt annan sak än om jag som privatperson på en fest yttrar samma sats till mina vänner. 
 
-3. I vilket *språkligt* sammanhang satsen yttras. Vilka andra satser som föregår och efterföljer satsen, språkliga konventioner och sättet talaren använder språket på, osv. 
+3. I vilket *språkligt* sammanhang satsen yttras. Vilka andra satser som föregår och efterföljer satsen, vilka språkliga konventioner som används och sättet man som talare använder språket på. Att höra eller läsa satser utanför sitt språkliga sammanhang skapar ofta problem. Detta kort och gott eftersom meningen bakom en sats alltid skapas i relation till _vad vi sagt tidigare_, _vad vi säger sen_ och _hur_ vi sagt detta (exempelvis med vilket tonfall). 
 
 Det som händer när vi hör en sats yttras är att vi automatiskt fyller på med mening som från början inte *direkt* ryms inom satsen. Vad vi tänker om den avsedda meningen skiftar därför beroende på vad vi vet om ovanstående punkter. 
 
@@ -84,9 +84,7 @@ Det som händer när vi hör en sats yttras är att vi automatiskt fyller på me
 
 Om jag är hemma hos en kompis och säger “jag är hungrig”, varpå han svarar “ta vad du vill i kylen”, förstår jag medvetet eller omedvetet att allt inte är inkluderat. Jag förstår att kompisen inte menar att jag kan ta precis vad som helst. Jag tolkar därför automatiskt in en “lista” på saker (och av en viss mängd) som jag tror är helt okej att ta. Detta gör jag utifrån vad jag vet om min kompis och det sammanhang vi befinner oss i. Kanske vet jag att kompisen är fattig, och då tar jag lite mindre, och under inga omständigheter tar jag fram ett par tomma kassar, börjar tömma kylen på innehåll och traskar hem med kassarna fyllda.
   
-Eftersom vår tolkning alltid är beroende av vad vi tror om talarens intentioner och sammanhanget är det viktigt att understryka att detta också rymmer en viss mer negativ problematik. Möjligheten till en rimlig tolkning minskar alltid i takt med bristande kunskap och felaktiga fördomar. Stereotypa bilder av talaren och sammanhanget står alltid i vägen för vår förståelse. Desto mer vi faktiskt vet om dessa, desto större chans är det att vår tolkning är korrekt. 
-
-<!--Att exempelvis tillskriva vår meningsmotståndare en åsikt som denne faktiskt inte har bidrar aldrig till en konstruktiv diskussion (se exempelvis tankefelet "Halmgubben" längre fram). -->
+Eftersom vår tolkning alltid är beroende av vad vi tror om talarens intentioner och sammanhanget är det viktigt att understryka att detta också rymmer en viss mer negativ problematik. Möjligheten till en rimlig tolkning minskar alltid i takt med bristande kunskap och felaktiga fördomar. Stereotypa bilder av talaren och sammanhanget står alltid i vägen för vår förståelse. Desto mer vi faktiskt vet om dessa, desto större chans är det att vår tolkning är korrekt. Att exempelvis tillskriva vår meningsmotståndare en åsikt som denne faktiskt inte har bidrar sällan till en konstruktiv diskussion.
 
 <!--Tog bort: Är vi exempelvis helt övertygade om att en person är "korkad" (även då denna faktiskt inte är det) kommer vi också att tolka denna persons yttrade satser som mer "korkade" än vad de kanske egentligen är.  -->
 
