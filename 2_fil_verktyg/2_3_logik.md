@@ -23,7 +23,7 @@ I detta exempel har vi tydligt skrivit ut en premiss som förmodligen lika gärn
 
 Huruvida människor faktiskt är dödliga eller ej är dock inget själva logiken intresserar sig för. Logiken intresserar sig bara för vad som logiskt *kan följa* av en eller ett antal premisser. Exempelvis att Pelle *måste* vara dödlig *om* alla människor är dödliga och han också *är* en människa. Inte om premisserna i sig stämmer överens med verkligheten. Detta är upp till andra kunskapsområden att avgöra.
 
-En slutledning som kan vara både sann och falsk kallas för en *logiskt giltig* eller en *korrekt slutledning*. En slutledning som faller redan på sin bristande logik, alltså innan vi ens behöver jämföra premisserna med verkligheten, kallas för ett *felslut* eller en *logiskt ogiltig slutledning*. En sådan ogiltig slutledning kan förvisso av en *slump* producera en *slutsats* som trots allt är sann - men bara om vi har ”tur”, inte för att vi resonerat  korrekt (och själva *slutledningen* är därav likväl ogiltig). 
+En slutledning som kan vara sann eller falsk kallas för en *logiskt giltig* eller en *korrekt slutledning*. En slutledning som faller redan på sin bristande logik, alltså innan vi ens behöver jämföra premisserna med verkligheten, kallas för ett *felslut* eller en *logiskt ogiltig slutledning*. En sådan ogiltig slutledning kan förvisso av en *slump* producera en *slutsats* som trots allt är sann – men bara om vi har ”tur”, inte för att vi resonerat  korrekt (och själva *slutledningen* är därav likväl ogiltig). 
 
 > *Exempel på en slutledning som är logiskt giltig, men som lika gärna kan ge oss en osann slutsats:*  
 > 
@@ -39,7 +39,7 @@ En slutledning som kan vara både sann och falsk kallas för en *logiskt giltig*
 > > *Premiss 2:* Nils är dödlig.   
 > > *Slutsats:* Nils är en människa.
 
-Ovanstående är ett bra exempel på det vi till vardags kallar *förhastade slutsatser*. Denna slutledning är *ogiltig* eftersom Nils inte alls måste vara en människa enbart därför att han är dödlig. Det finns många exempel på andra dödliga djur – kanske är Nils namnet på någons katt. Premisserna är rimligen sanna och kanske är också slutsatsen ett *sant påstående*, men *slutledningen* är likväl *ogiltig* eftersom den inte *följer av premisserna*.
+Ovanstående är ett bra exempel på det vi till vardags kallar *förhastade slutsatser*. Denna slutledning är *ogiltig* eftersom Nils inte alls måste vara en människa enbart därför att han är dödlig. Det finns många exempel på andra dödliga djur – kanske är Nils namnet på någons katt. Premisserna är rimligen sanna och kanske är också slutsatsen ett *sant påstående*, men *slutledningen* är likväl *ogiltig* eftersom slutsatsen inte *följer av premisserna*.
 
 ## Deduktion & induktion
 
