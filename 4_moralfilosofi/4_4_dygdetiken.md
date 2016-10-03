@@ -46,7 +46,7 @@ Men vad är det då som utmärker människan som art? Vad är det egentligen vi 
 
 De **intellektuella dygderna** handlar om människan som det "tänkande djuret". Till dessa kan vi räkna sådant som *kunnighet*, *medvetenhet* och *förståelse*. 
 
-För Aristoteles är det främst dessa typer av dygder som utmärker vår potential som människor. Inte minst eftersom det är dessa som ger oss möjligheten att reflektera över de *praktiska* dygderna. 
+För Aristoteles är det främst dessa typer av dygder som utmärker vår potential som människor. Inte minst eftersom det är dessa som ger oss möjligheten att _reflektera_ över de *praktiska* dygderna. 
 
 De **praktiska dygderna** handlar i sin tur om människan som det "sociala djuret". Om dygder som reglerar hur vi beter oss i förhållande till varandra. Till dessa kan vi räkna sådant som *måttfullhet, mod, rättrådighet* och *vänlighet*. 
 
@@ -56,9 +56,9 @@ De praktiska dygderna är alltså den typen av dygder vi vanligen förknippar me
 Gemensamt för de praktiska dygderna är att de handlar om en slags "gyllene medelväg". Att de utgör en mittpunkt mellan två extremer – ofta mellan ett överflöd och ett underskott av något visst karaktärsdrag.
 
 > Några exempel:
-> > Feghet – Mod – Dumdristighet 
-> > Blygsamhet – Ödmjukhet – Skrytsamhet 
-> > Snålhet – Generositet – Slösaktighet
+> > Feghet – Mod – Dumdristighet <br>
+> > Blygsamhet – Ödmjukhet – Skrytsamhet <br>
+> > Snålhet – Generositet – Slösaktighet <br>
 
 Här får vi dock inte ha en allt för enkel syn på *måttfullhet*. Medelvägen handlar inte om ett *exakt mellanting* utan om det *rätta måttet* i rätt situation. Ibland kräver dygden att vi handlar med kraft, ibland med försiktighet. Att vara dygdig är att finna denna rätta balansen mellan våra egenskaper, attityder och känslor, i varje given situation. 
 
