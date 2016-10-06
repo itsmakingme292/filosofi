@@ -2,6 +2,8 @@
 
 # Filosofi 1 &nbsp; &nbsp; &nbsp;
 
+<!--OBS: Om jag skulle lägga till politisk filosofi, så lägger jag bara länkar under ”Intro & Info" -->
+
 [Intro & Info]()
 
   * # Om kursen
