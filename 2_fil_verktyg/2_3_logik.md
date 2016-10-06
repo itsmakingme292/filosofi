@@ -118,7 +118,15 @@ Det är inte minst med anledning av detta som det är viktigt att vi *preciserar
 
 Något vi ibland misstar för kausalitet är **korrelation**. Om något korrelerar menar vi att två eller flera saker ofta förekommer samtidigt. Ett exempel på detta kan vara att det ofta regnar på midsommar. Men om det regnar denna dag är det inte därför att vi firar midsommar. Det finns inget hos midsommaren som *orsakar* regn. Brännvinet och sillen upprör förmodligen inga vädergudar. Midsommarregnet handlar bara om ett olyckligt sammanträffande. Ett annat exempel är att cancersjuka ofta tappar hår. Detta beror inte på deras *cancer* utan på den *medicinska behandlingen* de får som cancerpatienter (att de ges cellgifter).
 
-Två saker kan alltid eller ofta förekomma samtidigt, men det betyder inte nödvändigtvis att den ena förekomsten orsakar den andra eller vice versa. Ibland kan vi dock upptäcka en korrelation som visar sig ha ett orsakssamband. Det är i stort så här vetenskapen arbetar: denna letar efter korrelationer därför att dessa _potentiellt_ kan vara orsakssamband. När man upptäckt en korrelation som verkar vara ett orsakssamband måste man dock avgöra i vilken **riktning** denna går. Exempelvis: om vi kan se att positiva människor generellt tillhör de som lyckats bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas, eller är det snarare så att de *blivit positiva av* att lyckas?
+Två saker kan alltid eller ofta förekomma samtidigt, men det betyder inte _nödvändigtvis_ att den ena förekomsten orsakar den andra eller vice versa. Ibland kan vi dock upptäcka en korrelation som visar sig ha/vara ett orsakssamband. Det är i stort så här vetenskapen arbetar: denna letar efter korrelationer därför att dessa _potentiellt_ kan vara orsakssamband. I strikt mening kan vi dock aldrig _direkt_ se kausalitet, vi måste _tolka in_ kausalitet. Vetenskap handlar därför alltid om sannolikheter snarare än "rena fakta" och vetenskapen är alltid temporär (bättre "tolkningar" av orsaksamband kan uppkomma längre fram). 
+
+I detta ska vi komma ihåg att det oftast inte bara är ett fåtal saker som korrelerar utan ett stort antal. Vetenskap handlar därför om att försöka isolera olika faktorer/variabler för att verkligen hitta den eller de som _spelar roll_. Ett tydligt exempel på detta är att personer med y-namn (Johnny, Conny, osv) löper större risk att hamna i fängelse. 
+
+* Med lite kritiskt tänkande bör vi komma fram till att det knappast kan vara denna korrelation som i sig är själva kausaliteten. Y-namn orsakar rimligen inte automatiskt brottslighet. Det händer inget magiskt när vi döper ett barn till ett visst namn. 
+* Vad vi däremot också vet är att Y-namn även korrelerar med socialgruppstillhörighet (y-namn är typiska arbetarklassnamn) och att detta i sin tur korrelerar med ökad brottsbenägenhet (lite förenklat: har man det sämre är man ibland mer benägen att begå brott). 
+* Därtill kan vi tänka oss ytterligare faktorer, så som att personer med y-namn kanske möter vissa fördomar och att dessa fördomar formar deras person eller att de kanske rentav inte får en lika rättvis rättegång (obs detta är ett exempel, huruvida det är så har man inte riktigt forskat tillräckligt på).
+
+När man upptäckt en korrelation som verkar vara ett orsakssamband måste man vidare avgöra i vilken **riktning** denna går. Exempelvis: om vi kan se att positiva människor generellt tillhör de som lyckats bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas, eller är det snarare så att de *blivit positiva av* att lyckas? . 
 
 Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt tror att den går åt båda håll. Men bara för att en första sak orsakar en andra betyder det inte att den andra också orsakar den första.
 
@@ -133,7 +141,6 @@ Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt t
 > > *Premiss 1:* Om det åskar så regnar det.   
 > > *Premiss 2:* Det regnar.   
 > > *Slutsats:* Det åskar.
-
 
 ## [Frågeformulär] 
 
