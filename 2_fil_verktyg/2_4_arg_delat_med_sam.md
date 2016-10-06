@@ -2,9 +2,9 @@
 
 Att argumentera är att ha en ståndpunkt eller en åsikt som man vill ge andra människor goda anledningar att tro på. Denna ståndpunkt kallas för en **tes** och de skäl man ger, för eller emot denna, kallas för **argument**. Om tesen är ett sakpåstående syftar argumenten till att övertyga om det *sanna* eller _sannolika_ i den. Om tesen är ett värdepåstående syftar argumenten till att övertyga om det *rimliga* i den.
 
-God argumentation handlar om att presentera  information och påståenden som man själv tänker borde leda fram till en viss övertygelse. Verkligt god argumentation handlar om att ge _tillräckliga anledningar_ att tro på något. Att argumentera handlar därför inte bara om ett syfte att *övertyga* utan också om en vilja att *upplysa*. 
+God argumentation handlar om att presentera information och påståenden som man själv tänker borde leda fram till en viss övertygelse. Verkligt god argumentation handlar om att ge _tillräckliga anledningar_ att tro på något. Att argumentera handlar därför inte om att *övertala* eller _övertyga_ utan om en vilja att *upplysa*. I detta finns det en viktig skiljelinje mellan ren argumentation och ren _retorik_.
 
-Konsten att tala väl och “övertygande” kallas i första hand inte för argumentation utan för *retorik* – och denna konst kan även den som _argumenterar_ _dåligt_ vara bra på. En hederlig argumentatör vill inte bara *få rätt* och vinna över andra på “sin sida". En hederlig argumentatör är påläst, för ett logiskt sammanhängande resonemang och _upplyser_ i detta om *varför* denne tänker sig sin tes som rimligare eller mer sannolik än andra. 
+Retorik är konsten att tala väl och “övertygande” – och denna konst kan även den som _argumenterar_ _dåligt_ vara bra på. En bra argumentatör vill inte bara "få rätt" och vinna över andra på “sin sida". En bra argumentatör är påläst, för ett logiskt sammanhängande resonemang och _upplyser_ i detta om *varför* denne _faktiskt_ tänker sig sin tes som rimligare eller mer sannolik än andra. 
 
 Argumentation innebär därför inte bara att vi är kritiska till andras tankar, utan också att vi är kritiska till våra egna. Med viss retorisk finess kan vi försöka _dölja_ eventuella svagheter i de resonemang vi för fram. Men god argumentation förutsätter tvärtom en tydlighet som gör oss mottagliga för konstruktiv kritik. 
 
@@ -64,9 +64,15 @@ Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt 
 > > > > > > 
 > > > > > > *Argument av fjärde ordningen:* Det är dumt att göra chefen arg.
 
-Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argumentation och dels då man vill skapa en överblick då man bygger egna.
+Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt – att analysera strukturen i argumenterande texter är inte alltid lätt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argumentation och dels då man vill skapa en överblick då man bygger en egen.
 
-<!--Få in ovan att det ofta är mycket svårt att se en argumentations struktur i en redan skriven text och att detta i sig är ett argument för att tänka så här -->
+_Två viktiga punkter i detta:_
+
+* En första svårighet som ofta dyker upp är att själva tesen som drivs inte är tydlig. När vi själva argumenterar är det därför viktigt att vi allra först ägnar tid åt att _precisera_ vad det faktiskt är vi vill argumentera för eller emot (se [precisering](2_2_2_sprak_satser.md#Precisering)). 
+
+* God argumentation innebär att vi inte bara fokuserar på _sådant som talar för_ det vi påstår utan att vi också _kan se_ och att vi _bemöter_ möjliga motargument. På detta sätt _prövar_ vi våra egna argument och visar för andra varför möjliga motargument inte fäller vår tes. 
+
+
 
 ## Argumentationsfel
 
