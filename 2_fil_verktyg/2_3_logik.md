@@ -12,16 +12,25 @@ En **slutledning** är ett helt resonemang där flera påståenden eller antagan
 
 En sådan förutsättning, så som “förutsatt att han också är en människa”, kallas för en **premiss**. Premisser är själva utgångspunkterna i ett resonemang: de antaganden eller påståenden som *måste* vara sanna för att slutsatsen ska *kunna* vara sann. Om vi resonerar *korrekt* är därför slutsatsen *alltid* en *konsekvens* av premisserna.
 
-När vi resonerar till vardags låter vi ofta premisser vara outtalade och tar många av dem för givna. Detta skapar inte allt för sällan problem. Inte minst om vi tar helt *felaktiga* premisser för givna eller om vi i ett samtal med varandra utgår från helt *olika* premisser. Inom logiken (och filosofin) är man i regel därför väldigt noggrann med att göra premisser *synliga*.
+När vi resonerar till vardags låter vi ofta premisser vara outtalade och tar många av dem för givna. Och ibland är vi själva inte ens medvetna om vilka premisser vi faktiskt förutsätter i våra slutsatser. Sådana premisser kallar vi för _dolda_ premisser och dessa skapar inte allt för sällan problem. Inte minst när vi tar helt *felaktiga* premisser för givna eller om vi i ett samtal med varandra utgår från helt *olika* premisser. Inom logiken (och filosofin) är man i regel därför väldigt noggrann med att göra premisser *synliga*. Detta eftersom vi också vill ge andra en rimlig chans att faktiskt förstå _hur_ vi kommer fram till våra slutsatser.
 
 > *Den logiska strukturen i vår slutledning är följande:*
 > > *Premiss 1:* Alla människor är dödliga   
 > > *Premiss 2:* Pelle är en människa   
 > > *Slutsats:* Alltså är Pelle dödlig   
 
-I detta exempel har vi tydligt skrivit ut en premiss som förmodligen lika gärna kan tas för given: premissen att “alla människor är dödliga”. De flesta skulle fortfarande förstå slutledningen om vi bara hade sagt “Om Pelle är människa är han också dödlig”. Alla *vet* redan att ingen människa är odödlig. Värre blir det dock när vi missar att skriva ut premisser som kanske inte är lika självklara.
+I detta exempel har vi tydligt skrivit ut en premiss som förmodligen lika gärna kan tas för given: premissen att “alla människor är dödliga”. De flesta skulle fortfarande förstå slutledningen om vi bara hade sagt “Om Pelle är människa är han också dödlig”. Alla *vet* redan att ingen människa är odödlig. Värre blir det dock när vi missar att skriva ut premisser som kanske inte är lika självklara. Inte minst är det ofta i de dolda premisserna vi hittar brister i andras och våra egna slutsatser.
 
-Huruvida människor faktiskt är dödliga eller ej är dock inget själva logiken intresserar sig för. Logiken intresserar sig bara för vad som logiskt *kan följa* av en eller ett antal premisser. Exempelvis att Pelle *måste* vara dödlig *om* alla människor är dödliga och han också *är* en människa. Inte om premisserna i sig stämmer överens med verkligheten. Detta är upp till andra kunskapsområden att avgöra.
+> Ett exempel: 
+> > "Brottsligheten ökar i Sverige, vi måste minska invandringen" 
+> > > 
+> > > _Dold premiss 1 _= det finns en koppling mellan invandring och brottslighet 
+> > > > Möjlig ifrågasättning: Finns denna koppling tydligt? Och om den finns det: Kanske är det inte just invandringen i sig utan andra faktorer som spelar roll? Exempelvis: brist på integration?
+> > > 
+> > > _Dold premiss 2_ = om invandring leder till ökad brottslighet är detta ett tillräckligt skäl för att minska invandringen
+> > > > Möjlig ifrågasättning: Rätten till asyl är en mänsklig rättighet och vi har ett visst moraliskt ansvar. Och återigen kanske lösningen inte är minskad invandring utan ökad integration? 
+
+Huruvida exempelvis människor faktiskt är dödliga eller ej, eller vilken invandringspolitik vi bör bedriva, är dock inget själva logiken intresserar sig för. Logiken intresserar sig bara för vad som logiskt *kan följa* av ett antal premisser. Exempelvis att Pelle *måste* vara dödlig *om* alla människor är dödliga och han också *är* en människa. Inte om premisserna i sig stämmer överens med verkligheten. Detta är upp till andra kunskapsområden att avgöra.
 
 En slutledning som kan vara sann eller falsk kallas för en *logiskt giltig* eller en *korrekt slutledning*. En slutledning som faller redan på sin bristande logik, alltså innan vi ens behöver jämföra premisserna med verkligheten, kallas för ett *felslut* eller en *logiskt ogiltig slutledning*. En sådan ogiltig slutledning kan förvisso av en *slump* producera en *slutsats* som trots allt är sann – men bara om vi har ”tur”, inte för att vi resonerat  korrekt (och själva *slutledningen* är därav likväl ogiltig). 
 
