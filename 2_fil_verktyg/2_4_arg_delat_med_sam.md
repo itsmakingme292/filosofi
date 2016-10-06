@@ -137,7 +137,7 @@ Genom ett falskt dilemma försöker vi framställa en ståndpunkt som mer rimlig
 >
 > > “Jaså du är feminist, du tycker alltså att alla människor ska vara exakt likadana.”
 
-I halmgubbar kan det finnas olika grader av sanning. Men framförallt handlar det om att man tar något litet (ett strå) och gör någonting annat och större av det (en halmgubbe). Något vi också kan kalla "att göra en höna av en fjäder". Den som gillar tv-spel kanske gillar att “slappa” någon gång då och då, men denne tycker nödvändigtvis inte att man *bara* ska spela tv-spel hela dagarna. Den som är feminist kanske tycker att vi gör för stor skillnad *mellan könen*, men det betyder inte att denne tycker att alla ska vara likadana (förmodligen tvärtom). 
+I halmgubbar kan det finnas olika grader av sanning. Men framförallt handlar det om att man tar något litet (ett strå) och gör någonting annat och större av det (en halmgubbe). Något vi också kan kalla "att göra en höna av en fjäder". Den som gillar tv-spel kanske gillar att “slappa” någon gång då och då, men denne tycker nödvändigtvis inte att man *bara* ska spela tv-spel hela dagarna. Den som är feminist kanske tycker att vi gör för stor skillnad *mellan könen*, men det betyder inte att denne tycker att alla ska vara likadana (förmodligen tvärtom). Hellre än att göra halmgubbar bör vi alltid försöka tolka våra meningsmotståndare så välvilligt som bara möjligt. 
 
 **Cirkelresonemang**, cirkel*argument* eller cirkel*bevis* är när man använder slutsatsen som en premiss i en och samma slutledning. Med andra ord när man i sitt resonemang *förutsätter* det som ska bevisas för att på så vis (felaktigt) ”bevisa” det.
 
