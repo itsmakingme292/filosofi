@@ -2,9 +2,9 @@
 
 ## Vad är logik?
 
-De flesta av oss har någon gång använt ordet “logiskt”. Men ofta är det ganska oklart vad vi egentligen menar. Ibland tycks ordet “logiskt” närmast likställas med *det som är förnuftigt*. I denna beskrivning ligger det dock en viss sanning. För om vi skulle summera logiken är den framförallt: *konsten att resonera korrekt*.
+De flesta av oss har någon gång använt ordet “logiskt”. Men ofta är det ganska oklart vad vi egentligen menar. Ibland tycks ordet “logiskt” närmast likställas med *det som är förnuftigt*. I denna beskrivning ligger det en _viss_ sanning. För om vi skulle summera logiken är den framförallt: *konsten att resonera korrekt*.
 
-Som filosofisk gren är logiken studiet av regler för slutsatsdragning och principer för  tänkandet. Inom logiken undersöker man vilka _typer_ av resonemang som är _giltiga_ och hur ett fullgott resonemang *hänger samman*. Att resonera logiskt är i denna mening att förstå vad som är *möjligt* att säga utifrån en viss information – att förstå vilka slutsatser vi kan dra utifrån det vi tror oss veta.
+Som filosofisk gren är logiken studiet av regler för slutsatsdragning och principer för tänkandet. Inom logiken undersöker man vilka _typer_ av resonemang som är _giltiga_ och hur ett fullgott resonemang *hänger samman*. Att resonera logiskt är i denna mening att förstå vad som är *möjligt* att säga utifrån en viss information – att förstå vilka slutsatser vi kan dra utifrån det vi tror oss veta.
 
 ## Premisser, slutledningar & slutsatser
   
