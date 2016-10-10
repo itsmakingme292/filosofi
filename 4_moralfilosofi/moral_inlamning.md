@@ -25,7 +25,7 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 
 ### Att göra: 
 
-1. Du läser på och reflekterar kring samtliga avsnitt under kapitlet/delmomentet "moralfilosofi" i denna wiki.
+1. Du läser på och reflekterar kring samtliga avsnitt under kapitlet/delmomentet "moralfilosofi" på denna hemsida.
 
 2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I ett sådant fall bifogar du en *källförteckning*. Vid direkta citat eller referat krävs *källhänvisning* i text. 
 

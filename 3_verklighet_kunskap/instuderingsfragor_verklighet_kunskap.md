@@ -12,7 +12,7 @@
 * **129-143**: Vetenskapen
 * **167-170:** Sanning
 
-**Info:** På sikt kommer ovanstående att ersättas med material här på denna wiki. Men inte under detta läsår. 
+**Info:** På sikt kommer ovanstående att ersättas med material här på hemsidan. 
 
 ## Instruktioner
 

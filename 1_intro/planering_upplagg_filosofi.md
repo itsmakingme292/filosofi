@@ -14,7 +14,7 @@
 
 **Kommentar:** Delmoment 1 och 2 har ej någon examinerande del, men de är likväl viktiga. Det vi gör under introduktionen och filosofins verktyg tar ni givetvis med er under de följande delmomenten. 
 
-**Notera att:** Kursens upplägg är preliminärt och delmomentens innehåll kan komma att ändras. Denna wiki uppdateras kontinuerligt – och utifrån feedback från er. 
+**Notera att:** Kursens upplägg är preliminärt och delmomentens innehåll kan komma att ändras. Denna hemsida uppdateras kontinuerligt – och utifrån feedback från er. 
 
 
 ## Om upplägget
