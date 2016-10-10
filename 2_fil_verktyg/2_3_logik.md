@@ -12,7 +12,7 @@ En **slutledning** är ett helt resonemang där flera påståenden eller antagan
 
 En sådan förutsättning, så som “förutsatt att han också är en människa”, kallas för en **premiss**. Premisser är själva utgångspunkterna i ett resonemang: de antaganden eller påståenden som *måste* vara sanna för att slutsatsen ska *kunna* vara sann. Om vi resonerar *korrekt* är därför slutsatsen *alltid* en *konsekvens* av premisserna.
 
-När vi resonerar till vardags låter vi ofta premisser vara outtalade och tar många av dem för givna. Och ibland är vi själva inte ens medvetna om vilka premisser vi faktiskt förutsätter i våra slutsatser. Sådana premisser kallar vi för _dolda_ premisser och dessa skapar inte allt för sällan problem. Inte minst när vi tar helt *felaktiga* premisser för givna eller om vi i ett samtal med varandra utgår från helt *olika* premisser. Inom logiken (och filosofin) är man i regel därför väldigt noggrann med att göra premisser *synliga*. Detta eftersom vi också vill ge andra en rimlig chans att faktiskt förstå _hur_ vi kommer fram till våra slutsatser.
+När vi resonerar till vardags är våra premisser ofta outtalade. Ibland därför att vi ser vissa premisser som självklara och ibland därför att vi själva inte är medvetna om vilka premisser som faktiskt ligger till grund för våra resonemang. Denna typ av premisser kallar vi för _dolda_ premisser och dessa skapar inte allt för sällan problem. Inte minst när vi tar helt *felaktiga* premisser för givna eller om vi i ett samtal med varandra utgår från helt *olika* premisser. Inom logiken (och filosofin) är man i regel därför väldigt noggrann med att göra premisser *synliga*. Detta eftersom vi också vill ge andra en rimlig chans att faktiskt förstå _hur_ vi kommer fram till våra slutsatser.
 
 > *Den logiska strukturen i vår slutledning är följande:*
 > > *Premiss 1:* Alla människor är dödliga   
@@ -48,7 +48,7 @@ En slutledning som kan vara sann eller falsk kallas för en *logiskt giltig* ell
 > > *Premiss 2:* Nils är dödlig.   
 > > *Slutsats:* Nils är en människa.
 
-Ovanstående är ett bra exempel på det vi till vardags kallar *förhastade slutsatser*. Denna slutledning är *ogiltig* eftersom Nils inte alls måste vara en människa enbart därför att han är dödlig. Det finns många exempel på andra dödliga djur – kanske är Nils namnet på någons katt. Premisserna är rimligen sanna och kanske är också slutsatsen ett *sant påstående*, men *slutledningen* är likväl *ogiltig* eftersom slutsatsen inte *följer av premisserna*.
+Ovanstående är ett bra exempel på det vi kallar *förhastade slutsatser*. Denna slutledning är *ogiltig* eftersom Nils inte alls måste vara en människa enbart därför att han är dödlig. Det finns många exempel på andra dödliga djur – kanske är Nils namnet på någons katt. Premisserna är rimligen sanna och kanske är också slutsatsen ett *sant påstående*, men *slutledningen* är likväl *ogiltig* eftersom slutsatsen inte *följer av premisserna*.
 
 ## Deduktion & induktion
 
