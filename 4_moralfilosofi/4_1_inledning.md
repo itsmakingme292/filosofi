@@ -58,7 +58,7 @@ Moralen kan inte läggas ut på entreprenad, den kan inte ”outsourcas” från
 
 Varken samhällets normer, samhällets lagar eller gud och religionen kan därför ensamt, i ett moralfilosofiskt sammanhang, tjäna som anledningar för att handla på ett eller annat sätt. Detta eftersom:
 
-1. Om vi väljer att följa en helig skrifts allehanda påbud måste vi likväl *välja* detta. Därtill måste vi själva *tolka* den heliga skriften. Om tolkningar av heliga skrifter råder det sällan enighet, tvärtom måste vi i allt som oftast ta ställning till en rad ganska komplexa teologiska problem.
+1. Om vi väljer att följa en helig skrifts allehanda påbud måste vi likväl *välja* detta. Därtill måste vi själva *tolka* den heliga skriften (det finns fler än en tolkning). 
 2. Att samhället ”säger åt oss” att handla på ett visst sätt säger ingenting om det rätta i detta sätt. Moral handlar här om att se bortom normer och andra typer av ”fördomar” och *själv ta ställning* utifrån goda argument.
 3. Moralen är större än den juridiska lagen: allt som är omoraliskt är inte förbjudet enligt lag och ibland kan den juridiska lagen själv vara omoralisk. 
 
