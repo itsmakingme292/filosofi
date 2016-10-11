@@ -13,7 +13,9 @@ Vad man däremot, mer konsekvent, brukar göra är att skilja mellan tre olika *
 
 Den första nivån, **meta-etik**, behandlar frågan om moralens allra mest grundläggande natur. På vilket sätt en moral kan sägas *existera* och vad vi egentligen *refererar till* då vi uttrycker etiska ståndpunkter. Om vi i moraliska omdömen kan göra anspråk på något objektivt eller universellt utanför och oberoende av oss själva eller om vi bara uttrycker högst individuella eller kulturella åsikter, attityder eller känslor (eller någonting mittemellan).
 
-Den andra nivån, **normativ etik**, behandlar frågan om vilken eller vilka principer som är *bäst lämpade* för att avgöra vad som är rätt och vad som är fel. På denna nivå finner vi  grunden för vårt etiska handlande och teorier som ger oss *verktyg för att resonera oss fram till moralfilosofiska ställningstaganden.*
+Den andra nivån, **normativ etik**, behandlar frågan om vilken eller vilka principer som är *bäst lämpade* för att avgöra vad som är rätt och vad som är fel. På denna nivå finner vi  grunden för vårt etiska handlande och teorier som ger oss *verktyg för att resonera oss fram till moralfilosofiska ställningstaganden.* Givetvis råder det sällan konsensus kring moralfilosofiska teorier – men genom att utgå ifrån olika teoretiska perspektiv lär vi oss att belysa moralfrågor på ett mer systematiskt vis. 
+
+**Kommentar**: Konsensus betyder kort och gott _enighet_ och någon sådan finns varken vad gäller vilken teori som är bäst eller vilken variant och tolkning vi bör utgå ifrån. Det sagt handlar det inte om tycke och smak, vi måste likväl ha argument för de positioner vi antar inom den normativa etiken. 
 
 Den tredje nivån, **tillämpad etik**, behandlar de konkreta moralfilosofiska frågorna. Till dessa hör sådant som: medicinsk etik (exempelvis frågan om dödshjälp), miljöetik, djurrätt och rikas ansvar inför fattiga. På denna nivå *tillämpar* vi till sist de normativa teorierna på enskilda fall (eller åtminstone *typer* av fall). 
 
@@ -28,7 +30,7 @@ Under detta delmoment kommer vi framförallt att fokusera på den normativa etik
 Det sagt är gränsen mellan meta-etik och normativ etik inte alltid helt glasklar och det går sällan att säga något om den normativa etiken utan att antingen medvetet eller omedvetet förutsätta vissa meta-etiska förhållanden. Men det kan ändå vara klokt att inte gräva allt för djupt i denna aspekt av moralfilosofin – åtminstone till en början. 
 
 ## Moralfilosofi eller moralism? 
-Ibland kan tal om ”moral” väcka en viss tveksamhet och en del mindre trevliga associationer. Detta är inte särskilt konstigt. Många är de som tvärsäkert stämplat både det ena och det andra som moraliskt förkastligt. Många är också de som under historiens gång utfört en hel del märkliga, och rentav ondsinta, handlingar i moralens namn. Det kan nu därför vara på sin plats att vi gör en viktig distinktion: den mellan moralfilosofen och *moralisten*. 
+Ibland kan tal om ”moral” väcka en viss tveksamhet och en del mindre trevliga associationer. Detta är inte särskilt konstigt. En övertro på att vår egen moral är den absolut rätta leder inte allt för sällan till en farlig arrogans. Många är de som tvärsäkert stämplat både det ena och det andra som moraliskt förkastligt och utan att blinka dömt ut andra människor som omoraliska. Många är också de som under historiens gång utfört en hel del märkliga, och rentav ondsinta, handlingar i moralens namn (tänk kolonialism, terrorism, osv). Det kan nu därför vara på sin plats att vi gör en viktig distinktion: den mellan moralfilosofen och *moralisten*. 
 
 En moralist är en person som, mer eller mindre helt, lägger "beslag" på en moralfilosofisk fråga. En sådan person ser i detta inga andra alternativa ståndpunkter: dennes moraliska "regler" är de *enda* möjliga. En moralist är inte särskilt öppen för diskussion och påför gladeligen andra både skuld och skam för deras "omoraliska leverne” (ofta för att på så viss upphöja sig själv som ”bättre” än andra). En *moralfilosof* är tvärtom ödmjuk inför det faktum att moralen inte så lätt låter sig avgöras. Denne diskuterar, argumenterar, vrider och vänder, och söker alltid *kunskap* snarare än ”överlägsenhet”. 
 
@@ -65,19 +67,21 @@ Det moraliska valet är kort och gott alltid upp till oss själva: vi kan inte u
 ## Ansvar & klandervärdighet 
 Att vi måste stå till svars för våra handlingar är dock en sanning med modifikation. Premissen (förutsättningen) är givetvis att vi från första början faktiskt *har ett val*. 
 
-Om en björn "bryter sig in" i ditt hem och förstör dina tillhörigheter kanske du till en början blir arg på björnen. Men så snart du lugnat ner dig inser du förhoppningsvis att din ilska varit missriktad och att det inte finns någon giltig logik i att *klandra en björn*: att en björn med största sannolikhet inte besitter förmågan att förstå att man inte *bör* bryta sig in i andras hem och förstöra deras saker. 
+Om en björn "bryter sig in" i ditt hem och förstör dina tillhörigheter kanske du till en början blir arg på björnen. Men så snart du lugnat ner dig inser du förhoppningsvis att din ilska varit missriktad och att det inte finns någon giltig logik i att *klandra en björn*. En björn besitter med största sannolikhet inte förmågan att förstå att man inte *bör* bryta sig in i andras hem och förstöra deras saker. 
 
-Ansvar och *moraliskt ansvar* är i detta två olika saker. Björnen är ”ansvarig” i den *svagare* (och metaforiska) meningen att denna *orsakat* förstörelsen, men inte "ansvarig" i den *starkare* meningen att denna *borde vetat bättre och handlat annorlunda*. En helt annan sak blir det om det hade varit en (mentalt frisk) människa som brutit sig in. Då vore vår ilska inte längre missriktad. De flesta människor *borde faktiskt veta bättre* och därför har vi också *rätt att klandra dem*.
+Ansvar och *moraliskt ansvar* är i detta två olika saker. Björnen är möjligen ”ansvarig” i den *svagare* (och metaforiska) meningen att denna *orsakat* förstörelsen, men inte ansvarig i den *starkare* meningen att björnen *borde vetat bättre och handlat annorlunda*. En helt annan sak blir det om det hade varit en (mentalt frisk) människa som brutit sig in. Då vore vår ilska inte längre missriktad. De flesta människor *borde faktiskt veta bättre* och därför har vi också *rätt att klandra dem*.
 
 Inom moralfilosofin talar man här om att "ett *bör* alltid implicerar ett *kan*”. Med detta menas att vi endast är moraliskt klandervärdiga för något vi gjort om vi också *kunde gjort annorlunda*. En person bör bara ge pengar till välgörenhetsorganisationer om den också *kan* det (om denne har den ekonomiska möjligheten). Att säga något annat blir antingen en motsägelse, eller på sin höjd meningslöst (det är också av denna anledning det är svårt att tala om moral om man inte förutsätter att människan, åtminstone i någon bemärkelse, har en fri vilja). 
 
-Frågan om ansvar är dock långt mer komplicerad än så här. För vad innebär det egentligen att *kunna* handla annorlunda? Hur mentalt frisk måste en människa vara för att kunna klandras för sina handlingar? Kan en människas uppväxt vara en förmildrande omständighet? När har vi tillräckligt med information för att vara klandervärdiga?
+Frågan om moraliskt ansvar är dock långt mer komplicerad än så här. För vad innebär det egentligen att *kunna* handla annorlunda? Hur mentalt frisk måste en människa vara för att kunna klandras för sina handlingar? Kan en människas uppväxt vara en förmildrande omständighet? När har vi tillräckligt med information för att vara klandervärdiga?
 
 Om vi återgår till tanken om moralen som en bumerang och alla människors ”inneboende” moraliska kompass kan man ställa sig frågan om inte denna ibland kan ”sättas ur spel”? Om denna i vissa situationer kan vara såpass ”trasig” att det omöjligen kan vara vårt eget fel att vi handlat orätt? 
 
 ## Minimikrav för en moralfilosofi
 
-Till sist, innan vi går in på de tre största skolorna inom den normativa etiken, avrundar vi med tre kriterier som varje moralfilosofi måste uppfylla:
+Till sist, innan vi går in på de tre största skolorna inom den normativa etiken, avrundar vi med tre kriterier som varje moralfilosofi måste uppfylla. De två första punkterna framlades först av den moderna moralfilosofen _James Rachels_ och den tredje av _David Hume_ på 1700-talet. Dessa kriterier är inom den normativa etiken någorlunda okontroversiella (de flesta moralfilosofer håller med om dem i någon utsträckning).
+
+<!--, men som med det mesta kan de givetvis diskuteras, inte minst om vi antar en mer relativistisk ståndpunkt.  -->
 
 **1. Starka skäl**
 Moralfilosofi handlar inte bara om vad som är "bra" att göra, moralfilosofi handlar om vad vi *borde* göra. Med andra ord: det vi har *starkast skäl* att göra. Detta innebär att en ståndpunkt endast kan kallas för etisk om man också argumenterar för den i förhållande till andra möjliga val. Likaså innebär denna punkt att moraliska ställningstaganden alltid måste vara en produkt av ett förnuftigt övervägande. Kan vi inte ge några rationella anledningar till varför vi anser att något är rätt eller fel bör vi således *avstå att tycka*. 
@@ -96,18 +100,25 @@ Inom filosofin kallas detta för **Humes Lag** (från filosofen med samma namn) 
 
 > En bör-slutsats är inte logiskt giltig om premisserna uteslutande är sakpåståenden. Ett "är" (ett faktapåstående) kan aldrig, i sig självt, implicera ett "bör" (ett värdepåstående). 
 
+Eller som den svenska filosofen Lars Bergström uttrycker det:
+> > "För att ett värdeomdöme skall kunna följa logiskt från en uppsättning premisser så måste minst en av dessa premisser självt vara ett värdeomdöme"
+
 Ett konkret exempel på detta är att vi aldrig kan argumentera för att något är rätt bara med en hänvisning till att "vi alltid gjort på detta sätt". Vi måste också avgöra om det vi gjort är bra eller dåligt. Att vi alltid gjort på ett visst sätt spelar ingen roll för vår eventuella moralfilosofiska slutsats.
 
 > **Brott mot Humes lag:**
-> > *Faktapåstående*: Vi har alltid gjort på detta sätt. 
-> > *Slutsats*: Vi bör fortsätta att göra på detta sätt. 
+> > *Faktapåstående*: Kvinnor har i alla tider tagit hand om barn. 
+> > *Slutsats*: Kvinnor bör ta hand om barn. 
 
 > **Ej brott mot Humes lag:**
-> > *Faktapåstående*: Vi har alltid gjort på detta sätt.
-> > *Värdepåstående*: Vi har kommit fram till att detta är det bästa vi kan göra med anledning av x och y.
-> > *Slutsats*: Vi bör fortsätta att göra på detta sätt.
+> > *Faktapåstående*: Kvinnor är bättre lämpade att ta hand om barn. 
+> > *Värdepåstående*: Barn bör bli omhändertagna av de som är bäst på det.
+> > *Slutsats*: Kvinnor bör ta hand om barn.
 
-Det sagt spelar fakta en mycket stor roll för våra moralfilosofiska omdömen. Det enda Humes lag säger är att vi inte *enbart* kan bygga en moralfilosofisk ståndpunkt på fakta. Viktigt att komma ihåg är också att värdepåståendet i det ovanstående exemplet därtill måste uppbackas med argument för att inte bryta mot de två första minimikraven (variablerna i "med anledning av x och y" måste fyllas med något).
+_Två viktiga punkter angående ovanstående exempel:_
+
+* Fakta spelar givetvis en mycket stor roll för våra moralfilosofiska omdömen. Det enda Humes lag säger är att vi inte *enbart* kan bygga en moralfilosofisk ståndpunkt på fakta. Exempelvis är slutledningen i exemplet helt och hållet beroende av den eventuella sanningshalten i faktapåståendet (alla kvinnor kanske inte alls är bättre lämpade än alla män). 
+
+* Värdepåståendet i exemplet bör vidare uppbackas med argument för att inte bryta mot de två första minimikraven. Även om det vore så att kvinnor generellt sett är bättre på att ta hand om barn, är inte detta per automatik ett tillräckligt skäl för att endast kvinnor bör ta hand om barn. Barn bör givetvis få ett så bra omhändertagande som möjligt, men kvinnor är i sammanhanget också en part i målet (kvinnor har också en vilja). Det vore exempelvis bra för chefen om man alltid jobbade över, men det betyder inte att man alltid ska jobba.
 
 <!---Vilket ofta innebär att vi ställer upp en rad sakpåstående som vi så att säga parar hop med antingen positiva eller negativa värdeomdömen-->
 
