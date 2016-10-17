@@ -45,7 +45,7 @@ Oftast är det av ovan nämnda anledningar väldigt svårt att överhuvudtaget a
 ## Tyckande eller hycklande?
 En annan viktig distinktion är den mellan att å ena sidan *inse rimligheten* i en viss moralfilosofisk ståndpunkt och att  å andra sidan *leva i enlighet* med denna insikt.  I verkligheten är det alltid en sak att komma fram till det som är rätt och en helt annan att också handla därefter. 
 
-Ibland sägs det att man ska "leva som man lär” och detta är givetvis sant i någon utsträckning. Om vi kommer fram till att vi *borde* göra något, är det per definition också bäst om vi *gör det*. Men riktigt så enkelt är det för det allra mesta inte. <!--Moral kan vara något ganska oförlåtande och svårt. --> Att gå från tanke till handling kan vara mödosamt, och ibland till och med smärtsamt (vi kan behöva ge upp egen njutning och så vidare). 
+Ibland sägs det att man ska "leva som man lär” och detta är givetvis sant i någon utsträckning. Om vi kommer fram till att vi *borde* göra något, är det per definition också bäst om vi *gör det*. Men riktigt så enkelt är det för det allra mesta inte. Att gå från tanke till handling kan vara mödosamt, och ibland till och med smärtsamt (vi kan behöva ge upp egen njutning och så vidare). 
 
 Vi måste därför ge oss själva tillåtelsen att inta ståndpunkter gällande vad vi borde göra, även då vi ännu inte följer dessa till fullo i handling. Inte minst för att skapa det utrymme som faktiskt krävs för att överhuvudtaget kunna förändras, eller för den delen *resonera kritiskt*. Vi vill nämligen inte bara kunna argumentera för sådant vi *redan gör*, detta vore att skjuta oss själva i foten. Den stora frågan om *vad vi borde göra* är en fråga vars svar inte allt för sällan står i skarp kontrast till det sätt på vilket vi *just nu* lever. 
 
@@ -57,13 +57,15 @@ Det sagt får vi aldrig fastna i att blott ”tycka”. Målet för moralfilosof
 
 
 ## Moralen som kompass & bumerang
-Ibland talar vi här om moralen som en kompass. Om att vi intuitivt eller förnuftsmässigt har en egen ”känsla” för vad som är rätt och fel. Att alla människor har en *förmåga* eller *potential* till moraliska överväganden. Moralfilosofi, eller kanske närmare bestämt *normativ etik*, handlar dock (som sagt) inte om tycke och smak utan om verkliga och betydande ställningstaganden som alltid måste uppbackas med argument. Men likväl, och kanske just därför, kan vi inte överlåta etiska överväganden åt någon annan. 
+Ibland talar vi här om moralen som en kompass. Om att vi intuitivt eller förnuftsmässigt har en egen ”känsla” för vad som är rätt och fel. Att alla människor har en *förmåga* eller en *potential* till moraliska överväganden. Moralfilosofi handlar dock (som sagt) inte om tycke och smak utan om verkliga och betydande ställningstaganden som alltid måste uppbackas med argument. Om vi själva vill vara moraliska måste vi därför själva förstå _varför_ vi bör göra det en eller det andra. Vi kan inte överlåta etiska överväganden åt andra – dessa är alltid upp till oss. 
 
-Moralen kan inte läggas ut på entreprenad, den kan inte ”outsourcas” från en individ till en annan. Moralen är som en bumerang: om vi kastar iväg den, så kommer den alltid tillbaks. Så fort vi väljer att följa någon viss auktoritet i en viss moralfråga (en påve, en rockstjärna, en filosof…) måste vi likväl vara beredda på att ge argument för varför vi valt att följa just denna. Vi kan inte, om vi varit vid våra sinnens fulla bruk då vi handlat, skylla över vårt ansvar på någon annan: detta ansvar kommer alltid tillbaka till oss.
+<!--Så fort vi väljer att följa någon viss auktoritet i en viss moralfråga (en påve, en rockstjärna, en filosof…) måste vi likväl vara beredda på att ge argument för varför vi valt att följa just denna auktoritet. -->
 
-Varken samhällets normer, samhällets lagar eller gud och religionen kan därför ensamt, i ett moralfilosofiskt sammanhang, tjäna som anledningar för att handla på ett eller annat sätt. Detta eftersom:
+<!--Moralen kan inte läggas ut på entreprenad – den kan inte ”outsourcas” från en individ till en annan. -->
 
-1. Om vi väljer att följa en helig skrifts allehanda påbud måste vi likväl *välja* detta. Därtill måste vi själva *tolka* den heliga skriften (det finns fler än en tolkning). 
+Moralen är som en bumerang: om vi kastar iväg den kommer den alltid tillbaks. Vi kan inte, om vi varit vid våra sinnens fulla bruk då vi handlat, skylla över vårt ansvar på någon annan. Varken samhällets normer, samhällets lagar eller gud och religionen kan därför ensamt, i ett moralfilosofiskt sammanhang, tjäna som anledningar för att handla på ett eller annat sätt. 
+
+1. Om vi väljer att följa en helig skrifts "regler" måste vi likväl *välja* detta. Därtill måste vi själva *tolka* den heliga skriften (det finns fler än en tolkning). 
 2. Att samhället ”säger åt oss” att handla på ett visst sätt säger ingenting om det rätta i detta sätt. Moral handlar här om att se bortom normer och andra typer av ”fördomar” och *själv ta ställning* utifrån goda argument.
 3. Moralen är större än den juridiska lagen: allt som är omoraliskt är inte förbjudet enligt lag och ibland kan den juridiska lagen själv vara omoralisk. 
 
