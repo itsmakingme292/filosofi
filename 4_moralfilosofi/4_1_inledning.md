@@ -65,9 +65,9 @@ Ibland talar vi här om moralen som en kompass. Om att vi intuitivt eller förnu
 
 Moralen är som en bumerang: om vi kastar iväg den kommer den alltid tillbaks. Vi kan inte, om vi varit vid våra sinnens fulla bruk då vi handlat, skylla över vårt ansvar på någon annan. Varken samhällets normer, samhällets lagar eller gud och religionen kan därför ensamt, i ett moralfilosofiskt sammanhang, tjäna som anledningar för att handla på ett eller annat sätt. 
 
-1. Om vi väljer att följa en helig skrifts "regler" måste vi likväl *välja* detta. Därtill måste vi själva *tolka* den heliga skriften (det finns fler än en tolkning). 
-2. Att samhället ”säger åt oss” att handla på ett visst sätt säger ingenting om det rätta i detta sätt. Moral handlar här om att se bortom normer och andra typer av ”fördomar” och *själv ta ställning* utifrån goda argument.
-3. Moralen är större än den juridiska lagen: allt som är omoraliskt är inte förbjudet enligt lag och ibland kan den juridiska lagen själv vara omoralisk. 
+1. Att samhället ”säger åt oss” att handla på ett visst sätt säger ingenting om det rätta i detta sätt. Moral handlar här om att se bortom normer och andra typer av ”fördomar” och *själv ta ställning* utifrån goda argument.
+2. Moralen är större än den juridiska lagen: allt som är omoraliskt är inte förbjudet enligt lag och ibland kan den juridiska lagen själv vara omoralisk. 
+3. Om vi väljer att följa en helig skrifts "regler" måste vi likväl *välja* detta. Därtill måste vi själva *tolka* den heliga skriften (det finns fler än en tolkning). 
 
 Det moraliska valet är kort och gott alltid upp till oss själva: vi kan inte undfly det, hur mycket vi än försöker.
 
