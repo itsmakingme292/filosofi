@@ -72,7 +72,6 @@ Problemet med den gyllene medelvägen är alltså att den verkar bra och sann me
 Till Aristoteles försvar är den gyllene medelvägen inte tänkt som ett precist verktyg för att komma fram till den exakta dygden. Men likväl måste den, för att inte vara moralfilosofiskt meningslös, ge oss *någon* form av vägledning, och huruvida den egentligen gör det, förblir en öppen fråga.
 
 
-
 ## Lär dig dygden genom de dygdiga
 
 Det huvudsakliga sättet vi kan söka kunskap om dygden är för Aristoteles *att se till de dygdiga*. 
@@ -88,7 +87,6 @@ För Aristoteles är detta inte ett problem. Allt sökande efter kunskap bär p�
 Problemet med detta råd tycks dock vara detsamma som problemet med den gyllene medelvägen. Dels verkar "rådet" inte ge oss så värst mycket information, dels verkar det högst individuellt vilka egenskaper vi uppskattar hos andra människor.
 
 
-
 ## En otillräcklig moralfilosofi? 
 
 Det stora problemet är i slutändan att dygdetiken verkar mycket svår att fylla med ett konkret innehåll som inte bär på en stor mängd vaghet. Vi kan ha en slags intuitiv förståelse för dygdetikens poänger, men så snart vi försöker formulera handfasta slutsatser famlar vi ofta i mörker. 
@@ -102,8 +100,6 @@ Samtidigt bör varje moralfilosofi, som sagt, vara *vägledande* och i vilken ut
 <!-- och i kombination med dygdetikens vaghet blir steget till en relativistisk uppfattning därför inte särskilt stort. -->
 
 På många sätt kanske dygdetiken därför inte bör ses som en *rivaliserande* teori utan snarare som en *komplementerande* teori. För även om dygdetiken på egen hand kan ses som allt för svag, kan den i kombination med andra teorier kanske utgöra en nödvändig påminnelse om att kunskapen *om den goda människan* kan vara lika viktig som formuleringar av goda handlingsprinciper.
-
-
 
 
 

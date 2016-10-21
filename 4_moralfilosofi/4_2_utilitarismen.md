@@ -41,11 +41,13 @@ I föregående exempel gör vi vad man kan kalla för en nyttokalkyl. Vi adderar
 > (-) Den totala summan av minskad lycka hos de individer som berörs av handlingen.<br>
 > (=) Det moraliska värdet hos en handling. <br>
 
-Eftersom vi aldrig på förhand kan *veta* en handlings konsekvenser innebär detta dock att vi också måste räkna på risker och sannolikheter. För utilitaristen är det därför viktigt att tillämpa en **försiktighetsprincip**. Konkret innebär en sådan att vi bör undvika handlingar där det är sannolikt att vi gör mer skada än nytta, även då det finns en liten sannolikhet att handlingen för med sig mycket goda konsekvenser. 
+Eftersom vi aldrig på förhand kan *veta* en handlings konsekvenser innebär detta dock att vi också måste räkna på risker och sannolikheter. För utilitaristen är det därför viktigt att tillämpa en **försiktighetsprincip**. Finns det en viss _risk_ att våra handlingar kommer att resultera i stor skada bör vi undvika dem även om det samtidigt finns en _chans_ att de medför viss nytta. 
 
-Utilitarismen säger oss att vi *bör* ljuga i de fall då lögnen ger bättre konsekvenser än sanningen. Men om vi utgår från försiktighetsprincipen kan upprepade lögner innebära att vi på längre sikt riskerar att förstöra människors tilltro till varandra. Således bör vi kanske vara sparsamma med sådant som lögner – även i de fall där den *enskilda* lögnen verkar ge goda konsekvenser. 
+Utilitarismen säger att vi *bör* ljuga i de fall då lögnen ger bättre konsekvenser än sanningen. Men om vi utgår från försiktighetsprincipen kan upprepade lögner innebära att vi på längre sikt riskerar att förstöra människors tilltro till varandra (ingen tror längre på någon). Således bör vi kanske vara sparsamma med sådant som lögner – även i de fall där den *enskilda* lögnen verkar ge goda konsekvenser. 
 
 Konsekvenser sprider sig som ringar på vattnet. Våra handlingar har helt enkelt *både* omedelbara och mer *långtgående* konsekvenser – och därav krävs det en viss försiktighet. Vi måste alltså inte bara göra en bedömning av spridningen av lycka *mellan individer*, utan också *över tid*. 
+
+**Kommentar:** I vissa mer extrema fall innebär försiktighetsprincipen att vi bör undvika handlingar som potentiellt kan få katastrofala följder _även om sannolikheten för detta är mycket liten_ (kärnkraften skulle kunna vara ett exempel på detta).
 
 ## Maximering av vad?
 
