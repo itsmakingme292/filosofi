@@ -91,7 +91,7 @@ Problemet med den kvalitativa hedonismen är dock hur vi mer exakt ska gå tillv
 
 Oavsett om vi anser att lycka ska jämföras kvantitativt eller också kvalitativt kommer våra "mätningar" alltid att bära på en viss problematik. Det är helt enkelt mycket svårt att med exakta mått uttala sig om människors olika njutningar och därtill väga dessa mot varandra. 
 
-En möjlig lösning på detta problem är  **preferentialismen**. Detta eftersom denna  överhuvudtaget inte analyserar lyckan som ett *mentalt tillstånd* utan istället som en samling mer "greppbara" *önskningar* (ordet preferens betyder just: "det som en människa föredrar"). Men denna form av utilitarism reser istället andra typer av frågor.
+En möjlig lösning på detta problem är **preferentialismen**. Detta eftersom denna  överhuvudtaget inte analyserar lyckan som ett *mentalt tillstånd* utan istället som en samling mer "greppbara" *önskningar* (ordet preferens betyder just: "det som en människa föredrar"). Men denna form av utilitarism reser istället andra typer av frågor.
 
 Det stora problemet är att preferentialismen riskerar att ge vikt åt *fel saker* i vår nyttokalkyl. 
 
@@ -99,7 +99,7 @@ Som människor har vi ofta ganska märkliga preferenser. Preferenser som inte al
 
 <!--Alternativt: Andra tror att nästa solsemester kommer att sätta deras relation på rätsida.-->
 
-Om vi tar exemplet med människors eviga försök att konsumera sig till lycka visar studier entydigt att detta allra mest är en illusion. På mycket kort sikt kan förvisso konsumtionshandlingar ge oss en viss njutning i form av någon slags "kick". Men på lång sikt tenderar dessa effekter att avta, både snabbt och kraftigt. Forskning visar också att sådant som högstatusyrken och hög lön inte har så stor påverkan på vår lyckonivå som man kan tro.
+Ett annat exempel är människors försök att konsumera sig till lycka och att studier entydigt visar att detta inte fungerar. På mycket kort sikt kan konsumtionshandlingar ge oss en viss njutning i form av någon slags "kick". Men på lång sikt tenderar dessa effekter att avta, både snabbt och kraftigt. Forskning visar också att sådant som högstatusyrken och hög lön inte har så stor påverkan på vår lyckonivå som man kan tro.
 
 Här kan vi istället ansluta oss till en preferensutilitarism som kanske inte nödvändigtvis handlar om vad människor *uttryckligen säger att de vill*, eller *tror* att de vill, utan snarare handlar om vad det ligger i *deras intresse att vilja* (alltså det de *borde* vilja). När vi anslutit oss till en sådan form av preferentialism kan man dock fråga sig om vi i praktiken skiljer oss särskilt mycket från en kvalitativ *hedonism* (och återigen en sort "elitism"). 
 
@@ -107,7 +107,7 @@ Hursomhelst stöter vi likväl på problem om vi inte ställer *någon form av k
 
 Ett annat exempel skulle kunna vara om en lärare väljer att inte undervisa om vissa saker därför att dennes elever uppfattar dessa områden som tråkiga. Att exempelvis välja bort undervisning i Sveriges politiska system kan kanske förefalla rimligt för en elev vid en viss tidpunkt, men denna elev kan likväl bittert ångra detta val längre fram. Därtill skulle läraren om denne tillåter ett sådant val inte kunna ge eleven någon möjlighet att faktiskt kunna uppfylla de i kursplanen uppställda målen för undervisningen. 
 
-Att här hävda att endast *direkt upplevda* eller *explicit uttryckta* intressen skall ges  vikt är i längden en ohållbar ståndpunkt. *Framtida önskningar* är möjligen lika viktiga som nutida – *även* om dessa är svårare att veta någonting om. Det är nämligen inte alltid så att vi har en uppfattning om vad som borde ligga i vårt intresse *innan* detta intresse *uppfyllts*. Med andra ord: kanske först när eleven börjar studera vidare blir det uppenbart varför den gamla läraren valde att "tråka ut" henne med ett visst ämnesinnehåll.  
+Att här hävda att endast *direkt upplevda* eller *explicit uttryckta* intressen skall ges vikt är i längden en ohållbar ståndpunkt. *Framtida önskningar* är möjligen lika viktiga som nutida – *även* om dessa är svårare att veta någonting om. Det är nämligen inte alltid så att vi har en uppfattning om vad som borde ligga i vårt intresse *innan* detta intresse *uppfyllts*. Med andra ord: kanske först när eleven börjar studera vidare blir det uppenbart varför den gamla läraren valde att "tråka ut" henne med ett visst ämnesinnehåll.  
 
 Vilka principer vi bör använda då vi bedömer vad som är en rationell önskning och inte är  givetvis ingen lätt fråga – och inte heller någon vi kommer att lösa här.
 
@@ -183,7 +183,7 @@ Att vi alltid ska handla så att vi maximerar lyckan i världen är, som sagt, e
 
 Denna typ av utilitarism sätter alltså moraliska handlingar utmed en *skala* istället för att göra moralen till ett "antingen eller" (binär). Det sagt utgår **skalär utilitarism** (som vi kallar denna) fortfarande utifrån *principen* att man bör *sträva* efter att maximera lyckan.
 
-Jag skulle kunna åka till ett valfritt utvecklingsland imorgon och arbeta som volontär, och det skulle möjligen  maximera lyckan mer än om jag fortsätter att arbeta som lärare. Men jag gör åtminstone inte *helt fel* i att välja Sverige och lärarjobbet.
+Jag skulle kunna åka till ett valfritt utvecklingsland imorgon och arbeta som volontär, och det skulle möjligen maximera lyckan mer än om jag fortsätter att arbeta som lärare. Men jag gör åtminstone inte *helt fel* i att välja Sverige och lärarjobbet.
 
 ## [Frågeformulär]
 
