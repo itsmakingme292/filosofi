@@ -99,7 +99,7 @@ Som människor har vi ofta ganska märkliga preferenser. Preferenser som inte al
 
 <!--Alternativt: Andra tror att nästa solsemester kommer att sätta deras relation på rätsida.-->
 
-Ett annat exempel är människors försök att konsumera sig till lycka och att studier entydigt visar att detta inte fungerar. På mycket kort sikt kan konsumtionshandlingar ge oss en viss njutning i form av någon slags "kick". Men på lång sikt tenderar dessa effekter att avta, både snabbt och kraftigt. Forskning visar också att sådant som högstatusyrken och hög lön inte har så stor påverkan på vår lyckonivå som man kan tro.
+Om vi tar exemplet med människors ständiga försök att konsumera sig till lycka visar studier entydigt att detta inte fungerar. På mycket kort sikt kan konsumtionshandlingar ge oss en viss njutning i form av någon slags "kick". Men på lång sikt tenderar dessa effekter att avta, både snabbt och kraftigt. Forskning visar också att sådant som högstatusyrken och hög lön inte har så stor påverkan på vår lyckonivå som man kan tro.
 
 Här kan vi istället ansluta oss till en preferensutilitarism som kanske inte nödvändigtvis handlar om vad människor *uttryckligen säger att de vill*, eller *tror* att de vill, utan snarare handlar om vad det ligger i *deras intresse att vilja* (alltså det de *borde* vilja). När vi anslutit oss till en sådan form av preferentialism kan man dock fråga sig om vi i praktiken skiljer oss särskilt mycket från en kvalitativ *hedonism* (och återigen en sort "elitism"). 
 
