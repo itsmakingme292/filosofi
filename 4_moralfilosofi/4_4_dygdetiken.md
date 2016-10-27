@@ -8,6 +8,25 @@ För dygdetiken existerar inga *universallösningar* för hur vi *bör handla*. 
 
 En sådan egenskap, som är bra för alla att ha, kallar vi för en *dygd*. Dygderna är de goda egenskaper som tillsammans utgör en god människa. De egenskaper som *framkallar* goda handlingar. Motsatsen till dygderna är våra *laster*. Sådana egenskaper gör oss till *sämre* människor och *hindrar oss* från att ta goda beslut.
 
+> **Några exempel på dygder:**
+> 
+> > *Aristoteles fyra kardinaldygder (grundläggande dygder)*
+> >
+> > * Vishet
+> > * Rättrådighet
+> > * Måttfullhet
+> > * Mod
+> > 
+> > *Kristendomens sju dygder (motsatser till dödssynderna)*
+> > 
+> > * Ödmjukhet (motsats till lasten/dödssynden högmod)
+> > * Generositet (motsats till lasten/dödssynden girighet)
+> > * Kyskhet (motsats till lasten/dödssynden lust)
+> > * Medmänsklighet (motsats till lasten/dödssynden avund)
+> > * Måttfullhet (motsats till lasten/dödssynden frosseri)
+> > * Tålamod (motsats till lasten/dödssynden vrede)
+> > * Flit (motsats till lasten/dödssynden lättja)
+
 <!--ha med nedan?-->
 <!--Den under antiken verksamma grekiska filosofen Aristoteles är för denna del av moralfilosofin den filosof vi i första hand kommer att utgå ifrån. Aristoteles var förvisso varken den första eller den sista att behandla etiken utifrån ett dygdetiskt perspektiv, men han har, utan konkurrens, varit den mest betydelsefulla. -->
 
@@ -19,7 +38,7 @@ Dygden kan till viss del jämföras med en *god vana* eller en *färdighet*. Int
 
 Till skillnad från vanan (och till viss del färdigheten) är dock dygden inte lika passiv, omedveten eller automatisk. Dygden handlar om en medveten och aktiv kunskap som gör oss uppmärksamma på det mest väsentliga i  varje given situation. En vana är på ett sätt raka motsatsen till detta. En vana är någonting vi ofta inte tänker på, något som vi efter en viss upprepning "bara gör". Något som gör oss lika förutsägbara som okänsliga inför varje situations unika karaktär. 
 
-I detta kan vi även finna en intressant kritik av regler och plikter. För dygdetiken kan nämligen plikter och regler jämföras med ett par kryckor. För den som är oförmögen att själv gå kan  kryckor hjälpa. Men för en person, som genom träning, lärt sig att gå utan kryckor, kommer kryckorna endast att leda till en mindre naturlig och följsam gång. 
+I detta kan vi även finna en intressant kritik av regler och plikter. För dygdetiken kan nämligen plikter och regler jämföras med ett par kryckor. För den som är oförmögen att själv gå kan kryckor hjälpa. Men för en person, som genom träning, lärt sig att gå utan kryckor, kommer kryckorna endast att leda till en mindre naturlig och följsam gång. 
 
 Den som har svårt att fatta ett moraliskt beslut i en viss situation är givetvis hjälpt av en regel. Men för den som har förmågan att *se det för moralen relevanta i varje unik situation*, innebär en sådan regel endast ett onaturligt hinder. 
 
@@ -44,13 +63,13 @@ I detta är dygden inte bara det som framkallar goda handlingar utan också det 
 
 Men vad är det då som utmärker människan som art? Vad är det egentligen vi ska bli *bra på att vara*? I svaret på denna fråga delar Aristoteles upp dygderna i *intellektuella* och *praktiska* dygder.
 
-De **intellektuella dygderna** handlar om människan som det "tänkande djuret". Till dessa kan vi räkna sådant som *kunnighet*, *medvetenhet* och *förståelse*. 
+De **intellektuella dygderna** handlar om människan som det "tänkande djuret". Till dessa kan vi räkna sådant som _vishet_, *kunnighet*, *medvetenhet*, *förståelse*, osv. 
 
 För Aristoteles är det främst dessa typer av dygder som utmärker vår potential som människor. Inte minst eftersom det är dessa som ger oss möjligheten att _reflektera_ över de *praktiska* dygderna. 
 
-De **praktiska dygderna** handlar i sin tur om människan som det "sociala djuret". Om dygder som reglerar hur vi beter oss i förhållande till varandra. Till dessa kan vi räkna sådant som *måttfullhet, mod, rättrådighet* och *vänlighet*. 
+De **praktiska dygderna** handlar i sin tur om människan som det "sociala djuret". Om dygder som reglerar hur vi beter oss i förhållande till varandra. Till dessa kan vi räkna sådant som *måttfullhet, mod, rättrådighet*, *vänlighet*, osv. 
 
-De praktiska dygderna är alltså den typen av dygder vi vanligen förknippar med moral. Dessa handlar om hur vi *behandlar andra* och hur vi på bästa sätt *lever tillsammans*.
+De praktiska dygderna är alltså den typen av dygder vi _vanligen_ förknippar med moral. Dessa handlar om hur vi *behandlar andra* och hur vi på bästa sätt *lever tillsammans*. 
 
 ## Den gyllene medelvägen
 Gemensamt för de praktiska dygderna är att de handlar om en slags "gyllene medelväg". Att de utgör en mittpunkt mellan två extremer – ofta mellan ett överflöd och ett underskott av något visst karaktärsdrag.
