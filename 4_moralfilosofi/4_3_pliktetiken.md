@@ -41,7 +41,7 @@ Detta ska dock inte sammanblandas med den typ av underliggande principer vi till
 
 Kant säger alltså inte att *alla* våra handlingar måste vara allmängiltiga, det han säger är att de *moraliskt betydelsefulla* måste det. 
 
-En annan viktig punkt att ha i åtanke när vi tänker kring det kategoriska imperativet är att vi kan ha olika plikter gentemot olika personer. Kanske är det en plikt att vara givmild gentemot sina vänner och samtidigt ingen plikt att vara givmild mot sina ovänner? I vart fall är det, enligt Kant, exempelvis inte en plikt att ta hand om andras barn på samma sätt som det är en plikt att ta hand om sina egna. Även om vi har olika barn, och vissa inte har några, så är likväl den underliggande regeln (i detta fallet: "ta hand om dina barn")   universaliserbar. 
+En annan viktig punkt att ha i åtanke när vi tänker kring det kategoriska imperativet är att vi kan ha olika plikter gentemot olika personer. Kanske är det en plikt att vara givmild gentemot sina vänner och samtidigt ingen plikt att vara givmild mot sina ovänner? I vart fall är det, enligt Kant, exempelvis inte en plikt att ta hand om andras barn på samma sätt som det är en plikt att ta hand om sina egna. Även om vi har olika barn, och vissa inte har några, så är likväl den underliggande regeln (i detta fallet: "ta hand om dina barn") universaliserbar. 
 
 ## Frihet & förnuft
 Ett vanligt ”nybörjarmisstag” då man tolkar Kant är att han skulle argumentera för att vi bör följa moraliska regler uppsatta av andra, så som av samhället eller av religion. Tvärtom menar Kant att en handling endast kan kallas moralisk om den är sprungen ur *vår fria vilja* (självbestämmande/autonomi) och *vårt förnuft* (rationaliteten). Rationalitet och autonomin är nämligen själva förutsättningen för moralen. Utan fri vilja och förnuft finns det ingen mening med att tala om moral. Ett träd eller en lampa kan inte ha en moral eftersom de är ”offer” för yttre omständigheter. Vi är därför bara verkligt moraliska då vi handlar utifrån de moraliska lagar *vi satt för oss själva* (eftersom vi annars inte är fria) och via det kategoriska imperativet *måste varje människa själv inse dessa*.
@@ -66,7 +66,7 @@ Varje människa har en viss värdighet och måste därför alltid behandlas med 
 Det är av ovanstående anledning det *inte* är att behandla någon som blott ett medel då vi *ber* om saltet och det är också därför vi vanligen uppfattar ett yttrande så som ”ge mig saltet” som mer otrevligt än ett yttrande så som ”*kan* du du ge mig saltet”. I det första yttrandet finns nämligen ingen antydan om ett subjekt (en individ med fri vilja) som vi ger ett *val*, medan vi i det senare tvärtom ger den andre en *möjlighet* att säga nej.  
 
 ## Den konsekventa moralen?
-Oavsett vilka plikter vi kommer fram till måste vi tillämpa dessa konsekvent (utan undantag). Om det är fel att ljuga så är det *alltid* fel att ljuga (iaf enligt Kant, moderna pliktetiker har tänkt annorlunda, men vi kommer snart till det). Så fort vi börjar resonera på något annat sätt har vi lämnat pliktetiken och hamnat i ett konsekvensetiskt tänkande. Det intressanta för pliktetiken är den underliggande universaliserbara regeln – inget annat. <!--Borttaget: Moralen tillåter helt enkelt inga undantag. -->
+Oavsett vilka plikter vi kommer fram till måste vi tillämpa dessa konsekvent (utan undantag). För Kant är alla plikter _absoluta_: om det är fel att ljuga så är det *alltid* fel att ljuga (moderna pliktetiker har dock tänkt annorlunda, men vi kommer snart till det). Så fort vi börjar resonera på något annat sätt har vi lämnat pliktetiken och hamnat i ett konsekvensetiskt tänkande. Det intressanta för pliktetiken är den underliggande universaliserbara regeln – inget annat. <!--Borttaget: Moralen tillåter helt enkelt inga undantag. -->
 
 Detta kan för vissa verka tilltalande, men för de allra flesta verkar det nog som en ganska ”kantig” syn på moralen (ursäkta ordvitsen). 
 
@@ -76,13 +76,15 @@ I verkligheten tycks kort och gott olika plikter hamna i konflikt med varandra. 
 
 Moderna former av pliktetik har försökt lösa detta problem genom att upprätta någon form av hierarki mellan plikterna (en rangordning av dem). De flesta moderna pliktetiker understryker (till skillnad från Kant) att det alltid kommer uppstå situationer där plikterna kan _kollidera_ med varandra och att vi därför måste väga dem mot varandra. Men frågan är likväl hur vi då ska välja mellan dessa plikter? Om vi inte alltid någonstans hamnar i ett konsekvensetiskt tänkande då vi avgör vilken plikt som bör stå över vilken i en viss situation? Detta brukar i vart fall vara utilitaristernas kritik av pliktetiken. Kan vi *överhuvudtaget* bortse från konsekvenserna då vi avgör en handlings moraliska värde? 
 
-Om elakartade utomjordingar kommer på besök och hotar att förinta  vår planet om vi inte offrar en människa eller två, bör vi då inte göra det? Kanske har vi en plikt att förhindra jordens undergång och förhoppningsvis står denna över plikten att inte döda. Men frågan är likväl _hur_ vi kommer fram till denna rangordning. 
+Om elakartade utomjordingar kommer på besök och hotar att förinta vår planet om vi inte offrar en människa eller två, bör vi då inte göra det? Kanske har vi en plikt att förhindra jordens undergång och förhoppningsvis står denna över plikten att inte döda. Men frågan är likväl _hur_ vi kommer fram till denna rangordning? Om vi har en plikt att förhindra jordens undergång handlar då inte denna plikt om att undvika en viss katastrofal _konsekvens_? 
 
 Vissa moderna pliktetiker öppnar här, till skillnad från Kant, upp för att konsekvenser trots allt har en roll att spela, även inom pliktetiken. Men då är frågan vad vi ska med den pliktetiska teorin till från första början?
 
-Likaså kan vi från ett utilitaristiskt håll fråga oss om det verkligen är en moraliskt *neutral* handling att jobba med bistånd och andra ”välgörande” aktiviteter, bara för att sådana handlingar rimligen inte kan upphöjas till allmän moralisk lag? Är inte vissa saker moraliskt *goda* och *rätta* på andra grunder än dess allmänna förpliktigande?
+Likaså kan vi från ett utilitaristiskt håll fråga oss om det verkligen är en moraliskt *neutral* handling att jobba med bistånd och andra ”välgörande” aktiviteter, bara för att sådana handlingar rimligen inte kan upphöjas till allmän moralisk lag? Är inte vissa saker moraliskt *goda* och *rätta* på andra grunder än att de är allmänt förpliktigande? 
 
-Den stora frågan blir kanske ändå i slutändan huruvida vi anser att moralen *alltid bör* eller *aldrig bör* vara villkorad. Huruvida något är *rätt i sig självt* eller huruvida något är rätt *som ett medel* för något annat. 
+<!--Och: finns det överhuvudtaget moraliskt neutrala handlingar? -->
+
+Den stora frågan blir kanske ändå i slutändan om vi anser att moralen *alltid bör* eller *aldrig bör* vara villkorad. Huruvida något är *rätt i sig självt* eller rätt *som ett medel* för något annat. 
 
 Pliktetikens goda vilja ”skiner som en juvel”, men hur mycket är den egentligen värd? Allt, säger vissa. Inte mycket, säger andra.
 
