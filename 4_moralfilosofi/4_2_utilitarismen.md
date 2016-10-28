@@ -164,7 +164,7 @@ Vi har nu pratat om att om utilitarismen *i princip* kan *tillåta* en hel del, 
 
 Dels då utilitarismen är *universalistisk* och därmed förhåller sig neutral till *vems lycka det är som ökar* i vår nyttokalkyl (så länge den totala lyckan ökar). Vilket innebär att man inte bör göra någon skillnad mellan sådant som vän, främling eller fiende (åtminstone inte per automatik). 
 
-Dels då utilitarismen i hög grad utgår ifrån den ekonomiska principen/teorin om *avtagande marginalnytta*. En princip som säger att den som har lite av något alltid gynnas mer av en ökning av detta något än den som redan har mycket. Kort sagt: har jag flera miljoner på banken blir jag mindre glad av en extra hundralapp än om jag inte äger en krona. 
+Dels då utilitarismen i hög grad utgår ifrån den ekonomiska principen/lagen om *avtagande marginalnytta*. En princip som säger att den som har lite av något alltid gynnas mer av en ökning av detta något än den som redan har mycket. Kort sagt: har jag flera miljoner på banken blir jag mindre glad av en extra hundralapp än om jag inte äger en krona. 
 
 <!--Ändra så att det inte blir två stycken som början med "Dels"...-->
 
