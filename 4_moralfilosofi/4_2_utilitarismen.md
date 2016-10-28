@@ -146,7 +146,7 @@ Utgår vi utifrån denna form av utilitarism kan vi alltså formulera vårt rikt
 
 ## Medel & mål: Svaghet eller styrka?
 
-Lycka är, enligt utilitarismen, det enda målet som vi alla kan komma överens om. Lycka är något *gott i sig självt*. Alla strävar efter lycka och alla vill ha lycka i sina liv. Oavsett hur vi mer exakt definierar lycka verkar detta likväl otvivelaktigt sant. Således måste också allt annat endast tjäna som olika *medel* för att i slutändan uppnå en maximering av denna lycka.
+Lycka är, enligt utilitarismen, det enda (slut)målet som vi alla kan komma överens om. Lycka är inte något gott för att det ger upphov/leder till något annat – lycka är något *gott i sig självt*. Alla strävar efter lycka och alla vill ha lycka i sina liv. Oavsett hur vi mer exakt definierar lycka verkar detta likväl otvivelaktigt sant. Således måste också allt annat endast tjäna som olika *medel* för att i slutändan uppnå en maximering av denna lycka.
 
 För anhängare av utilitarismen är detta den uppenbara styrkan hos teorin – men för dess kritiker den uppenbara svagheten. Det går nämligen inte undkomma att man genom den utilitaristiska principen, åtminstone i teorin, kan komma fram till ganska kontroversiella (och för vissa rentav motbjudande) resultat. Utilitaristiska slutsatser går inte allt för sällan tvärt emot vår vardagliga moral. För utilitaristen är detta inget *olösligt* problem, men andra har tyckt annorlunda. 
 
@@ -164,7 +164,7 @@ Vi har nu pratat om att om utilitarismen *i princip* kan *tillåta* en hel del, 
 
 Dels då utilitarismen är *universalistisk* och därmed förhåller sig neutral till *vems lycka det är som ökar* i vår nyttokalkyl (så länge den totala lyckan ökar). Vilket innebär att man inte bör göra någon skillnad mellan sådant som vän, främling eller fiende (åtminstone inte per automatik). 
 
-Dels då utilitarismen i hög grad utgår ifrån den ekonomiska "lagen" om *avtagande marginalnytta*. En lag som innebär att den som har en sämre utgångspunkt gynnas mer av en liten ökning av en viss resurs än den som har en bättre utgångspunkt. Eller enklare uttryckt: har jag flera miljoner på banken blir jag mindre glad av en extra hundralapp än om jag inte äger en krona. 
+Dels då utilitarismen i hög grad utgår ifrån den ekonomiska principen/teorin om *avtagande marginalnytta*. En princip som säger att den som har lite av något alltid gynnas mer av en ökning av detta något än den som redan har mycket. Kort sagt: har jag flera miljoner på banken blir jag mindre glad av en extra hundralapp än om jag inte äger en krona. 
 
 <!--Ändra så att det inte blir två stycken som början med "Dels"...-->
 
@@ -174,7 +174,7 @@ Detta är en del av utilitarismen som för många är svårsmält. För kanske h
 
 Samtidigt kan man fråga sig om vi verkligen gör rätt i att blunda för allt det lidande som finns i världen. Om vi alla ändå inte har ett ansvar för att detta lidande ska upphöra eller åtminstone lindras?
 
-Oavsett vart vi står i denna fråga kan vi kanske ändå se en viss problematik med en moralfilosofi som överhuvudtaget inte tar någon hänsyn till sådant som exempelvis det moraliska band som kan finnas mellan en förälder och ett barn. 
+Oavsett vart vi står i denna fråga kan vi kanske ändå se en viss problematik med en moralfilosofi som överhuvudtaget inte tar någon hänsyn till sådant som exempelvis det moraliska band som kan finnas mellan en förälder och ett barn? 
 
 Detta kan utilitarismen möjligen lösa, vi kan resonera som så att en förälder mer sannolikt kan bringa lycka till sina egna barn än vad andra människor kan. Men samtidigt finns det barn i världen som behöver mer hjälp än vad våra egna barn behöver och då kan vi fortfarande fråga oss: i vilken grad bör vi "försumma" våra egna barn till förmån för de barn som fötts under minde gynnsamma förhållanden?
 
