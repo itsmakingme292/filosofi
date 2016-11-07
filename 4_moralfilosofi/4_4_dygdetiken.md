@@ -40,9 +40,14 @@ Till skillnad från vanan (och till viss del färdigheten) är dock dygden inte 
 
 I detta kan vi även finna en intressant kritik av regler och plikter. För dygdetiken kan nämligen plikter och regler jämföras med ett par kryckor. För den som är oförmögen att själv gå kan kryckor hjälpa. Men för en person, som genom träning, lärt sig att gå utan kryckor, kommer kryckorna endast att leda till en mindre naturlig och följsam gång. 
 
-Den som har svårt att fatta ett moraliskt beslut i en viss situation är givetvis hjälpt av en regel. Men för den som har förmågan att *se det för moralen relevanta i varje unik situation*, innebär en sådan regel endast ett onaturligt hinder. 
+Den som har svårt att fatta ett moraliskt beslut i en viss situation är givetvis hjälpt av en regel. Men för den som har förmågan att *se det för moralen relevanta i varje unik situation*, innebär en sådan regel endast ett hinder. 
+
+<!--Om vi endast följer regler kommer vi alltid att missa de fall där situationen kräver en annan handling än den regeln föreskriver.  -->
 
 Om en viss handling är rätt i, låt säga 80 procent av fallen, är en regel som ordinerar denna handling en bättre utgångspunkt än ingen alls. Om vi följer regeln kommer vi åtminstone att göra rätt *för det mesta*. Men för att kunna vara *100 procent* moraliska krävs det att vi har *karaktärsegenskaper* som gör oss rustade att se de *20 procent* av fallen då denna regel faktiskt *inte* går att tillämpa. 
+
+<!--> Två metaforiska exempel:  >>  >> En maskinist som alltid måste konsultera handboken är inte en bra maskinist.  >>  >> Är vi turister är en karta ett bra hjälpmedel, men denna kan aldrig mäta sig med den erfarenhet och kunskap som en lokalbo besitter.  -->
+
 
 <!--De fall då regeln får oss att bortse från situationens unika karaktär och därför får oss att handla fel.-->
 
@@ -114,7 +119,9 @@ Inte minst blir detta tydligt då vi försöker göra någon slags lista över v
 
 Detta behöver inte vara ett tillräckligt skäl att avfärda dygdetiken. Att dygdetiken inte ger oss några entydiga svar kan ses som *både* en svaghet *och* en styrka. För vem har sagt att moralen så lätt låter sig definieras? Kanske är det orimlig att ställa krav på mer precisa svar på vilka dygderna är och vad de konkret ska innebära, detta eftersom dygden i slutändan inte handlar om teori utan om praktik (och därmed är något vi fullt ut lär oss först i själva praktiserandet).
 
-Samtidigt bör varje moralfilosofi, som sagt, vara *vägledande* och i vilken utsträckning dygdetiken faktiskt är detta kan man fortfarande diskutera. Därtill kan vi fråga oss om vi inte genom dygdetiken  riskerar att hamna i relativism snarare än universalism. Den moraliska praktiken verkar kort och gott mycket beroende av den omgivande kulturen.
+Samtidigt bör varje moralfilosofi, som sagt, vara *vägledande* och i vilken utsträckning dygdetiken faktiskt är detta kan man fortfarande diskutera. Därtill kan vi fråga oss om vi inte genom dygdetiken riskerar att hamna i relativism snarare än universalism. Den moraliska praktiken verkar kort och gott mycket beroende av den omgivande kulturen.
+
+<!--här skulle man kunna ha motexemplet att det är fullt möjligt att lära sig saker om andra kulturer (vissa karaktärsdrag i andra kulturer kanske man beundrar osv) -->
 
 <!-- och i kombination med dygdetikens vaghet blir steget till en relativistisk uppfattning därför inte särskilt stort. -->
 
