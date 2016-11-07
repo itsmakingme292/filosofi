@@ -10,7 +10,7 @@
 - Nutida filosofiska riktningar. Olika filosofiska förhållningssätt som präglar den aktuella diskussionen om existentiella frågor, etiken, samhället, språket, vetenskapen och verkligheten. Filosofiska aspekter på genusfrågor och frågor om hållbar utveckling.
 - Språkfilosofi. Grundläggande begrepp, till exempel tolkning, precisering och definition. Teorier om språkets funktion och mening. Begreppsanalys och argumentationsanalys utifrån både språkfilosofisk och logisk förståelse av argumentationens konstruktion.
 
-## Kunskapskrav (betygskriterier)
+## Kunskapskrav
 
 ### Betyget E
 

@@ -50,7 +50,7 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 **OBS:** Detta är som sagt bara exempel, ni är helt fria att välja helt andra etiska frågor/problem. Det kan dock givetvis vara en bra idé att diskutera ert val med mig. 
 
 
-## Betygskriterier för denna uppgift
+## Kunskapskrav för denna uppgift
 
 **För E krävs:** Du redogör för grunddragen hos de etiska teorierna och hur dessa kan användas för att analysera den valda etiska frågan. Du reflekterar samt för en enklare argumentation som motiverar ditt eget ställningstagande. Du visar genom detta att du behärskar teoriernas innehåll på en grundläggande nivå.
 
