@@ -68,7 +68,7 @@ Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta efters
 
 _Tre viktiga punkter i detta:_
 
-* En första svårighet som ofta dyker upp är att själva tesen som drivs inte är tydlig. När vi själva argumenterar är det därför viktigt att vi allra först ägnar tid åt att _precisera_ vad det faktiskt är vi vill argumentera för eller emot (se [precisering](2_2_2_sprak_satser.md#Precisering)). 
+* En första svårighet som ofta dyker upp är att själva tesen som drivs inte är tydlig. När vi själva argumenterar är det därför viktigt att vi allra först ägnar tid åt att _precisera_ vad det faktiskt är vi vill argumentera för eller emot. 
 
 * Att argumentera i flera led är a och o. När man argumenterar eller analyserar andras argumentation bör man alltid fråga sig om de argument som ges för tesen i sin tur behöver egna argument. 
 
