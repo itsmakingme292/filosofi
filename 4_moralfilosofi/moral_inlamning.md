@@ -20,13 +20,11 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 - Hur kommer vi genom teorin fram till det moraliskt rätta? 
 	- Finns det någon/några grundläggande princip(er) i teorin? Hur ska denna/dessa förstås?
-	- Hur tillämpar vi teorin på vår konkreta etiska fråga? 
+	- Hur tillämpar vi teorin på vår etiska fråga? 
 - På vilket sätt skiljer sig teorin från andra teorier?
-	- Vilka är de mest avgörande skillnaderna? 
 	- Vad innebär detta konkret för vår etiska fråga? 
 - Vilka skiljelinjer finns _inom_ teorin? 
-	- Hur ser dessa ut? Finns det olika former av teorin?
-	- Vilken roll spelar dessa för vår etiska fråga?
+	- Vilken roll spelar dessa konkret för vår etiska fråga?
 - Vad finns det för några goda argument för teorin?
 	- Hur brukar anhängare av teorin beskriva teorins styrkor?
 	- Vad ser du för några styrkor?
