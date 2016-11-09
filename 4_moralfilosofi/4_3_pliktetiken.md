@@ -74,19 +74,19 @@ Det stora problemet med Kant verkar nämligen vara hur man ska hantera vad som v
 
 I verkligheten tycks kort och gott olika plikter hamna i konflikt med varandra. Om en vän berättat något i förtroende och en annan vän frågar oss om detta, står vi då inte inför valet att antingen bryta mot vårt löfte eller att ljuga? Står vi inte då mellan valet att antingen bryta mot plikten att ”alltid hålla löften” och plikten att ”aldrig ljuga”? 
 
-Moderna former av pliktetik har försökt lösa detta problem genom att upprätta någon form av hierarki mellan plikterna (en rangordning av dem). De flesta moderna pliktetiker understryker (till skillnad från Kant) att det alltid kommer uppstå situationer där plikterna kan _kollidera_ med varandra och att vi därför måste väga dem mot varandra. Men frågan är likväl hur vi då ska välja mellan dessa plikter? Om vi inte alltid någonstans hamnar i ett konsekvensetiskt tänkande då vi avgör vilken plikt som bör stå över vilken i en viss situation? Detta brukar i vart fall vara utilitaristernas kritik av pliktetiken. Kan vi *överhuvudtaget* bortse från konsekvenserna då vi avgör en handlings moraliska värde? 
+Moderna former av pliktetik har försökt lösa detta problem genom att upprätta någon form av hierarki mellan plikterna (en rangordning av dem). De flesta moderna pliktetiker understryker (till skillnad från Kant) att det alltid kommer uppstå situationer där plikter _kolliderar_ med varandra och att vi därför måste _väga dem mot varandra_. Den pliktetiska moralfilosofen William Ross menar att vi i sådana situationer _intuitivt_ kommer att förstå vilka plikter som för tillfället står över andra plikter. 
 
-Om elakartade utomjordingar kommer på besök och hotar att förinta vår planet om vi inte offrar en människa eller två, bör vi då inte göra det? Kanske har vi en plikt att förhindra jordens undergång och förhoppningsvis står denna över plikten att inte döda. Men frågan är likväl _hur_ vi kommer fram till denna rangordning? Om vi har en plikt att förhindra jordens undergång handlar då inte denna plikt om att undvika en viss katastrofal _konsekvens_? 
-
-Vissa moderna pliktetiker öppnar här, till skillnad från Kant, upp för att konsekvenser trots allt har en roll att spela, även inom pliktetiken. Men då är frågan vad vi ska med den pliktetiska teorin till från första början?
+Men frågan är vad denna "intuition" faktiskt baseras på? Om vi inte alltid någonstans hamnar i ett konsekvensetiskt tänkande då vi avgör vilken plikt som ska stå över vilken i en viss situation (antingen medvetet eller omedvetet)? Detta brukar i vart fall vara utilitaristernas kritik av pliktetiken. För om elakartade utomjordingar kommer på besök och hotar att förinta vår planet om vi inte offrar en människa eller två, bör vi då inte göra det? Kanske har vi en plikt att förhindra jordens undergång och förhoppningsvis står denna över plikten att inte döda. Men frågan är likväl _hur_ vi kommer fram till denna rangordning? Om vi har en plikt att förhindra jordens undergång handlar då inte denna plikt om att undvika en viss katastrofal _konsekvens_? 
 
 Likaså kan vi från ett utilitaristiskt håll fråga oss om det verkligen är en moraliskt *neutral* handling att jobba med bistånd och andra ”välgörande” aktiviteter, bara för att sådana handlingar rimligen inte kan upphöjas till allmän moralisk lag? Är inte vissa saker moraliskt *goda* och *rätta* på andra grunder än att de är allmänt förpliktigande? 
 
 <!--Och: finns det överhuvudtaget moraliskt neutrala handlingar? -->
 
-Den stora frågan blir kanske ändå i slutändan om vi anser att moralen *alltid bör* eller *aldrig bör* vara villkorad. Huruvida något är *rätt i sig självt* eller rätt *som ett medel* för något annat. 
+Kanske är det en omöjlighet att någonsin helt kunna bortse från konsekvenser då vi avgör en handlings moraliska värde? 
 
-Pliktetikens goda vilja ”skiner som en juvel”, men hur mycket är den egentligen värd? Allt, säger vissa. Inte mycket, säger andra.
+Vissa moderna pliktetiker öppnar här, till skillnad från Kant, upp för att konsekvenser trots allt har en viss roll att spela, även inom pliktetiken. Men då kan man undra vad vi ska med den pliktetiska teorin till från första början? 
+
+Den stora frågan blir kanske ändå i slutändan om vi anser att moralen *alltid bör* eller *aldrig bör* vara villkorad. Huruvida något är *rätt i sig självt* eller rätt *som ett medel* för något annat. Pliktetikens goda vilja ”skiner som en juvel”, men hur mycket är den egentligen värd? Allt, säger vissa. Inte mycket, säger andra.
 
 ## [Frågeformulär] 
 
