@@ -3,23 +3,52 @@
 
 ## Instruktioner
 
-Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan användas för att analysera en valfri etisk fråga. I detta ska du:
+Denna uppgift går ut på att resonera kring hur de etiska teorierna kan användas för att analysera en **valfri etisk fråga/problem**. _I detta ska du:_
 
-1. **Diskutera vad teorierna har (eller borde ha) att säga om den etiska frågan.** Hur kan frågan analyseras utifrån teorierna? Vilka är de möjliga alternativen/positionerna här och varför? Vart går skiljelinjerna? Såväl inom varje etik, som mellan dem.
+1. **Analysera och diskutera vad teorierna har (eller borde ha) att säga om den etiska frågan.** Vilket ljus kastar de olika teorierna på vårt etiska problem? Vilka är de stora skillnaderna? Vilka är de möjliga positionerna?
 
-2. **Diskutera och argumentera kring vilken position du anser är mest rimlig!** Viktigt är dels att kunna förstå hur man genom teorierna kan komma fram till den moraliskt rätta handlingen (i olika situationer) och dels att kunna kritisera och problematisera detta.
+2. **Diskutera teoriernas styrkor och svagheter samt argumentera för den position som du anser är mest rimlig.**  Vilka kritiska frågor reser teorierna och hur kan dessa bemötas? Problematisera teorierna utifrån den etiska frågan, men också som helhet. 
 
-<!--Ha med detta?: **PS:** Av naturliga skäl är det inte säkert att ni kommer att ha lika mycket att skriva om dygdetiken.  -->
+<!--**PS:** Av naturliga skäl är dygdetiken inte alltid helt enkel att tillämpa i en konkret situation. Det är därför förståeligt om ni skriver mer om utilitarismen och pliktetiken.  -->
 
+**OBS:** Obligatoriskt för denna uppgift är **pliktetiken** och **utilitarismen**. Det är valfritt att också skriva om dygdetiken. 
+
+***
+
+### Checklista
+*Frågor att ställa i relation till varje teori:*
+
+- Hur kommer vi genom teorin fram till det moraliskt rätta? 
+	- Finns det någon/några grundläggande princip(er) i teorin? Hur ska denna/dessa förstås?
+	- Hur tillämpar vi teorin på vår konkreta etiska fråga? 
+- På vilket sätt skiljer sig teorin från andra teorier?
+	- Vilka är de mest avgörande skillnaderna? 
+	- Vad innebär detta konkret för vår etiska fråga? 
+- Vilka skiljelinjer finns _inom_ teorin? 
+	- Hur ser dessa ut? Finns det olika former av teorin?
+	- Vilken roll spelar dessa för vår etiska fråga?
+- Vad finns det för några goda argument för teorin?
+	- Hur brukar anhängare av teorin beskriva teorins styrkor?
+	- Vad ser du för några styrkor?
+	- I relation till vår etiska fråga?
+- Vad finns det för några goda argument mot teorin?
+	- Hur skulle anhängare av andra teorier kritisera teorin?
+	- Vilka svagheter ser du?
+	- I relation till vår etiska fråga?
+	* Drabbar kritiken alla former av teorin?
+
+<!--**Tips:** Klistra inte in ovanstående checklista i ert dokument för att svara på frågorna en och en. Vissa frågor går inte minst in i varandra. Använd den som just en _checklista_ för att kolla om ni besvarat frågorna _genom_ er text.  -->
 
 *** 
 ### Att tänka på:
 
 1. Tänk kvalité och inte kvantitet när du skriver. Skriv inte bara på utan tänk först noggrant efter kring de etiska teorierna och hur dessa kan tillämpas på din etiska fråga. *Läs på* och anteckna *innan* du börjar skriva din text!
 
-2. Kom ihåg att det inte bara handlar om att redogöra för teoriernas *slutsatser* – det stora arbetet ligger i att kunna redogöra för de steg som tas för att hamna i dessa. Att argumentera *utifrån* teorierna är a och o.
+2. Kom ihåg att inte bara redogöra för teoriernas *slutsatser* – det stora arbetet ligger i att kunna redogöra för de steg som tas för att hamna i dessa. Att argumentera *utifrån* teorierna är a och o. Detta innebär exempelvis att ni inte bara ska googla "vad säger pliktetiken om dödsstraff" och sedan endast återge det svar ni får. Poängen med uppgiften är att _förstå resonemangen bakom_ teoriernas innehåll och att själva _analysera_ det valda etiska problemet _genom_ teorierna. (Till er hjälp har ni ovanstående checklista)
 
 3. Om du har svårt att ta ställning kring vilken position du anser är mest rimlig måste du likväl resonera kring detta. Vilka aspekter av teori x ger den fördelar gentemot teori y? Vilka aspekter av teori x ger den nackdelar gentemot teori y? Varför står det och väger mellan dem? Osv.
+
+4. Hur ni lägger upp er text rent dispositionsmässigt är upp till er. Men tänk på tydlighet (undvik onödigt tillkrånglat språk och utfyllnadsord) och att ni har en röd tråd (som läsare ska det vara lätt att följa era resonemang och hur de hänger ihop). 
 
 ***
 
@@ -29,7 +58,7 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 
 2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I ett sådant fall bifogar du en *källförteckning*. Vid direkta citat eller referat krävs *källhänvisning* i text. 
 
-3. Du genomför uppgiften på **minst 1 A4** och **max 3,5 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive ev. källförteckning). 
+3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive ev. källförteckning). 
 
 4. Du sparar dokumentet som/i formatet ”**PDF**” och döper dokumentet efter formen ”**Klass, Efternamn, Förnamn, Filosofi, Moralfilosofi**”
 
@@ -41,14 +70,13 @@ Denna uppgift går ut på att resonera kring hur de tre etiska teorierna kan anv
 
 * Att döda en annan människa för ett större gott?
 * Lögn och ärlighet?
-* Vegetarianism/veganism och djurens rätt?
+* Vegetarianism/veganism, djurens rätt och miljön?
 * Tortyr för att utvinna viktig information?
 * Rikas ansvar för fattiga?
 * Skillnaden mellan vänner och främlingar?
 * Dödshjälp, aktiv såväl som passiv?
 
 **OBS:** Detta är som sagt bara exempel, ni är helt fria att välja helt andra etiska frågor/problem. Det kan dock givetvis vara en bra idé att diskutera ert val med mig. 
-
 
 ## Kunskapskrav för denna uppgift
 
@@ -84,7 +112,7 @@ _I kursplansspråk är betygskriterierna för C-nivå följande:_
 
 * Elevens analys leder fram till välgrundade förklaringar kring hur den etiska frågan kan lösas. 
 
-* Eleven tar eleven ställning både vad gäller de moralfilosofiska teorierna samt den valda etiska frågan och underbygger sitt eget ställningstagande med välgrundade argument.
+* Eleven tar ställning både vad gäller de moralfilosofiska teorierna samt den valda etiska frågan och underbygger sitt eget ställningstagande med välgrundade argument.
 
 **Kommentar:** "Utförligt" innebär enligt skolverkets stödmaterial att elevens svar är "mer exakt, fylligt och innehållsrikt, såväl kvalitativt som kvantitativt". Med detta menas kort och gott att man i hög utsträckning redogör för sådant som är centralt inom ämnet på ett korrekt sätt. "Välgrundade argument" handlar vidare om att man har fog för det man säger, att man bygger sina argument på någorlunda rimliga tolkningar av teorierna, är någorlunda logisk i sina slutledningar, osv. 
 
