@@ -58,11 +58,10 @@ Om en viss handling är rätt i, låt säga 80 procent av fallen, är en regel s
 
 Här menar Aristoteles att det förhåller sig med människan och dygderna som det förhåller sig med (exempelvis) kniven och dess ändamål. En *bra* kniv är en kniv som i *stor utsträckning* uppfyller de egenskaper som kännetecknar de objekt vi kallar knivar. Det finns alltid en *potential* hos knivar: de är tänkta att *kunna* skära. Men beroende på hur väl denna potential förverkligas så värderar vi knivar som mer eller mindre bra. 
 
-Den dygdiga människan är alltså ingen mindre än den människa som är *bra på att vara människa*. Och det dygdiga livet är inget mindre än det liv där vi i hög utsträckning *uppfyller vår mänskliga potential*. 
+Den dygdiga människan är alltså ingen mindre än den människa som är *bra på att vara människa*. Och det dygdiga livet är inget mindre än det liv där vi i hög utsträckning *uppfyller vår mänskliga potential*. I detta är dygden inte bara det som framkallar goda handlingar utan också det som framkallar *ett gott liv*.  
 
-I detta är dygden inte bara det som framkallar goda handlingar utan också det som framkallar *ett gott liv*. Att vara "lycklig" är för Aristoteles inte en fråga om välbehag eller att "få det man vill" utan en fråga om *självförverkligande*. Att bli den goda människa man har potential att bli. 
+Aristoteles ger det tillstånd alla människor bör sträva mot namnet _eudaimonia_. Detta begrepp översätts ibland med "lycka", men att vara "lycklig" är för Aristoteles inte en fråga om välbehag eller att "få det man vill" utan en fråga om *självförverkligande*. Att uppnå eudaimonia handlar om att blomstra som människa – att bli den goda människa man har potential att bli. 
 
-<!--Den goda människan och det goda livet är kort och gott en och samma sak. -->
 
 ## Förnuftet & praktiken
 
