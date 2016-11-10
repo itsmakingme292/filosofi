@@ -46,8 +46,12 @@ Den som har svårt att fatta ett moraliskt beslut i en viss situation är givetv
 
 Om en viss handling är rätt i, låt säga 80 procent av fallen, är en regel som ordinerar denna handling en bättre utgångspunkt än ingen alls. Om vi följer regeln kommer vi åtminstone att göra rätt *för det mesta*. Men för att kunna vara *100 procent* moraliska krävs det att vi har *karaktärsegenskaper* som gör oss rustade att se de *20 procent* av fallen då denna regel faktiskt *inte* går att tillämpa. 
 
-<!--> Två metaforiska exempel:  >>  >> En maskinist som alltid måste konsultera handboken är inte en bra maskinist.  >>  >> Är vi turister är en karta ett bra hjälpmedel, men denna kan aldrig mäta sig med den erfarenhet och kunskap som en lokalbo besitter.  -->
+> Eller som den moderna dygdetikern Martha Nussbaum uttrycker det i sin essäsamling _Känslans skärpa, tankens inlevelse_:
+>> *En läkare, som när han ställs inför en ny symptombildning finner att den enda utvägen är att konsultera handboken, skulle vara en usel läkare [...] Människor med praktisk vishet måste bemöta det nya med lyhördhet och fantasi och odla den slags flexibilitet och uppfattningsförmåga som, enligt Thukydides [...] lät dem "utan lång förberedelse [...] göra det rätta i det rätta ögonblicket"* <br>
 
+<!-- Eller som den moderna dygdetikern Martha Nussbaum uttrycker det i sin essäsamling "Känslans skärpa, tankens inlevelse" -->
+
+<!-- Två metaforiska exempel:  En maskinist som alltid måste konsultera handboken är inte en bra maskinist.  Är vi turister är en guidebok ett bra hjälpmedel, men denna kan aldrig mäta sig med den erfarenhet och kunskap som en lokalbo besitter. Om man kan ett geografiskt område utan och innan är denna erfarenhet överlägsen turistens karta – men en karta kan är alltid en bra början. -->
 
 <!--De fall då regeln får oss att bortse från situationens unika karaktär och därför får oss att handla fel.-->
 
@@ -85,8 +89,10 @@ Gemensamt för de praktiska dygderna är att de handlar om en slags "gyllene med
 
 Här får vi dock inte ha en allt för enkel syn på *måttfullhet*. Medelvägen handlar inte om ett *exakt mellanting* utan om det *rätta måttet* i rätt situation. Ibland kräver dygden att vi handlar med kraft, ibland med försiktighet. Att vara dygdig är att finna denna rätta balansen mellan våra egenskaper, attityder och känslor, i varje given situation. 
 
-> Eller som Aristoteles själv uttryckte det:
+> Aristoteles skriver i _Den Nichomakiska etiken_:
 > > *Vem som helst kan bli arg – det är lätt. Men att bli arg på rätt person och lagom mycket, vid rätt tillfälle, av rätt anledning och på rätt sätt – är varken vanligt eller lätt.*
+
+<!--(Aristoteles,  Nichomakiska etiken) -->
 
 Frågan är dock hur mycket vägledning vi egentligen får här. Att "lagom är bäst" är per definition sant. Det som är mellan "för mycket" och "för lite" kan inte var något annat än *den rätta mängden*. Därtill tycks det tämligen relativt vad som är ett överskott och vad som är ett underskott. Det som för en person är snålt är för en annan kanske slösaktigt.
 
