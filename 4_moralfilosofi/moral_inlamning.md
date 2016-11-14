@@ -7,11 +7,11 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 1. **Analysera och diskutera vad teorierna har (eller borde ha) att säga om den etiska frågan.** Vilket ljus kastar de olika teorierna på vårt etiska problem? Vilka är de stora skillnaderna? Vilka är de möjliga positionerna?
 
-2. **Diskutera teoriernas styrkor och svagheter samt argumentera för den position som du anser är mest rimlig.**  Vilka kritiska frågor reser teorierna och hur kan dessa bemötas? Problematisera teorierna utifrån den etiska frågan, men också som helhet. 
+2. **Diskutera teoriernas styrkor och svagheter samt argumentera för den teori och position som du anser är mest rimlig.**  Vilka kritiska frågor reser teorierna och hur kan dessa bemötas? Problematisera teorierna utifrån den etiska frågan, men också som helhet. 
 
 <!--**PS:** Av naturliga skäl är dygdetiken inte alltid helt enkel att tillämpa i en konkret situation. Det är därför förståeligt om ni skriver mer om utilitarismen och pliktetiken.  -->
 
-**OBS:** Obligatoriskt för denna uppgift är **pliktetiken** och **utilitarismen**. Det är valfritt att också skriva om dygdetiken. 
+**OBS:** Obligatoriskt för denna uppgift är **pliktetiken** och **utilitarismen**. Det är _valfritt_ att också skriva om dygdetiken.  (Att skriva om dygdetiken innebär inte att man automatiskt får ett högre omdöme – och vice versa)
 
 ***
 
@@ -35,7 +35,8 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 	- I relation till vår etiska fråga?
 	* Drabbar kritiken alla former av teorin?
 
-<!--**Tips:** Klistra inte in ovanstående checklista i ert dokument för att svara på frågorna en och en. Vissa frågor går inte minst in i varandra. Använd den som just en _checklista_ för att kolla om ni besvarat frågorna _genom_ er text.  -->
+
+**OBS:** Ovanstående är inte tänkt som en mall för dispositionen i er text (exempelvis som rubriker). Klistra alltså inte in ovanstående checklista i ert dokument för att svara på frågorna en och en. Använd listan som just en _checklista_ för att kolla om ni besvarat frågorna _genom_ er text. 
 
 *** 
 ### Att tänka på:
@@ -64,7 +65,7 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 **OBS:** Misslyckas man med någon av punkterna 3-5 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
 
-## Några exempel på etiska frågor/problem
+## Exempel på etiska frågor/problem
 
 * Att döda en annan människa för ett större gott?
 * Lögn och ärlighet?
@@ -74,7 +75,9 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 * Skillnaden mellan vänner och främlingar?
 * Dödshjälp, aktiv såväl som passiv?
 
-**OBS:** Detta är som sagt bara exempel, ni är helt fria att välja helt andra etiska frågor/problem. Det kan dock givetvis vara en bra idé att diskutera ert val med mig. 
+**Kommentar:** Detta är bara _några_ exempel, ni är helt fria att välja andra etiska frågor/problem. Men diskutera gärna era val med mig. 
+
+
 
 ## Kunskapskrav för denna uppgift
 
