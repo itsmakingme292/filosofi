@@ -105,7 +105,7 @@ Till Aristoteles försvar är den gyllene medelvägen inte tänkt som ett precis
 
 Det huvudsakliga sättet vi kan söka kunskap om dygden är för Aristoteles *att se till de dygdiga*. 
 
-Eftersom moralen, enligt Aristoteles, är en praktisk aktivitet är det också i kontakt med denna *praktik* som vi lär oss om dygden. På samma sätt som en blivande möbelsnickare bäst lär sig hantverket i kontakt med praktiserande möbelsnickare lär sig människan bäst om dygden i kontakt med dygdiga människor. Att bli en god människa kräver både träning och goda förebilder. 
+Eftersom moralen, enligt Aristoteles, i första hand är en praktisk aktivitet är det också i kontakt med denna *praktik* som vi lär oss om dygden. På samma sätt som en blivande möbelsnickare bäst lär sig hantverket i kontakt med praktiserande möbelsnickare lär sig människan bäst om dygden i kontakt med dygdiga människor. Att bli en god människa kräver både träning och goda förebilder. 
 
 I detta menar Aristoteles att dygderna är sådana karaktärsdrag som vi *beundrar* hos andra. Egenskaper som gör att vi *prisar* andra människor och hellre söker deras sällskap än någon annans. 
 
