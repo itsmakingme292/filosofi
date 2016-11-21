@@ -95,7 +95,7 @@ _I kursplansspråk är betygskriterierna för E-nivå följande:_
 
 * Elevens analys leder fram till enkla förklaringar kring hur den etiska frågan kan lösas. 
 
-* Eleven tar eleven ställning både vad gäller de moralfilosofiska teorierna samt den valda etiska frågan och underbygger sitt eget ställningstagande med enkla argument. 
+* Eleven tar eleven ställning både vad gäller de moralfilosofiska teorierna och den valda etiska frågan samt underbygger sitt eget ställningstagande med enkla argument. 
 
 **För C krävs:** Du problematiserar de etiska teorierna och deras (troliga) syn på den etiska frågan och lyfter i detta och i din argumentation på ett tydligt och systematiskt vis fram såväl brister som fördelar hos respektive teori. Du visar genom detta att du behärskar teoriernas innehåll i stor utsträckning.
 
@@ -113,7 +113,7 @@ _I kursplansspråk är betygskriterierna för C-nivå följande:_
 
 * Elevens analys leder fram till välgrundade förklaringar kring hur den etiska frågan kan lösas. 
 
-* Eleven tar ställning både vad gäller de moralfilosofiska teorierna samt den valda etiska frågan och underbygger sitt eget ställningstagande med välgrundade argument.
+* Eleven tar ställning både vad gäller de moralfilosofiska teorierna och den valda etiska frågan samt underbygger sitt eget ställningstagande med välgrundade argument.
 
 **Kommentar:** "Utförligt" innebär enligt skolverkets stödmaterial att elevens svar är "mer exakt, fylligt och innehållsrikt, såväl kvalitativt som kvantitativt". Med detta menas kort och gott att man i hög utsträckning redogör för sådant som är centralt inom ämnet på ett korrekt sätt. "Välgrundade argument" handlar vidare om att man har fog för det man säger, att man bygger sina argument på någorlunda rimliga tolkningar av teorierna, är någorlunda logisk i sina slutledningar, osv. 
 
@@ -133,7 +133,7 @@ _I kursplansspråk är betygskriterierna för A-nivå följande:_
 
 * Elevens analys leder fram till välgrundade och nyanserade förklaringar kring hur den etiska frågan kan lösas. 
 
-* Eleven tar eleven ställning både vad gäller de moralfilosofiska teorierna samt den valda etiska frågan och underbygger sitt eget ställningstagande med välgrundade och nyanserade argument och omdömen.
+* Eleven tar ställning både vad gäller de moralfilosofiska teorierna och den valda etiska frågan samt underbygger sitt eget ställningstagande med välgrundade och nyanserade argument och omdömen.
 
 **Kommentar:** "Nyanserat" innebär enligt skolverkets stödmaterial (bland annat) att elevens svar "innehåller flera olika perspektiv och infallsvinklar". För att ge en nyanserad beskrivning räcker det dock inte att bara rada upp en mängd möjliga perspektiv på en viss fråga eller ett visst ämnesinnehåll. Att redogöra för något på ett nyanserat vis handlar också om att kunna se olika aspekter, viktiga "detaljer", styrkor och svagheter inom ett visst perspektiv samt att kunna se viktiga skillnader och likheter mellan olika perspektiv. Att vara nyanserad handlar lika mycket om att gå på djupet, som att gå på bredden. Men det räcker inte med kvantitet, vi måste också ha en viss kvalitet i våra redogörelser och resonemang. Kort sagt är vi nyanserade först när vi undgår att dra för snabba slutsatser, för en god argumentation (i flera led), är logiskt sammanhängande, och inte utelämnar sådant som är av vikt för vår analys.
 
