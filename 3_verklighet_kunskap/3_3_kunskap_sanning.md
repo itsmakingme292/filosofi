@@ -48,7 +48,9 @@ Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet
 
 ## Pragmatism
 
-En tredje väg, och ett alternativ till skiljelinjen mellan objektivism och relativism, är pragmatismen. Denna menar att objektiv och relativ ”sanning” båda är metafysiska begrepp vilka vi bör ”lägga åt sidan”. 
+En tredje väg, och ett alternativ till skiljelinjen mellan objektivism och relativism, är pragmatismen. Denna menar att objektiv och relativ ”sanning” båda är begrepp vilka vi bör ”lägga åt sidan”. 
+
+<!--Tog bort ”metafysiska” framför ”begrepp”, krånglar kanske till det mer än det hjälper? -->
 
 Istället menar pragmatikerna att vi bör använda ordet ”sant” för ”det som fungerar”. I detta likställer pragmatikerna på ett sätt sanningen i vår kunskap med själva berättigandet och menar därmed att all kunskap bör mätas utifrån dess nytta, användbarhet och förmåga att förutsäga händelseförlopp. All kunskap är för pragmatismen i grund och botten problemlösande och hur väl vår kunskap löser våra problem, såväl filosofiska och vetenskapliga som vardagliga, är det enda vi både kan och behöver veta. 
 

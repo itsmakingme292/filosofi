@@ -1,6 +1,9 @@
 # Inledning
 <!--Här beskriver jag vad kapitlet ska handla om, detta är en note -->
 
+<!--ELLER: Kanske döpa om denna del till Metafysik & Epistemologi?  -->
+
+
 **OBS:** För detta moment har jag inte skapat tillräckligt med eget material för att det ska kunna utgöra den enda läsningen. För att se vilka sidor som gäller i kursboken gå till "[Läsanvisningar & Instuderingsfrågor](instuderingsfragor_verklighet_kunskap.md)"
 
 ## Metafysik & Ontologi
@@ -11,11 +14,17 @@ Denna lista kan i princip bli hur lång som helst och därför kanske vi vill an
 
 Det är här metafysiken kommer in. 
 
-För om ontologin är ”listan” över det existerande är **metafysiken** läran om hur allt detta hänger samman: hur verkligheten är beskaffad och vad som utgör de allra mest grundläggande dragen hos det som existerar. Ordet "meta" i "metafysik" betyder "bortom" eller "underliggande". Metafysiken behandlar alltså frågan om hur saker existerar oberoende av vår (direkta) upplevelse av dem, vad som finns bortom det vi upplever med våra sinnen. 
+För om ontologin är ”listan” över det existerande är **metafysiken** läran om hur allt detta hänger samman: hur verkligheten är beskaffad och vad som utgör de allra mest grundläggande dragen hos det som existerar. Ordet "meta" i "metafysik" betyder "bortom" eller "underliggande". Metafysiken behandlar alltså frågan om hur saker existerar oberoende av vår (direkta) upplevelse av dem – vad som finns bortom det vi upplever med våra sinnen.
 
-**Kommentar:** _Monism_ innebär att det bara existerar en typ av saker som verkligheten består av, ett exempel på detta är materialism (se sid. 19 i boken). En uppdelning där vi har två olika kategorier av saker kallar vi för en _dualism_. Det vanligaste exemplet på en sådan är "kropp och själ"-dualism. Är vi denna typ av dualist tänker vi att det dels finns en materiell (fysisk) verklighet men också en immateriell (själslig) verklighet. _Pluralism_ innebär att det finns flera olika kategorier av saker som verkligheten i grund och botten består av. 
+**Kommentar:** Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt eller rentav synonymt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den _kan_ behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
 
-Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt eller rentav synonymt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den _kan_ behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
+Att metafysiken handlar om det som befinner sig bortom vår upplevelse behöver dock inte betyda att metafysiken handlar om någon slags alternativ verklighet. Det vi upplever och den metafysiska verkligheten behöver inte vara två olika saker. En **naiv realist** skulle exempelvis påstå verkligheten helt och hållet överensstämmer med det vi upplever. 
+
+> För mer om naiv realism och andra typer av verklighetsuppfattningar se avsnittet *[Verklighet](3_2_verkligheten.md)*
+
+Det sagt ska metafysiken inte blandas ihop med fysik/naturvetenskapen. Metafysiken tar, som andra filosofiska ämnesområden, vid där  vetenskapen slutar. Vetenskapen är _empirisk_ (baserad på observationer). Metafysiken är _icke-empirisk_ (ej baserad på observationer). Det sagt kan _teoretisk fysik_ (exempelvis [strängteori](https://sv.wikipedia.org/wiki/Strängteori)), åtminstone i dagsläget, sägas befinna sig i gränslandet mellan naturvetenskap och filosofi då denna inte är experimentellt testbar fullt ut. 
+
+> För mer om vetenskapsfilosofi se avsnittet *[Vetenskap](3_4_vetenskapen.md)*
 
 <!--Få in någon kritik av metafysiken här? Kanske borde jag helt sluta med ontologi-delen?-->
 
@@ -24,10 +33,22 @@ Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begr
 
 <!--%% Hur sakerna (ontologin) hänger samman -->
 
-**OBS:** Metafysik ska inte blandas ihop med fysik/naturvetenskapen. Metafysiken tar vid där andra vetenskaper slutar. Det sagt kan _teoretisk fysik_ sägas befinna sig i gränslandet mellan naturvetenskap och filosofi. 
+### Grundläggande typer av metafysiska teorier
+
+**Monism** innebär att det bara existerar en typ av sak som verkligheten består av. Det vanligaste exemplet på en monistisk teori är materialismen/fysikalismen som menar att allt i grund och botten är materiellt/fysikaliskt.
+
+**Kommentar:** Detta "vanligaste exemplet" bär dock på en viss förenkling av vad "en typ av sak" betyder. Huruvida fysiken idag verkligen är monistisk kan man ifrågasätta (möjligen är den i praktiken mer pluralistisk, se nedan). Fysiken har länge haft som _mål_ att finna en minsta beståndsdel, detta går tillbaka till den gamla atomläran: atom betyder odelbar – men som vi alla vet var det inte så enkelt. Idag har vi egentligen _flera olika_ mindre beståndsdelar inom fysiken, de så kallade [_elementarpartiklarna_](https://sv.wikipedia.org/wiki/Elementarpartikel). _Förhoppningen_ är dock att dessa på sikt kan förklaras med en ännu mindre beståndsdel, så som exempelvis strängar i [strängteorin](https://sv.wikipedia.org/wiki/Strängteori).  
+
+<!--Det enklaste exemplet här är atomläran, frågan är som sagt om nya fysiken är pluralistisk, se nedan -->
+
+**Dualism** delar upp verkligheten i två delar eller i två olika grundläggande kategorier av saker. Det vanligaste exemplet på en dualism är "kropp och själ"-dualism. Är vi denna typ av dualister tänker vi att det dels finns en materiell (fysisk) verklighet, dels en immateriell (själslig) verklighet. 
+
+**Pluralism** innebär att det finns flera olika verkligheter, aspekter av verkligheten, eller kategorier av saker som verkligheten i grund och botten består av. Ett klassiskt exempel är Empedocles (490-430 f.Kr) teori om de fyra elementen (jord, vatten, luft, eld).
+
+<!--Ha med detta? _Möjligen_ skulle man kunna kalla modern fysik för pluralistisk, men den är det i ett sådant fall för att den ännu inte bygger på något fullständig teori (strängteori är ett försök till att lösa denna problematik). -->
+
 
 ## Epistemologi
-
 När vi når fram till **epistemologin** frågar vi oss till sist om  vår möjlighet till kunskap om allt detta som vi antar existerar. Om *vad* vi kan veta, *hur* vi kan veta detta och vart den slutgiltiga *gränsen* för vår kunskap går. Epistemologi är således ett finare ord för *kunskapsfilosofi* eller *kunskapsteori*. 
 
 Metafysik och epistemologi hänger emellertid samman. Vi kan inte anta att något existerar om vi inte vet någonting om detta ”något”: vi måste ha någon sorts anledning att tro att detta ”något” existerar. Likaså kan vi inte ha kunskap om något vi inte tror existerar: att säga sig ha kunskap om något är alltid att anta en viss sorts existens. Vidare är det lika mycket metafysik som epistemologi att tala om den mänskliga ”kunskapsapparaten” – om man påstår något om vår förmåga till kunskap påstår man också något om vår grundläggande *natur*. 

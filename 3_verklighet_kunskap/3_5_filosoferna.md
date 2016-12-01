@@ -22,4 +22,6 @@ En bra och någorlunda lättläst text om Kant finner ni här:  ["Kants första 
 
 **OBS:** Dessa sidhänvisningar är bara ett komplement och inte en ersättning till läslistan under instruktionerna för seminariet. 
 
+<!--OBS: För popper och Kuhn kan jag bara referera till texten om vetenskap när jag skrivit denna -->
+
 
