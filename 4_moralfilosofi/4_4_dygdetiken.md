@@ -1,4 +1,6 @@
 # Aristotelisk dygdetik
+**Kommentar:** Vi kommer i första hand utgå från den dygdetik som bygger på Aristoteles (384 f.Kr. - 322 f.Kr.)
+
 ## Dygden framför allt!
 Då vi kommit till den tredje och sista av de moralfilosofiska ”skolorna” skiftar inte bara svaren utan också den ursprungliga frågan. Då pliktetiken och utilitarismen försöker utreda vad vi *bör göra* försöker dygdetiken istället utreda hur vi *bör vara*. 
 
@@ -98,7 +100,7 @@ Frågan är dock hur mycket vägledning vi egentligen får här. Att "lagom är 
 
 Problemet med den gyllene medelvägen är alltså att den verkar bra och sann men att den samtidigt inte ger oss särskilt mycket ny information. Att de praktiska dygderna handlar om en balans verkar kort och gott som ett tämligen trivialt påstående.
 
-Till Aristoteles försvar är den gyllene medelvägen inte tänkt som ett precist verktyg för att komma fram till den exakta dygden. Men likväl måste den, för att inte vara moralfilosofiskt meningslös, ge oss *någon* form av vägledning, och huruvida den egentligen gör det, förblir en öppen fråga.
+Till Aristoteles försvar är den gyllene medelvägen inte tänkt som ett precist verktyg för att komma fram till den exakta dygden. Men likväl måste den, för att inte vara moralfilosofiskt meningslös, ge oss *någon* form av vägledning, och huruvida den egentligen gör det förblir en öppen fråga.
 
 
 ## Lär dig dygden genom de dygdiga

@@ -2,7 +2,7 @@
 ## Plikten framför allt!
 Alla former av pliktetik handlar om att det, på ett eller annat sätt, går att finna allmängiltiga *regler* som ingen människa bör bryta mot.<!-- Dessa regler gäller för alla och i alla liknande situationer.--> Att vara moralisk är för en pliktetiker att agera på grund av plikt: att handla utifrån det vi har en *skyldighet att göra*, för eller mot, *andra människor* likväl som, för eller mot, *oss själva*. 
 
-Man kan finna pliktetiska drag i mycket av vår ”vardagsmoral” och inte minst i våra religioner. Men den pliktetik vi nu ska fokusera på är den tyska filosofen Immanuel Kants variant. Detta eftersom det först är här vi får en någorlunda stabil filosofisk grund för pliktetiskt tänkande och därför att Kant fortfarande är den mest tongivande *pliktetikern* i moralfilosofiska sammanhang. 
+Man kan finna pliktetiska drag i mycket av vår ”vardagsmoral” och inte minst i våra religioner. Men den pliktetik vi nu ska fokusera på är den tyska filosofen Immanuel Kants (1724-1804) variant. Detta eftersom det först är här vi får en någorlunda stabil filosofisk grund för pliktetiskt tänkande och därför att Kant fortfarande är den mest tongivande *pliktetikern* i moralfilosofiska sammanhang. 
 
 ## Endast viljan kan vara god
 <!---Endast viljan kan vara god: plikten som det enda motivet-->
