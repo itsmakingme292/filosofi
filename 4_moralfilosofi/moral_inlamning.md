@@ -97,7 +97,7 @@ _I kursplansspråk är betygskriterierna för E-nivå följande:_
 
 * Eleven tar eleven ställning både vad gäller de moralfilosofiska teorierna och den valda etiska frågan samt underbygger sitt eget ställningstagande med enkla argument. 
 
-**För C krävs:** Du problematiserar de etiska teorierna och deras (troliga) syn på den etiska frågan och lyfter i detta och i din argumentation på ett tydligt och systematiskt vis fram såväl brister som fördelar hos respektive teori. Du visar genom detta att du behärskar teoriernas innehåll i stor utsträckning.
+**För C krävs:** Du problematiserar de etiska teorierna och deras (troliga) syn på den etiska frågan och lyfter i detta och i din argumentation på ett tydligt sätt fram såväl brister som fördelar hos respektive teori. Du visar genom detta att du behärskar teoriernas innehåll i stor utsträckning.
 
 _I kursplansspråk är betygskriterierna för C-nivå följande:_
 
