@@ -30,11 +30,18 @@ Vad gäller den andra frågan står den vanligaste skiljelinjen mellan de som an
 
 ## Objektivism
 
+<!--Ska skepticism in här eller som egen del? -->
+
 En objektivistisk syn på kunskap/sanning innebär att det finns något som är sant oberoende av våran subjektiva uppfattning och att två helt motstridiga påståenden inte samtidigt kan vara lika sanna. 
+
+<!--Få in korrespondensteori här: Typ något i stil med: All form av objektivism utgår från någon form av korrespondansteori... -->
 
 **Absolutismen** är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt. Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
 
 Absolutismen är dock inte den enda formen av objektivism. För även om vi resonerar som så att en objektiv sanning förmodligen existerar, så kan vi likväl samtidigt resonera som så att det är mycket svårt, eller rent av omöjligt, att helt och fullt *nå insikt* om denna sanning. 
+
+<!--Om jag skrivit om korrespondensteori (korrespondEns?), skriv isf här: att vi så att säga inte kan veta om det vi tror oss veta korresponderar med det som faktiskt är  -->
+
 
 Enligt **fallibilismen** är verklig kunskap alltid objektivt sann, men huruvida vi själva besitter denna kan vi aldrig veta med säkerhet. Den mänskliga kunskapen är både osäker/felbar och temporär/provisorisk. Det finns inget som är fullständigt säkert, vi kan aldrig någonsin utesluta möjligheten att vi kan ha fel. 
 

@@ -55,7 +55,7 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 1. Du läser på och reflekterar kring samtliga avsnitt under kapitlet/delmomentet "moralfilosofi" på denna hemsida.
 
-2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I ett sådant fall bifogar du en *källförteckning*. Vid direkta citat eller referat krävs *källhänvisning* i text. 
+2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I det fall ditt etiska dilemma är beroende av fakta och forskning som inte är allmängods (sådant som "alla" vet) _bör_ du göra det. I ett sådant fall bifogar du en *källförteckning*. Vid direkta citat eller referat krävs *källhänvisning* i text. 
 
 3. Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive ev. källförteckning). 
 

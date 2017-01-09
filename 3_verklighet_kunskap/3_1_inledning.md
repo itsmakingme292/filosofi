@@ -18,11 +18,11 @@ För om ontologin är ”listan” över det existerande är **metafysiken** lä
 
 **Kommentar:** Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt eller rentav synonymt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den _kan_ behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
 
-Att metafysiken handlar om det som befinner sig bortom vår upplevelse behöver dock inte betyda att metafysiken handlar om någon slags alternativ verklighet. Det vi upplever och den metafysiska verkligheten behöver inte vara två olika saker. En **naiv realist** skulle exempelvis påstå verkligheten helt och hållet överensstämmer med det vi upplever. 
+Att metafysiken handlar om det som befinner sig bortom vår upplevelse behöver dock inte betyda att metafysiken handlar om någon slags alternativ verklighet. Det vi upplever och den metafysiska verkligheten behöver inte vara två helt olika saker. En **naiv realist** skulle exempelvis tvärtom påstå att verkligheten till fullo överensstämmer med det vi upplever. 
 
 > För mer om naiv realism och andra typer av verklighetsuppfattningar se avsnittet *[Verklighet](3_2_verkligheten.md)*
 
-Det sagt ska metafysiken inte blandas ihop med fysik/naturvetenskapen. Metafysiken tar, som andra filosofiska ämnesområden, vid där  vetenskapen slutar. Vetenskapen är _empirisk_ (baserad på observationer). Metafysiken är _icke-empirisk_ (ej baserad på observationer). Det sagt kan _teoretisk fysik_ (exempelvis [strängteori](https://sv.wikipedia.org/wiki/Strängteori)), åtminstone i dagsläget, sägas befinna sig i gränslandet mellan naturvetenskap och filosofi då denna inte är experimentellt testbar fullt ut. 
+Det sagt ska metafysiken inte blandas ihop med fysik/naturvetenskapen. Metafysiken tar, som andra filosofiska ämnesområden, vid där vetenskapen slutar. Vetenskapen är _empirisk_ (baserad på observationer). Metafysiken är _icke-empirisk_ (ej baserad på observationer). Däremot kan _teoretisk fysik_ (exempelvis [strängteori](https://sv.wikipedia.org/wiki/Strängteori)), åtminstone i dagsläget, sägas befinna sig i gränslandet mellan naturvetenskap och filosofi då denna inte är experimentellt testbar fullt ut. 
 
 > För mer om vetenskapsfilosofi se avsnittet *[Vetenskap](3_4_vetenskapen.md)*
 
@@ -51,7 +51,7 @@ Det sagt ska metafysiken inte blandas ihop med fysik/naturvetenskapen. Metafysik
 ## Epistemologi
 När vi når fram till **epistemologin** frågar vi oss till sist om  vår möjlighet till kunskap om allt detta som vi antar existerar. Om *vad* vi kan veta, *hur* vi kan veta detta och vart den slutgiltiga *gränsen* för vår kunskap går. Epistemologi är således ett finare ord för *kunskapsfilosofi* eller *kunskapsteori*. 
 
-Metafysik och epistemologi hänger emellertid samman. Vi kan inte anta att något existerar om vi inte vet någonting om detta ”något”: vi måste ha någon sorts anledning att tro att detta ”något” existerar. Likaså kan vi inte ha kunskap om något vi inte tror existerar: att säga sig ha kunskap om något är alltid att anta en viss sorts existens. Vidare är det lika mycket metafysik som epistemologi att tala om den mänskliga ”kunskapsapparaten” – om man påstår något om vår förmåga till kunskap påstår man också något om vår grundläggande *natur*. 
+Metafysik och epistemologi hänger emellertid samman. Vi kan inte anta att något existerar om vi inte vet någonting om detta ”något”: vi måste ha någon sorts anledning att tro att detta ”något” existerar. Likaså kan vi inte ha kunskap om något vi inte tror existerar: att säga sig ha kunskap om något är alltid att anta en viss sorts existens (och en viss relation mellan detta något och vårt vetande om det). Vidare är det lika mycket metafysik som epistemologi att tala om den mänskliga ”kunskapsapparaten”: om man påstår något om vår förmåga till kunskap påstår man också något om vår grundläggande *natur*. 
 
 Det är kort sagt väldigt svårt att tala om epistemologi utan att på något sätt komma in på metafysik. 
 
