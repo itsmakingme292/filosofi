@@ -7,7 +7,7 @@ Den klassiska definitionen av kunskap är _sann berättigad tro_. Med detta mena
 
 1. Jag tror att något är fallet
 2. Jag har en tillräcklig anledning (goda skäl) att tro att detta något är fallet
-3. Det är jag tror är fallet är också fallet (det jag tror är sant). 
+3. Det jag tror är fallet är också fallet (det jag tror är sant). 
 
 Om jag vet att något är fallet innebär det att jag också tror att det är så. En mening så som "jag vet att solen skiner, men jag tror inte på det" är möjligen poetisk men inte logisk. Inte heller är det möjligt att utan självmotsägelse påstå att jag vet något (har kunskap om det) om jag samtidigt inte tror på det. En mening så som "jag tror att vi kommer vinna matchen, men jag vet att vi inte kommer vinna matchen" låter minst sagt förvirrad. Det vi tror är sant måste också _vara sant_. ![klassisk_kunskap](0_kartor/klassisk_kunskap.svg) 
 
