@@ -29,7 +29,7 @@ Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrå
 
 > se Berkeley, sidorna 116-117 i läroboken
 
-Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i _solipsism_. Enligt solipsismen finns det ingen anledning att tro på existensen av andra medvetanden. Det enda vi kan veta är att vårt eget medvetande existerar. 
+Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i _solipsism_. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar. 
 
 <!--Skilja mellan metafysisk och epistemologisk solipsism här? -->
 

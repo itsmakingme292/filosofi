@@ -1,5 +1,29 @@
 # Kunskap & Sanning
 
+## Den klassiska definitionen av kunskap
+**Kommentar:** Det finns olika former av kunskap. En form av kunskap är den vi har när vi kan cykla eller spela fotboll. Denna form av kunskap kallar vi färdigheter. En annan form av kunskap är den kunskap som berör hur saker och ting förhåller sig. Det är i första hand den senare formen som vi nu kommer att fokusera på (även om de till viss del givetvis går in i varandra).
+
+Den klassiska definitionen av kunskap är _sann berättigad tro_. Med detta menas att något endast kan kallas kunskap om det uppfyller följande tre kriterier:
+
+1. Jag tror att något är fallet
+2. Jag har en tillräcklig anledning (goda skäl) att tro att detta något är fallet
+3. Det är jag tror är fallet är också fallet (det jag tror är sant). 
+
+Om jag vet att något är fallet innebär det att jag också tror att det är så. En mening så som "jag vet att solen skiner, men jag tror inte på det" är möjligen poetisk men inte logisk. Inte heller är det möjligt att utan självmotsägelse påstå att jag vet något (har kunskap om det) om jag samtidigt inte tror på det. En mening så som "jag tror att vi kommer vinna matchen, men jag vet att vi inte kommer vinna matchen" låter minst sagt förvirrad. Det vi tror är sant måste också _vara sant_. ![klassisk_kunskap](0_kartor/klassisk_kunskap.svg) 
+
+Så långt har vi klargjort punkt ett och tre. Men punkt två då? Att vi måste ha en anledning att tro något handlar om att kunskap inte är en gissningslek. Att veta något, att ha verklig kunskap, handlar om att också förstå _varför_ man tror något. En person som på frågan "hur vet du det?" endast svarar "jag bara vet det" är inte en person vars "kunskap" man tar på något större allvar. I detta kan olika "berättiganden" utgöra olika goda skäl. En person som säger "det kommer regna imorgon, jag känner det på mig" litar man förhoppningsvis mindre på än en meteorolog. 
+
+**Kommentar:** Vad som mer exakt från fall till fall utgör goda skäl är dock en diskussionsfråga och inget som det finns ett enkelt svar på. 
+
+Den klassiska definitionen av kunskap är inte okontroversiell och utan problem (den intresserade kan läsa om de så kallade gettierproblemen [här](http://www.iep.utm.edu/gettier/)), men det är likväl denna som vi allra oftast utgår ifrån, både till vardags och inom filosofin. Mer intressant för stunden (åtminstone i en grundkurs i filosofi) är framförallt de olika sätt som vi kan beskriva och analysera relationen mellan de olika delarna (sanning, tro, berättigande). Vi kommer nu gå igenom skepticistiska, relativistiska, objektivistiska och pragmatiska kunskapsuppfattningar.
+
+## Skepticism
+Om vi har ett skeptiskt förhållande till kunskap innebär det att vi avfärdar möjligheten till verkligt vetande och kunskap. Skepticismen menar att vår "kunskap" alltid bär på en oundviklig och total osäkerhet. Enligt skepticismen är det omöjligt att få någon form av bekräftelse på att det vi tror är rätt. Vad som är sant och vad som är osant går helt enkelt inte att med säkerhet skilja på. I detta kan vi antingen vara skeptiker med avseende på alla kunskapsområden (global  skepticism) eller endast med avseende på vissa (lokal skepticism). 
+
+ <!--Få in epistemologisk skepticism som exempel här? Men isf först göra distinktionen mellan metafysisk och epistemologisk skeptisism i verkligheten-delen? -->
+
+> Ett exempel på en skeptiker är David Hume. Om honom, och mer om hans variant av skeptisism, läser man i läroboken på sidorna 117-119. 
+
 ## Relativism
 
 En relativistisk ståndpunkt är den som hävdar att sanning alltid existerar i relation till ett tänkande subjekt och/eller i en viss kontext. 
@@ -14,7 +38,7 @@ En mycket viktig distinktion här är den mellan den strikta epistemologiska rel
 
 Till skillnad från en objektivistisk syn på kunskap och sanning finns det ingen sanning utanför oss som vi kan jämföra vår ”inre sanning” med. Om man på medeltiden trodde att jorden var platt var det också sant att jorden var platt. 
 
-## Olika former av relativism
+### Olika former av relativism
 
 Relativismen kommer i många former. Det enklaste sättet att se de huvudsakliga skiljelinjerna mellan dessa är att ställa två frågor:
 
@@ -29,6 +53,9 @@ Vad gäller den andra frågan står den vanligaste skiljelinjen mellan de som an
 
 
 ## Objektivism
+
+**OBS:** Begreppet "Objektivism" ska här ej sammanblandas med Ayan Rands filosofi. Denna kommer ofta upp vid sökningar – vilket kan vara förvirrande. 
+
 
 <!--Ska skepticism in här eller som egen del? -->
 
@@ -49,9 +76,9 @@ Samtidigt ska vi inte frestas att inta en relativistisk ståndpunkt. All tro är
 
 <!--Få in något om skepticism här och hur fallibilism kan ses som en typ av skepticism, men att den ändå skiljer sig från den mer rena formen av skepticism. Kanske ska nedanstående med allt för tydlig koppling till falsifikationism tas bort eller så får kopplingen göras explicit -->
 
-Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen (menar fallibilismen). Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. Fallibilism hänger här ihop med _falsifikationism_: En hypotes som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa (se Popper).
+Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen (menar fallibilismen). Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. Fallibilism hänger här ihop med _falsifikationism_: En hypotes som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa.
 
-**OBS:** Begreppet "Objektivism" ska här ej sammanblandas med Ayan Rands filosofi. Denna kommer ofta upp vid sökningar – vilket kan vara förvirrande. 
+> Ett exempel på en fallibilist är Karl Popper. Om honom, och mer om fallibilism och falsifikationism, läser man i läroboken på sidorna 137-139.
 
 ## Pragmatism
 

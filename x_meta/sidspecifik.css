@@ -3,3 +3,8 @@ max-width:1000px;
 margin-left:auto;
 margin-right:auto;
 }
+
+
+img[alt=klassisk_kunskap] {max-width: 290px; height: auto;}
+
+ /* OBS: ovan verkar dock fucka med responsiva versionen, förstår inte riktigt varför men orkar inte reda ut det nu, så tills vidare kanske ingen bild som ska ha egen size ska vara mer än 300px */
