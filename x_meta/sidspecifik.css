@@ -5,6 +5,10 @@ margin-right:auto;
 }
 
 
-img[alt=klassisk_kunskap] {max-width: 290px; height: auto;}
+@media (min-width: 550px) {
+img[alt=klassisk_kunskap] {max-width: 300px !important; height: auto !important;}
 
- /* OBS: ovan verkar dock fucka med responsiva versionen, förstår inte riktigt varför men orkar inte reda ut det nu, så tills vidare kanske ingen bild som ska ha egen size ska vara mer än 300px */
+}
+
+
+ /* OBS: innan fungerade inte det hela med den responsiva versionen, med min width 550px bör dock detta vara löst och funka för de mesta /*

@@ -4,7 +4,7 @@
 <!--ELLER: Kanske döpa om denna del till Metafysik & Epistemologi?  -->
 
 
-**OBS:** För detta moment har jag inte skapat tillräckligt med eget material för att det ska kunna utgöra den enda läsningen. För att se vilka sidor som gäller i kursboken gå till "[Läsanvisningar & Instuderingsfrågor](instuderingsfragor_verklighet_kunskap.md)"
+**OBS:** För detta moment har jag ännu inte skapat tillräckligt med eget material. Förhoppningen är dock att bli klar med detta under denna termin (VT 2017). Tillsvidare står därför hänvisningar till sidor i kursboken kvar i de avsnitt jag skrivit (i det fall det skulle bli nödvändigt att dela ut denna), men tanken är att dessa hänvisningar successivt ersätts med hänvisningar till avsnitt på denna hemsida. 
 
 ## Metafysik & Ontologi
 

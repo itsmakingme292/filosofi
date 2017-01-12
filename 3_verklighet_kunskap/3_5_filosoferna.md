@@ -2,7 +2,7 @@
 
 <!-- ## Platon  ## Descartes  ## Locke  ## Hume  -->
 
-**Om denna sida:** Här kommer mer material om filosoferna vi behandlar under detta delmoment framöver att fyllas på, men förmodligen inte under detta läsår. Tillsvidare finns det här lite extra material om Kant, samt sidhänvisningar till läroboken.
+**Om denna sida:** Här kommer mer material om filosoferna vi behandlar under detta delmoment framöver att fyllas på (förhoppningsvis blir detta klart detta läsår). Tillsvidare finns sidhänvisningar till läroboken (i det fall det skulle bli nödvändigt att dela ut denna).
 
 ## Kant
 

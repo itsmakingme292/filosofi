@@ -54,7 +54,7 @@
 	- Vilka olika typer av relativism finns det?
 	- Vad är absolutism?
 - Vad är skepticism?
-	- Vad gjorde Hume till en skeptiker och en extrem empirist? Vad kan vi veta? Vad kan vi inte veta?
+	- Vad gjorde Hume till en skeptiker och en radikal/extrem empirist? Vad kan vi veta? Vad kan vi inte veta?
 	- Vad kallas Descartes särskilda form av skepticism, varför kallas den så och varför är den egentligen inte en skepticism? 
 		- Vad betyder ”cogito ergo sum” och vad menas? 
 		- Hur använder Descartes tanken på en ond ande/demon?
@@ -99,10 +99,10 @@
 	* På vilket sätt är paradigmen ojämförbara? 
 
 - Vilken syn på verklighet, sanning och kunskap har du? 
-	- Hur står du i relation till filosoferna och de olika filosofiska ismerna?
+	- Hur står du i relation till filosoferna och de olika filosofiska ismerna? Vad anser du om deras sätt att resonera? 
 	- Är du relativist eller objektivist? Varför? 
 		- Vilken typ av relativist eller objektivist? Eller om du vill du inta en tredje position: hur ser i så fall denna ut? 
-		- Hur hänger detta samman med din syn på verkligheten?
+		- Hur hänger detta samman med din syn på verkligheten? Realism kontra idealism...
 	- Hur ser du på kunskapens källa? Hur får vi kunskap? Lutar du mer åt rationalism eller empirism? Varför? 
 	- Hur tänker du kring kunskapens säkerhet? Kan vi någonsin veta att vi har sann kunskap? Är detta ett problem? 
 
