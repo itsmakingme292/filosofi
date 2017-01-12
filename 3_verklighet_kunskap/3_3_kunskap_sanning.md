@@ -1,5 +1,7 @@
 # Kunskap & Sanning
 
+<!--Döp om till bara ”Kunskap”? Eller? Kanske inte om jag ska ha en del om kunskapens källa? -->
+
 ## Den klassiska definitionen av kunskap
 **Kommentar:** Det finns olika former av kunskap. En form av kunskap är den vi har när vi kan cykla eller spela fotboll. Denna form av kunskap kallar vi färdigheter. En annan form av kunskap är den kunskap som berör hur saker och ting förhåller sig. Det är i första hand den senare formen som vi nu kommer att fokusera på (även om de till viss del givetvis går in i varandra).
 
@@ -9,16 +11,16 @@ Den klassiska definitionen av kunskap är _sann berättigad tro_. Med detta mena
 2. Jag har en tillräcklig anledning (goda skäl) att tro att detta något är fallet
 3. Det jag tror är fallet är också fallet (det jag tror är sant). 
 
-Om jag vet att något är fallet innebär det att jag också tror att det är så. En mening så som "jag vet att solen skiner, men jag tror inte på det" är möjligen poetisk men inte logisk. Inte heller är det möjligt att utan självmotsägelse påstå att jag vet något (har kunskap om det) om jag samtidigt inte tror på det. En mening så som "jag tror att vi kommer vinna matchen, men jag vet att vi inte kommer vinna matchen" låter minst sagt förvirrad. Det vi tror är sant måste också _vara sant_. ![klassisk_kunskap](0_kartor/klassisk_kunskap.svg) 
+Det är inte möjligt att utan självmotsägelse påstå att jag vet något (har kunskap om det) om jag samtidigt inte tror på det. En mening så som "jag vet att solen skiner, men jag tror inte på det" är möjligen poetisk men inte logisk. Likaså måste det vi tror är sant också _vara sant_. Om jag tror att alla bollar i världen är röda varpå någon visar mig en grön boll och jag ändå fortsätter tro att alla bollar i världen är röda är jag möjligen färgblind, men jag har ingen vidare kunskap om bollars olika färger. ![klassisk_kunskap](0_kartor/klassisk_kunskap.svg) 
 
-Så långt har vi klargjort punkt ett och tre. Men punkt två då? Att vi måste ha en anledning att tro något handlar om att kunskap inte är en gissningslek. Att veta något, att ha verklig kunskap, handlar om att också förstå _varför_ man tror något. En person som på frågan "hur vet du det?" endast svarar "jag bara vet det" är inte en person vars "kunskap" man tar på något större allvar. I detta kan olika "berättiganden" utgöra olika goda skäl. En person som säger "det kommer regna imorgon, jag känner det på mig" litar man förhoppningsvis mindre på än en meteorolog. 
+Så långt har vi klargjort punkt ett och tre. Men punkt två då? Att vi måste ha en anledning att tro något handlar om att kunskap inte är en gissningslek. Att veta något, att ha verklig kunskap, handlar om att också förstå _varför_ man tror något. En person som på frågan "hur vet du det?" endast svarar "jag bara vet det" är inte en person vars "kunskap" man kanske tar på något större allvar (vår kunskap bör ha någon form av giltig källa). I detta kan olika "berättiganden" utgöra olika goda skäl. En person som säger "det kommer regna imorgon, jag känner det på mig" litar man förhoppningsvis mindre på än en meteorolog (även om meteorologer ofta har fel så är deras berättigande av en annan kvalité). 
 
 **Kommentar:** Vad som mer exakt från fall till fall utgör goda skäl är dock en diskussionsfråga och inget som det finns ett enkelt svar på. 
 
 Den klassiska definitionen av kunskap är inte okontroversiell och utan problem (den intresserade kan läsa om de så kallade gettierproblemen [här](http://www.iep.utm.edu/gettier/)), men det är likväl denna som vi allra oftast utgår ifrån, både till vardags och inom filosofin. Mer intressant för stunden (åtminstone i en grundkurs i filosofi) är framförallt de olika sätt som vi kan beskriva och analysera relationen mellan de olika delarna (sanning, tro, berättigande). Vi kommer nu gå igenom skepticistiska, relativistiska, objektivistiska och pragmatiska kunskapsuppfattningar.
 
 ## Skepticism
-Om vi har ett skeptiskt förhållande till kunskap innebär det att vi avfärdar möjligheten till verkligt vetande och kunskap. Skepticismen menar att vår "kunskap" alltid bär på en oundviklig och total osäkerhet. Enligt skepticismen är det omöjligt att få någon form av bekräftelse på att det vi tror är rätt. Vad som är sant och vad som är osant går helt enkelt inte att med säkerhet skilja på. I detta kan vi antingen vara skeptiker med avseende på alla kunskapsområden (global  skepticism) eller endast med avseende på vissa (lokal skepticism). 
+Om vi har ett skeptiskt förhållande till kunskap innebär det att vi avfärdar möjligheten till verkligt vetande och kunskap. Skepticismen menar att vår "kunskap" alltid bär på en oundviklig och total osäkerhet. Enligt skepticismen är det omöjligt att få någon form av bekräftelse på att det vi tror är rätt: inga skäl att tro något, hur goda de än tycks vara, är någonsin tillräckliga för att faktiskt _veta_ något. Vad som är sant och vad som är osant går helt enkelt inte att med säkerhet skilja på. I detta kan vi antingen vara skeptiker med avseende på alla kunskapsområden (global  skepticism) eller endast med avseende på vissa (lokal skepticism). 
 
  <!--Få in epistemologisk skepticism som exempel här? Men isf först göra distinktionen mellan metafysisk och epistemologisk skeptisism i verkligheten-delen? -->
 
@@ -56,21 +58,15 @@ Vad gäller den andra frågan står den vanligaste skiljelinjen mellan de som an
 
 **OBS:** Begreppet "Objektivism" ska här ej sammanblandas med Ayan Rands filosofi. Denna kommer ofta upp vid sökningar – vilket kan vara förvirrande. 
 
-
-<!--Ska skepticism in här eller som egen del? -->
-
-En objektivistisk syn på kunskap/sanning innebär att det finns något som är sant oberoende av våran subjektiva uppfattning och att två helt motstridiga påståenden inte samtidigt kan vara lika sanna. 
-
-<!--Få in korrespondensteori här: Typ något i stil med: All form av objektivism utgår från någon form av korrespondansteori... -->
+En objektivistisk syn på kunskap/sanning innebär att det finns något som är sant oberoende av våran subjektiva uppfattning och att två helt motstridiga påståenden inte samtidigt kan vara lika sanna. Inom objektivismen utgår man ifrån **korrespondensteorin** om sanning: en trosföreställning är endast sann om den _korresponderar_ med (svarar mot) en objektiv verklighet. Enkelt uttryckt är ett påstående sant endast om det överensstämmer med hur saker faktiskt förhåller sig. I detta spelar vad vi tror mindre roll, tro kan aldrig i sig självt skapa sanning. Till skillnad från relativismen är alltså tanken att vi någonstans kan jämföra vår subjektiva uppfattning med en objektiv verklighet och på så vis skilja mellan kunskap och ren tro. 
 
 **Absolutismen** är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt. Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
 
 Absolutismen är dock inte den enda formen av objektivism. För även om vi resonerar som så att en objektiv sanning förmodligen existerar, så kan vi likväl samtidigt resonera som så att det är mycket svårt, eller rent av omöjligt, att helt och fullt *nå insikt* om denna sanning. 
 
-<!--Om jag skrivit om korrespondensteori (korrespondEns?), skriv isf här: att vi så att säga inte kan veta om det vi tror oss veta korresponderar med det som faktiskt är  -->
-
-
 Enligt **fallibilismen** är verklig kunskap alltid objektivt sann, men huruvida vi själva besitter denna kan vi aldrig veta med säkerhet. Den mänskliga kunskapen är både osäker/felbar och temporär/provisorisk. Det finns inget som är fullständigt säkert, vi kan aldrig någonsin utesluta möjligheten att vi kan ha fel. 
+
+<!--Få in koppling till korrespondensteori här? -->
 
 Samtidigt ska vi inte frestas att inta en relativistisk ståndpunkt. All tro är varken lika berättigad eller lika sann. Och inte heller ska vi passiviseras av **skepticism**. Även om vi alltid bör förbli skeptiska, kan vi nå framsteg i vår kunskap. Fallibilismen ses ofta som en _form_ av skepticism, men skillnaden är att fallibilismen menar att saker kan vara mer eller mindre troliga än andra. En mer ren skepticism skulle inte tillåta ett sådant antagande, utan istället ifrågasätta eller rentav förneka möjligheten till kunskap överhuvudtaget.
 
