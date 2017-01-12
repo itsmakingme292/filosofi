@@ -1,5 +1,12 @@
 # Verklighet
 
+## Vad är verkligt? 
+Att resonera kring verkligheten är att resonera kring vad som faktiskt existerar och hur. En dröm kan _upplevas_ som verklig när vi drömmer den, men vi vet alla att drömmar inte händer "på riktigt". I den mån drömmar existerar så existerar de endast inom oss och inte utanför oss. I detta kan vi finna en intuition som många av oss bär på: att verkligheten är något som är oberoende av oss själva, att den handlar om något yttre och inte om något inre. 
+
+Samtidigt kan vi ställa oss frågan om vi någonsin kan veta att det vi upplever som verkligt faktiskt är verkligt? Kanske är rentav hela livet en dröm? Kanske är den "inre verkligheten" den enda verklighet som vi faktiskt har tillgång till? 
+
+Vi kommer nu gå igenom de två huvudsakliga familjerna av filosofiska teorier som svarar på frågan om vad som är verkligt och vad vi kan veta om denna verklighet. Dessa är _realismen_ och _idealismen_.
+
 ## Realism
 
 Realismen kan i sin enklaste form beskrivas som uppfattningen att 
@@ -8,9 +15,12 @@ Realismen kan i sin enklaste form beskrivas som uppfattningen att
 
 2. Vi har tillgång till och kan nå kunskap om denna yttervärld. 
 
-I sin mest ”extrema” form talar man om **naiv realism**. En sådan realism menar att yttervärlden är exakt så som vi upplever den. Med andra ord att vår subjektiva uppfattning av verkligheten helt överensstämmer med den faktiska/objektiva verkligheten. 
+I sin mest ”extrema” form talar man om **naiv realism**. En sådan realism menar att yttervärlden är exakt så som vi upplever den. Med andra ord att vår subjektiva uppfattning av verkligheten helt överensstämmer med den faktiska/objektiva verkligheten. Upplever jag att något är på ett visst sätt så är detta något också på detta sätt. 
 
-De flesta behöver inte tänka särskilt länge för att inse att en sådan ståndpunkt verkar orimlig. Vår upplevelse av verkligheten verkar ofta bedra oss. Den vanligaste formen av realismen är därför inte den *naiva* utan den *kritiska*. Enligt den **kritiska realismen** är yttervärlden bara *delvis* så som vi upplever den. 
+De flesta behöver inte tänka särskilt länge för att inse att en sådan ståndpunkt verkar orimlig. Vår upplevelse av verkligheten verkar ofta bedra oss. <!--FÅ IN EXEMPEL --> 
+Den vanligaste formen av realismen är därför inte den *naiva* utan den *kritiska*. Enligt den **kritiska realismen** är yttervärlden bara *delvis* så som vi upplever den. 
+
+<!--Få in något om att det inte bara är så att den delvis är så som vi upplever den utan att de också handlar om att vi upplever den på olika sätt: se exempelvis Simons text -->
 
 > Ett exempel på en kritisk realist är John Locke. Om honom, och mer om kritisk realism, läser man i läroboken på sidorna 114-115. 
 
@@ -21,7 +31,7 @@ Viktigt att tänka på är att inte sammanblanda den grundläggande formen av re
 > Ovan nämnda typer av ”realism” återfinns bägge hos Platon. Se sidorna 30-32. För att göra kopplingen mellan Platons objektiva idealism och realism med avseende på matematiken och allmänbegreppen, se även sidorna 14-16. 
 
 ## Idealism
-Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter yttervärlden. Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” verklighet existerar 
+Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter (den materiella) yttervärlden. Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” verklighet existerar.
 
 > se Platons idévärld, sidorna 30-32 i läroboken 
 
@@ -29,7 +39,7 @@ Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrå
 
 > se Berkeley, sidorna 116-117 i läroboken
 
-Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i _solipsism_. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar. 
+Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i **solipsism**. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar. 
 
 <!--Skilja mellan metafysisk och epistemologisk solipsism här? -->
 
