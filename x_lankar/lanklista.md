@@ -1,4 +1,4 @@
-# Länklista
+# Länktips
 
 **Info:** Merparten av nedanstående material är på engelska. Filosofi på internet är dessvärre sällan på svenska. I de få fall som källan är svensk har jag angivit detta. 
 

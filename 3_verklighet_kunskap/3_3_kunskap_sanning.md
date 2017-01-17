@@ -22,9 +22,12 @@ Den klassiska definitionen av kunskap är inte okontroversiell och utan problem 
 ## Skepticism
 Om vi har ett skeptiskt förhållande till kunskap innebär det att vi avfärdar möjligheten till verkligt vetande och kunskap. Skepticismen menar att vår "kunskap" alltid bär på en oundviklig och total osäkerhet. Enligt skepticismen är det omöjligt att få någon form av bekräftelse på att det vi tror är rätt: inga skäl att tro något, hur goda de än tycks vara, är någonsin tillräckliga för att faktiskt _veta_ något. Vad som är sant och vad som är osant går helt enkelt inte att med säkerhet skilja på. I detta kan vi antingen vara skeptiker med avseende på alla kunskapsområden (global  skepticism) eller endast med avseende på vissa (lokal skepticism). 
 
- <!--Få in epistemologisk skepticism som exempel här? Men isf först göra distinktionen mellan metafysisk och epistemologisk skeptisism i verkligheten-delen? -->
+> Ett exempel på en skeptiker är [David Hume](3_5_filosoferna.md#Hume). Om honom, och mer om hans variant av skeptisism, läser man [här](3_5_filosoferna.md#Hume).
 
-> Ett exempel på en skeptiker är David Hume. Om honom, och mer om hans variant av skeptisism, läser man i läroboken på sidorna 117-119. 
+<!-- i läroboken på sidorna 117-119.  -->
+
+<!--Få in epistemologisk skepticism som exempel här? Men isf först göra distinktionen mellan metafysisk och epistemologisk skeptisism i verkligheten-delen? -->
+
 
 ## Relativism
 
@@ -74,7 +77,7 @@ Samtidigt ska vi inte frestas att inta en relativistisk ståndpunkt. All tro är
 
 Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen (menar fallibilismen). Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. Fallibilism hänger här ihop med _falsifikationism_: En hypotes som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa.
 
-> Ett exempel på en fallibilist är Karl Popper. Om honom, och mer om fallibilism och falsifikationism, läser man i läroboken på sidorna 137-139.
+> Ett exempel på en fallibilist är [Karl Popper](3_4_vetenskapen.md#Popper). Om honom, och mer om fallibilism och falsifikationism, läser man i avsnittet ["Vetenskapen"](3_4_vetenskapen.md#Popper).
 
 ## Pragmatism
 
@@ -84,8 +87,15 @@ En tredje väg, och ett alternativ till skiljelinjen mellan objektivism och rela
 
 Istället menar pragmatikerna att vi bör använda ordet ”sant” för ”det som fungerar”. I detta likställer pragmatikerna på ett sätt sanningen i vår kunskap med själva berättigandet och menar därmed att all kunskap bör mätas utifrån dess nytta, användbarhet och förmåga att förutsäga händelseförlopp. All kunskap är för pragmatismen i grund och botten problemlösande och hur väl vår kunskap löser våra problem, såväl filosofiska och vetenskapliga som vardagliga, är det enda vi både kan och behöver veta. 
 
-Märk väl att detta inte innebär att exempelvis en lögn blir sann bara för att den ”fungerar” (någon tror på den). Lögnen ger oss inte en ”fungerande” bild av verkligheten, tvärtom inser vi att den är en lögn så snart vi också inser att den är mycket dålig på att förklara hur saker och ting förhåller sig (det ligger ju i lögnens natur).
+Detta innebär inte att en lögn blir sann bara för att den ”fungerar” i någon mer lösare mening (någon tror på den). Lögnen ger oss just inte en ”fungerande” bild av verkligheten, tvärtom inser vi att den är en lögn så snart vi också inser att den är mycket dålig på att förklara hur saker och ting förhåller sig (det ligger i lögnens natur).
 
+## Kunskapen & verkligheten...
+
+Som ni märker hänger frågan om kunskapen tätt samman med frågan om verkligen. Det är dock inte så enkelt att vi kan säga att alla idealister är relativister och att alla realister är objektivister. Exempelvis kan Kant sägas vara både relativist och objektivist beroende på tolkning. Likaså är Platon en klassisk objektivist även om han inte är realist. 
+
+Det är av denna anledning de två frågorna ändå måste hållas isär. De berör på många sätt samma sak, men de behandlar olika aspekter. 
+
+<!--Fylla på något här? -->
 
 
 ## [Frågeformulär]

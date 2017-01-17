@@ -22,32 +22,42 @@ Den vanligaste formen av realismen är därför inte den *naiva* utan den *kriti
 
 <!--Få in något om att det inte bara är så att den delvis är så som vi upplever den utan att de också handlar om att vi upplever den på olika sätt: se exempelvis Simons text -->
 
-> Ett exempel på en kritisk realist är John Locke. Om honom, och mer om kritisk realism, läser man i läroboken på sidorna 114-115. 
+> Ett exempel på en kritisk realist är [John Locke](3_5_filosoferna.md#Locke). Om honom, och mer om kritisk realism, läser man [här](3_5_filosoferna.md#Locke) 
+
+<!--i läroboken på sidorna 114-115.  -->
 
 ### Angående andra former av realism
 
 Viktigt att tänka på är att inte sammanblanda den grundläggande formen av realism, som är en realism med avseende på *yttervärlden*, med andra sorters realism. Man kan exempelvis även vara realist med avseende på allmänbegreppen (begreppsrealism) eller realist med avseende på matematiken (den existerar oberoende av oss). Men de två senare typerna av ”realism” inryms snarare (även om det på ytan kan verka förvirrande) inom den *objektiva idealismen*. Detta eftersom det inte handlar om något *reellt* i bemärkelsen att dessa skulle tillhöra yttervärlden. Varken matematiken eller allmänbegreppen finnes under en sten.  Tvärtom existerar de i sina ”egna världar”. 
 
-> Ovan nämnda typer av ”realism” återfinns bägge hos Platon. Se sidorna 30-32. För att göra kopplingen mellan Platons objektiva idealism och realism med avseende på matematiken och allmänbegreppen, se även sidorna 14-16. 
+> Ovan nämnda typer av ”realism” återfinns bägge hos [Platon](3_5_filosoferna.md#Platon).
+
+<!-- Se sidorna 30-32. För att göra kopplingen mellan Platons objektiva idealism och realism med avseende på matematiken och allmänbegreppen, se även sidorna 14-16.  -->
 
 ## Idealism
 Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter (den materiella) yttervärlden. Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” verklighet existerar.
 
-> se Platons idévärld, sidorna 30-32 i läroboken 
+> se [Platons](3_5_filosoferna.md#Platon) idévärld
+
+<!--, sidorna 30-32 i läroboken  -->
 
 **Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande.
 
-> se Berkeley, sidorna 116-117 i läroboken
+> se [Berkeley](3_5_filosoferna.md#Berkeley)
+
+<!-- se Berkeley, sidorna 116-117 i läroboken -->
 
 Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i **solipsism**. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar. 
 
 <!--Skilja mellan metafysisk och epistemologisk solipsism här? -->
 
-En tredje form av idealism är Kants **kritiska idealism**. Enligt Kant finns det förvisso någonting bakom det vi kallar för yttervärlden, men om detta ”något” kan vi inget veta. Kant delar således upp världen i *tinget-i-sig* (så som världen är oberoende av oss) och *tinget-som-fenomen* (så som världen framträder för oss).  
+En tredje form av idealism är Kants **kritiska idealism**. Enligt Kant finns det förvisso någonting bakom det vi kallar för yttervärlden, men om detta ”något” kan vi inget veta. Kant delar således upp världen i *tinget-i-sig* (så som världen är oberoende av oss) och *tinget-som-fenomen* (så som världen framträder för oss).
 
-> Se Kant på sidorna 120-122 i läroboken
+<!--Göra en skillnad gentemot solipsismen här? Koppla till universalismen i Kant? -->
 
-<!--få in min karta över kant här! -->
+> Se [Kant](3_5_filosoferna.md#Kant)
+
+<!-- på sidorna 120-122 i läroboken -->
 
 
 
