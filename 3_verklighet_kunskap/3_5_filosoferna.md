@@ -1,7 +1,5 @@
 # Filosoferna
 
-<!--Försök fixa i html att sidor med anchor inte laddas om och till top… Vad var det som introducerade buggen från början som gjorde att jag la till detta script? -->
-
 **Om denna sida:** Här kommer text om de filosofer vi behandlar under detta delmoment framöver att fyllas på. Förhoppningsvis blir detta arbete klart under VT17. I annat fall delar jag ut en kompletterande lärobok eller annat extramaterial.
 
 ## Platon
