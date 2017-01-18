@@ -19,7 +19,9 @@ Vad som utgör den mest starka och/eller mest grundläggande källan till kunska
 
 
 ## Empirismen
-Empirismen menar att kunskap i första hand är en produkt av sinnliga erfarenheter (perception). I den mån vi får kunskap genom förnuft och introspektion baseras den ändå i slutändan på tidigare upplevelser och observationer. Ingen kunskap är medfödd: det finns aldrig någonting "inuti oss" som inte från början kommit utifrån. Alla våra tankar och idéer har en yttre källa, ibland på komplexa sätt, men likväl ändå alltid.
+Empirismen menar att kunskap i första hand är en produkt av sinnliga erfarenheter (perception). I den mån vi får kunskap genom förnuft och introspektion baseras den ändå i slutändan på tidigare upplevelser och observationer. Ingen kunskap är medfödd: det finns aldrig någonting "inuti oss" som inte från början kommit utifrån. Det slutgiltiga berättigandet för vår tro är därför alltid sinnesupplevelser. 
+
+Alla våra tankar och idéer har en yttre källa, ibland på komplexa sätt, men likväl ändå alltid. Att vi exempelvis har begrepp så som längd, vikt, osv, beror på att vi upplevt dessa kvalitéer i verkligheten (och namngett dem) och på samma sätt är det för de flesta empirister med sådant som både matematiken och logiken (även om vissa empirister vacklar något här).
 
 <!--Skriv mer om empirismen här... -->
 
@@ -29,7 +31,7 @@ Empirismen menar att kunskap i första hand är en produkt av sinnliga erfarenhe
 
 
 ## Rationalismen
-Rationalismen menar att kunskap i första hand är en produkt av mänskligt förnuft. I den mån vi får kunskap genom sinnliga erfarenheter måste dessa bearbetas av förnuftet, men framförallt menar rationalisterna att perception är en mycket opålitlig källa till kunskap. 
+Rationalismen menar att kunskap i första hand är en produkt av  mänskligt förnuft. I den mån vi får kunskap genom sinnliga erfarenheter måste dessa bearbetas av förnuftet, men framförallt menar rationalisterna att perception är en mycket opålitlig källa till kunskap. Våra upplevelser verkar allt som oftast bedra oss (vi upplever saker som faktiskt inte är sanna eller verkliga). Det slutgiltiga berättigandet för vår tro är därför alltid vårt förnuft. 
 
 När vi ställer rationalism mot empirism handlar det inte nödvändigtvis om ett "antingen eller". [Platon](3_5_filosoferna.md#Platon) är ett exempel på en radikal rationalist då han helt avfärdar perception som en möjlig källa till kunskap (sinnesvärlden är för honom helt skenbar). Men exempelvis [Descartes](3_5_filosoferna.md#Descartes) och andra rationalister ser sinnliga erfarenheter som en viktig komponent i vår kunskap.
 
