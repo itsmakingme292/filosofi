@@ -19,21 +19,22 @@ Vad som utgör den mest starka och/eller mest grundläggande källan till kunska
 
 
 ## Empirismen
-Empirismen menar att kunskap i första hand är en produkt av sinnliga erfarenheter. Alla mänsklig kunskap grundar sig enligt empirismen i upplevelser/observationer. 
+Empirismen menar att kunskap i första hand är en produkt av sinnliga erfarenheter (perception). I den mån vi får kunskap genom förnuft och introspektion baseras den ändå i slutändan på tidigare upplevelser och observationer. Ingen kunskap är medfödd: det finns aldrig någonting "inuti oss" som inte från början kommit utifrån. Alla våra tankar och idéer har en yttre källa, ibland på komplexa sätt, men likväl ändå alltid.
 
-För vissa empirister innebär detta också att alla tankar och idéer någonstans kommer ur våra upplevelser. 
+<!--Skriv mer om empirismen här... -->
 
-> Ett exempel på en sådan empirist är [John Locke](3_5_filosoferna.md#Locke). Om honom, och mer om empirism, läser man [här](3_5_filosoferna.md#Locke).
+> Ett exempel på en empirist är [John Locke](3_5_filosoferna.md#Locke). Han menar att vi som människor föds som "oskrivna blad". Om honom, och mer om empirism, läser man [här](3_5_filosoferna.md#Locke).
 
 <!-- i läroboken på sidorna 114-115.  -->
 
 
 ## Rationalismen
-Rationalismen menar att kunskap i första hand är en produkt av mänskligt förnuft och i den mån vi får kunskap genom sinnliga erfarenheter måste dessa bearbetas av förnuftet. 
+Rationalismen menar att kunskap i första hand är en produkt av mänskligt förnuft. I den mån vi får kunskap genom sinnliga erfarenheter måste dessa bearbetas av förnuftet, men framförallt menar rationalisterna att perception är en mycket opålitlig källa till kunskap. 
 
-> Det mest tydliga exemplet på en rationalist är [Platon](3_5_filosoferna.md#Platon). 
+När vi ställer rationalism mot empirism handlar det inte nödvändigtvis om ett "antingen eller". [Platon](3_5_filosoferna.md#Platon) är ett exempel på en radikal rationalist då han helt avfärdar perception som en möjlig källa till kunskap (sinnesvärlden är för honom helt skenbar). Men exempelvis [Descartes](3_5_filosoferna.md#Descartes) och andra rationalister ser sinnliga erfarenheter som en viktig komponent i vår kunskap.
 
-## Antingen eller?
-När vi ställer rationalism mot empirism handlar det inte nödvändigtvis om ett "antingen eller". Platon är ett exempel på en radikal rationalist då han helt avfärdar sinnesvärlden som skenbar. Men exempelvis Descartes och andra rationalister ser sinnliga erfarenheter som en viktig komponent i vår kunskap. 
+Det sagt säger rationalismen att den enda riktigt säkra kunskapen alltid är den rent logiska eller matematiska. Detta eftersom logiska sanningar i någon mening alltid är självevidenta (de säger sig själva). Vi behöver inte gå ut i världen för att veta om en logisk slutledning stämmer eller inte, det räcker att vi "blickar inåt" och använder vårt förnuft. I detta säger rationalismen att vi har viss medfödd kunskap. Vi lär oss inte logik och matematik via våra sinnen, vi upptäcker dessa inom oss och i detta finns de så att säga "redan där".
 
-Generellt sett är dock empirister allt som oftast realister och rationalister allt som oftast idealister. Ett undantag som bekräftar regeln är Kant som kan sägas vara en blandning av alla fyra. 
+**Fotnot:** Generellt sett är empirister allt som oftast realister och rationalister allt som oftast idealister. Ett undantag som bekräftar regeln är [Kant](3_5_filosoferna.md#Kant) som kan sägas vara en blandning av alla fyra. 
+
+<!--Få in något klipp om rationalism och empirism? -->
