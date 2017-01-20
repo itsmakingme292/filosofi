@@ -90,6 +90,10 @@ Vissa moderna pliktetiker öppnar här, till skillnad från Kant, upp för att k
 
 Den stora frågan blir kanske ändå i slutändan om vi anser att moralen *alltid bör* eller *aldrig bör* vara villkorad. Huruvida något är *rätt i sig självt* eller rätt *som ett medel* för något annat. Pliktetikens goda vilja ”skiner som en juvel”, men hur mycket är den egentligen värd? Allt, säger vissa. Inte mycket, säger andra.
 
+<!--BBC history of ideas, Kant's Axe -->
+
+[](https://youtu.be/x_uUEaeqFog)
+
 ## [Frågeformulär] 
 
 <iframe src="https://docs.google.com/forms/d/1NENvkauiQAlTVJlfNtw9GzkiMIqr5YOb6KFyOTbIhFc/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>

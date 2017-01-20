@@ -180,6 +180,10 @@ Detta kan utilitarismen möjligen lösa, vi kan resonera som så att en föräld
 
 I denna mening förblir utilitarismen en radikal moralfilosofi för den med ett stort världssamvete. 
 
+<!--BBC history of ideas, Peter Singer, the life you can save -->
+
+[](https://youtu.be/gGczdp0SE0c)
+
 ### Absolut eller skalärt?
 
 Att vi alltid ska handla så att vi maximerar lyckan i världen är, som sagt, en ganska oförlåtande princip. Vissa utilitarister har därför velat "mjuka upp" kraven något. Dessa talar inte om ett *absolut rätt* utan om att vi kan handla både "rätt", ”*mer* rätt", ”*mindre* rätt", "fel", "jättefel" osv. 

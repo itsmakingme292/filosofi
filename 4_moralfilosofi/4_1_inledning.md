@@ -129,6 +129,10 @@ _Två viktiga punkter angående ovanstående exempel:_
 
 <!---Vilket ofta innebär att vi ställer upp en rad sakpåstående som vi så att säga parar hop med antingen positiva eller negativa värdeomdömen-->
 
+<!--BBC history of ideas, is-ought -->
+
+[](https://youtu.be/eT7yXG2aJdY)
+
 ## [Frågeformulär]
 
 <iframe src="https://docs.google.com/forms/d/1IfV42PSSCOJqZ0qV-qR8fjjTNF4LrdaWnrjgt43q8tw/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
