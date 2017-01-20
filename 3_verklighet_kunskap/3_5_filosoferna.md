@@ -5,8 +5,17 @@
 ## Platon
 _Text kommer..._
 
+<!-- Teded Platos allegory of the cave -->
+
+[](https://youtu.be/1RWOpQXTltA)
+
+
 ## Descartes
 _Text kommer..._
+
+<!--Klipp från BBC history of ideas, "I think therefore I am" -->
+
+[](https://youtu.be/0A6UKoMcE10)
 
 ## Locke
 _Text kommer..._
