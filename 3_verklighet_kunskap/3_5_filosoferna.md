@@ -10,6 +10,7 @@ _Text kommer..._
 [](https://youtu.be/1RWOpQXTltA)
 
 
+
 ## Descartes
 _Text kommer..._
 
@@ -39,6 +40,11 @@ Se avsnittet [Vetenskapen](3_4_vetenskapen.md)
 Se avsnittet [Vetenskapen](3_4_vetenskapen.md)
 
 <!--## Filosoferna i läroboken  * Platon: 30-32 samt 14-16 * Descartes: 111-114 * Locke: 114-115 * Hume: 117-119 * Kant: 120-122 * Popper: 136-139 * Kuhn: 139-141  **OBS:** Dessa sidhänvisningar är bara ett komplement och inte en ersättning till läslistan under instruktionerna för seminariet.  -->
+
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0jJ_XXie277UiNXvCCDft8PwS-4S9o89KmqoEs354BGlSxQ/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
 
 
 

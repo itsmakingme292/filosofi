@@ -61,7 +61,9 @@ Vad gäller den andra frågan står den vanligaste skiljelinjen mellan de som an
 
 **OBS:** Begreppet "Objektivism" ska här ej sammanblandas med Ayan Rands filosofi. Denna kommer ofta upp vid sökningar – vilket kan vara förvirrande. 
 
-En objektivistisk syn på kunskap/sanning innebär att det finns något som är sant oberoende av våran subjektiva uppfattning och att två helt motstridiga påståenden inte samtidigt kan vara lika sanna. Inom objektivismen utgår man ifrån **korrespondensteorin** om sanning: en trosföreställning är endast sann om den _korresponderar_ med (svarar mot) en objektiv verklighet. Enkelt uttryckt är ett påstående sant endast om det överensstämmer med hur saker faktiskt förhåller sig. I detta spelar vad vi tror mindre roll, tro kan aldrig i sig självt skapa sanning. Till skillnad från relativismen är alltså tanken att vi någonstans kan jämföra vår subjektiva uppfattning med en objektiv verklighet och på så vis skilja mellan kunskap och ren tro. 
+En objektivistisk syn på kunskap/sanning innebär att det finns något som är sant oberoende av våran subjektiva uppfattning och att två helt motstridiga påståenden inte samtidigt kan vara lika sanna. 
+
+Inom objektivismen utgår man ifrån **korrespondensteorin** om sanning: en trosföreställning är endast sann om den _korresponderar_ med (svarar mot) en objektiv verklighet. Enkelt uttryckt är ett påstående sant endast om det överensstämmer med hur saker faktiskt förhåller sig. I detta spelar vad vi tror mindre roll, tro kan aldrig i sig självt skapa sanning. Till skillnad från relativismen är alltså tanken att vi någonstans kan jämföra vår subjektiva uppfattning med en objektiv verklighet och på så vis skilja mellan kunskap och ren tro. 
 
 **Absolutismen** är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt. Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
 

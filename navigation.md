@@ -58,6 +58,7 @@
   - - - -
   * # Övningar & Diskussionsunderlag
   * [En första diskussion](3_verklighet_kunskap/diskussion_verklighet_kunskap.md)
+  * [Övningsuppgifter](3_verklighet_kunskap/ovningsuppgifter_verklighet_kunskap.md)
   - - - -
   * # Examinerande moment
   * [Seminarium: Läsanvisningar <br>& Instuderingsfrågor](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)

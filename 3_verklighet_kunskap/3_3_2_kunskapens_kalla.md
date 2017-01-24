@@ -34,3 +34,7 @@ Det sagt säger rationalismen att den enda riktigt säkra kunskapen alltid är d
 **Fotnot:** Generellt sett är empirister allt som oftast realister och rationalister allt som oftast idealister. Ett undantag som bekräftar regeln är [Kant](3_5_filosoferna.md#Kant) som kan sägas vara en blandning av alla fyra. 
 
 <!--Få in något klipp om rationalism och empirism? -->
+
+## [Frågeformulär]
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerfdXvwNsORTyQKxPdDTSKwn9v4yID_uRpcv3siP6sjvGwMg/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
