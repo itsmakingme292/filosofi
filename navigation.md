@@ -49,10 +49,10 @@
 
   * # Läsning
   * [1. Inledning](3_verklighet_kunskap/3_1_inledning.md)
-  * [2. Verklighet](3_verklighet_kunskap/3_2_verkligheten.md)
+  * [2. Verkligheten](3_verklighet_kunskap/3_2_verkligheten.md)
   * [3.1. Kunskap & Sanning](3_verklighet_kunskap/3_3_kunskap_sanning.md)
   * [3.2. Kunskapens källa](3_verklighet_kunskap/3_3_2_kunskapens_kalla.md)
-  * [4. Vetenskap](3_verklighet_kunskap/3_4_vetenskapen.md)
+  * [4. Vetenskapen](3_verklighet_kunskap/3_4_vetenskapen.md)
   * [5. Filosoferna](3_verklighet_kunskap/3_5_filosoferna.md)
 
   - - - -

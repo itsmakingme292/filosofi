@@ -1,4 +1,4 @@
-# Verklighet
+# Verkligheten
 
 ## Vad är verkligt? 
 Att resonera kring verkligheten är att resonera kring vad som faktiskt existerar och hur. En dröm kan _upplevas_ som verklig när vi drömmer den, men vi vet alla att drömmar inte händer "på riktigt". I den mån drömmar existerar så existerar de endast inom oss och inte utanför oss. I detta kan vi finna en intuition som många av oss bär på: att verkligheten är något som är oberoende av oss själva, att den handlar om något yttre och inte om något inre. 

@@ -20,11 +20,11 @@ För om ontologin är ”listan” över det existerande är **metafysiken** lä
 
 Att metafysiken handlar om det som befinner sig bortom vår upplevelse behöver dock inte betyda att metafysiken handlar om någon slags alternativ verklighet. Det vi upplever och den metafysiska verkligheten behöver inte vara två helt olika saker. En **naiv realist** skulle exempelvis tvärtom påstå att verkligheten till fullo överensstämmer med det vi upplever. 
 
-> För mer om naiv realism och andra typer av verklighetsuppfattningar se avsnittet *[Verklighet](3_2_verkligheten.md)*
+> För mer om naiv realism och andra typer av verklighetsuppfattningar se avsnittet *[Verkligheten](3_2_verkligheten.md)*
 
 Det sagt ska metafysiken inte blandas ihop med fysik/naturvetenskapen. Metafysiken tar, som andra filosofiska ämnesområden, vid där vetenskapen slutar. Vetenskapen är _empirisk_ (baserad på observationer). Metafysiken är _icke-empirisk_ (ej baserad på observationer). Däremot kan _teoretisk fysik_ (exempelvis [strängteori](https://sv.wikipedia.org/wiki/Strängteori)), åtminstone i dagsläget, sägas befinna sig i gränslandet mellan naturvetenskap och filosofi då denna inte är experimentellt testbar fullt ut. 
 
-> För mer om vetenskapsfilosofi se avsnittet *[Vetenskap](3_4_vetenskapen.md)*
+> För mer om vetenskapsfilosofi se avsnittet *[Vetenskapen](3_4_vetenskapen.md)*
 
 <!--Få in någon kritik av metafysiken här? Kanske borde jag helt sluta med ontologi-delen?-->
 
