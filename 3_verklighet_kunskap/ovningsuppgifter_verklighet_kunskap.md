@@ -28,6 +28,8 @@
 	* I vilken mån kan vi lita på våra sinnesintryck (vad vi ser, hör osv)? 
 	* I vilken mån kan vi lita på vårt förnuft?
 
+<!--"I vilken mån kan vi lita på vårt förnuft?"  Denna fråga är möjligen lite felställd, alla är ju inte lika förnuftiga men en sinnlig erfarenhet är alltid en sinnlig erfarenhet -->
+
 <!--## Vetenskapen -->
 
 ## Platon: Grottliknelsen
