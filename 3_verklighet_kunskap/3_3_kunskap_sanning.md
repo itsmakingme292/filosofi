@@ -89,9 +89,11 @@ En tredje väg, och ett alternativ till skiljelinjen mellan objektivism och rela
 
 <!--Tog bort ”metafysiska” framför ”begrepp”, krånglar kanske till det mer än det hjälper? -->
 
-Istället menar pragmatikerna att vi bör använda ordet ”sant” för ”det som fungerar”. I detta likställer pragmatikerna på ett sätt sanningen i vår kunskap med själva berättigandet och menar därmed att all kunskap bör mätas utifrån dess nytta, användbarhet och förmåga att förutsäga händelseförlopp. All kunskap är för pragmatismen i grund och botten problemlösande och hur väl vår kunskap löser våra problem, såväl filosofiska och vetenskapliga som vardagliga, är det enda vi både kan och behöver veta. 
+Istället menar pragmatikerna att vi bör använda ordet ”sant” för ”det som fungerar”. I detta likställs på ett sätt sanningen i vår kunskap med själva berättigandet då pragmatismen säger att all kunskap bör mätas utifrån dess nytta, användbarhet och förmåga att förutsäga händelseförlopp. På frågan "varför tror du det" svarar alltså pragmatikern: "för att det funkar".
 
-Detta innebär inte att en lögn blir sann bara för att den ”fungerar” i någon mer lösare mening (någon tror på den). Lögnen ger oss just inte en ”fungerande” bild av verkligheten, tvärtom inser vi att den är en lögn så snart vi också inser att den är mycket dålig på att förklara hur saker och ting förhåller sig (det ligger i lögnens natur).
+All kunskap är för pragmatismen i grund och botten problemlösande och hur väl vår kunskap löser våra problem, såväl filosofiska och vetenskapliga som vardagliga, är det enda vi både _kan_ och _behöver_ veta. Sanning i någon mer metafysisk bemärkelse är för pragmatiker ett tämligen värdelöst begrepp. 
+
+**Kommentar:** Detta innebär inte att en lögn blir sann bara för att den ”fungerar” i vilken mening som helst (exempelvis: någon tror på den). Lögnen ger oss inte en ”fungerande” bild av verkligheten, tvärtom inser vi att den är en lögn så snart vi också inser att den är mycket dålig på att vägleda oss i verkligheten och lösa våra problem (det ligger i lögnens natur – lögnen "löser" mest problem för den som uttalar den). 
 
 ## Kunskapen & verkligheten...
 

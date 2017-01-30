@@ -11,9 +11,9 @@
 
 Platons filosofi tillhör filosofihistoriens mer radikala [**objektiva idealism**](3_2_verkligheten.md#Idealism) och [**rationalism**](3_3_2_kunskapens_kalla.md#Rationalismen). För Platon finns det ingen  anledning att lita på våra sinnen och vår kunskap kan därför inte heller bygga på sinnlig erfarenhet. Tvärtom tänker sig Platon att det existerar en *högre verklighet* bortom den mer omedelbara sinnliga verkligheten. En högre verklighet som vi alla har möjlighet att skymta genom tankemässig ansträngning. 
 
-I detta delar Platon upp "verkligheten" i två världar. Den ena världen kallar han för _sinnesvärlden_ och den andra _idévärlden_.
+I detta delar Platon upp "verkligheten" i två världar. Den ena världen kallar han för _sinnesvärlden_ och den andra _idévärlden_. Sinnesvärlden är världen så som vi möter den via våra sinnen (syn, hörsel, känsel, lukt, smak), idévärlden så som vi möter världen via vårt förnuft. 
 
-Sinnesvärlden är egentligen inte mycket till verklighet, denna är endast skenbar och förgänglig. Ingenting vi "lär oss" i sinnesvärlden kan kallas för verklig kunskap. För Platon är nämligen sanning något evigt och oföränderligt (varaktigt) – verklig sanning är alltid _nödvändigt_ sann (av typen: det kan inte vara på något annat sätt). 
+Sinnesvärlden är egentligen inte mycket till verklighet, denna är endast skenbar (en illusion) och förgänglig (temporär). Ingenting vi "lär oss" i sinnesvärlden kan kallas för verklig kunskap. För Platon är nämligen sanning något evigt och oföränderligt (varaktigt) – verklig sanning är alltid _nödvändigt_ sann (av typen: det kan inte vara på något annat sätt). 
 
 <!--(det kan inte vara på något annat sätt) -->
 
