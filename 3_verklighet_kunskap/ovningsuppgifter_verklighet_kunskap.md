@@ -17,7 +17,7 @@
 	- Finns det något som är sant oberoende av vår uppfattning? Finns det en objektiv sanning? Kan vi veta något om denna?  
 	- Är sanning bara en mänsklig skapelse? Kanske högst kulturell eller rentav individuell? 
 - Är alla subjektiva "sanningar" lika bra/korrekta? 
-	- Hur gör vi i så fall då vi blir oense om ”sanningen”?Kan vi överhuvudtaget vara oense om den "verkliga sanningen”?
+	- Hur gör vi i så fall då vi blir oense om ”sanningen”? Kan vi överhuvudtaget vara oense om den "verkliga sanningen”?
 	- Är detta ett problem för relativismen?
 	
 ### Kunskapens källa

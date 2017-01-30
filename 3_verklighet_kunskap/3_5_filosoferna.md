@@ -9,7 +9,7 @@
 
 <!-- Läs mer om Platon som person på [Wikipedia](https://sv.wikipedia.org/wiki/Platon) -->
 
-Platons filosofi tillhör filosofihistoriens mer radikala **objektiva idealism** och **rationalism**. För Platon finns det ingen  anledning att lita på våra sinnen och vår kunskap kan därför inte heller bygga på sinnlig erfarenhet. Tvärtom tänker sig Platon att det existerar en *högre verklighet* bortom den mer omedelbara sinnliga verkligheten. En högre verklighet som vi alla har möjlighet att skymta genom tankemässig ansträngning. 
+Platons filosofi tillhör filosofihistoriens mer radikala [**objektiva idealism**](3_2_verkligheten.md#Idealism) och [**rationalism**](3_3_2_kunskapens_kalla.md#Rationalismen). För Platon finns det ingen  anledning att lita på våra sinnen och vår kunskap kan därför inte heller bygga på sinnlig erfarenhet. Tvärtom tänker sig Platon att det existerar en *högre verklighet* bortom den mer omedelbara sinnliga verkligheten. En högre verklighet som vi alla har möjlighet att skymta genom tankemässig ansträngning. 
 
 I detta delar Platon upp "verkligheten" i två världar. Den ena världen kallar han för _sinnesvärlden_ och den andra _idévärlden_.
 
@@ -19,9 +19,7 @@ Sinnesvärlden är egentligen inte mycket till verklighet, denna är endast sken
 
 <!--Formulera om ovanstående mening (bygg om den syftningsmässigt och ordningsmässigt) --> 
 
-Idévärlden är den sanna verkligheten bortom tid och rum. En  oföränderlig och _ideal_ verklighet där en fyrkant alltid är en perfekt fyrkant. Sinnesvärlden är endast en ofullkomlig kopia eller förvrängd avspegling av idévärlden. I sinnesvärlden är ett cirkelformat objekt aldrig helt cirkelformat och en rät linje aldrig helt rät. 
-
-Vad det innebär att något är cirkelformat går därför inte heller att förstå genom att endast undersöka objekt som ser cirkelformade ut. Tvärtom förstår vi endast begreppet "cirkel" om vi vänder oss till vårt förnuft – genom att vi förstår "cirkelns idé". För Platon är kunskapen i slutändan en begreppskunskap och idévärlden är "platsen" där vi finner begreppens (idéernas) sanna innebörd. 
+Idévärlden är den sanna verkligheten bortom tid och rum. En  oföränderlig och _ideal_ verklighet där en fyrkant alltid är en perfekt fyrkant. Sinnesvärlden är endast en ofullkomlig kopia eller förvrängd avspegling av idévärlden. I sinnesvärlden är ett cirkelformat objekt aldrig helt cirkelformat och en rät linje aldrig helt rät. Vad det innebär att något är cirkelformat går därför inte att förstå genom att endast undersöka objekt som ser cirkelformade _ut_. Tvärtom förstår vi endast begreppet "cirkel" om vi vänder oss till vårt förnuft – genom att vi förstår "cirkelns idé". För Platon är kunskapen i slutändan en begreppskunskap och idévärlden är "platsen" där vi finner begreppens (idéernas) sanna innebörd. 
 
 > _Så vad är en cirkel?_
 > > 
@@ -32,13 +30,15 @@ Vad det innebär att något är cirkelformat går därför inte heller att förs
 
 <!--linje (av latin liʹnea ’(rätte)snöre’, ’gräns(linje)’, egentligen ’linje’, ’streck’, av liʹnum ’lin’, ’garn’, ’tråd’, ’snöre’), i matematiken detsamma som kurva. Vanligtvis avses dock rät linje som i euklidisk geometri är den kortaste vägen mellan två punkter. -->
 
-På samma sätt förhåller det sig även med mindre abstrakta ting (än sådant som cirklar och räta linjer). Stolar kan exempelvis se ut på väldigt olika sätt – men de är alla likväl stolar. Om vi frågar oss vad en stol _verkligen är_ frågar vi oss inte hur en viss specifik stol ser ut. Vi frågar oss vad som är _gemensamt_ för _alla_ stolar – vad _stolens idé_ är. En stol kan av denna anledning också vara _olika bra på att vara stol_. En stol som är svår att sitta på har en mindre del i stolens idé än  en stol som är bekväm. 
+På samma sätt förhåller det sig även med mindre abstrakta ting (än sådant som cirklar och räta linjer). Stolar kan exempelvis se ut på väldigt olika sätt – men de är alla likväl stolar. Om vi frågar oss vad en stol _verkligen är_ frågar vi oss inte hur en viss specifik stol ser ut. Vi frågar oss vad som är _gemensamt_ för _alla_ stolar – vad _stolens idé_ är. Stolar kan av denna anledning också vara _olika bra på att vara stolar_. En stol som är svår att sitta på har en mindre del i stolens idé än  en stol som är bekväm. 
 
 När vi ser en katt upplever vi inte bara den konkreta katten framför oss. Vi upplever också _att_ _det är_ en katt – vi skådar (åtminstone en del av) "kattens idé". En person som inte har en uppfattning om "kattens idé" ser bara "det där". Bara i den mån vi förstår att det vi ser har något gemensamt med något annat kan vi _kategorisera_ det vi ser och förstå dess idé. 
 
 <!--Försök förenkla och dela upp första meningen nedan -->
 
 Om jag, som inte vet någonting om sporten curling, går på en curlingmatch, tillsammans med en kompis som förstår curlingens regler, har vi båda inte i samma mening sett matchen. Vad jag som inte kan curling ser är något helt annat än vad min kompis ser. För min kompis är matchen helt begriplig, men för mig helt obegriplig – och på samma sätt förhåller det sig med allt i världen. Vi kan inte förstå verkligheten om vi inte förstår begreppen/idéerna. Endast genom att förnutsmässigt förstå världens "orginalritning" kan vi nå kunskap – sinnesvärlden är endast en _skugga_ av idévärlden. 
+
+![BILD](0_kartor/platon_idevarlden.svg)
 
 I detta är Platon **begreppsrealist**. Cirkelns idé såväl som stolens idé existerar oberoende av tingen i sinnesvärlden och rentav oberoende av vår uppfattning (idéerna är eviga). Det är alltså varken tingen eller vi människor som ger upphov till idéerna. Tvärtom _upptäcker_ människan _bokstavligen_ begreppen snarare än _uppfinner_ dem. Och i den mån det finns en koppling mellan tingen och idéerna ligger kopplingen i att tingen i olika utsträckning uppfyller idéerna (men de är alltid "dåliga kopior"). 
 

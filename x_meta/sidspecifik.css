@@ -14,6 +14,8 @@ img[alt=klassisk_kunskap] {max-width: 300px !important; height: auto !important;
 
 }
 
+/* om jag vill göra alla bilder så de sträcks över hela sidan = img[alt=BILD] {width:100%;} */
+
 
  /* OBS: innan fungerade inte det hela med den responsiva versionen, med min width 550px bör dock detta vara löst och funka för de mesta /*
  

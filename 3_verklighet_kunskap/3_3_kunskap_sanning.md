@@ -39,6 +39,8 @@ Med detta menas:
 2. Ett påståendes sanningsvärde ges av individen (subjektivism) eller kulturen (kultur-relativism).
 3. Det är omöjligt att (helt) skilja sanning från tro. 
 
+**Ordförklaring:** Begreppet subjekt syftar till "det som upplever" (exempelvis en människa). Begreppen subjektiv och objektiv handlar om distinktionen mellan den inre och yttre verkligheten. En subjektiv uppfattning är *personlig* medan en objektiv uppfattning berör hur saker är _oberoende_ av vår egna *personliga* uppfattning (vilket relativismen menar är en omöjlig uppfattning). 
+
 En mycket viktig distinktion här är den mellan den strikta epistemologiska relativismen och den högst okontroversiella uppfattningen att människor väldigt ofta har mycket olika åsikter om vad som är sant och falskt. Den första uppfattningen handlar om sanning, den andra endast om tro. Relativismen säger oss inte bara att vi *tycker* eller *tror* olika, den säger oss därtill att två människor, med *helt motsatta* åsikter eller föreställningar, kan göra *samma sanningsanspråk*. Med andra ord att den enes sanning *bokstavligen* är lika sann som den andres. Det kan alltså existera flera motstridiga sanningar som berör en och samma sak, men som alla är lika sanna. 
 
 Till skillnad från en objektivistisk syn på kunskap och sanning finns det ingen sanning utanför oss som vi kan jämföra vår ”inre sanning” med. Om man på medeltiden trodde att jorden var platt var det också sant att jorden var platt. 
@@ -77,7 +79,7 @@ Samtidigt ska vi inte frestas att inta en relativistisk ståndpunkt. All tro är
 
 <!--Få in något om skepticism här och hur fallibilism kan ses som en typ av skepticism, men att den ändå skiljer sig från den mer rena formen av skepticism. Kanske ska nedanstående med allt för tydlig koppling till falsifikationism tas bort eller så får kopplingen göras explicit -->
 
-Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen (menar fallibilismen). Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. Fallibilism hänger här ihop med _falsifikationism_: En hypotes som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa.
+Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen (menar fallibilismen). Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. Fallibilism hänger här ihop med _falsifikationism_: En hypotes (ett testbart antagande) som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa.
 
 > Ett exempel på en fallibilist är [Karl Popper](3_4_vetenskapen.md#Popper). Om honom, och mer om fallibilism och falsifikationism, läser man i avsnittet ["Vetenskapen"](3_4_vetenskapen.md#Popper).
 

@@ -16,7 +16,7 @@
 
 ## Instruktioner
 
-1. Inför detta seminarium kommer ni att få lektionstid till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. Kom gärna även på studiepass för extra hjälp. 
+1. Inför detta seminarium kommer ni att få lektionstid (utöver genomgångar och övningar) till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. Kom gärna även på studiepass för extra hjälp. 
 
 2. Följ i första hand ovanstående läsanvisningar, era lektionsanteckningar samt den text jag skrivit under detta delmoment, men titta gärna också på andra källor och jämför. 
 
