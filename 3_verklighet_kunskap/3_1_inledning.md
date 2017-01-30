@@ -3,9 +3,6 @@
 
 <!--ELLER: Kanske döpa om denna del till Metafysik & Epistemologi?  -->
 
-
-**OBS:** För detta moment har jag ännu inte skapat tillräckligt med eget material. Förhoppningen är dock att bli klar med detta under denna termin (VT 2017). Tillsvidare står därför hänvisningar till sidor i kursboken kvar i de avsnitt jag skrivit (i det fall det skulle bli nödvändigt att dela ut denna), men tanken är att dessa hänvisningar successivt ersätts med hänvisningar till avsnitt på denna hemsida. 
-
 ## Metafysik & Ontologi
 
 De första och mest fundamentala av frågor som filosofin berör är ofta ontologiska till sin natur. **Ontologin** är nämligen *läran om vad som finns*. Vår ”egen ontologi” kan därför sägas vara den ”lista” på saker som vi påstår, eller antar, existerar (medvetet eller ej). På någons lista kanske vi finner ”Gud”, på en annans kanske ”bord och stolar”, på en tredje kanske ”själar”, och så vidare. 
