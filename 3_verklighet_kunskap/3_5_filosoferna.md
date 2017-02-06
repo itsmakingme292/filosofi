@@ -32,7 +32,9 @@ Idévärlden är den sanna verkligheten bortom tid och rum. En  oföränderlig o
 
 På samma sätt förhåller det sig även med mindre abstrakta ting (än sådant som cirklar och räta linjer). Stolar kan exempelvis se ut på väldigt olika sätt – men de är alla likväl stolar. Om vi frågar oss vad en stol _verkligen är_ frågar vi oss inte hur en viss specifik stol ser ut. Vi frågar oss vad som är _gemensamt_ för _alla_ stolar – vad _stolens idé_ är. Stolar kan av denna anledning också vara _olika bra på att vara stolar_. En stol som är svår att sitta på har en mindre del i stolens idé än  en stol som är bekväm. 
 
-När vi ser en katt upplever vi inte bara den konkreta katten framför oss. Vi upplever också _att_ _det är_ en katt – vi skådar (åtminstone en del av) "kattens idé". En person som inte har en uppfattning om "kattens idé" ser bara "det där". Bara i den mån vi förstår att det vi ser har något gemensamt med något annat kan vi _kategorisera_ det vi ser och förstå dess idé. 
+När vi ser en katt upplever vi inte bara den konkreta katten framför oss. Vi upplever också _att_ _det är_ en katt – vi skådar (åtminstone en del av) "kattens idé". En person som inte har en uppfattning om "kattens idé" ser bara "det där". Bara i den mån vi förstår att det vi ser har något gemensamt med något annat kan vi _kategorisera_ det vi ser och förstå att det har en del i samma idé. 
+
+<!--Kanske utveckla det där med del i samma idé att två saker har något gemensamt HANDLAR om att de delar samma idé -->
 
 <!--Försök förenkla och dela upp första meningen nedan -->
 
@@ -40,7 +42,7 @@ Om jag, som inte vet någonting om sporten curling, går på en curlingmatch, ti
 
 ![BILD](0_kartor/platon_idevarlden.svg)
 
-I detta är Platon **begreppsrealist**. Cirkelns idé såväl som stolens idé existerar oberoende av tingen i sinnesvärlden och rentav oberoende av vår uppfattning (idéerna är eviga). Det är alltså varken tingen eller vi människor som ger upphov till idéerna. Tvärtom _upptäcker_ människan _bokstavligen_ begreppen snarare än _uppfinner_ dem. Och i den mån det finns en koppling mellan tingen och idéerna ligger kopplingen i att tingen i olika utsträckning uppfyller idéerna (men de är alltid "dåliga kopior"). 
+I detta är Platon **begreppsrealist**. Cirkelns idé såväl som stolens idé existerar i idévärlden oberoende av tingen i sinnesvärlden och rentav oberoende av vår uppfattning (idéerna är eviga). Det är alltså varken tingen eller vi människor som ger upphov till idéerna. Tvärtom _upptäcker_ människan _bokstavligen_ begreppen snarare än _uppfinner_ dem. Och i den mån det finns en koppling mellan tingen och idéerna ligger kopplingen i att tingen i olika utsträckning uppfyller idéerna (men de är alltid "dåliga kopior"). 
 
 **Kommentar:** Platons filosofi upplevs ibland som något svårsmält och märklig – inte minst hans begreppsrealism. Det är därför viktigt att komma ihåg att Platons filosofi uppstår i en tid långt innan den moderna naturvetenskapen – långt innan det att vi exempelvis upptäcker DNA som en slags "inre ritning" hos organismer. Möjligen är Platons filosofi något enklare att svälja om man tänker på sådant som matematik och logik. Filosofer och matematiker som har en _platonistisk_ uppfattning av matematiken menar att matematiken existerar i en egen värld. Att vi så att säga "skådar" och upptäcker Pi när vi räknar decimaler av Pi – inte att vi "hittar på" Pi. 
 
@@ -56,14 +58,80 @@ Den kanske mest berömda delen i Platons skrifter är hans _grottliknelse_. [Den
 
 
 ## Descartes
-_Text kommer..._
+> **Kort om:** René Descartes (1596-1650) var en fransk filosof, matematiker och vetenskapsman. Han tillhör 1600-talets största tänkare och var på sin tid mycket populär bland Europas makthavare. Drottning Kristina, dåvarande regent i Sverige som sökte god bildning, bjöd in Descartes till svenska hovet för att tjäna som hennes privata lärare. Ett par kyliga veckor i ett kallt slott senare dog Descartes av lunginflammation. 
+
+### Tvivlet som metod
+Descartes tyckte det var en skandal att filosofer aldrig kunde vara eniga och att de saknade en gemensam stabil grund att stå på. Den enda möjliga vägen framåt var enligt Descartes därför att börja om från början och bygga upp filosofin från grunden.
+
+<!--Problemet, menade Descartes, var att filosofer var för ivriga och tog allt för många genvägar. --> 
+
+I detta var Descartes en [**rationalist**](3_3_2_kunskapens_kalla.md#Rationalismen) likt Platon. Endast det _otvivelaktiga_ kunde utgöra ett fundament starkt nog. Men vägen till det otvivelaktiga handlade för Descartes inte om att blicka in i en högre verklighet utan om att börja inom sig själv. För Descartes når vi det otvivelaktiga endast om vi  först tar avstamp i ett absolut tvivel. Vi ska rasera allt vi tror oss veta för att sedan bygga upp vår kunskap från grunden – allt som går att tvivla på, ska tvivlas på. 
+
+Descartes representerar här vad som kallas _metodologisk skepticism_. Med detta menas att Descartes inte hade som syfte att _landa i_ skepticism. Han sökte endast använda tvivlet _som metod_ för att nå säker kunskap (vilket är motsatsen till skepticism). Det skeptiska förhållningssättet är alltså ett hjälmedel för Descartes och inte ett mål. 
+
+*Descartes går igenom tre stadier av tvivel*:
+ 
+1. Tvivel på våra sinnen
+	- Eftersom våra sinnen ibland bedrar oss kan vi aldrig  vara helt säkra på när vi kan lita på våra sinnen och inte.
+2. Tvivel på hela vår verklighet
+	- Vi kan inte vara säkra på om vi drömmer eller hallucinerar. 
+3. Tvivel på slutledningsförmågan
+	- Det skulle exempelvis kunna existera en ond ande eller illvillig demon som kan manipulera våra tankar och få oss att tänka fel. 
+
+<!--Mer om detta här: http://www.philosophypages.com/hy/4c.htm -->
+ 
+
+### Men vad kan vi _inte_ tvivla på?
+
+Hur mycket Descartes än tvivlade fann han en sak som var omöjlig att betvivla: _han själv existerade_. För hur skulle han kunna tvivla om han inte existerade? Tvivlet förutsätter att _någon/något_ tvivlar.
+
+>  _I detta formulerar Descartes en av filosofihistoriens allra mest berömda meningar:_
+> 
+> > På latin: "Cogito ergo sum" 
+> > På svenska: "Jag tänker, alltså finns jag"
 
 <!--Klipp från BBC history of ideas, "I think therefore I am" -->
 
 [](https://youtu.be/0A6UKoMcE10)
 
-## Locke
-_Text kommer..._
+Nu nöjde sig inte Descartes med detta. Han ville nämligen inte hamna i [solipsism](3_2_verkligheten.md). Vi måste ha någon mer stabil grund utöver att vi själva existerar. Något mer som kan garantera kunskap. 
+
+Vid detta laget finner Descartes idén om en Gud inom sig och resonerar som följande: 
+
+1. En ofullkomlig varelse så som Descartes (människan) kan inte själv komma på tanken om ett fullkomligt väsen (en Gud). En sådan idé är alldeles för stor och komplex för vår begränsade tankeförmåga. 
+
+2. Denna Gudsidé eller uppfattning måste därför vara planterad av just detta gudomliga, fullkomliga väsen. 
+
+3. En Gud som är fullkomlig (perfekt: har alla goda egenskaper) är också allsmäktig (kan styra över allt) och allgod (vill oss väl).
+
+4. En sådan Gud skulle aldrig tillåta att våra sinnen alltid bedrar oss, att vi endast drömmer eller att en illvillig demon skulle lura oss att tänka fel. 
+
+5. Gud kan inte hindra oss från att bedra oss själva – från att inte själva anstränga oss tillräckligt i vårt tänkande. Men det vi upplever helt klart och tydligt som sant måste också vara sant, såvida Gud är god. 
+
+6. Det vi uppfattar som allra mest klart och tydligt sant är det som är självklart sant och allt som är verkligt självklart sant är också _nödvändigt_ sant (av typen: det kan inte vara på något annat sätt).
+
+7. Det som är nödvändigt sant är logiskt. Grunden för vår kunskap är därför förnuftet ([rationalism](3_3_2_kunskapens_kalla.md#Rationalismen)). 
+
+För Decartes träder Gud in som en **garant för vår kunskap**. Vi kan ha fel, men vi har endast fel i den mån vi inte använder det förnuft som Gud gett oss. I detta tänker Descartes därför också att vi har viss _medfödd kunskap_, exempelvis förmågan till logisk tanke (eller för den delen: Gudsidén). 
+
+**Kommentar:** Hur skulle man kunna kritisera Descartes resonemang? Försök upptäcka eventuella svagheterna i hans argument. 
+
+### Descartes dualism
+Med sitt resonemang anser sig Descartes också bevisat två ytterligare saker: 
+
+1. Yttervärlden har en objektiv existens (icke-solipsism). Detta eftersom Gud aldrig skulle tillåta att hela vårt liv var en dröm eller liknande. 
+
+2.  Medvetandet verkar tillhöra något annat än den materiella verkligheten. Detta eftersom tänkandet inte är beroende av yttervärlden – Descartes kunde ju tänka sig en verklighet där bara hans tänkande existerade. Det materiella är _utsträckt_ och existerar i tid och rum, men tänkandet är  inte utsträckt, det existerar inte i rummet. Alltså är medvetandet icke fysiskt. 
+
+Descartes är **dualist**: Det existerar både en materiell och en icke-materiell verklighet – vi har både en kropp och en själ. 
+
+
+<!--Kanske få med en del med lite mer av hans rationalism: Se min outline! Samt inte minst: på vilket sätt han är en slags kritisk realist ändå, i vilken utsträckning vi kan lita på våra sinnen osv. -->
+
+## Locke 
+_Text kommer..._ 
+
+
 
 ## Hume
 _Text kommer..._
@@ -83,12 +151,9 @@ Se avsnittet [Vetenskapen](3_4_vetenskapen.md)
 ## Kuhn
 Se avsnittet [Vetenskapen](3_4_vetenskapen.md)
 
-<!--## Filosoferna i läroboken  * Platon: 30-32 samt 14-16 * Descartes: 111-114 * Locke: 114-115 * Hume: 117-119 * Kant: 120-122 * Popper: 136-139 * Kuhn: 139-141  **OBS:** Dessa sidhänvisningar är bara ett komplement och inte en ersättning till läslistan under instruktionerna för seminariet.  -->
 
+<!--## Filosoferna i läroboken  * Platon: 30-32 samt 14-16 * Descartes: 111-114 * Locke: 114-115 * Hume: 117-119 * Kant: 120-122 * Popper: 136-139 * Kuhn: 139-141  **OBS:** Dessa sidhänvisningar är bara ett komplement och inte en ersättning till läslistan under instruktionerna för seminariet.  -->
 
 ## [Frågeformulär]
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0jJ_XXie277UiNXvCCDft8PwS-4S9o89KmqoEs354BGlSxQ/viewform?embedded=true" width="100%" height="1300" frameborder="0" marginheight="0" marginwidth="0">Läser in...</iframe>
-
-
-
