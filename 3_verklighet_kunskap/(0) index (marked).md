@@ -1,0 +1,6 @@
+<<[3_1_inledning.md]
+<<[3_2_verkligheten.md]
+<<[3_3_kunskap_sanning.md]
+<<[3_3_2_kunskapens_kalla.md]
+<<[3_4_vetenskapen.md]
+<<[3_5_filosoferna.md]

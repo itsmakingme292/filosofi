@@ -128,9 +128,41 @@ Descartes är **dualist**: Det existerar både en materiell och en icke-materiel
 
 <!--Kanske få med en del med lite mer av hans rationalism: Se min outline! Samt inte minst: på vilket sätt han är en slags kritisk realist ändå, i vilken utsträckning vi kan lita på våra sinnen osv. -->
 
-## Locke 
-_Text kommer..._ 
+## Locke
 
+> **Kort om:** John Locke (1634-1704). Grundade vad som kommit att kallas _den Brittiska empirismen_. Eller som Wikipedia säger "Den här artikeln handlar om filosofen John Locke. För karaktären i TV-serien Lost, se John Locke (Lost)." 
+
+### Tabula rasa
+Lockes filosofi är till stora delar en reaktion och kritik av Descartes rationalism – Locke förespråkar istället [**empirismen**](3_3_2_kunskapens_kalla.md#Empirismen). För Locke finns det ingen anledning att tänka oss att förnuftet kommer före sinneserfarenheten. Inte heller kan vi tala om någon slags "medfödd kunskap". Enligt Locke pekar det mesta på det motsatta. 
+
+_Lockes argument har i huvudsak två delar:_
+
+1. Om det finns medfödd kunskap måste det också finnas mycket som alla är överens om. Ingenting talar för detta. Det är mycket svårt att hitta ens något litet som alla människor i alla tider kan vara överens om. 
+
+2. Om vi har medfödd kunskap borde denna vara som mest tydlig hos barn – men den är det inte. Vi tycks snarare lära oss sådant som logiskt tänkande under livets gång. 
+
+Locke drar här slutsatsen att vi alla föds som **tabula rasa** (tomma blad). Vi är helt tomma när vi föds och vår kunskap kommer från det att vi fylls på av sinnesupplevelser under våra liv. I den mån vi har liknande eller kanske till och med allmängiltiga uppfattningar handlar det om att vi har _liknande erfarenheter_ – inte att vi har någon medfödd kunskap. 
+
+### Enkla och komplexa idéer
+Allt vi kan tänka har för Locke en grund i något vi upplevt. Det finns ingen Platonsk idévärld vi kan blicka in i – bara vår erfarenhet. Detta gäller även sådant som vi inte _direkt_ har upplevt. Ett exempel på en sådan sak är enörningen, denna existerar bara i vår fantasi, men idén bygger likväl på sinnesintryck. För att förklara hur detta är möjligt delar Locke upp våra idéer i _enkla_ och _komplexa_ idéer. ![BILD_halv](0_kartor/enhorning.jpg)
+
+- **Enkla idéer** står i _direkt_ relation till sinneserfarenheten. Att vi har en idé om vad det innebär att något är en häst beror på att vi upplevt hästar. 
+
+- **Komplexa idéer** består av olika kombinationer av enkla idéer. Ingen har någonsin sett en enhörning, men många av oss har direkt erfarenhet av hästar och olika djur med horn. Med lite fantasti kan vi "plussa" ihop dessa erfarenheter och bilda idéen om enhörningar. 
+
+### Kritisk realism
+
+Locke är realist – inte en naiv realist men däremot en _kritisk realist_. Yttervärlden har en objektiv existens och vi kan nå kunskap om denna, men hela vår upplevelse av yttervärlden är inte helt och fullt i överensstämmelse med hur tingen faktiskt förhåller sig. För Locke finns det dock en tydlig gräns för när vår upplevelse handlar om något objektivt och när den handlar om något subjektivt. I detta delar  Locke upp tingens egenskaper i två olika kategorier.
+
+**Primära egenskaper:** Kvantitativa och mätbara egenskaper så som form, längd, vikt osv. Dessa egenskaper existerar hos tingen/objekten helt oberoende av vår förmåga att uppfatta dem.
+
+**Sekundära egenskaper:** Kvalitativa, ej mätbara egenskaper, så som färg, lukt, smak osv. Dessa egenskaper existerar inte direkt i objekten/tingen utan uppstår endast i relation till vårt subjekt (att vi upplever dem). 
+
+<!--Skapa snyggare övergång här -->
+
+Primära egenskaper i kombination med vår sinnesapparat ger upphov till sekundära egenskaper. Ett tydligt exempel på detta är färg. Som primär egenskap är "färg" endast ljus med olika _våglängd_. Att vi uppfattar ljus med olika våglängd som olika färger (sekundär egenskap) handlar endast om hur vår hjärna tolkar den information som våra ögon tar in. Inte minst är vår upplevelse av olika färger relativt andra färger runt omkring. Se exempelvis ["Samma färg-illusionen" på Wikipedia](https://sv.wikipedia.org/wiki/Samma_färg-illusionen).
+
+<!--![BILD](0_kartor/farg.gif) -->
 
 
 ## Hume
