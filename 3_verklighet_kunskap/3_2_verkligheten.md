@@ -41,13 +41,13 @@ Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrå
 
 <!--, sidorna 30-32 i läroboken  -->
 
-**Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande.
+**Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande. Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i **solipsism**. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar.
 
-> se [Berkeley](3_5_filosoferna.md#Berkeley)
+<!--Tog bort Berkeley nu, kommer inte hinna ta upp honom ändå > se [Berkeley](3_5_filosoferna.md#Berkeley) -->
 
 <!-- se Berkeley, sidorna 116-117 i läroboken -->
 
-Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i **solipsism**. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar. 
+ 
 
 <!--Skilja mellan metafysisk och epistemologisk solipsism här? -->
 

@@ -106,7 +106,7 @@ Vid detta laget finner Descartes idén om en Gud inom sig och resonerar som föl
 
 4. En sådan Gud skulle aldrig tillåta att våra sinnen alltid bedrar oss, att vi endast drömmer eller att en illvillig demon skulle lura oss att tänka fel. 
 
-5. Gud kan inte hindra oss från att bedra oss själva – från att inte själva anstränga oss tillräckligt i vårt tänkande. Men det vi upplever helt klart och tydligt som sant måste också vara sant, såvida Gud är god. 
+5. Gud har gett oss en fri vilja och kan därför inte hindra oss från att bedra oss själva – från att inte själva anstränga oss tillräckligt i vårt tänkande. Men det vi upplever _helt klart och tydligt som sant_ måste också vara sant, såvida Gud är god. 
 
 6. Det vi uppfattar som allra mest klart och tydligt sant är det som är självklart sant och allt som är verkligt självklart sant är också _nödvändigt_ sant (av typen: det kan inte vara på något annat sätt).
 
@@ -133,7 +133,7 @@ Descartes är **dualist**: Det existerar både en materiell och en icke-materiel
 > **Kort om:** John Locke (1634-1704). Grundade vad som kommit att kallas _den Brittiska empirismen_. Eller som Wikipedia säger "Den här artikeln handlar om filosofen John Locke. För karaktären i TV-serien Lost, se John Locke (Lost)." 
 
 ### Tabula rasa
-Lockes filosofi är till stora delar en reaktion och kritik av Descartes rationalism – Locke förespråkar istället [**empirismen**](3_3_2_kunskapens_kalla.md#Empirismen). För Locke finns det ingen anledning att tänka oss att förnuftet kommer före sinneserfarenheten. Inte heller kan vi tala om någon slags "medfödd kunskap". Enligt Locke pekar det mesta på det motsatta. 
+Lockes filosofi är till stora delar en reaktion och kritik av Descartes rationalism – Locke förespråkar istället [**empirismen**](3_3_2_kunskapens_kalla.md#Empirismen). För Locke finns det ingen anledning att tänka sig att förnuftet kommer före sinneserfarenheten. Inte heller kan vi tala om någon slags "medfödd kunskap". Enligt Locke pekar det mesta på det motsatta. 
 
 _Lockes argument har i huvudsak två delar:_
 
@@ -150,6 +150,9 @@ Allt vi kan tänka har för Locke en grund i något vi upplevt. Det finns ingen 
 
 - **Komplexa idéer** består av olika kombinationer av enkla idéer. Ingen har någonsin sett en enhörning, men många av oss har direkt erfarenhet av hästar och olika djur med horn. Med lite fantasti kan vi "plussa" ihop dessa erfarenheter och bilda idéen om enhörningar. 
 
+<!--Få in o kolla upp förnuftets roll för komplexa idéer och exempel som inte bara berör fantasi -->
+
+
 ### Kritisk realism
 
 Locke är realist – inte en naiv realist men däremot en _kritisk realist_. Yttervärlden har en objektiv existens och vi kan nå kunskap om denna, men hela vår upplevelse av yttervärlden är inte helt och fullt i överensstämmelse med hur tingen faktiskt förhåller sig. För Locke finns det dock en tydlig gräns för när vår upplevelse handlar om något objektivt och när den handlar om något subjektivt. I detta delar  Locke upp tingens egenskaper i två olika kategorier.
@@ -160,7 +163,7 @@ Locke är realist – inte en naiv realist men däremot en _kritisk realist_. Yt
 
 <!--Skapa snyggare övergång här -->
 
-Primära egenskaper i kombination med vår sinnesapparat ger upphov till sekundära egenskaper. Ett tydligt exempel på detta är färg. Som primär egenskap är "färg" endast ljus med olika _våglängd_. Att vi uppfattar ljus med olika våglängd som olika färger (sekundär egenskap) handlar endast om hur vår hjärna tolkar den information som våra ögon tar in. Inte minst är vår upplevelse av olika färger relativt andra färger runt omkring. Se exempelvis ["Samma färg-illusionen" på Wikipedia](https://sv.wikipedia.org/wiki/Samma_färg-illusionen).
+Primära egenskaper i kombination med vår sinnesapparat ger upphov till sekundära egenskaper. Ett tydligt exempel på detta är färg. Som primär egenskap är "färg" endast _ljus med olika våglängd_. Att vi uppfattar ljus med olika våglängd som olika färger (sekundär egenskap) handlar endast om hur vår hjärna tolkar den information som våra ögon tar in. Inte minst är vår upplevelse av olika färger relativt andra färger runt omkring. Se exempelvis ["Samma färg-illusionen" på Wikipedia](https://sv.wikipedia.org/wiki/Samma_färg-illusionen).
 
 <!--![BILD](0_kartor/farg.gif) -->
 
@@ -174,8 +177,7 @@ _Text kommer..._
 
 En bra och någorlunda lättläst text, som handlar om huruvida Kant är relativist eller objektivist finner ni här:  ["Kants första kritik" i Forskning och Framsteg](http://fof.se/tidning/2004/6/kants-forsta-kritik)
 
-## Berkeley
-_Text kommer..._
+<!--## Berkeley _Text kommer..._ -->
 
 ## Popper
 Se avsnittet [Vetenskapen](3_4_vetenskapen.md)

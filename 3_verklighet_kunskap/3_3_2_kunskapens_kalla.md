@@ -31,9 +31,9 @@ När vi ställer rationalism mot empirism handlar det inte nödvändigtvis om et
 
 Det sagt säger rationalismen att den enda riktigt säkra kunskapen alltid är den rent logiska eller matematiska. Detta eftersom logiska (deduktiva) slutledningar i någon mening alltid är självevidenta (de säger sig själva) och nödvändiga (det kan inte vara på något annat sätt). Vi behöver inte gå ut i världen för att veta om en logisk slutledning stämmer eller inte, det räcker att vi "blickar inåt" och använder vårt förnuft. I detta säger rationalismen att vi har viss medfödd kunskap. Vi lär oss inte logik och matematik via våra sinnen, vi upptäcker dessa inom oss och i detta finns de så att säga "redan där".
 
-**Fotnot:** Generellt sett är empirister oftast realister och rationalister oftast idealister. Ett undantag som bekräftar regeln är [Kant](3_5_filosoferna.md#Kant) som kan sägas vara en blandning av alla fyra. Ett annat undantag är [Descartes](3_5_filosoferna.md#Descartes) som kan sägas vara kritisk realist och samtidigt rationalist. 
+<!--**Fotnot:** Generellt sett är empirister oftast realister och rationalister oftast idealister. Ett undantag som bekräftar regeln är [Kant](3_5_filosoferna.md#Kant) som kan sägas vara en blandning av alla fyra. Ett annat undantag är [Descartes](3_5_filosoferna.md#Descartes) som kan sägas vara kritisk realist och samtidigt rationalist.  -->
 
-<!--Ta bort ovanstående fotnot? Bara förvirrande? Hmmm... -->
+<!--Tog nu bort ovanstående fotnot tillsvidare Bara förvirrande? Eller lägga till igen? Hmmm... -->
 
 <!--Få in något klipp om rationalism och empirism? -->
 
