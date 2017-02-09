@@ -146,30 +146,31 @@ Locke drar här slutsatsen att vi alla föds som **tabula rasa** (tomma blad). V
 ### Enkla och komplexa idéer
 Allt vi kan tänka har för Locke en grund i något vi upplevt. Det finns ingen Platonsk idévärld vi kan blicka in i – bara vår erfarenhet. Detta gäller även sådant som vi inte _direkt_ har upplevt. Ett exempel på en sådan sak är enörningen, denna existerar bara i vår fantasi, men idén bygger likväl på sinnesintryck. För att förklara hur detta är möjligt delar Locke upp våra idéer i _enkla_ och _komplexa_ idéer. ![BILD_halv](0_kartor/enhorning.jpg)
 
-- **Enkla idéer** står i _direkt_ relation till sinneserfarenheten. Att vi har en idé om vad det innebär att något är en häst beror på att vi upplevt hästar. 
+- **Enkla idéer** står i _direkt_ relation till sinneserfarenheten. Att vi har en idé om vad det innebär att något är en häst beror på att vi upplevt hästar (har en _direkt upplevelse_). 
 
-- **Komplexa idéer** består av olika kombinationer av enkla idéer. Ingen har någonsin sett en enhörning, men många av oss har direkt erfarenhet av hästar och olika djur med horn. Med lite fantasti kan vi "plussa" ihop dessa erfarenheter och bilda idéen om enhörningar. 
+- **Komplexa idéer** består av olika kombinationer av enkla idéer. Ingen har någonsin sett en enhörning, men många av oss har erfarenhet av hästar och olika djur med horn. Med lite fantasti kan vi "plussa ihop" dessa erfarenheter och bilda idéen om enhörningar. 
 
 <!--Få in o kolla upp förnuftets roll för komplexa idéer och exempel som inte bara berör fantasi -->
+
+Ingen idé som handlar om något vi (ännu) inte upplevt kan någonsin vara en enkel idé. Det finns ingen medfödd kunskap, endast erfarenhet som vi på olika sätt jämför, förenar och skapar kombinationer av. 
 
 
 ### Kritisk realism
 
-Locke är realist – inte en naiv realist men däremot en _kritisk realist_. Yttervärlden har en objektiv existens och vi kan nå kunskap om denna, men hela vår upplevelse av yttervärlden är inte helt och fullt i överensstämmelse med hur tingen faktiskt förhåller sig. För Locke finns det dock en tydlig gräns för när vår upplevelse handlar om något objektivt och när den handlar om något subjektivt. I detta delar  Locke upp tingens egenskaper i två olika kategorier.
+Locke är realist – inte en naiv realist men däremot en _kritisk realist_. Yttervärlden har en objektiv existens och vi kan nå kunskap om denna, men hela vår upplevelse av yttervärlden är inte helt och fullt i överensstämmelse med hur tingen faktiskt förhåller sig. För Locke finns det dock en tydlig gräns för när vår upplevelse handlar om något objektivt och när den handlar om något subjektivt. I detta delar Locke upp tingens egenskaper i två olika kategorier.
 
 **Primära egenskaper:** Kvantitativa och mätbara egenskaper så som form, längd, vikt osv. Dessa egenskaper existerar hos tingen/objekten helt oberoende av vår förmåga att uppfatta dem.
 
 **Sekundära egenskaper:** Kvalitativa, ej mätbara egenskaper, så som färg, lukt, smak osv. Dessa egenskaper existerar inte direkt i objekten/tingen utan uppstår endast i relation till vårt subjekt (att vi upplever dem). 
 
-<!--Skapa snyggare övergång här -->
-
-Primära egenskaper i kombination med vår sinnesapparat ger upphov till sekundära egenskaper. Ett tydligt exempel på detta är färg. Som primär egenskap är "färg" endast _ljus med olika våglängd_. Att vi uppfattar ljus med olika våglängd som olika färger (sekundär egenskap) handlar endast om hur vår hjärna tolkar den information som våra ögon tar in. Inte minst är vår upplevelse av olika färger relativt andra färger runt omkring. Se exempelvis ["Samma färg-illusionen" på Wikipedia](https://sv.wikipedia.org/wiki/Samma_färg-illusionen).
+Sekundära egenskaper existerar inte i yttervärlden, men primära egenskaper (sådana som gör det) _i kombination_ med vår sinnesapparat _ger upphov till_ sekundära egenskaper. Ett tydligt exempel på detta är färg. Som primär egenskap är "färg" endast _ljus med olika våglängd_. Att vi uppfattar ljus med olika våglängd som olika färger (sekundär egenskap) handlar endast om hur vår hjärna tolkar den information som våra ögon tar in. Inte minst är vår upplevelse av olika färger relativt andra färger runt omkring. Se exempelvis ["Samma färg-illusionen" på Wikipedia](https://sv.wikipedia.org/wiki/Samma_färg-illusionen).
 
 <!--![BILD](0_kartor/farg.gif) -->
 
 
 ## Hume
 _Text kommer..._
+
 
 ## Kant
 
