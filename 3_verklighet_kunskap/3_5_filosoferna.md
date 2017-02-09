@@ -165,11 +165,59 @@ Locke är realist – inte en naiv realist men däremot en _kritisk realist_. Yt
 
 Sekundära egenskaper existerar inte i yttervärlden, men primära egenskaper (sådana som gör det) _i kombination_ med vår sinnesapparat _ger upphov till_ sekundära egenskaper. Ett tydligt exempel på detta är färg. Som primär egenskap är "färg" endast _ljus med olika våglängd_. Att vi uppfattar ljus med olika våglängd som olika färger (sekundär egenskap) handlar endast om hur vår hjärna tolkar den information som våra ögon tar in. Inte minst är vår upplevelse av olika färger relativt andra färger runt omkring. Se exempelvis ["Samma färg-illusionen" på Wikipedia](https://sv.wikipedia.org/wiki/Samma_färg-illusionen).
 
+<!--Få in ljud-exempel här också. Att ljud bara är en komplex uppsättning olika sinusvågor i olika frekvens och att sådant som ”dur” och ”moll” är tolkningar som hjärnan gör. -->
+
+<!--Göra en karta? -->
+
+
 <!--![BILD](0_kartor/farg.gif) -->
 
 
 ## Hume
-_Text kommer..._
+
+> **Kort om:** David Hume (1711-1776) var en skotsk filosof som ifrågasatte det mesta. Hume var en av de stora tänkarna under upplysningstiden och är än idag en mycket betydelsefull filosof. 
+
+Hume var influerad av de _brittiska empiristerna_ men ansåg att dessa introducerat allt för många antaganden utan grund i sina teorier. Hume ville istället dra empirismen till sin spets och verkligen utgå ifrån vad den i grunden säger. I detta landar Hume i en en långt mer radikal empirism och en stark _skepticism_.
+
+Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som empirist också följa denna tanke till vägs ände, menade Hume. Det enda vi kan veta är det vi erfar. Och om vi nu ska tala om någon verklig kunskap så måste denna därför också bygga på de _faktiska_ erfarenheter vi har. I detta menade Hume att det fanns en hel del som filosofer antagit som vi faktiskt inte har en direkt upplevelse av. 
+
+<!-- Vi kan endast vara säkra på de direkt upplevelser vi har. Den stora frågan blir därför vad vi egentligen kan erfara (observera, uppleva, osv.). -->
+
+### Vi kan _inte_ veta om:
+
+<!-- Och därmed kan vi exempelvis inte anta att yttervärlden är materiell. -->
+
+1. Våra intryck överensstämmer med yttervärlden.
+	- Vi hänvisar alltid bara till vår _upplevelse_. Vi upplever inte själva relationen mellan vår upplevelse och yttervärlden, bara själva upplevelsen. 
+
+2. Det vi uppfattar som orsak och verkan verkligen är det.
+	- Vi kan bara _se_ att en sak föregår en annan i tid och rum. Vi kan _inte se_ själva kausaliteten (orsakssambandet). Vi kan inte se att kula 1 med nödvändighet "tvingar" kula 2 att röra sig – bara att kula 1 och kula 2 rör sig tidsmässigt efter varandra.
+	- Vår uppfattning om orsak och verkan är enligt Hume endast en "mänsklig vana". Vi tror oss se denna överallt – men aldrig egentligen.
+
+3. Våra induktiva resonemang kommer att stämma.
+	-  Eftersom vi endast kan uttala oss om det vi har direkt sinneserfarenhet av kan vi inte dra slutsatser om framtiden. Bara för ett en viss sak "alltid" händer betyder det inte att _vi vet_ att den kommer att göra det igen. 
+	- Inte heller kan vi dra slutsatsen att alla svanar är vita bara för att vi endast sett vita svanar (se [Deduktion & induktion](../2_fil_verktyg/2_3_logik.md#Deduktion_&_induktion)).
+
+4. Vi har en själ eller ett "Jag".
+	- Vi har endast en direkt upplevelse av våra känslor och tankar – inte själva "behållaren" eller ursprunget för dessa. Vi kan inte veta något om en mer bestående, "inre enhet" så som en själ eller ett "Jag".
+	- I den mån vi kan tala om ett "Jag" så är detta "Jag" endast ett löst knippe sinnesupplevelser.
+
+<!--	- = därmed kan vi inte anta att medvetandet/jag är immateriellt. -->
+
+### Vi kan _endast_ vara säkra på:
+
+1. Att vi uppfattar och erfar något.
+	- Vi kan endast veta något om våra direkta upplevelser –men inte vad dessa faktiskt säger om yttervärlden (så som den är oberoende av oss).
+
+2. Vad som finns inom oss.
+	- En tanke eller en känsla är alltid min och därför alltid verklig. En känsla måste inte överensstämma med någon yttre verklighet för att vara sann: Har jag ont, så har jag ont. Detta går ej att ifrågasätta.
+	- Vi kan också (precis som Locke menade) kombinera våra erfarenheter med varandra och _föreställa oss_ sådant vi (ännu) inte har en direkt erfarenhet av. 
+
+<!-- Men detta handlar om fantasi, inte om en yttre verklighet.  -->
+
+<!--Ska jag ha nån mer avrundning här? -->
+
+<!--Ha något om Hume som en slags idealist och empirist samtidigt. (Ovanlig kombination) -->
 
 
 ## Kant
@@ -177,6 +225,7 @@ _Text kommer..._
 ![BILD](0_kartor/kant_karta.svg)
 
 En bra och någorlunda lättläst text, som handlar om huruvida Kant är relativist eller objektivist finner ni här:  ["Kants första kritik" i Forskning och Framsteg](http://fof.se/tidning/2004/6/kants-forsta-kritik)
+
 
 <!--## Berkeley _Text kommer..._ -->
 
