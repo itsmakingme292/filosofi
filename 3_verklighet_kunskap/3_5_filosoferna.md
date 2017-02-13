@@ -272,8 +272,7 @@ Kant menar inte bara att det uppstått ett onödigt motsatsförhållande mellan 
 
 För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_. Vi kan endast ha kunskap om _världen-som-fenomen_ och _tinget-som-fenomen_.
 
-Att uttala sig om världen bortom den typiskt mänskliga erfarenheten är endast spekulation. 
-Världen-som-fenomen är kunskapen och vetenskapens domän. Vi har inte tillgång till någon annan värld än så som den framträder för oss som människor.  Inte subjektivt, från person till person, utan universellt (det går att finna något som gäller för samtliga människors upplevelse).
+Att uttala sig om världen bortom den typiskt mänskliga erfarenheten är endast spekulation. Världen-som-fenomen är kunskapen och vetenskapens domän. Vi har inte tillgång till någon annan värld än världen så som den framträder för oss (som människor). Inte subjektivt, från person till person, utan universellt (det går att finna något som gäller för samtliga människors upplevelse).
 
 Världen-i-sig är "hoppets" och troendets domän, detta eftersom den går bortom vår faktiska erfarenhet (den är transfenomenell). Vi kan _tro_ att det finns en Gud, men vi kan aldrig strikt taget veta (och det är också det som är poängen med religionen). 
 
