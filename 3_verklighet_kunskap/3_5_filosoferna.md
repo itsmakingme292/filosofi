@@ -100,7 +100,7 @@ Vid detta laget finner Descartes idén om en Gud inom sig och resonerar som föl
 
 1. En ofullkomlig varelse så som Descartes (människan) kan inte själv komma på tanken om ett fullkomligt väsen (en Gud). En sådan idé är alldeles för stor och komplex för vår begränsade tankeförmåga. 
 
-2. Denna Gudsidé eller uppfattning måste därför vara planterad av just detta gudomliga, fullkomliga väsen. 
+2. Denna Gudsidé eller uppfattning måste därför vara planterad i oss av just detta gudomliga, fullkomliga väsen. 
 
 3. En Gud som är fullkomlig (perfekt: har alla goda egenskaper) är också allsmäktig (kan styra över allt) och allgod (vill oss väl).
 
@@ -112,9 +112,9 @@ Vid detta laget finner Descartes idén om en Gud inom sig och resonerar som föl
 
 7. Det som är nödvändigt sant är logiskt. Grunden för vår kunskap är därför förnuftet ([rationalism](3_3_2_kunskapens_kalla.md#Rationalismen)). 
 
-För Decartes träder Gud in som en **garant för vår kunskap**. Vi kan ha fel, men vi har endast fel i den mån vi inte använder det förnuft som Gud gett oss. I detta tänker Descartes därför också att vi har viss _medfödd kunskap_, exempelvis förmågan till logisk tanke (eller för den delen: Gudsidén). 
+För Decartes träder Gud in som en **garant för vår kunskap**. Vi kan ha fel, men vi har endast fel i den mån vi inte använder det förnuft som Gud gett oss. I detta menar Descartes alltså att vi har viss _medfödd kunskap_, exempelvis förmågan till logisk tanke (eller för den delen: Gudsidén). 
 
-**Kommentar:** Hur skulle man kunna kritisera Descartes resonemang? Försök upptäcka eventuella svagheterna i hans argument. 
+**Att fundera på:** Hur skulle man kunna kritisera Descartes resonemang? Försök upptäcka eventuella svagheterna i hans argument. 
 
 ### Descartes dualism
 Med sitt resonemang anser sig Descartes också bevisat två ytterligare saker: 
@@ -157,7 +157,7 @@ Ingen idé som handlar om något vi (ännu) inte upplevt kan någonsin vara en e
 
 ### Kritisk realism
 
-Locke är realist – inte en naiv realist men däremot en _kritisk realist_. Yttervärlden har en objektiv existens och vi kan nå kunskap om denna, men hela vår upplevelse av yttervärlden är inte helt och fullt i överensstämmelse med hur tingen faktiskt förhåller sig. För Locke finns det dock en tydlig gräns för när vår upplevelse handlar om något objektivt och när den handlar om något subjektivt. I detta delar Locke upp tingens egenskaper i två olika kategorier.
+Locke är [realist](3_2_verkligheten.md#Realism) – inte en naiv realist men däremot en _kritisk realist_. Yttervärlden har en objektiv existens och vi kan nå kunskap om denna, men hela vår upplevelse av yttervärlden är inte helt och fullt i överensstämmelse med hur tingen faktiskt förhåller sig. För Locke finns det dock en tydlig gräns för när vår upplevelse handlar om något objektivt och när den handlar om något subjektivt. I detta delar Locke upp tingens egenskaper i två olika kategorier.
 
 **Primära egenskaper:** Kvantitativa och mätbara egenskaper så som form, längd, vikt osv. Dessa egenskaper existerar hos tingen/objekten helt oberoende av vår förmåga att uppfatta dem.
 
@@ -179,7 +179,7 @@ Sekundära egenskaper existerar inte i yttervärlden, men primära egenskaper (s
 
 Hume var influerad av de _brittiska empiristerna_ men ansåg att dessa introducerat allt för många antaganden utan grund i sina teorier. Hume ville istället dra empirismen till sin spets och verkligen utgå ifrån vad den i grunden säger. I detta landar Hume i en en långt mer radikal empirism och en stark _skepticism_.
 
-Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som empirist också följa denna tanke till vägs ände, menade Hume. Det enda vi kan veta är det vi erfar. Och om vi nu ska tala om någon verklig kunskap så måste denna därför också bygga på de _faktiska_ erfarenheter vi har. I detta menade Hume att det fanns en hel del som filosofer antagit som vi faktiskt inte har en direkt upplevelse av. 
+Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som empirist också följa denna tanke till vägs ände, menade Hume. Det enda vi kan veta är det vi erfar. Och om vi nu ska tala om  verklig kunskap så måste denna därför också bygga på de _faktiska_ erfarenheter vi har. I detta menade Hume att det fanns en hel del som filosofer antagit som vi faktiskt inte har en direkt upplevelse av. 
 
 <!-- Vi kan endast vara säkra på de direkt upplevelser vi har. Den stora frågan blir därför vad vi egentligen kan erfara (observera, uppleva, osv.). -->
 
@@ -188,19 +188,27 @@ Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som em
 <!-- Och därmed kan vi exempelvis inte anta att yttervärlden är materiell. -->
 
 1. Våra intryck överensstämmer med yttervärlden.
-	- Vi hänvisar alltid bara till vår _upplevelse_. Vi upplever inte själva relationen mellan vår upplevelse och yttervärlden, bara själva upplevelsen. 
+	- Vi hänvisar alltid bara till _vår_ _upplevelse_. Vi upplever inte själva relationen mellan vår upplevelse och yttervärlden, bara själva upplevelsen. 
 
 2. Det vi uppfattar som orsak och verkan verkligen är det.
-	- Vi kan bara _se_ att en sak föregår en annan i tid och rum. Vi kan _inte se_ själva kausaliteten (orsakssambandet). Vi kan inte se att kula 1 med nödvändighet "tvingar" kula 2 att röra sig – bara att kula 1 och kula 2 rör sig tidsmässigt efter varandra.
-	- Vår uppfattning om orsak och verkan är enligt Hume endast en "mänsklig vana". Vi tror oss se denna överallt – men aldrig egentligen.
+	- Vi kan bara _se_ att en sak föregår en annan sak i tid och rum. Vi kan _inte se_ själva kausaliteten (orsakssambandet). 
+		- Låt säga att vi spelar biljard och två kulor stöter emot varandra: Vi _kan inte se_ att kula 1 med nödvändighet "tvingar" kula 2 att röra sig – bara att kula 1 och kula 2 rör sig tidsmässigt efter varandra.
+	- Vår uppfattning om orsak och verkan är endast en "mänsklig vana". Vi tror oss se denna överallt – men aldrig egentligen.
 
 3. Våra induktiva resonemang kommer att stämma.
 	-  Eftersom vi endast kan uttala oss om det vi har direkt sinneserfarenhet av kan vi inte dra slutsatser om framtiden. Bara för ett en viss sak "alltid" händer betyder det inte att _vi vet_ att den kommer att göra det igen. 
-	- Inte heller kan vi dra slutsatsen att alla svanar är vita bara för att vi endast sett vita svanar (se [Deduktion & induktion](../2_fil_verktyg/2_3_logik.md#Deduktion_&_induktion)).
+	- Inte heller kan vi dra slutsatsen att alla svanar är vita bara för att vi endast sett vita svanar. Vi kan aldrig utesluta att vi en dag kommer att se en svart svan (se [Deduktion & induktion](../2_fil_verktyg/2_3_logik.md#Deduktion_&_induktion)). 
 
 4. Vi har en själ eller ett "Jag".
 	- Vi har endast en direkt upplevelse av våra känslor och tankar – inte själva "behållaren" eller ursprunget för dessa. Vi kan inte veta något om en mer bestående, "inre enhet" så som en själ eller ett "Jag".
-	- I den mån vi kan tala om ett "Jag" så är detta "Jag" endast ett löst knippe sinnesupplevelser.
+	- I den mån vi kan tala om ett "Jag" så är detta "Jag" endast ett löst knippe fragmentariska minnen och tillfälliga upplevelser.
+
+5. Att det existerar en Gud.
+	* Vi har _ingen_ _direkt_ upplevelse av Gud. Faktum är att vi inte ens har direkta upplevelser av de delar som ingår i Gudsidén. Ingen har någonsin upplevt fullkomlighet, allgodhet eller allsmäktighet. Vi kan kort sagt inte ens förstå Gud som idé.
+
+<!--– så hur skulle vi då kunna veta någonting om huruvida en Gud existerar eller ej? -->
+
+**Kommentar:** Huruvida punkt fem gör Hume till en ateist eller ej är ett debatterat ämne. Även om vi inte kan _veta_ att Gud existerar kan vi likväl _välja_ _att tro_. Hume är dock av förklarliga skäl (det var inte så poppis att vara ateist på 1700-talet) något oklar på denna punkt. 
 
 <!--	- = därmed kan vi inte anta att medvetandet/jag är immateriellt. -->
 
@@ -211,7 +219,7 @@ Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som em
 
 2. Vad som finns inom oss.
 	- En tanke eller en känsla är alltid min och därför alltid verklig. En känsla måste inte överensstämma med någon yttre verklighet för att vara sann: Har jag ont, så har jag ont. Detta går ej att ifrågasätta.
-	- Vi kan också (precis som Locke menade) kombinera våra erfarenheter med varandra och _föreställa oss_ sådant vi (ännu) inte har en direkt erfarenhet av. 
+	- Vi kan också (precis som Locke menade) _kombinera_ våra erfarenheter med varandra och _föreställa oss_ sådant vi (ännu) inte har en direkt erfarenhet av. Men vår fantasi är alltid _baserad_ på direkta upplevelser.  
 
 <!-- Men detta handlar om fantasi, inte om en yttre verklighet.  -->
 
@@ -222,10 +230,75 @@ Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som em
 
 ## Kant
 
+> **Kort om:** Immanuel Kant (1724-1804), tysk filosof som av många anses vara den största filosofen sedan Platon. Hans filosofi är komplex och intressant men som person sägs det han var utomordentligt tråkig. 
+
+<!--Vetenskap är meningslös utan orsak och verkan – vetenskapens område är att beskriva kausaliteten i världen. Om vetenskapen ska handla om något verkligt måste därför kausaliteten vara något mer än bara en "slapp vana" (en illusion).  -->
+
+Kant fortsätter i Humes spår. Enligt Kant hade Hume väckt honom ur, vad han själv kallade för, ett "dogmatiskt slummer". Ingen före Hume, menade Kant, hade på ett sådant allvar angripit de förgivettagna sanningarna i filosofin. Kants projekt var dock större än att bara acceptera Humes filosofi. Kant ville rädda kunskapen (och inte minst vetenskapen) från den skepticism som Hume så övertygande hade framlagt. Kant ville kort och gott ge ett svar på hur vi kan gå vidare efter det att Hume har "skakat om oss". 
+
+Med sin filosofiska gärning försöker Kant lösa den skepticism Hume introducerar via empirismen genom att kombinera [empirismen](3_3_2_kunskapens_kalla.md#Empirismen) (och Humes filosofi) med [rationalism](3_3_2_kunskapens_kalla.md#Rationalismen). 
+
+### Förnuft och erfarenhet
+För Kant hade det inom filosofin uppstått ett onödigt motsatsförhållande mellan förnuft och erfarenhet. Att fråga sig om vi finner kunskapens källa hos förnuftet eller erfarenheten var för Kant en från första början felställd fråga. Förnuft och erfarenhet är för Kant två sidor av samma mynt, att dela upp dem på detta sätt är missvisande. Detta eftersom: 
+
+1. Erfarenheten formas och färgas av det mänskliga förnuftet. Det går inte ha en _ren upplevelse_ – helt oberoende av förnuftet. 
+ 
+2. En rent förnuftsmässig kunskap om världen är tom på konkret innehåll. Det finns ingen Platonsk idévärld. Förnuftet utgör endast en struktur eller form som vi fyller med våra erfarenheter.  
+
+<!--För Kant går det inte att ha en erfarenhet utan förnuft och inte heller kan vi ha en ren förnuftsmässig kunskap utan att vi "fyller den" med erfarenhet.  -->
+
+**Kommentar:** Om detta känns svårbegripligt så är det för att det också är det. Läs vidare! Kants filosofi kan endast förstås i sin helhet. 
+
+Kant är rationalist i bemärkelse att han menar att vi föds med ett visst förnuft och därmed har en viss kunskap "i oss" som inte är beroende av erfarenheten. Att vi upplever orsak och verkan (kausalitet) handlar inte om att vi upplevt orsak och verkan, det handlar om att denna kategori ingår i mänskligt tänkande. På samma sätt är det med tid och rum. Tingen skulle kunna existera i andra dimensioner, men som människor kommer vi alltid uppfatta tingen i tid och rum. Ingen människa kan ha verkliga upplevelser bortom tid och rum (endast i drömmen).
+
+Kant är empirist i bemärkelse att vår kunskap om världen alltid baseras på sinneserfarenheten. Men till skillnad från de brittiska empiristerna ser han inte människan som ett tabula rasa – tvärtom. Människans sätt att tänka och inordna upplevelser är medfött och därmed universellt (alla människor upplever saker i tid och rum och tänker utifrån samma uppsättning grundläggande kategorier).
+
+Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid begränsad och beroende av: 
+
+1. Vår biologiska konstruktion: Det sätt vi tar in våra upplevelser/erfarenheter.
+	- Syn, hörsel, känsel, lukt, smak
+
+2. Vårt mänskligt förnuft: Det sätt vi inordnar våra erfarenheter/upplevelser och gör världen begriplig.
+	- Våra **åskådningsformer**: Tid och rum
+	- **Kategorier** vi tänker i
+		- Exempelvis: Möjlighet, nödvändighet, enhet, mångfald. 
+		- Och inte minst: Kausalitet. 
+
+<!--### Apriori och aposteriori  Aposteriori betyder _efter erfarenheten_.  -->
+
+### Kritisk idealism
+
+Kant menar inte bara att det uppstått ett onödigt motsatsförhållande mellan förnuft och erfarenhet. Han menar också att det är dags att formulera en filosofi bortom en ren idealism och bortom en ren realism (det sagt kategoriserar man traditionellt Kants filosofi som en kritisk _idealism_).
+
+För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_. Vi kan endast ha kunskap om _världen-som-fenomen_ och _tinget-som-fenomen_.
+
+Att uttala sig om världen bortom den typiskt mänskliga erfarenheten är endast spekulation. 
+Världen-som-fenomen är kunskapen och vetenskapens domän. Vi har inte tillgång till någon annan värld än så som den framträder för oss som människor.  Inte subjektivt, från person till person, utan universellt (det går att finna något som gäller för samtliga människors upplevelse).
+
+Världen-i-sig är "hoppets" och troendets domän, detta eftersom den går bortom vår faktiska erfarenhet (den är transfenomenell). Vi kan _tro_ att det finns en Gud, men vi kan aldrig strikt taget veta (och det är också det som är poängen med religionen). 
+
+
+
+<!--Världen-i-sig kan vara lite vad som helst, vi kan inte veta något om detta. Men den kan knappast vara "ingenting" eftersom fenomenen indikerar existensen av något som ger upphov till fenomenen. För Kant är således världen-i-sig inte bara ”det ovetbaras domän” utan också ”hoppets domän” -->
+
+<!-- - (Kant & gud) 	- Går ej bevisa guds existens! 		- MEN om: Descartes: Gud = garant för vår kunskap  SÅ: 		- Kant: Gud = garant för moralen 	- I detta skapar han ett något omvänt gudsbevis, om det ens kan kallas ett sådant. 		- ”Det vore förskräckligt om Gud inte existera” 		- Kant utesluter ju inte Guds existens, bara en säker kunskap om den. -->
+
+Det sagt finns det en direkt koppling mellan världen-i-sig och världen-som-fenomen. Det är tingen-i-sig som ger upphov till tingen-som-fenomen. Världen-som-fenomen handlar inte om _subjektiv idealism_: den uppstår inte _bara_ inom oss utan har sitt ursprung i världen-i-sig. 
+
+_För att sammanfatta:_
+
+1. Vad som existerar är oberoende av oss.
+2. Men vad vi kan veta om detta är beroende av mänsklig natur. Hur vårt mänskliga förnuft organiserar våra upplevelser
+3. Vi kan endast erfara världen som fenomen: Tinget-i-sig är ursprunget men tinget-som-fenomen är vår kunskap.
+
+
+<!--OBS: se not i Kant-todo -->
+
 ![BILD](0_kartor/kant_karta.svg)
 
 En bra och någorlunda lättläst text, som handlar om huruvida Kant är relativist eller objektivist finner ni här:  ["Kants första kritik" i Forskning och Framsteg](http://fof.se/tidning/2004/6/kants-forsta-kritik)
 
+**Att fundera på:** Löser Kant den skepticism som Hume introducerade? Varför? Varför inte? 
 
 <!--## Berkeley _Text kommer..._ -->
 

@@ -8,6 +8,8 @@ _Text kommer..._
 ## Popper
 _Text kommer..._
 
+**Att fundera på:** Leta upp ditt eget horoskop för denna vecka eller dag. Går horoskopet att falsifiera? Varför? Varför inte? 
+
 ## Kuhn
 _Text kommer..._
 
