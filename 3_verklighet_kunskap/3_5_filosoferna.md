@@ -247,9 +247,7 @@ För Kant hade det inom filosofin uppstått ett onödigt motsatsförhållande me
 
 <!--För Kant går det inte att ha en erfarenhet utan förnuft och inte heller kan vi ha en ren förnuftsmässig kunskap utan att vi "fyller den" med erfarenhet.  -->
 
-**Kommentar:** Om detta känns svårbegripligt så är det för att det också är det. Läs vidare! Kants filosofi kan endast förstås i sin helhet. 
-
-Kant är rationalist i bemärkelse att han menar att vi föds med ett visst förnuft och därmed har en viss kunskap "i oss" som inte är beroende av erfarenheten. Att vi upplever orsak och verkan (kausalitet) handlar inte om att vi upplevt orsak och verkan, det handlar om att denna kategori ingår i mänskligt tänkande. På samma sätt är det med tid och rum. Tingen skulle kunna existera i andra dimensioner, men som människor kommer vi alltid uppfatta tingen i tid och rum. Ingen människa kan ha verkliga upplevelser bortom tid och rum (endast i drömmen).
+Kant är rationalist i bemärkelse att han menar att vi föds med ett visst förnuft och därmed en viss kunskap "i oss" som inte är beroende av erfarenheten. Att vi exempelvis upplever orsak och verkan (kausalitet) handlar inte om att vi _direkt_ upplevt orsak och verkan, det handlar om att denna kategori ingår i mänskligt tänkande. Att kategorisera in tingen i orsak och verkan är ingen "slapp vana" som hos Hume, tvärtom är det vårt enda sätt att göra världen begriplig. Grunden för kausalitet är alltså inte empirisk utan rationell. På samma sätt är det med tid och rum. Tingen skulle kunna existera i andra dimensioner, men som människor kommer vi alltid uppfatta tingen i tid och rum. Ingen människa kan ha verkliga upplevelser bortom tid och rum (endast i drömmen).
 
 Kant är empirist i bemärkelse att vår kunskap om världen alltid baseras på sinneserfarenheten. Men till skillnad från de brittiska empiristerna ser han inte människan som ett tabula rasa – tvärtom. Människans sätt att tänka och inordna upplevelser är medfött och därmed universellt (alla människor upplever saker i tid och rum och tänker utifrån samma uppsättning grundläggande kategorier).
 
@@ -264,17 +262,21 @@ Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid b
 		- Exempelvis: Möjlighet, nödvändighet, enhet, mångfald. 
 		- Och inte minst: Kausalitet. 
 
-<!--### Apriori och aposteriori  Aposteriori betyder _efter erfarenheten_.  -->
+<!-- Få in apriorisk och aposteriori ändå, men tryck på att de kräver och behöver varandra för att inte motsäga mig själv (eller skita i detta? Hmm kanske inte...) Sök inspiration! I relation till delarna"kant som empirist / kant som rationalist" -->
+
+<!--Skriv någonting mer om kategorierna efter (eller innan?) jag nämner dem (kant) sök inspiration -->
+
+**Kommentar:** Kant menar att vårt tänkande utgår ifrån tolv grundläggande kategorier. Om man är intresserad av en mer fullständig lista: [se här](https://plato.stanford.edu/entries/categories/#KanCon)
 
 ### Kritisk idealism
 
 Kant menar inte bara att det uppstått ett onödigt motsatsförhållande mellan förnuft och erfarenhet. Han menar också att det är dags att formulera en filosofi bortom en ren idealism och bortom en ren realism (det sagt kategoriserar man traditionellt Kants filosofi som en kritisk _idealism_).
 
-För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_. Vi kan endast ha kunskap om _världen-som-fenomen_ och _tinget-som-fenomen_.
+För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_. Vi har endast tillgång till _världen-som-fenomen_ och _tinget-som-fenomen_.
 
-Att uttala sig om världen bortom den typiskt mänskliga erfarenheten är endast spekulation. Världen-som-fenomen är kunskapen och vetenskapens domän. Vi har inte tillgång till någon annan värld än världen så som den framträder för oss (som människor). Inte subjektivt, från person till person, utan universellt (det går att finna något som gäller för samtliga människors upplevelse).
+Att uttala sig om världen bortom den typiskt mänskliga erfarenheten är endast spekulation. Vi har inte tillgång till någon annan värld än världen så som den framträder för oss (som människor). Inte subjektivt, från person till person, utan universellt (det går att finna något som gäller för samtliga människors upplevelse).
 
-Världen-i-sig är "hoppets" och troendets domän, detta eftersom den går bortom vår faktiska erfarenhet (den är transfenomenell). Vi kan _tro_ att det finns en Gud, men vi kan aldrig strikt taget veta (och det är också det som är poängen med religionen). 
+Världen-som-fenomen är kunskapen och vetenskapens domän. Världen-i-sig är "hoppets" och troendets domän – detta eftersom den går bortom vår faktiska erfarenhet (den är transfenomenell). Vi kan _tro_ att det finns en Gud, men vi kan aldrig strikt taget veta (och det är också det som är poängen med religion, menar Kant). 
 
 
 
@@ -287,15 +289,16 @@ Det sagt finns det en direkt koppling mellan världen-i-sig och världen-som-fen
 _För att sammanfatta:_
 
 1. Vad som existerar är oberoende av oss.
-2. Men vad vi kan veta om detta är beroende av mänsklig natur. Hur vårt mänskliga förnuft organiserar våra upplevelser
-3. Vi kan endast erfara världen som fenomen: Tinget-i-sig är ursprunget men tinget-som-fenomen är vår kunskap.
+2. Men vad vi kan veta om detta är beroende av mänsklig natur. Hur vårt mänskliga förnuft organiserar våra upplevelser. 
+3. Åskådningsformerna (tid och rum) och kategorierna (exempelvis kausalitet) är universella. Alla människor har samma förnuftsmässiga grund att stå på.
+4. Vi kan endast erfara världen som fenomen: Tinget-i-sig är ursprunget men tinget-som-fenomen är vår kunskap.
 
 
 <!--OBS: se not i Kant-todo -->
 
 ![BILD](0_kartor/kant_karta.svg)
 
-En bra och någorlunda lättläst text, som handlar om huruvida Kant är relativist eller objektivist finner ni här:  ["Kants första kritik" i Forskning och Framsteg](http://fof.se/tidning/2004/6/kants-forsta-kritik)
+**Tips:** En bra och någorlunda lättläst text, som handlar om huruvida Kant är relativist eller objektivist finner ni här:  ["Kants första kritik" i Forskning och Framsteg](http://fof.se/tidning/2004/6/kants-forsta-kritik)
 
 **Att fundera på:** Löser Kant den skepticism som Hume introducerade? Varför? Varför inte? 
 
