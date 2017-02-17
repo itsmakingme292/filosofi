@@ -52,8 +52,9 @@
   * [2. Verkligheten](3_verklighet_kunskap/3_2_verkligheten.md)
   * [3.1. Kunskap & Sanning](3_verklighet_kunskap/3_3_kunskap_sanning.md)
   * [3.2. Kunskapens källa](3_verklighet_kunskap/3_3_2_kunskapens_kalla.md)
-  * [4. Vetenskapen](3_verklighet_kunskap/3_4_vetenskapen.md)
-  * [5. Filosoferna](3_verklighet_kunskap/3_5_filosoferna.md)
+  * [4. Filosoferna](3_verklighet_kunskap/3_5_filosoferna.md)
+  * [5. Vetenskapen](3_verklighet_kunskap/3_4_vetenskapen.md)
+
 
   - - - -
   * # Övningar & Diskussionsunderlag

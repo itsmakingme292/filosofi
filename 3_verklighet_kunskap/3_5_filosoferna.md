@@ -266,6 +266,8 @@ Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid b
 
 <!--Skriv någonting mer om kategorierna efter (eller innan?) jag nämner dem (kant) sök inspiration -->
 
+<!--Kanske ha Kants 12 kategorier i tre klasser??!?  **Kvantitet**  * Enhet * Pluralitet * Totalitet  **Kvalitet**  * Verklighet * Negation * Begränsning  **Relation**  * Tillhörighet och substans * Kausalitet * Ömsesidighet  **Modalitet**  * Möjlighet * Existens * Nödvändighet -->
+
 **Kommentar:** Kant menar att vårt tänkande utgår ifrån tolv grundläggande kategorier. Om man är intresserad av en mer fullständig lista: [se här](https://plato.stanford.edu/entries/categories/#KanCon)
 
 ### Kritisk idealism
