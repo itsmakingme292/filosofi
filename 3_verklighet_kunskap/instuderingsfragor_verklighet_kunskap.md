@@ -1,113 +1,117 @@
-# Seminarium: Läsanvisningar & Instuderingsfrågor
+# Seminarium: Verklighet & Kunskap
 
 ## Instruktioner
 
-1. Inför detta seminarium kommer ni att få lektionstid (utöver genomgångar och övningar) till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. Kom gärna även på studiepass för extra hjälp. 
+1. Inför detta seminarium kommer ni att få lektionstid (utöver genomgångar och övningar) till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. 
 
-2. Läs i första hand texterna ni finner under fliken för detta delmoment samt era lektionsanteckningar. Titta gärna också på andra källor och jämför. 
+2. Läs i första hand texterna ni finner under fliken för detta delmoment samt era lektionsanteckningar. Titta gärna också på andra källor och jämför (se tips på vidare läsning [här](../x_lankar/lanklista.md)). Anteckna era efterforskningar och tänk på att utveckla era egna resonemang, tankar, argument och idéer. Tänk också på att instuderingsfrågorna nedan endast är ett underlag och att ni därför bör tänka utanför dem. 
 
-3. Under ert arbete förbereder ni anteckningar med stolpar över sådant ni funnit intressant och viktigt. Det är här viktigt att ni verkligen försöker utveckla era egna resonemang, tankar, argument och idéer. Dessa anteckningar har ni sedan som stöd inför era förberedelser. 
+3. Det är tillåtet att ta med sig stödanteckningar till seminariet, men ta inte med er samtliga anteckningar från era förberedelser, utan försök snarare arbeta fram en slags lathund. Stödanteckningarna ska inte vara ett alternativ till att inte ha läst på ordentligt. Läser man innantill drar detta givetvis ner omdömet. 
 
-4. Det är tillåtet att ta med sig stödanteckningar till seminariet, men ta inte med er samtliga anteckningar från era  förberedelser, utan försök snarare få fram ett antal punkter ni finner intressanta och vill ta upp under seminariet. Stödanteckningarna ska inte vara ett alternativ till att inte ha läst på ordentligt. Läser man innantill drar detta givetvis ner omdömet. 
+4. Under seminariet kommer jag att ställa frågor, men diskussionen är _delvis_ fri och driver idealt sig själv. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att _utgå_ ifrån det vi faktiskt gått igenom under detta moment. Hur bra ni än anser er vara på att diskutera är ni föga hjälpta om ni inte läst på och baserar er diskussion på de filosofiska teorierna.  
 
-4. Under seminariet kommer jag att ställa frågor om så behövs, men diskussionen är delvis fri och driver idealt sig själv. Tanken är att det är ni som för samtalet och att jag modererar så lite som möjligt. Det är därför viktigt att ni i era förberedelser har en framtida fruktbar diskussion i åtanke och inte en monolog. Tänk också på att instuderingsfrågorna endast är ett underlag och att ni därför bör tänka utanför dem, samt att inte alla frågor kan ges samma utrymme (om alls). 
+## Bedömning
 
-
-#### För ett högre omdöme gäller det att du i hög grad
+*För ett högre omdöme gäller det att du i hög grad:*
 
 1. Uttrycker dina kunskaper i ämnet med säkerhet och i detta redovisar relevanta delar på ett utförligt och nyanserat sätt.
 
-2. Tar ett stort eget ansvar för efterforskningar i ämnet, formulerar dig självständigt utifrån de källor som du använt, samt för dina egna och väl genomtänka resonemang.
+2. Tar ett eget ansvar för efterforskningar i ämnet, formulerar dig självständigt utifrån de källor som du använt, samt för dina egna och väl genomtänka resonemang.
 
 3. Ger intressanta infallsvinklar och driver diskussionen framåt, samt argumenterar på ett tydligt, hållbart och relevant sätt.
+
+Och inte minst: [se kunskapskraven](../1_intro/kursplan.md#Kunskapskrav).
+
+<!--Få in något om att svara på följdfrågor här -->
 
 
 ## Instuderingsfrågor
 
 **Tips:** Läs först igenom alla instuderingsfrågor och lägg upp en strategi för hur du tänker jobba med dem. Det är exempelvis inte nödvändigt att göra dem i samma ordning som de står i här. Fundera under dina förberedelser också på olika sätt som nedanstående frågor hänger ihop.
 
-- Vad är metafysik och ontologi?
-	- Vad är monism, dualism och pluralism?
-		- Ge ett exempel på en dualism 
-	- Vad är materialism/fysikalism? 
-- Vad är epistemologi? 
-	- Vilka frågor berör epistemologi?
-	- Hur ser du att epistemologi hänger ihop med metafysik? 
+<!--borttaget: - Vad är metafysik och ontologi? 	- Vad är monism, dualism och pluralism? - Vad är epistemologi?  	- Vilka frågor berör epistemologi? -->
+
+<!--- Vad är materialism/fysikalism?  	- Gällande vilken fråga uppstår ibland invändningar mot denna? -->
+
 - Vad är den klassiska definitionen av kunskap?  
-	- Vilka är dess tre kriterier och vad innebär dessa?
+	- Vilka är dess tre kriterier? Vad innebär dessa och anser du att de är rimliga (varför/varför inte)?
 		- Varför kan en dator eller en bok inte "ha kunskap"? Vad kan de ha istället?
+
 - Vad är skillnaden mellan objektivism och relativism?
 	- Vilka olika typer av relativism finns det?
-	- Vad är absolutism?
+	- Vilka olika typer av objektivism finns det? 
+
 - Vad är skepticism?
-	- Vad gjorde Hume till en skeptiker och en radikal/extrem empirist? Vad kan vi veta? Vad kan vi inte veta?
+	- Är det överhuvudtaget möjligt att vara global skeptiker som människa? 
+	- Vad gjorde Hume till en skeptiker och en radikal empirist? Vad kan vi veta? Vad kan vi inte veta?
 	- Vad kallas Descartes särskilda form av skepticism, varför kallas den så och varför är den egentligen inte en skepticism? 
-		- Vad betyder ”cogito ergo sum” och vad menas? 
+		- Vad betyder ”cogito ergo sum”? Hur kommer Descartes fram till detta och är hans slutsats rimlig?
 		- Hur använder Descartes tanken på en ond ande/demon?
-		- På vilket sätt spelar Gud en roll i allt detta? 
+		- På vilket sätt spelar Gud en roll i allt detta? Och vad är styrkor och svagheter i Descartes resonemang här?
+		- Kan vi lära oss något av Descartes angreppssätt?
+
 - Vad är fallibilism? 
 	- På vilket sätt skiljer sig fallibilismen från skepticismen och på vilket sätt är de lika? 
-- Beskriv pragmatismens syn på sanning och kunskap. Vad tänker du om denna? 
+
+- Beskriv pragmatismens syn på sanning och kunskap. 
+	- Vad tänker du själv om denna? Dags att göra sig av med den "gamla" synen på sanning? 
+	- Är kunskap aldrig värdefull i sig själv? Vad säger pragmatismen? Vad säger du?
+
+<!--Vad tänker du, finns det kunskap som är värdefull i sig eller är kunskap alltid värdefull i relation till något annat (instrumentell)? -->
+
 - Vad är empirism och vad är rationalism?
-	- Vilka av filosoferna Platon, Locke, Descartes och Hume är rationalister och vilka av dem är empirister? Hur då? 
+	- Vilka av filosoferna Platon, Descartes, Locke och Hume är rationalister och vilka av dem är empirister? Hur då? 
 
 - Hur skiljer sig idealism från realism?
 	- Vad är skillnaden mellan objektiv, subjektiv och kritisk idealism?
 	- Vad är skillnaden mellan naiv och kritisk realism?
-	- Platon är främst en viss typ av idealist, men också en viss typ av realist. Vilka?
+
+<!--	- Platon är främst en viss typ av idealist, men också en viss typ av realist. Vilka? -->
+
 - Vad är solipsism?
 	- På vilket sätt är denna rimlig? På vilket sätt är den orimlig?
 	- Är solipsism en typ av idealism eller en typ av realism? Varför? 
 
-- Beskriv Kants uppdelning av världen/tingen och hans syn på människans förmåga till kunskap. 
-	- Var Kant realist eller idealist? Vilken typ och varför?
-	- Vilken roll spelar Kants kategorier och vilka är de två mänskliga åskådningsformerna?
-	- På vilket sätt kan man säga att Kant löser upp den gamla skiljelinjen mellan rationalism och empirism? 
-	- På vilket sätt kan Kant sägas stå för en objektiv kunskapsuppfattning och på vilket sätt kan han sägas stå för en relativ? Hur kommer det sig att båda tolkningar är möjliga?
+- Hur beskriver Platon förhållandet mellan sinnevärlden och idévärlden? 
+	* I vilken av dessa finner vi kunskapen och varför?
+	- Vad betyder det att sinnevärldens ting är förgängliga och på vilket sätt kontrasterar detta mot idévärlden?
+	- Vilka poänger ser du i Platons filosofi? Vilka problem?
 
-- Vad är skillnaden mellan primära och sekundära egenskaper enligt Locke? 
-	- Vad skulle en naiv realist säga om Lockes primära och sekundära egenskaper?
 - Hur resonerar Locke kring medfödd kunskap? 
 	- Vad säger han att människan föds som? 
 	- Och framförallt: hur hänger detta ihop med hans empirism?  
 	- Vad tänker du? Vem här rätt här? Locke eller exempelvis Kant? 
-- Vad kallas de två världarna hos Platon och i vilken av dessa finner vi kunskapen?
-	- Hur ser Platon på kunskap och förhållandet mellan sinnevärlden och idévärlden? 
-		- Vad betyder det exempelvis att sinnevärldens ting är förgängliga och på vilket sätt kontrasterar detta mot idévärlden?
+* Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
+	- Hur hänger detta ihop med hans empirism tänker du?
+* Vad är skillnaden mellan primära och sekundära egenskaper enligt Locke? 
+	- Vad skulle en naiv realist säga om Lockes primära och sekundära egenskaper?
+
+- Beskriv Kants uppdelning av världen/tingen och hans syn på människans förmåga till kunskap. 
+	- Var Kant realist eller idealist? Vilken typ, hur och varför?
+	- Vilken roll spelar Kants kategorier och vilka är de två mänskliga åskådningsformerna?
+	- På vilket sätt kan man säga att Kant löser upp den gamla skiljelinjen mellan rationalism och empirism? 
+	- På vilket sätt kan Kant sägas stå för en objektiv kunskapsuppfattning och på vilket sätt kan han sägas stå för en relativ? Hur kommer det sig att båda tolkningar är möjliga? Hur resonerar du?
 
 * Vad är skillnaden mellan verifikationism och falsifikationism?
 	* Hur menar Popper att vetenskap kännetecknas av falsifierbarhet snarare än verifikation? Varför är detta en viktig fråga för Popper? 
-	* Hur hänger falsifikationism ihop med fallibilism? 
+	* Hur hänger falsifikationism ihop med hans fallibilism tänker du?
 * Vilken syn på vetenskap och filosofi har den logiska positivismen? 
 	* Hur tänker du själv här? Vad är ett meningsfullt påstående? 
 * Vad är Kuhns syn på vetenskapen? 
 	* Vad innebär det att vetenskapen är paradigmatisk? 
 	* På vilket sätt är paradigmen ojämförbara? 
+	* Har Kuhn rätt eller fel om vetenskapens "utveckling"?
+	* Kan Kuhns teori i någon mening tillämpas på vårt liv utanför vetenskapen? 
 
 - Vilken syn på verklighet, sanning och kunskap har du? 
 	- Hur står du i relation till filosoferna och de olika filosofiska ismerna? Vad anser du om deras sätt att resonera? 
 	- Är du relativist eller objektivist? Varför? 
 		- Vilken typ av relativist eller objektivist? Eller om du vill du inta en tredje position: hur ser i så fall denna ut? 
-		- Hur hänger detta samman med din syn på verkligheten? Realism kontra idealism...
+		- Hur hänger detta samman med din syn på verkligheten? 
 	- Hur ser du på kunskapens källa? Hur får vi kunskap? Lutar du mer åt rationalism eller empirism? Varför? 
 	- Hur tänker du kring kunskapens säkerhet? Kan vi någonsin veta att vi har sann kunskap? Är detta ett problem? 
 
-
-<!--Frågor som är borttagna
-
-Under pragmatism:
-- Vad tänker du, finns det kunskap som är värdefull i sig eller är kunskap alltid värdefull i relation till något annat (instrumentell)?
-
-* Vad är skillnaden mellan enkla och komplexa idéer hos Locke?
-
-- Vad är materialism/fysikalism? 
-	- Gällande vilken fråga uppstår ibland invändningar mot denna?
-
- -->
-
-## Tips på ev. vidare läsning
-
-[Se länklista här](../x_lankar/lanklista.md)
+**OBS:** Givetvis kommer vi under seminariet inte att hinna med alla frågor, inte heller kommer vi att kunna ge alla områden samma tid. Detta betyder dock inte att det är en giltig invändning att hävda att man inte fokuserat på just de frågor som kommer upp. Ett examinerande tillfälle är alltid ett "stickprov". 
 
 ## Datum, tider och grupper
 

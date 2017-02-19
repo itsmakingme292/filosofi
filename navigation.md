@@ -62,7 +62,7 @@
   * [Övningsuppgifter](3_verklighet_kunskap/ovningsuppgifter_verklighet_kunskap.md)
   - - - -
   * # Examinerande moment
-  * [Seminarium: Läsanvisningar <br>& Instuderingsfrågor](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
+  * [Seminarium](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
   
 [Länktips]()
 
