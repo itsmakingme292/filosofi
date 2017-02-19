@@ -2,7 +2,7 @@
 
 ## Vad är vetenskap?
 
-Vetenskap tycks vara en särskild form av kunskap som vi håller högre än all annan typ av kunskap. Detta blir inte minst tydligt i vår vardagliga användning av begreppet. Ordet "vetenskaplig" använder vi för föreställningar som vi anser är mer trovärdiga än andra. Och när vi tvärtom kallar en föreställning för "ovetenskaplig" är det nästan alltid som en slags förolämpning. 
+Vetenskap är för de flesta en särskild form av kunskap som hålls högre än all annan typ av kunskap. Detta blir inte minst tydligt i vår vardagliga användning av begreppet. Ordet "vetenskaplig" använder vi för föreställningar som vi anser är mer trovärdiga än andra. Och när vi tvärtom kallar en föreställning för "ovetenskaplig" är det nästan alltid som en slags förolämpning. 
 
 Vad som mer exakt menas när vi säger att en föreställning är vetenskaplig är dock inte alltid helt lätt att definiera. Men om det finns något som kännetecknar hur man rent filosofisk angriper frågan så är det att nyckeln till svaret tycks ligga i att samtidigt resonera kring _vad som inte är vetenskap_. Och inte minst om att resonera kring vad som skiljer den _vetenskapliga metoden_ från all annan form av kunskapsinhämtning. 
 
@@ -34,27 +34,34 @@ För de logiska positivisterna är dock logiken mer "tom" på innehåll än vad 
 
 ### Meningslösa påståenden och begrepp
 
-Den logiska positivismen (som också ibland kallas för den logiska empirismen) är en särskilt hårdför form av empirism. För den logiska positivismen finns det ingen större skillnad mellan vetenskap och kunskap. Allt som är meningsfullt är också vetenskapligt och _endast det iakttagbara är meningsfullt_. Logiken, hur nödvändig den är, bär exempelvis inte på någon större mening (den är bara ett skal, som vi fyller med mening). 
+Den logiska positivismen (som också ibland kallas för den logiska empirismen) är en särskilt hårdför form av empirism. För den logiska positivismen finns det ingen större skillnad mellan vetenskap och kunskap. Allt som är meningsfullt är också vetenskapligt och _endast det iakttagbara är verkligt meningsfullt_. Logiken, hur nödvändig den är, bär exempelvis inte på någon större mening (den är bara ett skal, som vi fyller med mening). 
 
-Framförallt ville de logiska positivisterna göra upp med  _metafysiken_, vilken de ansåg inte hade någon plats i en modern värld. När Kant exempelvis påstår att det finns en ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående. Detta eftersom att ingen upplevelse någonsin kan verifiera detta påstående. 
+Framförallt ville de logiska positivisterna göra upp med  _metafysiken_, vilken de ansåg inte hade någon plats i en modern värld. När Kant exempelvis påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående. Detta eftersom att ingen upplevelse någonsin kan verifiera detta påstående. 
 
 Ludwig Wittgenstein (1889-1951), en av de främsta inspiratörerna till den logiska positivismen, uttryckte i sitt verk _Tractatus_ vad som kommit att bli den logiska positivismens slagord: 
 
 > "Vad man icke kan tala om, därom måste man tiga." 
 
-### Filosofins roll
+### Filosofin & vetenskapen
 
-Eftersom filosofi traditionellt hanterat icke-empiriska frågor så blir den filosofin för de logiska positivisterna också helt meningslös. I detta gick de så långt som att hävda att de flesta filosofiska problem rentav aldrig varit verkliga problem. Filosofins problem är endast pseudo-problem – antingen därför att de handlar om sådant som inte går att verifiera med sinneserfarenheter, eller därför att det filosofiska språket inte tillräckligt tydligt visat de logiska relationerna mellan begreppen. 
+Eftersom filosofin traditionellt hanterat icke-empiriska frågor så blir merparten av filosofin för de logiska positivisterna också helt meningslös. I detta gick de så långt som att hävda att de flesta filosofiska problem rentav aldrig varit verkliga problem. Filosofins problem är endast pseudo-problem – antingen därför att de handlar om sådant som inte går att verifiera med sinneserfarenheter, eller därför att det filosofiska språket inte tillräckligt tydligt visat de logiska relationerna mellan begreppen. 
 
 Filosofins enda uppgift var för de logiska positivisterna att städa upp den oreda som filosofin själv lämnat efter sig. I detta blir filosofi endast en _terapeutisk verksamhet_ som handlar om att reda ut oklarheter i vårt språk och därmed endast en slags hjälpreda för vetenskapen. 
 
 Endast vetenskapen kan syssla med det verkligt meningsfulla och det enda meningsfulla är det som går att verifiera med observationer. 
+
+
 
 <!--Få in koppling till korrespondensteori? -->
 
 <!--I detta kan filosofin dock vara ett _stöd_ för vetenskapen, i den mån filosofer hjälper till att utveckla ett neutralt, exakt och logiskt språk som fungerar för alla former av vetenskap. -->
 
 <!--Skriva något om enhetsvetenskap? -->
+
+<!--Frågan "Vad är skillnaden mellan verifikationism och falsifikationism?" Svarar jag inte på i logisk positivism. Gör tydligt att de är verifikationister -->
+
+<!--Få in under logiska positivismen om att desto fler iaktelser/observationer som tycks bekräfta, desto mer sannolikt. Att vara vetenskaplig handlar inte om att nöja sig med ett fåtal observationer.  Fyll på allmänt efter "Endast vetenskapen kan syssla med det verkligt meningsfulla och det enda meningsfulla är det som går att verifiera med observationer" -->
+
 
 
 ## Popper

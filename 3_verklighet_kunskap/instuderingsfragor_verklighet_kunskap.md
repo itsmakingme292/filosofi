@@ -1,24 +1,10 @@
 # Seminarium: Läsanvisningar & Instuderingsfrågor
 
-**OBS:** Nedan gäller inte för läsåret 2016-2017. Tanken är att vi helt ska kunna slippa kursboken detta läsåret och att det som finns nedan helt ska kunna ersättas med nya texter på denna sida. 
-
-## Läsanvisningar
-
-*Utöver innehållet under fliken för detta delmoment kommer merparten av läsningen utgå ifrån kursboken, totalt ca: 50 sidor*
-
-* **14-20:** Grundläggande om verklighet
-* **27-35:** Antik metafysik (framförallt Platon & Aristoteles)
-* **102-122:** Kunskapsteori
-* **129-143**: Vetenskapen
-* **167-170:** Sanning
-
-**Info:** På sikt kommer ovanstående att ersättas med material här på hemsidan. 
-
 ## Instruktioner
 
 1. Inför detta seminarium kommer ni att få lektionstid (utöver genomgångar och övningar) till att själva läsa, söka information, anteckna, fundera, resonera och jobba med nedanstående instuderingsfrågor. Ta tillvara på denna tid så att det inte blir lika mycket att göra hemma, men också för att ni under denna tid kan använda mig som ett bollplank för idéer och som en hjälp då ni kör fast eller är osäkra på något. Kom gärna även på studiepass för extra hjälp. 
 
-2. Följ i första hand ovanstående läsanvisningar, era lektionsanteckningar samt den text jag skrivit under detta delmoment, men titta gärna också på andra källor och jämför. 
+2. Läs i första hand texterna ni finner under fliken för detta delmoment samt era lektionsanteckningar. Titta gärna också på andra källor och jämför. 
 
 3. Under ert arbete förbereder ni anteckningar med stolpar över sådant ni funnit intressant och viktigt. Det är här viktigt att ni verkligen försöker utveckla era egna resonemang, tankar, argument och idéer. Dessa anteckningar har ni sedan som stöd inför era förberedelser. 
 

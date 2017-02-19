@@ -1,7 +1,5 @@
 # Filosoferna
 
-**Om denna sida:** Här kommer text om de filosofer vi behandlar under detta delmoment framöver att fyllas på. Förhoppningsvis blir detta arbete klart under VT17. I annat fall delar jag ut en kompletterande lärobok eller annat extramaterial.
-
 ## Platon
 > **Kort om:** Platon (427-347 f.Kr.) är en av filosofihistoriens allra mest kända och betydelsefulla filosofer. Vissa har till och med sagt att all filosofi sedan Platon endast utgör små fotnoter till hans filosofi. 
 
@@ -19,7 +17,7 @@ Sinnesvärlden är egentligen inte mycket till verklighet, denna är endast sken
 
 <!--Formulera om ovanstående mening (bygg om den syftningsmässigt och ordningsmässigt) --> 
 
-Idévärlden är den sanna verkligheten bortom tid och rum. En  oföränderlig och _ideal_ verklighet där en fyrkant alltid är en perfekt fyrkant. Sinnesvärlden är endast en ofullkomlig kopia eller förvrängd avspegling av idévärlden. I sinnesvärlden är ett cirkelformat objekt aldrig helt cirkelformat och en rät linje aldrig helt rät. Vad det innebär att något är cirkelformat går därför inte att förstå genom att endast undersöka objekt som ser cirkelformade _ut_. Tvärtom förstår vi endast begreppet "cirkel" om vi vänder oss till vårt förnuft – genom att vi förstår "cirkelns idé". För Platon är kunskapen i slutändan en begreppskunskap och idévärlden är "platsen" där vi finner begreppens (idéernas) sanna innebörd. 
+Idévärlden är den sanna verkligheten bortom tid och rum. En  oföränderlig och _ideal_ verklighet där en fyrkant alltid är en perfekt fyrkant. Sinnesvärlden är endast en ofullkomlig kopia eller förvrängd avspegling av idévärlden. I sinnesvärlden är ett cirkelformat objekt aldrig helt cirkelformat och en rät linje aldrig helt rät. Vad det innebär att något är cirkelformat går därför inte heller att förstå genom att endast undersöka objekt som ser cirkelformade _ut_. Tvärtom förstår vi endast begreppet "cirkel" om vi vänder oss till vårt förnuft – genom att vi förstår "cirkelns idé". För Platon är kunskapen i slutändan en begreppskunskap och idévärlden är "platsen" där vi finner begreppens (idéernas) sanna innebörd. 
 
 > _Så vad är en cirkel?_
 > > 
@@ -195,9 +193,9 @@ Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som em
 		- Låt säga att vi spelar biljard och två kulor stöter emot varandra: Vi _kan inte se_ att kula 1 med nödvändighet "tvingar" kula 2 att röra sig – bara att kula 1 och kula 2 rör sig tidsmässigt efter varandra.
 	- Vår uppfattning om orsak och verkan är endast en "mänsklig vana". Vi tror oss se denna överallt – men aldrig egentligen.
 
-3. Våra induktiva resonemang kommer att stämma.
+3. Våra induktiva resonemang kommer att stämma (se [Deduktion & induktion](../2_fil_verktyg/2_3_logik.md#Deduktion_&_induktion) för mer information)
 	-  Eftersom vi endast kan uttala oss om det vi har direkt sinneserfarenhet av kan vi inte dra slutsatser om framtiden. Bara för ett en viss sak "alltid" händer betyder det inte att _vi vet_ att den kommer att göra det igen. 
-	- Inte heller kan vi dra slutsatsen att alla svanar är vita bara för att vi endast sett vita svanar. Vi kan aldrig utesluta att vi en dag kommer att se en svart svan (se [Deduktion & induktion](../2_fil_verktyg/2_3_logik.md#Deduktion_&_induktion)). 
+	- Inte heller kan vi dra slutsatsen att alla svanar är vita bara för att vi endast sett vita svanar. Vi kan aldrig utesluta att vi en dag kommer att se en svart svan. 
 
 4. Vi har en själ eller ett "Jag".
 	- Vi har endast en direkt upplevelse av våra känslor och tankar – inte själva "behållaren" eller ursprunget för dessa. Vi kan inte veta något om en mer bestående, "inre enhet" så som en själ eller ett "Jag".
@@ -249,7 +247,9 @@ För Kant hade det inom filosofin uppstått ett onödigt motsatsförhållande me
 
 Kant är rationalist i bemärkelse att han menar att vi föds med ett visst förnuft och därmed en viss kunskap "i oss" som inte är beroende av erfarenheten. Att vi exempelvis upplever orsak och verkan (kausalitet) handlar inte om att vi _direkt_ upplevt orsak och verkan, det handlar om att denna kategori ingår i mänskligt tänkande. Att kategorisera in tingen i orsak och verkan är ingen "slapp vana" som hos Hume, tvärtom är det vårt enda sätt att göra världen begriplig. Grunden för kausalitet är alltså inte empirisk utan rationell. På samma sätt är det med tid och rum. Tingen skulle kunna existera i andra dimensioner, men som människor kommer vi alltid uppfatta tingen i tid och rum. Ingen människa kan ha verkliga upplevelser bortom tid och rum (endast i drömmen).
 
-Kant är empirist i bemärkelse att vår kunskap om världen alltid baseras på sinneserfarenheten. Men till skillnad från de brittiska empiristerna ser han inte människan som ett tabula rasa – tvärtom. Människans sätt att tänka och inordna upplevelser är medfött och därmed universellt (alla människor upplever saker i tid och rum och tänker utifrån samma uppsättning grundläggande kategorier).
+Kant är empirist i bemärkelse att vår kunskap om världen alltid _baseras_ på sinneserfarenheten. Men till skillnad från de brittiska empiristerna ser han inte människan som ett tabula rasa – tvärtom. Människans sätt att tänka och inordna upplevelser är (till skillnad från vad Locke menar) medfött och därmed universellt. Alla människor upplever saker i tid och rum och tänker utifrån samma uppsättning grundläggande kategorier – detta är inget vi "lär oss" detta är från första början givet (och ingen människa har någonsin inordnat sina upplevelser på annat sätt).
+
+<!--Kanske något mer tydligt kring locke, medfött etc, här?  -->
 
 Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid begränsad och beroende av: 
 
@@ -276,6 +276,8 @@ Kant menar inte bara att det uppstått ett onödigt motsatsförhållande mellan 
 
 För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_. Vi har endast tillgång till _världen-som-fenomen_ och _tinget-som-fenomen_.
 
+**Ordförklaring:** Terminologi är de termer (begrepp) man använder inom ett visst fackområde. Vad gäller filosofer utformar de gärna en egen terminologi (de uppfinner nya begrepp). Därtill uppstår det ofta olika varianter av terminologin, inte minst genom olika översättningar. Kants _tinget-i-sig_ har exempelvis många namn. Vanligt förekommande är bland annat _varat-i-sig_ och *noumenon*.
+
 Att uttala sig om världen bortom den typiskt mänskliga erfarenheten är endast spekulation. Vi har inte tillgång till någon annan värld än världen så som den framträder för oss (som människor). Inte subjektivt, från person till person, utan universellt (det går att finna något som gäller för samtliga människors upplevelse).
 
 Världen-som-fenomen är kunskapen och vetenskapens domän. Världen-i-sig är "hoppets" och troendets domän – detta eftersom den går bortom vår faktiska erfarenhet (den är transfenomenell). Vi kan _tro_ att det finns en Gud, men vi kan aldrig strikt taget veta (och det är också det som är poängen med religion, menar Kant). 
@@ -291,7 +293,7 @@ Det sagt finns det en direkt koppling mellan världen-i-sig och världen-som-fen
 _För att sammanfatta:_
 
 1. Vad som existerar är oberoende av oss.
-2. Men vad vi kan veta om detta är beroende av mänsklig natur. Hur vårt mänskliga förnuft organiserar våra upplevelser. 
+2. Men vad vi kan veta om detta är beroende av mänsklig natur. Dels av vår sinnesapparat (hur vi tar in upplevelser). Dels av vårt mänskliga förnuft (hur vi organiserar våra upplevelser). 
 3. Åskådningsformerna (tid och rum) och kategorierna (exempelvis kausalitet) är universella. Alla människor har samma förnuftsmässiga grund att stå på.
 4. Vi kan endast erfara världen som fenomen: Tinget-i-sig är ursprunget men tinget-som-fenomen är vår kunskap.
 

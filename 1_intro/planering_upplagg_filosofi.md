@@ -19,9 +19,9 @@
 
 ## Om upplägget
 
-* Jag har valt att, så långt det är möjligt, själv skriva det material som utgör merparten av ”kurslitteraturen”. Dels eftersom detta innebär en tydlig avsändare som ni direkt kan fråga om otydligheter och ställa mot väggen vad gäller tolkningar och påståenden kring filosoferna, de filosofiska skolorna och de filosofiska begreppen. Dels eftersom detta på så vis (eftersom materialet är skrivet av mig) helt kan svara mot, och följa, kursens upplägg och mina lektioner (vilket i sin tur skapar mindre förvirring för er).
+* Jag har valt att, så långt det är möjligt, själv skriva det material som utgör kurslitteraturen. Dels eftersom detta innebär en tydlig avsändare som ni direkt kan fråga om otydligheter och ställa mot väggen vad gäller tolkningar och påståenden kring filosoferna, de filosofiska skolorna och de filosofiska begreppen. Dels eftersom detta på så vis (eftersom materialet är skrivet av mig) helt kan svara mot, och följa, kursens upplägg och mina lektioner (vilket i sin tur skapar mindre förvirring för er).
 
-* Denna kurs kommer till stor del bestå av föreläsningsliknande lektioner som vi varvar med seminarium och friare diskussioner. Men det får aldrig bli frågan om en envägskommunikation. För att lektionerna ska bli levande gäller det att ni är delaktiga och att vi hela tiden för ett *samtal*. Så fråga och diskutera så mycket ni (och jag) bara orkar.
+* Denna kurs kommer till stor del bestå av föreläsningsliknande lektioner som vi varvar med övningar,  gruppdiskussioner och eget arbete. Men det får aldrig bli frågan om en envägskommunikation. För att lektionerna ska bli levande gäller det att ni är delaktiga och att vi hela tiden för ett *samtal*. Så fråga och diskutera så mycket ni (och jag) bara orkar.
 
 * I en kurs måste man alltid ha någon form av uppdelning. Detta betyder dock inte att delmomenten existerar som separata öar. Det man lär sig under det ena delmomentet tar man med sig till kommande. Visst innehåll kommer också upprepas under kursens gång.  
 
