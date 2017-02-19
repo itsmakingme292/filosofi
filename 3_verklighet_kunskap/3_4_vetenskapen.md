@@ -8,12 +8,13 @@ Vad som mer exakt menas när vi säger att en föreställning är vetenskaplig �
 
 Inom vetenskapsfilosofin har man försökt formulera olika **demarkationskriterium** för när något är vetenskap och inte. Ett sådant kriterium definierar själva gränsen (demarkationslinjen) för när något börjar vara vetenskapligt och när något slutar vara vetenskapligt. Vi kommer i detta avsnitt titta på de tre största vetenskapsfilosofiska skolornas svar på frågan. Den logiska positivismens, Poppers falsifikationistiska och Kuhns paradigmteoretiska svar. 
 
-<!--Behöver nog ha mer koppling till detta, inte minst kanske krav på hypoteser ändå. -->
+<!--Men innan vi går vidare kan det vara bra att först kort reda ut ett par vanligt förekommande nyckelbegrepp och vanligt förekommande minimikrav för vetenskaplighet. -->
 
+## Grundläggande begrepp
 
-## Några grundläggande begrepp
+<!--_Kortare förklaring av ett par nyckelbegrepp:_ -->
 
-_Innan vi går vidare kan det vara bra att först ge en kortare förklaring av ett par nyckelbegrepp som kommer att återkomma:_
+_Innan vi går vidare kan det vara bra att först ge en kortare förklaring av ett par nyckelbegrepp och ett par vanligt förekommande minimikrav på vetenskaplighet:_ 
 
 **Verifikation**: Om vi _verifierar_ ett påstående så pekar vi på något som bevisar, bekräftar eller styrker att påståendet måste vara sant.
 
@@ -22,6 +23,22 @@ _Innan vi går vidare kan det vara bra att först ge en kortare förklaring av e
 **Hypotes:** Ett antagande om verkligheten (ett påstående) som man i vetenskapliga sammanhang vill bevisa eller motbevisa. Med andra ord det som kan verifieras eller falsifieras. 
 
 **Teori:** En samling hypoteser som hänger ihop och tillsammans bildar en förklaring av ett visst fenomen.
+
+### Minimikrav för vetenskapen
+
+<!--Ett vetenskapligt förhållningssätt handlar i korta drag om att sätta upp vissa kriterier för vad en *rimlig vetenskaplig fråga* bör vara och vad ett *rimligt vetenskapligt* *svar* kan vara. -->
+
+<!--_Tre vanligt förekommande minimikrav för vetenskaplighet:_ -->
+
+1. En hypotes eller en vetenskaplig teori måste formuleras på ett sådant sätt att den *kan* *prövas*. För att vara vetenskapliga måste vi först definiera tydliga kriterier för hur vi ska kunna kontrollera om en hypotes stämmer eller inte. 
+
+2. En vetenskaplig hypotes eller teori har en viss _räckvidd_.  Vetenskapliga hypoteser och teorier handlar om det generaliserbara, de måste förklara en viss _typ_ av (åtminstone teoretiskt) _återkommande_ _fenomen_. Om jag påstår att det just nu regnar är detta inte en vetenskaplig hypotes (en vetenskaplig hypotes skulle snarare handla om _varför_ det _generellt sett_ regnar).
+
+3. Vetenskaplighet kräver *repeterbarhet*. Olika forskare, vid olika tidpunkter måste (åtminstone teoretiskt) kunna observera *en och samma sak*. Givet att forskare använder samma metod, och att det som studeras ej förändras, måste de *idealt* också få samma resultat. 
+
+<!-- 2. Vetenskapen är empirisk, det som påstås måste kunna *observeras*. Ett påstående måste kunna falsifieras eller verifieras för att tillåtas utgöra en del av en vetenskaplig teori. (Huruvida detta innebär att mattematik och logik inte är vetenskap är upp för diskussion) -->
+
+<!--Ska jag ha med ockhams rakkniv och enkelhet framöver här? -->
 
 
 ## Logisk positivism
@@ -80,11 +97,15 @@ Den logiska positivismens tankesätt mynnar ut (eller bottnar) i dess **verifika
 
 > **Kort om:** Karl Popper (1902-1994) var en österrikisk filosof som levde merparten av sitt liv i Storbritannien. Popper hade kontakt med Wienerkretsen men var aldrig själv en del av den. Tvärtom kom Popper att bli en stark motståndare till många av den logiska positivismens idéer. Hans vetenskapsfilosofi är tillsammans med Kuhns den mest inflytelserika under 1900-talets andra hälft och framåt. 
 
+*Text kommer...*
+
 **Att fundera på:** Leta upp ditt eget horoskop för denna vecka eller dag. Går horoskopet att falsifiera? Varför? Varför inte? 
 
 ## Kuhn
 
 > **Kort om:** Thomas Kuhn(1922-1996) var en amerikansk vetenskapshistoriker och filosof. Hans vetenskapsfilosofi är tillsammans med Poppers den mest inflytelserika under 1900-talets andra hälft och framåt. 
+
+*Text kommer...*
 
 ## [Frågeformulär]
 
