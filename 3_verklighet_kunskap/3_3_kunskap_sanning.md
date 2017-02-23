@@ -67,11 +67,13 @@ En objektivistisk syn på kunskap/sanning innebär att det finns något som är 
 
 Inom objektivismen utgår man ifrån **korrespondensteorin** om sanning: en trosföreställning är endast sann om den _korresponderar_ med (svarar mot) en objektiv verklighet. Enkelt uttryckt är ett påstående sant endast om det överensstämmer med hur saker faktiskt förhåller sig. I detta spelar vad vi tror mindre roll, tro kan aldrig i sig självt skapa sanning. Till skillnad från relativismen är alltså tanken att vi någonstans kan jämföra vår subjektiva uppfattning med en objektiv verklighet och på så vis skilja mellan kunskap och ren tro. 
 
-**Absolutismen** är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt. Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
+### Absolutism
+Absolutismen är den mest rättframma av ”objektivismer” och i många sammanhang används också objektivism och absolutism synonymt. Enligt absolutismen finns det kort och gott objektiva sanningar som vi med säkerhet kan veta någonting om. 
 
 Absolutismen är dock inte den enda formen av objektivism. För även om vi resonerar som så att en objektiv sanning förmodligen existerar, så kan vi likväl samtidigt resonera som så att det är mycket svårt, eller rent av omöjligt, att helt och fullt *nå insikt* om denna sanning. 
 
-Enligt **fallibilismen** är verklig kunskap alltid objektivt sann, men huruvida vi själva besitter denna kan vi aldrig veta med säkerhet. Den mänskliga kunskapen är både osäker/felbar och temporär/provisorisk. Det finns inget som är fullständigt säkert, vi kan aldrig någonsin utesluta möjligheten att vi kan ha fel. 
+### Fallibilism
+Enligt fallibilismen är verklig kunskap alltid objektivt sann, men huruvida vi själva besitter denna kan vi aldrig veta med säkerhet. Den mänskliga kunskapen är både osäker/felbar och temporär/provisorisk. Det finns inget som är fullständigt säkert, vi kan aldrig någonsin utesluta möjligheten att vi kan ha fel. 
 
 <!--Få in koppling till korrespondensteori här? -->
 
@@ -79,7 +81,7 @@ Samtidigt ska vi inte frestas att inta en relativistisk ståndpunkt. All tro är
 
 <!--Få in något om skepticism här och hur fallibilism kan ses som en typ av skepticism, men att den ändå skiljer sig från den mer rena formen av skepticism. Kanske ska nedanstående med allt för tydlig koppling till falsifikationism tas bort eller så får kopplingen göras explicit -->
 
-Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen (menar fallibilismen). Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. Fallibilism hänger här ihop med _falsifikationism_: En hypotes (ett testbart antagande) som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa.
+Vi kan mycket väl ha helt rätt i en viss fråga, men huruvida vi med säkerhet, kan veta detta är inte poängen (menar fallibilismen). Det viktiga är att vi har en ärlig och ödmjuk inställning till vår kunskap. Att vi vågar utsätta våra egna åsikter, föreställningar och hypoteser för kritik. Fallibilism hänger här ihop med [_falsifikationism_](3_4_vetenskapen.md#Falsifikationism): En hypotes (ett testbart antagande) som överlever är kanske inte alltid sann, detta kan vi strikt taget inte veta någonting om, men den är i vart fall *mer* säker än den som vi lyckats motbevisa.
 
 > Ett exempel på en fallibilist är [Karl Popper](3_4_vetenskapen.md#Popper). Om honom, och mer om fallibilism och falsifikationism, läser man i avsnittet ["Vetenskapen"](3_4_vetenskapen.md#Popper).
 
