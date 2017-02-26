@@ -65,6 +65,9 @@ Den uppmärksamme märker dock att det finns något lite lurigt med induktiva re
 
 Detta har ändå sedan 1700-talet varit en stor fråga bland filosofer. Vissa, ganska många rentav, har hävdat att en induktiv slutledning överhuvudtaget inte kan vara logiskt giltig. Detta eftersom det alltid verkar finnas en viss lucka mellan vår erfarenhet om en begränsad mängd företeelser/saker/händelser och vår slutsats om att alla företeelser/saker/händelser av denna sort alltid är på ett visst sätt. Generaliseringar är kort och gott alltid problematiska (inte minst generaliseringar av typen "endast vettiga människor gillar glass).
 
+<!--Få in referens till Hume är eller är det dumt eftersom vi ännu inte kommit till det momentet? Borde jag bara referera bakåt så att säga? -->
+
+
 Samtidigt bygger mycket av vår kunskap på just induktiva slutledningar, och det vore mycket svårt att leva utan dem. Hur skulle det exempelvis se ut om vi antog att solen lika gärna *inte* skulle gå upp imorgon? Vad de flesta filosofer i vart fall *är* överens om är att det inte är *möjligt* eller ens *önskvärt* att helt *sluta tänka induktivt*. Inte minst hade det varit mycket svårt att bedriva vetenskaplig verksamhet om vi inte gav induktiva slutledningar någon form av legitimitet. 
   
 Det är här också viktigt att göra en distinktion mellan *det som är sant* och *det som är sannolikt*. Induktion handlar i första hand om det senare. För även om vi inte för all framtid _logiskt_ kan sluta oss till att solen *alltid* kommer att gå upp, verkar det likväl *sannolikt* att den gör det (utifrån vår erfarenhet). 

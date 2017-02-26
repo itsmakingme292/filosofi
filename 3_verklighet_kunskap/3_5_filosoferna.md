@@ -9,15 +9,15 @@
 
 Platons filosofi tillhör filosofihistoriens mer radikala [**objektiva idealism**](3_2_verkligheten.md#Idealism) och [**rationalism**](3_3_2_kunskapens_kalla.md#Rationalismen). För Platon finns det ingen  anledning att lita på våra sinnen och vår kunskap kan därför inte heller bygga på sinnlig erfarenhet. Tvärtom tänker sig Platon att det existerar en *högre verklighet* bortom den mer omedelbara sinnliga verkligheten. En högre verklighet som vi alla har möjlighet att skymta genom tankemässig ansträngning. 
 
-I detta delar Platon upp "verkligheten" i två världar. Den ena världen kallar han för _sinnesvärlden_ och den andra _idévärlden_. Sinnesvärlden är världen så som vi möter den via våra sinnen (syn, hörsel, känsel, lukt, smak), idévärlden så som vi möter världen via vårt förnuft. 
+I detta delar Platon upp "verkligheten" i två världar. Den ena världen kallar han för _sinnevärlden_ och den andra _idévärlden_. Sinnevärlden är världen så som vi möter den via våra sinnen (syn, hörsel, känsel, lukt, smak), idévärlden så som vi möter världen via vårt förnuft. 
 
-Sinnesvärlden är egentligen inte mycket till verklighet, denna är endast skenbar (en illusion) och förgänglig (temporär). Ingenting vi "lär oss" i sinnesvärlden kan kallas för verklig kunskap. För Platon är nämligen sanning något evigt och oföränderligt (varaktigt) – verklig sanning är alltid _nödvändigt_ sann (av typen: det kan inte vara på något annat sätt). 
+Sinnevärlden är egentligen inte mycket till verklighet, denna är endast skenbar (en illusion) och förgänglig (temporär). Ingenting vi "lär oss" i sinnevärlden kan kallas för verklig kunskap. För Platon är nämligen sanning något evigt och oföränderligt (varaktigt) – verklig sanning är alltid _nödvändigt_ sann (av typen: det kan inte vara på något annat sätt). 
 
 <!--(det kan inte vara på något annat sätt) -->
 
 <!--Formulera om ovanstående mening (bygg om den syftningsmässigt och ordningsmässigt) --> 
 
-Idévärlden är den sanna verkligheten bortom tid och rum. En  oföränderlig och _ideal_ verklighet där en fyrkant alltid är en perfekt fyrkant. Sinnesvärlden är endast en ofullkomlig kopia eller förvrängd avspegling av idévärlden. I sinnesvärlden är ett cirkelformat objekt aldrig helt cirkelformat och en rät linje aldrig helt rät. Vad det innebär att något är cirkelformat går därför inte heller att förstå genom att endast undersöka objekt som ser cirkelformade _ut_. Tvärtom förstår vi endast begreppet "cirkel" om vi vänder oss till vårt förnuft – genom att vi förstår "cirkelns idé". För Platon är kunskapen i slutändan en begreppskunskap och idévärlden är "platsen" där vi finner begreppens (idéernas) sanna innebörd. 
+Idévärlden är den sanna verkligheten bortom tid och rum. En  oföränderlig och _ideal_ verklighet där en fyrkant alltid är en perfekt fyrkant. Sinnevärlden är endast en ofullkomlig kopia eller förvrängd avspegling av idévärlden. I sinnevärlden är ett cirkelformat objekt aldrig helt cirkelformat och en rät linje aldrig helt rät. Vad det innebär att något är cirkelformat går därför inte heller att förstå genom att endast undersöka objekt som ser cirkelformade _ut_. Tvärtom förstår vi endast begreppet "cirkel" om vi vänder oss till vårt förnuft – genom att vi förstår "cirkelns idé". För Platon är kunskapen i slutändan en begreppskunskap och idévärlden är "platsen" där vi finner begreppens (idéernas) sanna innebörd. 
 
 > _Så vad är en cirkel?_
 > > 
@@ -36,11 +36,11 @@ När vi ser en katt upplever vi inte bara den konkreta katten framför oss. Vi u
 
 <!--Försök förenkla och dela upp första meningen nedan -->
 
-Om jag, som inte vet någonting om sporten curling, går på en curlingmatch, tillsammans med en kompis som förstår curlingens regler, har vi båda inte i samma mening sett matchen. Vad jag som inte kan curling ser är något helt annat än vad min kompis ser. För min kompis är matchen helt begriplig, men för mig helt obegriplig – och på samma sätt förhåller det sig med allt i världen. Vi kan inte förstå verkligheten om vi inte förstår begreppen/idéerna. Endast genom att förnutsmässigt förstå världens "orginalritning" kan vi nå kunskap – sinnesvärlden är endast en _skugga_ av idévärlden. 
+Om jag, som inte vet någonting om sporten curling, går på en curlingmatch, tillsammans med en kompis som förstår curlingens regler, har vi båda inte i samma mening sett matchen. Vad jag som inte kan curling ser är något helt annat än vad min kompis ser. För min kompis är matchen helt begriplig, men för mig helt obegriplig – och på samma sätt förhåller det sig med allt i världen. Vi kan inte förstå verkligheten om vi inte förstår begreppen/idéerna. Endast genom att förnutsmässigt förstå världens "orginalritning" kan vi nå kunskap – sinnevärlden är endast en _skugga_ av idévärlden. 
 
 ![BILD](0_kartor/platon_idevarlden.svg)
 
-I detta är Platon **begreppsrealist**. Cirkelns idé såväl som stolens idé existerar i idévärlden oberoende av tingen i sinnesvärlden och rentav oberoende av vår uppfattning (idéerna är eviga). Det är alltså varken tingen eller vi människor som ger upphov till idéerna. Tvärtom _upptäcker_ människan _bokstavligen_ begreppen snarare än _uppfinner_ dem. Och i den mån det finns en koppling mellan tingen och idéerna ligger kopplingen i att tingen i olika utsträckning uppfyller idéerna (men de är alltid "dåliga kopior"). 
+I detta är Platon **begreppsrealist**. Cirkelns idé såväl som stolens idé existerar i idévärlden oberoende av tingen i sinnevärlden och rentav oberoende av vår uppfattning (idéerna är eviga). Det är alltså varken tingen eller vi människor som ger upphov till idéerna. Tvärtom _upptäcker_ människan _bokstavligen_ begreppen snarare än _uppfinner_ dem. Och i den mån det finns en koppling mellan tingen och idéerna ligger kopplingen i att tingen i olika utsträckning uppfyller idéerna (men de är alltid "dåliga kopior"). 
 
 **Kommentar:** Platons filosofi upplevs ibland som något svårsmält och märklig – inte minst hans begreppsrealism. Det är därför viktigt att komma ihåg att Platons filosofi uppstår i en tid långt innan den moderna naturvetenskapen – långt innan det att vi exempelvis upptäcker DNA som en slags "inre ritning" hos organismer. Möjligen är Platons filosofi något enklare att svälja om man tänker på sådant som matematik och logik. Filosofer och matematiker som har en _platonistisk_ uppfattning av matematiken menar att matematiken existerar i en egen värld. Att vi så att säga "skådar" och upptäcker Pi när vi räknar decimaler av Pi – inte att vi "hittar på" Pi. 
 
@@ -181,27 +181,28 @@ Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som em
 
 <!-- Vi kan endast vara säkra på de direkt upplevelser vi har. Den stora frågan blir därför vad vi egentligen kan erfara (observera, uppleva, osv.). -->
 
-### Vi kan _inte_ veta om:
+### Vad vi _inte_ kan veta
 
 <!-- Och därmed kan vi exempelvis inte anta att yttervärlden är materiell. -->
 
-1. Våra intryck överensstämmer med yttervärlden.
-	- Vi hänvisar alltid bara till _vår_ _upplevelse_. Vi upplever inte själva relationen mellan vår upplevelse och yttervärlden, bara själva upplevelsen. 
+1. Vi kan _inte_ _veta om_ **våra intryck överensstämmer med yttervärlden**.
+	- Vi kan endast hänvisa till _vår_ _upplevelse_ – vi upplever inte själva relationen mellan vår upplevelse och yttervärlden. Således kan vi aldrig vara säkra på i vilken utsträckning vår upplevelse motsvarar yttervärlden så som den verkligen är. 
+	- Den enda slutsats vi kan dra utifrån att vi upplever något är _att vi upplever det så_. 
 
-2. Det vi uppfattar som orsak och verkan verkligen är det.
+2. Vi kan _inte_ _veta om_ **det vi uppfattar som orsak och verkan verkligen är det**.
 	- Vi kan bara _se_ att en sak föregår en annan sak i tid och rum. Vi kan _inte se_ själva kausaliteten (orsakssambandet). 
 		- Låt säga att vi spelar biljard och två kulor stöter emot varandra: Vi _kan inte se_ att kula 1 med nödvändighet "tvingar" kula 2 att röra sig – bara att kula 1 och kula 2 rör sig tidsmässigt efter varandra.
 	- Vår uppfattning om orsak och verkan är endast en "mänsklig vana". Vi tror oss se denna överallt – men aldrig egentligen.
 
-3. Våra induktiva resonemang kommer att stämma (se [Deduktion & induktion](../2_fil_verktyg/2_3_logik.md#Deduktion_&_induktion) för mer information)
+3. Vi kan _inte veta om_ **våra induktiva resonemang kommer att stämma** (se [Deduktion & induktion](../2_fil_verktyg/2_3_logik.md#Deduktion_&_induktion) för mer information)
 	-  Eftersom vi endast kan uttala oss om det vi har direkt sinneserfarenhet av kan vi inte dra slutsatser om framtiden. Bara för ett en viss sak "alltid" händer betyder det inte att _vi vet_ att den kommer att göra det igen. 
 	- Inte heller kan vi dra slutsatsen att alla svanar är vita bara för att vi endast sett vita svanar. Vi kan aldrig utesluta att vi en dag kommer att se en svart svan. 
 
-4. Vi har en själ eller ett "Jag".
-	- Vi har endast en direkt upplevelse av våra känslor och tankar – inte själva "behållaren" eller ursprunget för dessa. Vi kan inte veta något om en mer bestående, "inre enhet" så som en själ eller ett "Jag".
+4. Vi kan _inte veta om_ **vi har en själ eller ett "Jag"**.
+	- Vi har endast en direkt upplevelse av våra känslor och tankar – inte själva "behållaren" eller ursprunget för dessa. Vi kan inte veta något om en mer bestående  "inre enhet", så som en själ eller ett "Jag".
 	- I den mån vi kan tala om ett "Jag" så är detta "Jag" endast ett löst knippe fragmentariska minnen och tillfälliga upplevelser.
 
-5. Att det existerar en Gud.
+5. Vi kan _inte veta om_ **det existerar en Gud**.
 	* Vi har _ingen_ _direkt_ upplevelse av Gud. Faktum är att vi inte ens har direkta upplevelser av de delar som ingår i Gudsidén. Ingen har någonsin upplevt fullkomlighet, allgodhet eller allsmäktighet. Vi kan kort sagt inte ens förstå Gud som idé.
 
 <!--– så hur skulle vi då kunna veta någonting om huruvida en Gud existerar eller ej? -->
@@ -210,14 +211,16 @@ Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som em
 
 <!--	- = därmed kan vi inte anta att medvetandet/jag är immateriellt. -->
 
-### Vi kan _endast_ vara säkra på:
+### Vad vi _kan_ veta
 
-1. Att vi uppfattar och erfar något.
-	- Vi kan endast veta något om våra direkta upplevelser –men inte vad dessa faktiskt säger om yttervärlden (så som den är oberoende av oss).
+1. Vi kan _endast_ vara säkra på **att vi uppfattar och erfar något**.
+	- Vi kan endast veta något om våra _direkta_ upplevelser – men inte vad dessa faktiskt säger om yttervärlden (så som den är oberoende av oss).
 
-2. Vad som finns inom oss.
+2. Vi kan _endast_ vara säkra på **det som finns inom oss** (den inre verkligheten).
 	- En tanke eller en känsla är alltid min och därför alltid verklig. En känsla måste inte överensstämma med någon yttre verklighet för att vara sann: Har jag ont, så har jag ont. Detta går ej att ifrågasätta.
 	- Vi kan också (precis som Locke menade) _kombinera_ våra erfarenheter med varandra och _föreställa oss_ sådant vi (ännu) inte har en direkt erfarenhet av. Men vår fantasi är alltid _baserad_ på direkta upplevelser.  
+
+Hume ska här inte misstas för en _subjektiv_ idealist. Hume representerar istället **_kunskapsteoretisk_ idealism**. Hume förnekar inte yttervärlden, han förnekar endast möjligheten att _veta något_ om denna. 
 
 <!-- Men detta handlar om fantasi, inte om en yttre verklighet.  -->
 
@@ -245,24 +248,24 @@ För Kant hade det inom filosofin uppstått ett onödigt motsatsförhållande me
 
 <!--För Kant går det inte att ha en erfarenhet utan förnuft och inte heller kan vi ha en ren förnuftsmässig kunskap utan att vi "fyller den" med erfarenhet.  -->
 
-Kant är rationalist i bemärkelse att han menar att vi föds med ett visst förnuft och därmed en viss kunskap "i oss" som inte är beroende av erfarenheten. Att vi exempelvis upplever orsak och verkan (kausalitet) handlar inte om att vi _direkt_ upplevt orsak och verkan, det handlar om att denna kategori ingår i mänskligt tänkande. Att kategorisera in tingen i orsak och verkan är ingen "slapp vana" som hos Hume, tvärtom är det vårt enda sätt att göra världen begriplig. Grunden för kausalitet är alltså inte empirisk utan rationell. På samma sätt är det med tid och rum. Tingen skulle kunna existera i andra dimensioner, men som människor kommer vi alltid uppfatta tingen i tid och rum. Ingen människa kan ha verkliga upplevelser bortom tid och rum (endast i drömmen).
+Kant är rationalist i bemärkelse att han menar att vi föds med ett visst förnuft och därmed en viss kunskap "i oss" som inte är beroende av erfarenheten. Att vi exempelvis upplever orsak och verkan (kausalitet) handlar inte om att vi _direkt_ upplevt orsak och verkan, det handlar om att denna kategori ingår i mänskligt tänkande. Att kategorisera in tingen och händelser i orsak och verkan är ingen "slapp vana" som hos Hume, tvärtom är det vårt enda sätt att göra världen begriplig. Grunden för kausalitet är alltså inte empirisk utan rationell. På samma sätt är det med tid och rum. Tingen skulle kunna existera i andra dimensioner, men som människor kommer vi alltid uppfatta tingen i tid och rum. Ingen människa kan ha verkliga upplevelser bortom tid och rum (endast i drömmen).
 
 Kant är empirist i bemärkelse att vår kunskap om världen alltid _baseras_ på sinneserfarenheten. Men till skillnad från de brittiska empiristerna ser han inte människan som ett tabula rasa – tvärtom. Människans sätt att tänka och inordna upplevelser är (till skillnad från vad Locke menar) medfött och därmed universellt. Alla människor upplever saker i tid och rum och tänker utifrån samma uppsättning grundläggande kategorier – detta är inget vi "lär oss" detta är från första början givet (och ingen människa har någonsin inordnat sina upplevelser på annat sätt).
 
 <!--Kanske något mer tydligt kring locke, medfött etc, här?  -->
 
-Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid begränsad och beroende av: 
+Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid _begränsad och beroende av_: 
 
-1. Vår biologiska konstruktion: Det sätt vi tar in våra upplevelser/erfarenheter.
+1. **Vår biologiska konstruktion**: Det sätt vi tar in våra upplevelser/erfarenheter.
 	- Syn, hörsel, känsel, lukt, smak
 
-2. Vårt mänskligt förnuft: Det sätt vi inordnar våra erfarenheter/upplevelser och gör världen begriplig.
+2. **Vårt mänskliga förnuft**: Det sätt vi inordnar våra erfarenheter/upplevelser och gör världen begriplig.
 	- Våra **åskådningsformer**: Tid och rum
 	- **Kategorier** vi tänker i
 		- Exempelvis: Möjlighet, nödvändighet, enhet, mångfald. 
 		- Och inte minst: Kausalitet. 
 
-<!-- Få in apriorisk och aposteriori ändå, men tryck på att de kräver och behöver varandra för att inte motsäga mig själv (eller skita i detta? Hmm kanske inte...) Sök inspiration! I relation till delarna"kant som empirist / kant som rationalist" -->
+<!-- Få in apriorisk och aposteriori ändå, men tryck på att de kräver och behöver varandra för att inte motsäga mig själv. Samt syntetisk kontra analytisk för att sedan kunna göra referens till detta i logiska positivismen (som ju anser att syntetisk apriori kunskap är bullshit) Sök inspiration! Inte minst i relation till kant som empirist kontra kant som rationalist -->
 
 <!--Skriv någonting mer om kategorierna efter (eller innan?) jag nämner dem (kant) sök inspiration -->
 

@@ -16,9 +16,9 @@ Inom vetenskapsfilosofin har man försökt formulera olika **demarkationskriteri
 
 _Innan vi går vidare kan det vara bra att först ge en kortare förklaring av ett par nyckelbegrepp och ett par vanligt förekommande minimikrav på vetenskaplighet:_ 
 
-**Verifikation**: Om vi _verifierar_ ett påstående så pekar vi på något som bevisar, bekräftar eller styrker att påståendet måste vara sant.
+**Verifikation**: Om vi _verifierar_ ett påstående så pekar vi på något som bevisar, bekräftar eller styrker att påståendet måste (eller rimligen bör) vara sant.
 
-**Falsifikation**: Om vi _falsifierar_ ett påstående så pekar vi på något som bevisar, bekräftar eller styrker att påståendet måste vara falskt (inte kan vara sant). 
+**Falsifikation**: Om vi _falsifierar_ ett påstående så pekar vi på något som bevisar, bekräftar eller styrker att påståendet måste (eller rimligen bör) vara falskt (inte kan vara sant). 
 
 **Hypotes:** Ett antagande om verkligheten (ett påstående) som man i vetenskapliga sammanhang vill bevisa eller motbevisa. Med andra ord det som kan verifieras eller falsifieras. 
 
@@ -49,15 +49,17 @@ Den logiska positivismen tar avstamp i _positivismen_ som menar att vetenskaplig
 
 ### Meningslösa påståenden och begrepp
 
-De logiska positivisterna menar att det endast existerar två typer av kognitivt meningsfulla påståenden: rent logiska  _analytiska_ påståenden och rent _empiriska_ påståenden. 
+De logiska positivisterna menar att det endast existerar två typer av kognitivt meningsfulla påståenden: rent logiska _analytiska_ påståenden och rent _empiriska_ påståenden. 
 
-Ett analytiskt påståendes sanningsvärde är inte beroende av empiriska förhållanden, utan endast av en i satsen inneboende logisk relation. En klassisk sådan sats brukar vara ”alla ungkarlar är ogifta”. För de logiska positivisterna är logiken här än mer "tom" på innehåll än vad exempelvis Kant menade. Logisk kunskap består endast i att vi kan utföra avancerade former av cirkelresonemang – logiken är _tautologisk_. Att "alla ungkarlar är ogifta män" kan vi förstå utan att gå ut i världen och se efter –  vi förstår att påståendet är sant därför att "ungkarl" och "ogift man" rent språkligt är exakt samma sak. Analytiska satser hävdar därför inget om omvärlden, de saknar _realinnehåll_ (de är så att säga "inte jättemeningsfulla"). 
+Ett analytiskt påståendes sanningsvärde är inte beroende av empiriska förhållanden, utan endast av en i satsen inneboende logisk relation. En klassisk sådan sats är ”alla ungkarlar är ogifta”. För de logiska positivisterna är logiken här än mer "tom" på innehåll än vad exempelvis Kant menade. Logisk kunskap består endast i att vi kan utföra avancerade former av cirkelresonemang – logiken är _tautologisk_. Att "alla ungkarlar är ogifta män" kan vi förstå utan att gå ut i världen och se efter –  vi förstår att påståendet är sant därför att "ungkarl" och "ogift man" rent språkligt är exakt samma sak. Analytiska satser hävdar därför inget om omvärlden, de saknar _realinnehåll_ (de är så att säga "inte jättemeningsfulla"). 
 
 <!--För att ta reda på sanningsvärdet hos påståendet "alla ungarklar är ogifta män" behöver vi inte ”gå ut på krogen” och se efter om så är fallet, det räcker med att vi förstår innebörden i ordet, själva definitionen av ”ungkarl”. -->
 
 <!--Likaså betyder "1+1" samma sak som "2" – att förstå matematik handlar endast om att inse denna logiska relation. -->
 
 Den logiska positivismen (som också ibland kallas för den logiska empirismen) är en särskilt hårdför form av empirism. För den logiska positivismen finns det ingen större skillnad mellan vetenskap och kunskap. Allt som är meningsfullt är också vetenskapligt och _endast det iakttagbara är verkligt meningsfullt_. Logiken, hur nödvändig den är, bär exempelvis inte på någon _större_ mening (även om den inte är meningslös, så bär den inte på något realinnehåll). Den andra (och därför främsta) typen av kognitivt meningsfulla utsagor är empiriska påståenden: utsagor som har ett realinnehåll, vars sanningsvärde är beroende av förhållanden ”ute i världen”. 
+
+<!--Angående hårdföra empirister (logisk poitivism) så bör det väl vara: även om logiken utgör en viss rationalistisk komponent? Ska jag utreda detta mer? -->
 
 Påståenden som varken är analytiska eller empiriska är helt och komplett kognitivt meningslösa. Sådana påståenden kan tyckas hävda någonting, men vad de hävdar går inte att verifiera, och de är därför enbart ”tomma ord”. I detta ville de logiska positivisterna inte minst göra upp med _metafysiken_, vilken de ansåg inte hade någon plats i en modern värld. När exempelvis Kant påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående (bara "tomma ord"). Detta eftersom att ingen upplevelse någonsin kan verifiera påståendet. 
 
@@ -116,7 +118,7 @@ Vetenskapen måste därför, menar Popper, fokusera på att _hitta de svarta sva
 
 En viktig anledning till att Popper framhåller _falsifierbarhet_ som det vetenskapliga demarkationskriteriet var att Popper tyckte sig se en rad teorier som mer eller mindre var *själv-verifierande*. Teorier som var förenliga med i princip vilka observationsresultat som helst. 
 
-Ett exempel på en sådan teori är (enligt Popper) Freuds teori om Oidpuskomplexet. Kortfattat säger Freuds teori att alla pojkar vill ha sex med sin mamma och därför ser sin pappa som en rival. För varje pojke som var fientlig gentemot sin pappa såg Freud att teorin var verifierad. Men för varje pojke som hade en mer neutral (eller rentav kärleksfull) hållning gentemot sin pappa introducerade Freud _stödhypotesen_ att dessa pojkar endast förnekade sina egentliga känslor. 
+Ett exempel på en sådan teori är (enligt Popper) Freuds teori om _oidpuskomplexet_. Kortfattat säger Freuds teori att alla pojkar vill ha sex med sin mamma och att de därför ser sin pappa som en rival. För varje pojke som var fientlig gentemot sin pappa såg Freud att teorin var verifierad. Men för varje pojke som hade en mer neutral (eller rentav kärleksfull) hållning gentemot sin pappa introducerade Freud _stödhypotesen_ att dessa pojkar endast förnekade sina egentliga känslor. 
 
 För Popper kan vetenskapliga teorier inte innehålla stödhypoteser som  ”immuniserar” och gör dem icke-falsifierbara (eller svårfalsiferbara) på detta sätt. För att avgöra vad som är pseudovetenskapligt och inte kan vi  inte bara gå till det som går att *verifiera*, en teori måste också, i princip, gå att *falsifiera*. Det som för stunden kan verka som en styrka hos en teori kan likväl vara dess svaghet.  En teori, menade han, måste *förbjuda* något, en teori får inte *tillåta allt*. 
 
@@ -125,11 +127,11 @@ För Popper kan vetenskapliga teorier inte innehålla stödhypoteser som  ”imm
 
 <!--	- Hypoteser är alltid gissningar 		- Desto djärvare gissningar desto bättre!  			- = lättare falsifierbara = leder till mer kunskap -->
 
-Ett annat "fult knep" som gör teorier själv-verifierande är otydliga hypoteser. Påståenden som är vaga på ett sådant sätt att vi antingen inte riktigt vet vad det är vi ska leta efter och/eller vaga på ett sådant sätt att vi kan se ”bevis” för dem överallt. Ett tydligt exempel på detta är horoskop. I sådana kan vi finna hypoteser så som: 
+Ett annat "fult knep" som gör teorier själv-verifierande är _otydliga_ hypoteser. Påståenden som är vaga på ett sådant sätt att vi antingen inte riktigt vet vad det är vi ska leta efter och/eller vaga på ett sådant sätt att vi kan se ”bevis” för dem överallt. Ett tydligt exempel på detta är horoskop. I sådana kan vi finna hypoteser så som: 
 
 > "Om du tar dig an saker och ting med tålamod och omsorg kommer du att kunna avstå från en del osunt beteende på längre sikt."
 
-Det stora problemet med ovanstående hypotes är att den handlar om något som är möjligt. Hypotesen säger egentligen ingenting om vad som faktiskt kommer att hända. Likaså är det en definitionsfråga vad egentligen "tålamod och omsorg", "osunt beteende" och "på längre sikt" betyder. 
+Det stora problemet med ovanstående hypotes är att den handlar om något som är _möjligt_. Hypotesen säger egentligen ingenting om vad som _faktiskt_ kommer att hända. Likaså är det en tolkningsfråga vad egentligen, "en del", "tålamod och omsorg", "osunt beteende" och "på längre sikt" betyder. 
 
 För Popper kräver vetenskaplighet att vi är långt mer specifika än så här. Vetenskapliga teorier och hypoteser måste formuleras med en slags djärvhet som gör dem mottagliga för falsifikation. 
 
@@ -145,9 +147,49 @@ För Popper kräver vetenskaplighet att vi är långt mer specifika än så här
 
 ## Kuhn
 
-> **Kort om:** Thomas Kuhn(1922-1996) var en amerikansk vetenskapshistoriker och filosof. Hans vetenskapsfilosofi är tillsammans med Poppers den mest inflytelserika under 1900-talets andra hälft och framåt. 
+> **Kort om:** Thomas Kuhn (1922-1996) var en amerikansk vetenskapshistoriker och filosof. Hans vetenskapsfilosofi är tillsammans med Poppers den mest inflytelserika under 1900-talets andra hälft och framåt. 
 
-*Text kommer...*
+<!--På samma sätt som Popper är en reaktion på den logiska positivismen så är Kuhns vetenskapsfilosofi en reaktion på Poppers falsifikationism. -->
+
+Kuhn var mycket kritisk mot Poppers falsifikationism. För Kuhn var Popper  allt för idealistisk – ingen vetenskapsman vaknar upp varje dag med målet att försöka falsifiera sina egna teorier. Därtill skulle vi inte ha några teorier kvar om vi gav upp våra teorier varje gång vi hittade något som talade emot dem. 
+
+<!--Teorier kommer alltid ha saker de för stunden inte kan förklara – vi måste ge dem en ärlig chans! -->
+
+<!--- Kuhn i gränslandet mellan sociologi och filosofi 	- Oklart hur mycket Kuhn faktiskt försöker ge ett ideal för vetenskapen 		- Eller om han mest beskriver hur den faktiskt är 		- Kanske går dessa frågor delvis ihop 		* Kanske är Poppers projekt naivt, -->
+
+I detta har Kuhn ett annorlunda fokus än Popper. Kuhn försökte inte säga så mycket om hur vetenskapen *borde vara* (normativt) utan mer om *hur den faktiskt är* (deskriptivt). I verkligheten ger man upp teorier först när man har ett _gångbart alternativ_. 
+
+Vetenskapen går därför framåt, inte så mycket i små steg, som i stora kliv (revolutioner). För Kuhn är vetenskaplig utveckling inte en rät linje där kunskapen bara blir större och större. För Kuhn består istället vetenskapens ”utveckling” i att den pendlar mellan två olika stadier: **normalvetenskap** och **revolution**. 
+
+### Normalvetenskap
+Det vanligaste vetenskaplig stadiet är vad Kuhn kallar för **normalvetenskapen**. I detta stadie arbetar vetenskapsmän inom de ramar som en viss dominerande teori ger. Dessa ramar är det vetenskapliga **paradigmet**. Ett paradigm innehåller föreställningar om hur *världen är* och *hur vetenskap skall bedrivas*. Ett paradigm är en teoretisk utgångspunkt med vissa antaganden (ex vissa naturlagar) och värderingar (forskningsmetodik som föredras) vilken den stora majoriteten forskare inom ett visst vetenskapligt område accepterar. 
+
+I det **normalvetenskapliga** stadiet gör forskare allt annat än att försöka falsifiera själva den centrala teorin. Forskare försöker snarare få nya observationsresultat och eventuella nya hypoteser  att hålla ihop med och bekräfta den dominerande teorin. Kuhn säger här om normalvetenskapen lite tillspetsat att den ”eftersträvar inte nya fakta eller nya teoretiska påståenden och när den är framgångsrik hittar den inga”.
+
+**Kommentar:** I de fall vi har att göra med ett nytt vetenskapligt område har det kanske ännu inte framträtt någon dominerande teori. Ett sådant stadie är för Kuhn **för-paradigmatiskt** även om de konkurrerande teorierna i en svagare mening också kan sägas utgöra olika "paradigm". 
+
+### Revolution
+Förr eller senare uppstår det _kriser_ för de vetenskapliga paradigmen. Dessa sker när mängden observationsresultat som den dominerande teorin inte kan förklara (mängden _anomalier_) blivit större än vad forskargemenskapen kan acceptera. Om det i samband med detta vuxit fram en alternativ teori som kan lösa det gamla paradigmets problem finns möjligheten att det sker en vetenskaplig revolution. En sådan revolution kännetecknas av att forskare ger upp det gamla paradigmet, tar till sig det nya och i detta förändrar hela sin blick på världen och de vetenskapliga problem som de försöker lösa. 
+
+> Ett klassiskt exempel på en vetenskaplig revolution är den [_kopernikanska revolutionen_](https://en.wikipedia.org/wiki/Copernican_Revolution ). Denna innebar att vi gick från en [_geocentrisk_](https://sv.wikipedia.org/wiki/Geocentrisk_v%C3%A4rldsbild) till en [_heliocentrisk_](https://sv.wikipedia.org/wiki/Heliocentrisk_v%C3%A4rldsbild) världsbild
+
+### Inkommensurabilitet
+
+Att Kuhn ser en annan typ av vetenskaplig utveckling framför sig än både de logiska positivisterna och Popper handlar givetvis om normalvetenskapens "feghet" och revolutionens "stora kliv". Men framförallt menar Kuhn att vetenskaplig utveckling inte enkelt kan beskrivas som att ett vetenskapligt paradigm ersätts av ett  _bättre_ paradigm. 
+
+Två konkurrerande paradigm är enligt Kuhn nämligen helt _inkommensurabla_ (ej jämförbara i en objektiv mening). Forskare inom två konkurrerande paradigm lever i två olika världar. De använder olika begrepp och kategoriserar in fenomenen på olika sätt. De gör helt olika antaganden och bygger sina teorier och hypoteser på helt olika grund. Det finns ingen ”måttstock” utanför paradigmen som vi kan använda för att jämföra dem objektivt. Inte heller kan vi inifrån ett paradigm göra jämförelser med ett annat paradigm eftersom vi inte talar ”samma språk” och således inte *kan förstå* det andra paradigmet. Paradigmen är _inkommensurabla_ eftersom de representerar *helt olika sätt att se på världen.*
+
+<!--Detta betyder dock inte att vi inte _föredrar_ det nya paradigmet. Det är ju kort sagt bättre på att lösa våra vetenskapliga problem. Men huruvida det _objektivt_ sett är bättre (närmare sanningen) är inget vi kan veta.  -->
+
+
+Kuhn förespråkar alltså inte en klassisk "rent objektiv" syn på vetenskapen. Tvärtom understryker han på vetenskapens _intersubjektivitet_. Att vetenskapen i första hand bygger på ett slags _samförstånd_ vetenskapsmän emellan. I vilken utsträckning detta gör honom till en relativist är dock ett debatterat ämne. 
+
+<!--### Förparadigmatiskt stadie: Se outline -->
+
+
+
+
+
 
 ## [Frågeformulär]
 
