@@ -164,7 +164,7 @@ Vetenskapen går därför framåt, inte så mycket i små steg, som i stora kliv
 ### Normalvetenskap
 Det vanligaste vetenskaplig stadiet är vad Kuhn kallar för **normalvetenskapen**. I detta stadie arbetar vetenskapsmän inom de ramar som en viss dominerande teori ger. Dessa ramar är det vetenskapliga **paradigmet**. Ett paradigm innehåller föreställningar om hur *världen är* och *hur vetenskap skall bedrivas*. Ett paradigm är en teoretisk utgångspunkt med vissa antaganden (ex vissa naturlagar) och värderingar (forskningsmetodik som föredras) vilken den stora majoriteten forskare inom ett visst vetenskapligt område accepterar. 
 
-I det **normalvetenskapliga** stadiet gör forskare allt annat än att försöka falsifiera själva den centrala teorin. Forskare försöker snarare få nya observationsresultat och eventuella nya hypoteser  att hålla ihop med och bekräfta den dominerande teorin. Kuhn säger här om normalvetenskapen lite tillspetsat att den ”eftersträvar inte nya fakta eller nya teoretiska påståenden och när den är framgångsrik hittar den inga”.
+I det normalvetenskapliga stadiet gör forskare allt annat än att försöka falsifiera själva den centrala teorin. Forskare gör snarare allt de kan för att få nya observationsresultat att gå ihop med den dominerande teorin. Kuhn säger här om normalvetenskapen lite tillspetsat att den ”eftersträvar inte nya fakta eller nya teoretiska påståenden och när den är framgångsrik hittar den inga”.
 
 **Kommentar:** I de fall vi har att göra med ett nytt vetenskapligt område har det kanske ännu inte framträtt någon dominerande teori. Ett sådant stadie är för Kuhn **för-paradigmatiskt** även om de konkurrerande teorierna i en svagare mening också kan sägas utgöra olika "paradigm". 
 
