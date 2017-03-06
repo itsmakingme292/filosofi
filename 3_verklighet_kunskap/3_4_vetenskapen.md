@@ -75,9 +75,9 @@ Ludwig Wittgenstein (1889-1951), en av de främsta inspiratörerna till den logi
 
 ### Filosofin & vetenskapen
 
-Eftersom filosofin traditionellt hanterat icke-empiriska och (ofta) metafysiska frågor så blir merparten av filosofin för de logiska positivisterna också helt meningslös. I detta gick de så långt som att hävda att de flesta filosofiska problem rentav aldrig varit verkliga problem. Filosofins problem är endast pseudo-problem – antingen därför att de handlar om sådant som inte går att verifiera med sinneserfarenheter, eller därför att det filosofiska språket inte tillräckligt tydligt visat de logiska relationerna mellan begreppen. 
+Eftersom filosofin traditionellt hanterat icke-empiriska och (ofta) metafysiska frågor så blir merparten av filosofin för de logiska positivisterna också helt meningslös. I detta gick de så långt som att hävda att de flesta filosofiska problem rentav aldrig varit _verkliga_ problem. Filosofins problem är endast pseudo-problem – antingen därför att de handlar om sådant som inte går att verifiera med sinneserfarenheter, eller därför att det filosofiska språket inte tillräckligt tydligt visat de logiska relationerna mellan begreppen. 
 
-Filosofins enda uppgift var för de logiska positivisterna att städa upp den oreda som filosofin själv lämnat efter sig. I detta blir filosofi endast en _terapeutisk verksamhet_ som handlar om att reda ut oklarheter i vårt språk och därmed endast en slags hjälpreda för vetenskapen. 
+Filosofins enda uppgift var för de logiska positivisterna att städa upp den oreda som filosofin själv lämnat efter sig. I detta blir filosofi endast en _terapeutisk verksamhet_ som handlar om att reda ut oklarheter i vårt språk och därmed endast en slags _hjälpreda_ för vetenskapen. 
 
 <!--Endast vetenskapen kan syssla med det verkligt meningsfulla och det enda meningsfulla (som också bär på ett realinnehåll) är det som går att verifiera med observationer.  -->
 
@@ -110,7 +110,7 @@ Poppers utgångspunkt var något annorlunda än de logiska positivisterna. Istä
 <!--Anledningen till detta låg i att han såg en rad teorier som mer eller mindre var *själv-verifierande*. Teorier som passar med all möjlig data, som är förenliga med i princip vilka observationsresultat som helst. En teori, menade han, måste också *förbjuda* något. -->
 
 
-Popper ville ta fasta på Humes insikt om induktionens problem: Att vi observerat tusentals vita svanar räcker inte för att med säkerhet veta något om huruvida alla svanar är vita. Hypoteser kan egentligen aldrig  visas vara sanna (eller ens sannolikt sanna) – de kan endast visas vara falska. 
+Popper ville ta fasta på Humes insikt om induktionens problem: Att vi observerat tusentals vita svanar räcker inte för att med säkerhet veta något om huruvida alla svanar är vita. Hypoteser kan egentligen aldrig  visas vara sanna (eller ens sannolikt sanna) – _de kan endast visas vara falska_. 
 
 Vetenskapen måste därför, menar Popper, fokusera på att _hitta de svarta svanarna_, inte på att observera vita. I detta hänger Poppers falsifikationism ihop med hans [fallibilism](3_3_kunskap_sanning.md#Fallibilism). Det enda vi kan veta är att en hypotes som överlevt falsifieringsförsök åtminstone är bättre än en hypotes som inte gjort det. Vetenskapligt bör vi därför sträva mot att falsifiera teorier och hypoteser, snarare än att söka verifikation. 
 
@@ -118,7 +118,7 @@ Vetenskapen måste därför, menar Popper, fokusera på att _hitta de svarta sva
 
 En viktig anledning till att Popper framhåller _falsifierbarhet_ som det vetenskapliga demarkationskriteriet var att Popper tyckte sig se en rad teorier som mer eller mindre var *själv-verifierande*. Teorier som var förenliga med i princip vilka observationsresultat som helst. 
 
-Ett exempel på en sådan teori är (enligt Popper) Freuds teori om _oidpuskomplexet_. Kortfattat säger Freuds teori att alla pojkar vill ha sex med sin mamma och att de därför ser sin pappa som en rival. För varje pojke som var fientlig gentemot sin pappa såg Freud att teorin var verifierad. Men för varje pojke som hade en mer neutral (eller rentav kärleksfull) hållning gentemot sin pappa introducerade Freud _stödhypotesen_ att dessa pojkar endast förnekade sina egentliga känslor. 
+Ett exempel på en sådan teori är (enligt Popper) Freuds teori om _oidpuskomplexet_. Kortfattat säger Freuds teori att alla pojkar vill ha sex med sin mamma och att de därför ser sin pappa som en rival. För varje pojke som var fientlig gentemot sin pappa såg Freud att teorin var verifierad. Men för varje pojke som hade en mer neutral (eller rentav kärleksfull) hållning gentemot sin pappa introducerade Freud _stödhypotesen_ att dessa pojkar endast förnekade sina _egentliga_ känslor. 
 
 För Popper kan vetenskapliga teorier inte innehålla stödhypoteser som  ”immuniserar” och gör dem icke-falsifierbara (eller svårfalsiferbara) på detta sätt. För att avgöra vad som är pseudovetenskapligt och inte kan vi  inte bara gå till det som går att *verifiera*, en teori måste också, i princip, gå att *falsifiera*. Det som för stunden kan verka som en styrka hos en teori kan likväl vara dess svaghet.  En teori, menade han, måste *förbjuda* något, en teori får inte *tillåta allt*. 
 
@@ -151,7 +151,7 @@ För Popper kräver vetenskaplighet att vi är långt mer specifika än så här
 
 <!--På samma sätt som Popper är en reaktion på den logiska positivismen så är Kuhns vetenskapsfilosofi en reaktion på Poppers falsifikationism. -->
 
-Kuhn var mycket kritisk mot Poppers falsifikationism. För Kuhn var Popper  allt för idealistisk – ingen vetenskapsman vaknar upp varje dag med målet att försöka falsifiera sina egna teorier. Därtill skulle vi inte ha några teorier kvar om vi gav upp våra teorier varje gång vi hittade något som talade emot dem. 
+Kuhn var mycket kritisk mot Poppers falsifikationism. För Kuhn var Popper allt för naiv och orealistisk – ingen vetenskapsman vaknar upp varje dag med målet att försöka falsifiera sina egna teorier. Därtill skulle vi inte ha några teorier kvar om vi gav upp våra teorier varje gång vi hittade något som talade emot dem. 
 
 <!--Teorier kommer alltid ha saker de för stunden inte kan förklara – vi måste ge dem en ärlig chans! -->
 
@@ -162,7 +162,7 @@ I detta har Kuhn ett annorlunda fokus än Popper. Kuhn försökte inte säga så
 Vetenskapen går därför framåt, inte så mycket i små steg, som i stora kliv (revolutioner). För Kuhn är vetenskaplig utveckling inte en rät linje där kunskapen bara blir större och större. För Kuhn består istället vetenskapens ”utveckling” i att den pendlar mellan två olika stadier: **normalvetenskap** och **revolution**. 
 
 ### Normalvetenskap
-Det vanligaste vetenskaplig stadiet är vad Kuhn kallar för **normalvetenskapen**. I detta stadie arbetar vetenskapsmän inom de ramar som en viss dominerande teori ger. Dessa ramar är det vetenskapliga **paradigmet**. Ett paradigm innehåller föreställningar om hur *världen är* och *hur vetenskap skall bedrivas*. Ett paradigm är en teoretisk utgångspunkt med vissa antaganden (ex vissa naturlagar) och värderingar (forskningsmetodik som föredras) vilken den stora majoriteten forskare inom ett visst vetenskapligt område accepterar. 
+Det vanligaste vetenskaplig stadiet är vad Kuhn kallar för **normalvetenskapen**. I detta stadie arbetar vetenskapsmän inom de _ramar_ som en viss _dominerande_ teori ger. Dessa ramar är det vetenskapliga **paradigmet**. Ett paradigm innehåller föreställningar om hur *världen är* och *hur vetenskap skall bedrivas*. Ett paradigm är en teoretisk utgångspunkt med vissa antaganden (ex vissa naturlagar) och värderingar (forskningsmetodik som föredras) vilken den stora majoriteten forskare inom ett visst vetenskapligt område accepterar. 
 
 I det normalvetenskapliga stadiet gör forskare allt annat än att försöka falsifiera själva den centrala teorin. Forskare gör snarare allt de kan för att få nya observationsresultat att gå ihop med den dominerande teorin. Kuhn säger här om normalvetenskapen lite tillspetsat att den ”eftersträvar inte nya fakta eller nya teoretiska påståenden och när den är framgångsrik hittar den inga”.
 
