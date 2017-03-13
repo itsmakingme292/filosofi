@@ -61,7 +61,7 @@ Den logiska positivismen (som också ibland kallas för den logiska empirismen) 
 
 <!--Angående hårdföra empirister (logisk poitivism) så bör det väl vara: även om logiken utgör en viss rationalistisk komponent? Ska jag utreda detta mer? -->
 
-Påståenden som varken är analytiska eller empiriska är helt och komplett kognitivt meningslösa. Sådana påståenden kan tyckas hävda någonting, men vad de hävdar går inte att verifiera, och de är därför enbart ”tomma ord”. I detta ville de logiska positivisterna inte minst göra upp med _metafysiken_, vilken de ansåg inte hade någon plats i en modern värld. När exempelvis Kant påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående (bara "tomma ord"). Detta eftersom att ingen upplevelse någonsin kan verifiera påståendet. 
+Påståenden som varken är analytiska eller empiriska är helt och komplett kognitivt meningslösa. Sådana påståenden kan tyckas hävda någonting, men vad de hävdar går inte att verifiera, och de är därför enbart ”tomma ord”. I detta ville de logiska positivisterna inte minst göra upp med [_metafysiken_](3_1_inledning.md#Metafysik_&_Ontologi), vilken de ansåg inte hade någon plats i en modern värld. När exempelvis Kant påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående (bara "tomma ord"). Detta eftersom att ingen upplevelse någonsin kan verifiera påståendet. 
 
 <!--: de kan varken bekräftas vara sanna eller falska och kan därför inte heller förmedla någon kunskap.  -->
 
@@ -110,13 +110,15 @@ Poppers utgångspunkt var något annorlunda än de logiska positivisterna. Istä
 <!--Anledningen till detta låg i att han såg en rad teorier som mer eller mindre var *själv-verifierande*. Teorier som passar med all möjlig data, som är förenliga med i princip vilka observationsresultat som helst. En teori, menade han, måste också *förbjuda* något. -->
 
 
-Popper ville ta fasta på Humes insikt om induktionens problem: Att vi observerat tusentals vita svanar räcker inte för att med säkerhet veta något om huruvida alla svanar är vita. Hypoteser kan egentligen aldrig  visas vara sanna (eller ens sannolikt sanna) – _de kan endast visas vara falska_. 
+Popper ville ta fasta på Humes insikt om induktionens problem: Att vi observerat tusentals vita svanar räcker inte för att med säkerhet veta något om huruvida alla svanar är vita. Hypoteser kan egentligen aldrig visas vara sanna – _de kan endast visas vara falska_. 
+
+<!--Tog bort: (eller ens sannolikt sanna) Ev. återinföra igen, men kanske bara förvirrande -->
 
 Vetenskapen måste därför, menar Popper, fokusera på att _hitta de svarta svanarna_, inte på att observera vita. I detta hänger Poppers falsifikationism ihop med hans [fallibilism](3_3_kunskap_sanning.md#Fallibilism). Det enda vi kan veta är att en hypotes som överlevt falsifieringsförsök åtminstone är bättre än en hypotes som inte gjort det. Vetenskapligt bör vi därför sträva mot att falsifiera teorier och hypoteser, snarare än att söka verifikation. 
 
 ### Vetenskap & pseudovetenskap
 
-En viktig anledning till att Popper framhåller _falsifierbarhet_ som det vetenskapliga demarkationskriteriet var att Popper tyckte sig se en rad teorier som mer eller mindre var *själv-verifierande*. Teorier som var förenliga med i princip vilka observationsresultat som helst. 
+En viktig anledning till att Popper framhåller _falsifierbarhet_ som det vetenskapliga demarkationskriteriet var att Popper tyckte sig se en rad teorier som mer eller mindre är *själv-verifierande*. Teorier som var förenliga med i princip vilka observationsresultat som helst. 
 
 Ett exempel på en sådan teori är (enligt Popper) Freuds teori om _oidpuskomplexet_. Kortfattat säger Freuds teori att alla pojkar vill ha sex med sin mamma och att de därför ser sin pappa som en rival. För varje pojke som var fientlig gentemot sin pappa såg Freud att teorin var verifierad. Men för varje pojke som hade en mer neutral (eller rentav kärleksfull) hållning gentemot sin pappa introducerade Freud _stödhypotesen_ att dessa pojkar endast förnekade sina _egentliga_ känslor. 
 
@@ -127,7 +129,7 @@ För Popper kan vetenskapliga teorier inte innehålla stödhypoteser som  ”imm
 
 <!--	- Hypoteser är alltid gissningar 		- Desto djärvare gissningar desto bättre!  			- = lättare falsifierbara = leder till mer kunskap -->
 
-Ett annat "fult knep" som gör teorier själv-verifierande är _otydliga_ hypoteser. Påståenden som är vaga på ett sådant sätt att vi antingen inte riktigt vet vad det är vi ska leta efter och/eller vaga på ett sådant sätt att vi kan se ”bevis” för dem överallt. Ett tydligt exempel på detta är horoskop. I sådana kan vi finna hypoteser så som: 
+Ett annat "fult knep" som gör teorier själv-verifierande och/eller svårverifierbara är _otydliga_ hypoteser. Påståenden som är vaga på ett sådant sätt att vi antingen inte riktigt vet vad det är vi ska leta efter och/eller vaga på ett sådant sätt att vi kan se ”bevis” för dem överallt. Ett tydligt exempel på detta är horoskop. I sådana kan vi finna hypoteser så som: 
 
 > "Om du tar dig an saker och ting med tålamod och omsorg kommer du att kunna avstå från en del osunt beteende på längre sikt."
 
