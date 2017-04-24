@@ -85,7 +85,7 @@ Dock bör vi här kanske resa frågan om "den petige" inte börjar gå lite för
 
 Det är sällan man stöter på missförstånd vid användningen av ordet “boll”. De flesta vet redan vad som menas. Värre är det med något mer betydelsefulla definitioner och distinktioner, så som exempelvis definitionen av “demokrati” eller *distinktionen* mellan *olika typer* av demokratier. Dessa blir svårare att diskutera eftersom vi ofta menar helt olika saker och eftersom det inte alltid är helt klart vad som exempelvis bör klassas som en fullgod demokrati och inte. 
 
-Och kanske är allt detta i vart fall en fingervisning om att det inte alltid är så lätt eller möjligt (eller kanske *aldrig* helt möjligt?) att *utesluta* allt som *är* “x” och *innefatta* allt som *inte är* “x” i ett begrepp. Även om detta är en bra grundinställning kanske vi också måste förhålla oss ödmjuka inför det faktum att språket innehåller *vagheter* som inte så lätt kan undanröjas.
+Och kanske är allt detta i vart fall en fingervisning om att det inte alltid är så lätt eller möjligt (eller kanske *aldrig* helt möjligt?) att *innefatta* allt som *är* “x” och *utesluta* allt som *inte är* “x” i ett begrepp. Även om detta är en bra grundinställning kanske vi också måste förhålla oss ödmjuka inför det faktum att språket innehåller *vagheter* som inte så lätt kan undanröjas.
 
 (Att notera: försöket att definiera begreppet ”boll” är bara ett *konstruerat* exempel. Kanske går det att definiera begreppet boll på ett mycket bättre sätt?)
 

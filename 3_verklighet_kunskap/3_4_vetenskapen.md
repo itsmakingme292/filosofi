@@ -77,7 +77,7 @@ Ludwig Wittgenstein (1889-1951), en av de främsta inspiratörerna till den logi
 
 Eftersom filosofin traditionellt hanterat icke-empiriska och (ofta) metafysiska frågor så blir merparten av filosofin för de logiska positivisterna också helt meningslös. I detta gick de så långt som att hävda att de flesta filosofiska problem rentav aldrig varit _verkliga_ problem. Filosofins problem är endast pseudo-problem – antingen därför att de handlar om sådant som inte går att verifiera med sinneserfarenheter, eller därför att det filosofiska språket inte tillräckligt tydligt visat de logiska relationerna mellan begreppen. 
 
-Filosofins enda uppgift var för de logiska positivisterna att städa upp den oreda som filosofin själv lämnat efter sig. I detta blir filosofi endast en _terapeutisk verksamhet_ som handlar om att reda ut oklarheter i vårt språk och därmed endast en slags _hjälpreda_ för vetenskapen. 
+Filosofins enda uppgift är för de logiska positivisterna att städa upp den oreda som filosofin själv lämnat efter sig. I detta blir filosofi endast en _terapeutisk verksamhet_ som handlar om att reda ut oklarheter i vårt språk och därmed endast en slags _hjälpreda_ för vetenskapen. 
 
 <!--Endast vetenskapen kan syssla med det verkligt meningsfulla och det enda meningsfulla (som också bär på ett realinnehåll) är det som går att verifiera med observationer.  -->
 

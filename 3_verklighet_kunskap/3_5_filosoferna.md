@@ -63,7 +63,7 @@ Descartes tyckte det var en skandal att filosofer aldrig kunde vara eniga och at
 
 <!--Problemet, menade Descartes, var att filosofer var för ivriga och tog allt för många genvägar. --> 
 
-I detta var Descartes en [**rationalist**](3_3_2_kunskapens_kalla.md#Rationalismen) likt Platon. Endast det _otvivelaktiga_ kunde utgöra ett fundament starkt nog. Men vägen till det otvivelaktiga handlade för Descartes inte om att blicka in i en högre verklighet utan om att börja inom sig själv. För Descartes når vi det otvivelaktiga endast om vi  först tar avstamp i ett absolut tvivel. Vi ska rasera allt vi tror oss veta för att sedan bygga upp vår kunskap från grunden – allt som går att tvivla på, ska tvivlas på. 
+I detta var Descartes en [**rationalist**](3_3_2_kunskapens_kalla.md#Rationalismen) likt Platon. Endast det _otvivelaktiga_ kunde utgöra ett fundament starkt nog. Men vägen till det otvivelaktiga handlade för Descartes inte om att blicka in i en högre verklighet utan om att börja inom sig själv. För Descartes når vi det otvivelaktiga endast om vi _först tar avstamp_ i ett _absolut tvivel_. Vi ska rasera allt vi tror oss veta för att sedan bygga upp vår kunskap från grunden – allt som går att tvivla på, ska tvivlas på. 
 
 Descartes representerar här vad som kallas _metodologisk skepticism_. Med detta menas att Descartes inte hade som syfte att _landa i_ skepticism. Han sökte endast använda tvivlet _som metod_ för att nå säker kunskap (vilket är motsatsen till skepticism). Det skeptiska förhållningssättet är alltså ett hjälmedel för Descartes och inte ett mål. 
 
