@@ -2,7 +2,9 @@
 
 Att argumentera är att ha en ståndpunkt eller en åsikt som man vill ge andra människor goda anledningar att tro på. Denna ståndpunkt kallas för en **tes** och de skäl man ger, för eller emot denna, kallas för **argument**. Om tesen är ett sakpåstående syftar argumenten till att övertyga om det *sanna* eller _sannolika_ i den. Om tesen är ett värdepåstående syftar argumenten till att övertyga om det *rimliga* i den.
 
-God argumentation handlar om att presentera information och påståenden som man själv tänker borde leda fram till en viss övertygelse. Verkligt god argumentation handlar om att ge _tillräckliga anledningar_ att tro på något. Att argumentera handlar därför inte om att *övertala* eller _övertyga_ utan om en vilja att *upplysa*. I detta finns det en viktig skiljelinje mellan ren argumentation och ren _retorik_.
+God argumentation handlar om att presentera information och påståenden som man själv tänker borde leda fram till en viss övertygelse. Verkligt god argumentation handlar om att ge _tillräckliga anledningar_ att tro på något. Att argumentera handlar därför inte om en vilja att *övertala* utan om en vilja att *upplysa*. I detta finns det en viktig skiljelinje mellan ren argumentation och ren _retorik_.
+
+<!--Tog bort ”övertyga” i vad retorik inte är… Blir kanske bara förvirrande. Tydligare att bara ha övertala... -->
 
 Retorik är konsten att tala väl och “övertygande” – och denna konst kan även den som _argumenterar_ _dåligt_ vara bra på. En bra argumentatör vill inte bara "få rätt" och vinna över andra på “sin sida". En bra argumentatör är påläst, för ett logiskt sammanhängande resonemang och _upplyser_ i detta om *varför* denne _faktiskt_ tänker sig sin tes som rimligare eller mer sannolik än andra. 
 

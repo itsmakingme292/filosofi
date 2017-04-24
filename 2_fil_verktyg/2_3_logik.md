@@ -8,7 +8,7 @@ Som filosofisk gren är logiken studiet av regler för slutsatsdragning och prin
 
 ## Premisser, slutledningar & slutsatser
   
-En **slutledning** är ett helt resonemang där flera påståenden eller antaganden kopplas samman för att utvinna “ny” information. Exempelvis: “Om Pelle är en människa och alla människor är dödliga så är också Pelle dödlig.”. **Slutsatsen** är det man till sist kommer fram till. Med andra ord det som blir följden av hela slutledningen. I detta exempel alltså att: Pelle är dödlig (förutsatt att han också är en människa).
+En **slutledning** är ett helt resonemang där flera påståenden eller antaganden kopplas samman för att utvinna “ny” information. Exempelvis: “Om Pelle är en människa och alla människor är dödliga så är också Pelle dödlig”. **Slutsatsen** är det man till sist kommer fram till. Med andra ord det som blir följden av hela slutledningen. I detta exempel alltså att: Pelle är dödlig (förutsatt att han också är en människa).
 
 En sådan förutsättning, så som “förutsatt att han också är en människa”, kallas för en **premiss**. Premisser är själva utgångspunkterna i ett resonemang: de antaganden eller påståenden som *måste* vara sanna för att slutsatsen ska *kunna* vara sann. Om vi resonerar *korrekt* är därför slutsatsen *alltid* en *konsekvens* av premisserna.
 
@@ -129,7 +129,7 @@ I detta ska vi komma ihåg att det oftast inte bara är ett fåtal saker som kor
 * Vad vi däremot också vet är att Y-namn även korrelerar med socialgruppstillhörighet (y-namn är typiska arbetarklassnamn) och att detta i sin tur korrelerar med ökad brottsbenägenhet (lite förenklat: har man det sämre är man ibland mer benägen att begå brott). 
 * Därtill kan vi tänka oss ytterligare faktorer, så som att personer med y-namn kanske möter vissa fördomar och att dessa fördomar formar deras person eller att de kanske rentav inte får en lika rättvis rättegång (obs detta är ett exempel, huruvida det är så har man inte riktigt forskat tillräckligt på).
 
-När man upptäckt en korrelation som verkar vara ett orsakssamband måste man vidare avgöra i vilken **riktning** denna går. Exempelvis: om vi kan se att positiva människor generellt tillhör de som lyckats bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas, eller är det snarare så att de *blivit positiva av* att lyckas? . 
+När man upptäckt en korrelation som verkar vara ett orsakssamband måste man vidare avgöra i vilken **riktning** denna går. Exempelvis: om vi kan se att positiva människor generellt tillhör de som lyckats bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas, eller är det snarare så att de *blivit positiva av* att lyckas? 
 
 Ett annat vanligt misstag kring orsakssambands riktning är när man felaktigt tror att den går åt båda håll. Men bara för att en första sak orsakar en andra betyder det inte att den andra också orsakar den första.
 

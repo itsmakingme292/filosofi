@@ -19,7 +19,7 @@ Den andra nivån, **normativ etik**, behandlar frågan om vilken eller vilka pri
 
 **Kommentar**: Konsensus betyder kort och gott _enighet_ och någon sådan finns varken vad gäller vilken teori som är bäst eller vilken variant och tolkning vi bör utgå ifrån. Det sagt handlar det inte om tycke och smak, vi måste likväl ha argument för de positioner vi antar inom den normativa etiken. 
 
-Den tredje nivån, **tillämpad etik**, behandlar de konkreta moralfilosofiska frågorna. Till dessa hör sådant som: medicinsk etik (exempelvis frågan om dödshjälp), miljöetik, djurrätt och rikas ansvar inför fattiga. På denna nivå *tillämpar* vi till sist de normativa teorierna på enskilda fall (eller åtminstone *typer* av fall). 
+Den tredje nivån, **tillämpad etik**, behandlar de _konkreta_ moralfilosofiska frågorna. Till dessa hör sådant som: medicinsk etik (exempelvis frågan om dödshjälp), miljöetik, djurrätt och rikas ansvar inför fattiga. På denna nivå *tillämpar* vi till sist de normativa teorierna på enskilda fall (eller åtminstone *typer* av fall). 
 
 ## Etik utan meta-etik
 Under detta delmoment kommer vi framförallt att fokusera på den normativa etiken. Till viss del innebär detta att vi berör frågor inom den tillämpade etiken, men det är i huvudsak själva *principerna* för ett moraliskt rätt handlande vi vill utreda. Detta innebär också att vi lämnar meta-etiken därhän, eftersom:

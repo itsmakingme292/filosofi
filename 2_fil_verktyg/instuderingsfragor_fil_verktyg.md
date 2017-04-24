@@ -118,10 +118,6 @@
 
     -   Varför tänker du dig att det kan vara viktigt att hålla isär dessa?
 
--   På vilket sätt hänger argumentation samman med språkfilosofi och logik?
-
-    -   Vad tänker du själv kring detta?
-
 -   Vad är en tes och vad är ett argument?
 
     -   Vad innebär det att vi kan ha olika nivåer av argument?

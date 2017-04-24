@@ -26,6 +26,8 @@ Ibland används ordet filosofi som en synonym till att kort och gott ha en upps�
 
 Att ägna sig åt filosofi innebär därför i första ledet att inta en “nollställd” inställning till världen och sig själv. Att inte ta något för givet för att sedan noggrant, logiskt och sammanhängande bygga upp sin förståelse av den på nytt. Att bli medveten om sitt eget tänkande och hur detta formar de objekt vi tänker på. Att söka klarhet i de antaganden vi gör och förstå hur dessa ligger till grund för våra slutsatser. Och att inte acceptera något utan att först utsätta det för kritik. Att kort och gott “ha en filosofi” kan vara en början, men aldrig ett slutmål.
 
+<!--Ta bort Och i början av näst sista meningen ovan? Och/eller: få bort en del att? Eller köra konsekvent på det? -->
+
 
 #### Filosofi är inte en vetenskap, men inte heller religion
 
