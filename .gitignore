@@ -1,7 +1,5 @@
 *.orig
 *.DS_Store
 *.plist
-
-*.plist
-
-*.plist
+.Ulysses-Group.plist
+*.Ulysses-Group.plist
