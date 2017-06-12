@@ -7,7 +7,60 @@
 		<string>MD-wiki tutorials (ifall sidan skulle läggas ner)</string>
 	</array>
 	<key>createMarkedFile</key>
-	<false/>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>MD-wiki tutorials (ifall sidan skulle läggas ner)</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>518950364.95051497</real>
+				<key>lastModification</key>
+				<real>518950363</real>
+				<key>version</key>
+				<dict>
+					<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>createMarkedFile</key>
+		<real>518950363</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Funktioner &amp; instruktioner.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>518950364.95085698</real>
+				<key>lastModification</key>
+				<real>518950363</real>
+				<key>version</key>
+				<dict>
+					<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+			<key>test.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>518950364.950872</real>
+				<key>lastModification</key>
+				<real>518950363</real>
+				<key>version</key>
+				<dict>
+					<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
@@ -17,5 +70,25 @@
 			<string>test.md</string>
 		</array>
 	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+			<integer>4</integer>
+		</dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+			<integer>3</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>

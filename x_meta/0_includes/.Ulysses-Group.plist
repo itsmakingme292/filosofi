@@ -3,12 +3,49 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>518950367</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>preliminart_innehall.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<false/>
+				<key>firstUnassignment</key>
+				<real>518950368.51773602</real>
+				<key>lastModification</key>
+				<real>518950367</real>
+				<key>version</key>
+				<dict>
+					<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>preliminart_innehall.md</string>
 		</array>
 	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+			<integer>3</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>
