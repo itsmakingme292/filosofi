@@ -42,7 +42,7 @@ Detta innebär inte att man i filosofiska sammanhang inte kan eller får hysa re
 
 Ett ganska vanligt påstående om filosofin är att den aldrig kommer med svar, endast med frågor. Detta är i stort sett en  karikatyrmässig förenkling. Det är sant att filosofin rymmer fler frågor än svar, men det är också sant inom vetenskapen. Ingen forskning är någonsin slutgiltig och att det finns få säkra svar innebär heller inte att alla tankar är lika goda.
 
-Inom filosofi må det vara svårare att nå en teori som merparten, åtminstone temporärt, kan vara hyfsat överens om. Men det betyder inte att man inom filosofin aldrig gör några sådana framsteg. Tvärtom är vi förhoppningsvis en bra bit klokare nu än för två tusen år sedan. Men att bli klokare handlar också i grund och botten om att upptäcka *nya* frågor.
+Inom filosofi må det vara svårare att nå en teori som merparten, ens temporärt, kan vara hyfsat överens om. Men det betyder inte att man inom filosofin aldrig gör några sådana framsteg. Tvärtom är vi förhoppningsvis en bra bit klokare nu än för två tusen år sedan. Men att bli klokare handlar också i grund och botten om att upptäcka *nya* frågor.
 
 <!-- (eller för att använda ett mindre fashionabelt ord: *visare*) -->
 

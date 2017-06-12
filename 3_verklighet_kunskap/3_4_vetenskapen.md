@@ -118,7 +118,7 @@ Vetenskapen måste därför, menar Popper, fokusera på att _hitta de svarta sva
 
 ### Vetenskap & pseudovetenskap
 
-En viktig anledning till att Popper framhåller _falsifierbarhet_ som det vetenskapliga demarkationskriteriet var att Popper tyckte sig se en rad teorier som mer eller mindre är *själv-verifierande*. Teorier som var förenliga med i princip vilka observationsresultat som helst. 
+En viktig anledning till att Popper framhåller _falsifierbarhet_ som det vetenskapliga demarkationskriteriet var att Popper tyckte sig se en rad teorier som mer eller mindre är *själv-verifierande*. Teorier som är förenliga med i princip vilka observationsresultat som helst. 
 
 Ett exempel på en sådan teori är (enligt Popper) Freuds teori om _oidpuskomplexet_. Kortfattat säger Freuds teori att alla pojkar vill ha sex med sin mamma och att de därför ser sin pappa som en rival. För varje pojke som var fientlig gentemot sin pappa såg Freud att teorin var verifierad. Men för varje pojke som hade en mer neutral (eller rentav kärleksfull) hållning gentemot sin pappa introducerade Freud _stödhypotesen_ att dessa pojkar endast förnekade sina _egentliga_ känslor. 
 
