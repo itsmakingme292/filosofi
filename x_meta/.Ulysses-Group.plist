@@ -60,6 +60,8 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetOrder</key>
+		<real>518951259.72727001</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -70,6 +72,8 @@
 			<string>test.md</string>
 		</array>
 	</array>
+	<key>sheetOrder</key>
+	<string>title</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -88,6 +92,11 @@
 		<dict>
 			<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
 			<integer>4</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>ecc1f31f0e2c32e316de501ed4efa414c78e49132449d7332d3162391f396756</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>
