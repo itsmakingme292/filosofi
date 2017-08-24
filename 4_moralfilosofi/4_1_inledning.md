@@ -80,7 +80,7 @@ Ansvar och *moraliskt ansvar* är i detta två olika saker. Björnen är möjlig
 
 Inom moralfilosofin talar man här om att "ett *bör* alltid implicerar ett *kan*”. Med detta menas att vi endast är moraliskt klandervärdiga för något vi gjort om vi också *kunde gjort annorlunda*. En person bör bara ge pengar till välgörenhetsorganisationer om den också *kan* det (om denne har den ekonomiska möjligheten). Att säga något annat blir antingen en motsägelse, eller på sin höjd meningslöst (det är också av denna anledning det är svårt att tala om moral om man inte förutsätter att människan, åtminstone i någon bemärkelse, har en fri vilja). 
 
-Frågan om moraliskt ansvar är dock långt mer komplicerad än så här. För vad innebär det egentligen att *kunna* handla annorlunda? Hur mentalt frisk måste en människa vara för att kunna klandras för sina handlingar? Kan en människas uppväxt vara en förmildrande omständighet? När har vi tillräckligt med information för att vara klandervärdiga?
+Frågan om moraliskt ansvar är dock långt mer komplicerad än så här. För vad innebär det egentligen att *kunna* handla annorlunda? Hur mentalt frisk måste en människa vara för att kunna klandras för sina handlingar? Kan en människas uppväxt vara en förmildrande omständighet? När har vi tillräckligt med information för att vara klandervärdiga? Osv.
 
 Om vi återgår till tanken om moralen som en bumerang och alla människors ”inneboende” moraliska kompass kan man ställa sig frågan om inte denna ibland kan ”sättas ur spel”? Om denna i vissa situationer kan vara såpass ”trasig” att det omöjligen kan vara vårt eget fel att vi handlat orätt? 
 

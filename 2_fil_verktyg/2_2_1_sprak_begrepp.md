@@ -45,7 +45,7 @@ Om vi ger oss ut för att finna en sjöjungfru så vet vi genom begreppet vad vi
 
 ## Definitioner & distinktioner
 
-Om vi **definierar** ett ord innebär det att vi gör det begreppsliga innehållet *tydligt* och *avgränsat*. Att vi kort och gott *bestämmer* och *skriver ut* meningen hos ett visst begrepp för att råda bot på eventuella oklarheter kring vad vi menar med det. En definition krävs givetvis inte för att vi ska kunna använda ett begrepp. Vi använder begrepp dagligen utan att definiera dem. Men när vi verkligen försöker förstå och vill klargöra ett begrepp är det i sökandet efter en definition vi hamnat.
+Om vi **definierar** ett ord/begrepp innebär det att vi gör det begreppsliga innehållet *tydligt* och *avgränsat*. Att vi kort och gott *bestämmer* och *skriver ut* meningen hos ett visst begrepp för att råda bot på eventuella oklarheter kring vad vi menar med det. En definition krävs givetvis inte för att vi ska kunna använda ett begrepp. Vi använder begrepp dagligen utan att definiera dem. Men när vi verkligen försöker förstå och vill klargöra ett begrepp är det i sökandet efter en definition vi hamnat.
 
 Att definiera begrepp är inte minst vad man gör i ordböcker och uppslagsverk. Den typ av definitioner vi finner i dessa kallas för *lexikaliska* och utgår ifrån de *vanligaste* användningarna av ord. Men begrepp kan det också råda delade meningar om. En ordboksdefinition är ofta en bra utgångspunkt, men räcker inte alltid hela vägen. Detta eftersom sådana kan vara förenklande och inte tillräckligt avgränsade. Ibland vill vi därför _själva_ försöka definiera ett visst begrepp. Detta kallas att *stipulera* en definition.
 
@@ -87,7 +87,7 @@ Det är sällan man stöter på missförstånd vid användningen av ordet “bol
 
 Och kanske är allt detta i vart fall en fingervisning om att det inte alltid är så lätt eller möjligt (eller kanske *aldrig* helt möjligt?) att *innefatta* allt som *är* “x” och *utesluta* allt som *inte är* “x” i ett begrepp. Även om detta är en bra grundinställning kanske vi också måste förhålla oss ödmjuka inför det faktum att språket innehåller *vagheter* som inte så lätt kan undanröjas.
 
-(Att notera: försöket att definiera begreppet ”boll” är bara ett *konstruerat* exempel. Kanske går det att definiera begreppet boll på ett mycket bättre sätt?)
+**Att notera**: försöket att definiera begreppet ”boll” är bara ett *konstruerat* exempel. Kanske går det att definiera begreppet boll på ett mycket bättre sätt?
 
 ## Vaghet
 
@@ -104,7 +104,7 @@ Viktigt att komma ihåg är att ovanstående bara är några mer tydliga exempel
 
 ## Familjelikheter
 
-Ett annat sätt att lösa en viss del av problematiken med att få rätt omfång på våra begrepp är att tala om *familjelikheter*. Ett spel, så som ”Schack”, kanske har väldigt lite gemensamt med ”World of Warcraft” och desto mer gemensamt med ”Fia med knuff" – men de tillhör alla *familjen* “spel”. När vi talar om familjelikheter säger vi därför att det inte spelar någon roll att en medlem av familjen endast har likhet med vissa medlemmar och liten med andra. Att vi tillhör en och samma familj beror inte på att alla är likadana. Jag kanske delar vissa egenskaper med min pappa som min bror inte delar, och min bror kanske delar vissa egenskaper med vår pappa som inte jag delar.
+Ett sätt att lösa en _viss_ del av problematiken med att få rätt omfång på våra begrepp är att tala om *familjelikheter*. Ett spel, så som ”Schack”, kanske har väldigt lite gemensamt med ”World of Warcraft” och desto mer gemensamt med ”Fia med knuff" – men de tillhör alla *familjen* “spel”. När vi talar om familjelikheter säger vi därför att det inte spelar någon roll att en medlem av familjen endast har likhet med vissa medlemmar och liten med andra. Att vi tillhör en och samma familj beror inte på att alla är likadana. Jag kanske delar vissa egenskaper med min pappa som min bror inte delar, och min bror kanske delar vissa egenskaper med vår pappa som inte jag delar.
 
 När vi talar om familjelikheter frånsäger vi oss dock möjligheten att kunna ge några mer exakta definitioner. Tanken med teorin om familjelikheter är framförallt att belysa hur vi till vardags kan förstå den avsedda referensen hos ett begrepp även när detta begrepps mening är svårt att greppa. Som filosofiskt verktyg för att söka klarhet är familjelikheter däremot inte alltid lika behjälpligt.
 

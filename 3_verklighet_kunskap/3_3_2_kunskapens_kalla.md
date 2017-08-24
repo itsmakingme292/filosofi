@@ -2,7 +2,7 @@
 
 <!--Kanske ha denna som sista del under ”Kunskap & Sanning” och döpa om denna till ”Kunskap”? Istället för att det är en egen?-->
 
-I den mån vår kunskap alltid bär på ett berättigande har vår kunskap alltid någon form av _källa_. Vår kunskap uppstår inte ur tomma intet, den kommer _någonstans ifrån_. Men alla "källor" till det vi tror är samtidigt inte likvärdiga. Alla källor kan inte på samma sätt eller i samma utsträckning berättiga vår tro (och därmed göra den till kunskap). 
+I den mån vår kunskap bär på ett berättigande har vår kunskap alltid någon form av _källa_. Vår kunskap uppstår inte ur tomma intet, den kommer _någonstans ifrån_. Men alla "källor" till det vi tror är samtidigt inte likvärdiga. Alla källor kan inte på samma sätt eller i samma utsträckning berättiga vår tro (och därmed göra den till kunskap). 
 
 Om vi exempelvis tror något av rent psykologiska skäl, därför att vi _vill_ tro något, därför att vi har en _viss känsla_ eller därför att vi har vissa _fördomar_, så berättigar detta inte vår tro. Vi kan förvisso råka tro något som är sant av rent psykologiska skäl, men vi besitter likväl inte kunskap.
 

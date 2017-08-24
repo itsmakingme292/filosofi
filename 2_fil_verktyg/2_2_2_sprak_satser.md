@@ -72,7 +72,7 @@ Vi ska också komma ihåg att missförstånd ofta uppstår därför att vi själ
 
 Att definiera ord och precisera satser gör vi – som sagt – för att skapa tydlighet i vårt språk. Men till vardags behöver vi inte alltid vara så värst tydliga för att göra oss förstådda (vilket enkelt kan kontrasteras mot sådant som både juridik, vetenskap och filosofi). Detta beror på att vi människor ofta är ganska duktiga på att tolka och läsa in underförstådda betydelser. Vår tolkning av satser utgår framförallt ifrån tre saker.
 
-1. Vår _föreställning av talaren_. Vad vi tror om talarens *intentioner*. Hur vi föreställer oss att den tänker när den yttrar en sats, vad den vill och menar med det den säger, osv. I en diskussion är det oftast lättare att förstå vad en vän vill säga än vad det är att förstå en främling. 
+1. Vår _föreställning av talaren_. Vad vi tror om talarens *intentioner*. Hur vi föreställer oss att denne tänker när denne yttrar en sats, vad denne vill och menar med det denne säger, osv. I en diskussion är det oftast lättare att förstå vad en vän vill säga än vad det är att förstå en främling. 
 
 2. I vilket _socialt_ (och eventuellt _medialt_) *sammanhang* satsen yttras. Vart, när och hur satsen yttras, vem som är den tänkta mottagaren, osv. Om jag som lärare i ett klassrum till mina elever säger "nu ska vi göra något roligt" betyder det förmodligen en helt annan sak än om jag som privatperson på en fest yttrar samma sats till mina vänner. 
 

@@ -15,7 +15,7 @@
 
 #### Filosofi är inte ett historiskt ämne
 
-Filosofi handlar inte om en lös samling sedan länge döda gubbar, som tyckt och tänkt egensinniga tankar om allt mellan himmel och jord. Filosofi är något lika aktuellt som evigt, något lika praktiskt som teoretiskt och något lika vardagligt som extraordinärt. Filosofi handlar om alla de frågor som de flesta någon gång i livet ställer sig. Frågor så som ”vad är verkligt?”, ”vad kan vi veta?”, ”vad är meningen med livet?” och ”vad är rätt och fel?”. Om alla de *stora frågor* som kanske inte är särskilt lätta att svara på, men som likväl kräver sina, om inte slutgiltiga svar, så åtminstone goda samtal och kvalificerade gissningar.
+Filosofi handlar inte om en lös samling sedan länge döda gubbar, som tyckt och tänkt egensinniga tankar om allt mellan himmel och jord. Filosofi är något lika aktuellt som evigt, något lika praktiskt som teoretiskt och något lika vardagligt som extraordinärt. Filosofi handlar om alla de frågor som de flesta någon gång i livet ställer sig. Frågor så som: ”vad är verkligt?”, ”vad kan vi veta?”, ”vad är meningen med livet?” och ”vad är rätt och fel?”. Om alla de *stora frågor* som kanske inte är särskilt lätta att svara på, men som likväl kräver sina, om inte slutgiltiga svar, så åtminstone goda samtal och kvalificerade gissningar.
 
 Filosofins frågor är därför lika viktiga för oss idag, som förr, och i detta kan vi fortfarande finna en ovärderlig hjälp hos “de gamla gubbarna” (och kvinnorna, även om de dessvärre varit mindre synliga historiskt). För även om filosofi har en viss personlig dimension är det genom samtalet och i kontakt med dessa filosofers teorier och tankegods som vi lättast rör oss framåt.
 
@@ -24,7 +24,7 @@ Filosofins frågor är därför lika viktiga för oss idag, som förr, och i det
 
 Ibland används ordet filosofi som en synonym till att kort och gott ha en uppsättning tankar, idéer eller principer kring en viss sak. Denna definition är korrekt i den mån att filosofi är något “alla har” och att varje fråga rymmer filosofi. Men filosofisk blir frågan, och filosofiska blir vi, först då vi *medvetandegjort* detta faktum och börjat syna dessa tankar. I detta blir filosofin inte bara någonting *vi redan har*, utan också en ständigt pågående *aktivitet.*
 
-Att ägna sig åt filosofi innebär därför i första ledet att inta en “nollställd” inställning till världen och sig själv. Att inte ta något för givet för att sedan noggrant, logiskt och sammanhängande bygga upp sin förståelse av den på nytt. Att bli medveten om sitt eget tänkande och hur detta formar de objekt vi tänker på. Att söka klarhet i de antaganden vi gör och förstå hur dessa ligger till grund för våra slutsatser. Och att inte acceptera något utan att först utsätta det för kritik. Att kort och gott “ha en filosofi” kan vara en början, men aldrig ett slutmål.
+För att kunna ägna sig åt filosofi måste vi först försöka inta en  “nollställd” inställning till världen och oss själva. Filosofisk tanke kräver att vi inte tar något för givet för att sedan noggrant, logiskt och sammanhängande bygga upp vår förståelse av världen på nytt. Genom filosofin blir vi medvetna om vårt eget tänkande och hur detta formar de objekt vi tänker på. Filosofin hjälper oss att söka klarhet i de antaganden vi gör och i att förstå hur dessa ligger till grund för våra slutsatser. Filosofin lär oss att aldrig acceptera något utan att först utsätta det för kritik. Att kort och gott “ha en filosofi” kan vara en början, men aldrig ett slutmål.
 
 <!--Ta bort Och i början av näst sista meningen ovan? Och/eller: få bort en del att? Eller köra konsekvent på det? -->
 
@@ -42,7 +42,7 @@ Detta innebär inte att man i filosofiska sammanhang inte kan eller får hysa re
 
 Ett ganska vanligt påstående om filosofin är att den aldrig kommer med svar, endast med frågor. Detta är i stort sett en  karikatyrmässig förenkling. Det är sant att filosofin rymmer fler frågor än svar, men det är också sant inom vetenskapen. Ingen forskning är någonsin slutgiltig och att det finns få säkra svar innebär heller inte att alla tankar är lika goda.
 
-Inom filosofi må det vara svårare att nå en teori som merparten, ens temporärt, kan vara hyfsat överens om. Men det betyder inte att man inom filosofin aldrig gör några sådana framsteg. Tvärtom är vi förhoppningsvis en bra bit klokare nu än för två tusen år sedan. Men att bli klokare handlar också i grund och botten om att upptäcka *nya* frågor.
+Inom filosofi må det vara svårare att nå en teori som merparten, ens temporärt, kan vara hyfsat överens om. Men det betyder inte att man filosofiskt aldrig gör några sådana framsteg. Tvärtom är vi förhoppningsvis en bra bit klokare nu än för två tusen år sedan. Men att bli klokare handlar också i grund och botten om att upptäcka *nya* frågor.
 
 <!-- (eller för att använda ett mindre fashionabelt ord: *visare*) -->
 
@@ -68,41 +68,54 @@ I detta handlar filosofi alltid om att *gå till botten* med det ämne vi tar f�
 
 Om vi exempelvis skulle ägna oss åt en filosofisk analys av begreppet "kärlek" så räcker det inte med att fråga Lisa hur hon känner sig när hon är kär, eller hur det svenska folket uppfattar ordet "kärlek" (detta är ett jobb för socialantropologer – inte filosofer). Vi kan förvisso ha mycket olika uppfattningar om vad kärlek innebär *för oss*, men dessa uppfattningar är personliga och filosofin sysslar, som sagt, med det _allmängiltiga_. Filosofiskt frågar vi oss istället om det kan finnas någonting *utmärkande* för den upplevelse vi vanligen brukar kalla kärlek. Vi försöker finna en *generell princip* som sammanbinder *alla former* av kärlek och/eller olika sätt att särskilja mellan *olika typer* av kärlek. Vi försöker kort och gott finna en kärlekens *minsta gemensamma nämnare*. 
 
-## Exempel på filosofiska frågeställningar
+### Exempel på filosofiska frågeställningar
 
-* Vad är det att vara en människa? Vad är *mänsklighet*? Finns det något gemensamt drag hos alla människor? Kan en dator vara mänsklig? 
+* Vad är det att vara en människa? Vad är *mänsklighet*? 
 
-* Har alla människor ett inneboende lika värde? Har även djur ett sådant värde? 
+* Har alla människor ett lika värde? Har även djur ett sådant värde? 
 
-* Har vi en fri vilja eller är denna en illusion? Är allt determinerat eller förutbestämt? 
+* Har vi en fri vilja eller är våra handlingar helt orsaksbestämda (determinerade)? Kan vi överhuvudtaget agera fritt eller är vi alltid en produkt av våran omgivning? 
 
 * Vad betyder det att vi är en och samma person och ändå förändras? Har vi ett ”Jag”? Har vi en personlig identitet? Har vi en själ?
 
-* Finns det typiskt manliga och kvinnliga egenskaper? Bör det finnas en skillnad mellan hur män och kvinnor behandlas och agerar? 
+* Bör vi överhuvudtaget göra uppdelningen mellan "män" och "kvinnor"? Bör det finnas en skillnad mellan hur män och kvinnor agerar och behandlas? 
 
-* Vad är rätt och fel? För vem har vi ett ansvar? Vad är värdefullt och vad är gott? 
+* Vad är rätt och fel? Vad är värdefullt och vad är gott? För vem har vi ett ansvar? När bör vi klandras för något vi gjort? 
 
-* Hur ska vi leva tillsammans? Hur bör det goda samhället organiseras? Vad är rättvisa?
+* Hur ska vi leva tillsammans? Hur bör ett gott samhälle organiseras? Vilka rättigheter och skyldigheter bör vi ha? Vad är rättvisa? 
 
-* Vad är konst? Vad är vackert och vad är fult?
+* Vad är vackert och vad är fult? Vad är konst? 
 
 * Finns det en mening *med* livet? Finns det mening *i* livet? Vad är lycka? Vad är självförverkligande?
 
-* Vad existerar? Vad är verkligt?  Hur hänger världen samman på sin allra mest grundläggande nivå?
+* Vad existerar? Vad är verkligt? Hur hänger världen samman på sin allra mest grundläggande nivå?
 
 * Kan vi bevisa eller motbevisa existensen av en Gud?
 
-* Vart går gränsen för vad vi kan veta? Vad är kunskap och hur får vi tag i denna?
-
-* Vad är sanning och hur avgör vi vad som är sant?
+* Vart går gränsen för vad vi kan veta? Vad är kunskap och hur når vi kunskap? Vad är sanning och hur avgör vi vad som är sant? 
 
 * Vad är vetenskap och hur bör denna bedrivas?
 
-* Hur kommer det sig att vi genom vårt språk kan skapa mening och göra oss förstådda?
+* Vilka är språkets beståndsdelar? Vad är relationen mellan vårt språk och verkligheten? 
 
 * Vad är mänskligt förnuft och vad är kritisk tänkande? 
 
 * Vad är logiskt möjligt? Vad är logiskt nödvändigt? Vad är ett gott resonemang och en giltig slutledning? 
+
+***
+
+### Filosofer om filosofi
+
+*Listor med citat från filosofer som försöker beskriva vad filosofi är:*
+
+* https://www.brainpickings.org/2012/04/09/what-is-philosophy/
+* http://www.philosophy.uct.ac.za/philosophy/aboutphilosophy/philosophersonphilosophy
+* http://www2.hawaii.edu/~stroble/philosophy_definitions.html
+* https://en.wikiquote.org/wiki/Philosophy
+
+<!--I framtiden: översätt och gör egen lista... -->
+
+**OBS:** Ovanstående listor är samtliga på engelska och inte  obligatorisk läsning. 
 
 ## Ett par punkter att ta med sig <br>in i denna kurs
 

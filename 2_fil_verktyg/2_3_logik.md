@@ -34,6 +34,16 @@ Huruvida exempelvis människor faktiskt är dödliga eller ej, eller vilken inva
 
 En slutledning som kan vara sann eller falsk kallas för en *logiskt giltig* eller en *korrekt slutledning*. En slutledning som faller redan på sin bristande logik, alltså innan vi ens behöver jämföra premisserna med verkligheten, kallas för ett *felslut* eller en *logiskt ogiltig slutledning*. En sådan ogiltig slutledning kan förvisso av en *slump* producera en *slutsats* som trots allt är sann – men bara om vi har ”tur”, inte för att vi resonerat  korrekt (och själva *slutledningen* är därav likväl ogiltig). 
 
+> *Exempel på en slutledning som är logiskt ogiltig, men som ändå kan "råka" producera en sann slutsats*
+> 
+> > *Premiss 1:* Om någon är en människa så är denne dödlig   
+> > *Premiss 2:* Nils är dödlig.   
+> > *Slutsats:* Nils är en människa.
+
+Ovanstående är ett bra exempel på det vi kallar *förhastade slutsatser*. Denna slutledning är *ogiltig* eftersom Nils inte alls måste vara en människa enbart därför att han är dödlig. Det finns många exempel på andra dödliga djur – kanske är Nils namnet på någons katt. Premisserna är rimligen sanna och kanske är också slutsatsen ett *sant påstående*, men *slutledningen* är likväl *ogiltig* eftersom slutsatsen inte *följer av premisserna*.
+
+Logisk giltighet hos en slutledning ska dock inte blandas samman med huruvida slutsatsen är _sann_. Det räcker inte med att vi resonerar korrekt utifrån de premisser vi antar för att producera en sann slutsats – vi måste också anta _rätt_ premisser. 
+
 > *Exempel på en slutledning som är logiskt giltig, men som lika gärna kan ge oss en osann slutsats:*  
 > 
 >> *Premiss 1:* Lisa är antingen hemma eller på jobbet.   
@@ -42,13 +52,6 @@ En slutledning som kan vara sann eller falsk kallas för en *logiskt giltig* ell
 
 Även om den ovanstående *slutledningen* är riktig och *logiskt giltig* kan fortfarande en eller flera av premisserna vara falska och då kan slutledningen likväl ge oss en *osann* slutsats. Det kan ju exempelvis vara så att Lisa inte alls bara kan vara hemma eller på jobbet, hon kanske också kan vara hos sin kompis Pelle. 
 
-> *Exempel på en slutledning som är logiskt ogiltig, men som ändå kan "råka" producera en sann slutsats*
-> 
-> > *Premiss 1:* Om någon är en människa så är denne dödlig   
-> > *Premiss 2:* Nils är dödlig.   
-> > *Slutsats:* Nils är en människa.
-
-Ovanstående är ett bra exempel på det vi kallar *förhastade slutsatser*. Denna slutledning är *ogiltig* eftersom Nils inte alls måste vara en människa enbart därför att han är dödlig. Det finns många exempel på andra dödliga djur – kanske är Nils namnet på någons katt. Premisserna är rimligen sanna och kanske är också slutsatsen ett *sant påstående*, men *slutledningen* är likväl *ogiltig* eftersom slutsatsen inte *följer av premisserna*.
 
 ## Deduktion & induktion
 
