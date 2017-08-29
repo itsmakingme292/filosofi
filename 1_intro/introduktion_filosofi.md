@@ -108,10 +108,10 @@ Om vi exempelvis skulle ägna oss åt en filosofisk analys av begreppet "kärlek
 
 *Listor med citat från filosofer som försöker beskriva vad filosofi är:*
 
-* https://www.brainpickings.org/2012/04/09/what-is-philosophy/
-* http://www.philosophy.uct.ac.za/philosophy/aboutphilosophy/philosophersonphilosophy
-* http://www2.hawaii.edu/~stroble/philosophy_definitions.html
-* https://en.wikiquote.org/wiki/Philosophy
+* [What is Philosophy? – An Omnibus of Definitions from Prominent Philosophers (Brainpickings)](https://www.brainpickings.org/2012/04/09/what-is-philosophy/)
+* [Philosophers on Philosophy (University of Cape Town)](http://www.philosophy.uct.ac.za/philosophy/aboutphilosophy/philosophersonphilosophy)
+* [Definitions of Philosophy (University of Hawai)](http://www2.hawaii.edu/~stroble/philosophy_definitions.html)
+* [Wikiquote: Philosophy](https://en.wikiquote.org/wiki/Philosophy)
 
 <!--I framtiden: översätt och gör egen lista... -->
 
