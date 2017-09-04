@@ -35,9 +35,9 @@
 
 > **Jämför era preciseringar av satserna** 
 > > - Fick satserna liknande innebörd eller helt olika?   
-> > - Vad tycker ni om varandras preciseringar?   
-> > - Är preciseringarna rimliga?   
+> > - Vad tycker ni om varandras preciseringar? Är preciseringarna rimliga?    
 > > - I hur stort behov är era preciseringar i sin tur av preciseringar?  
+> > - Kan ni komma på bättre preciseringar tillsammans? Går de att kombinera på något sätt?  
 
 ## Övningsuppgift 3
 Gör denna övningsuppgift tillsammans med en klasskamrat och turas om att förklara för varandra.
