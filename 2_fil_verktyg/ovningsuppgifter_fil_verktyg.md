@@ -96,6 +96,25 @@ Gör denna övningsuppgift tillsammans med en klasskamrat och turas om att förk
 
 ## Övningsuppgift 8
 
-Diskutera i grupp situationer då ni hört eller läst exempel på olika typer av argumentationsfel. Håller ni med varandra om era kategoriseringar? Är det lätt eller svårt att säga vad som är ett argumentationsfel och inte? Anteckna era exempel och resonera lite kring vilka typer av argumentationsfel som är vanligast förekommande. Fundera också på i vilka situationer olika typer av argumentationsfel uppkommer, samt i vilken utsträckning ni själva gjort er "skyldiga" till dessa.
+* Gå tillsammans igenom listan över [argumentationsfel](2_4_argumentation.md#Argumentationsfel) och diskutera i vilka situationer som ni hört eller läst exempel på dessa. 
+* Håller ni med varandra om era kategoriseringar? Är det lätt eller svårt att säga vad som är ett argumentationsfel och inte? 
+* Resonera kring vilka typer av argumentationsfel som är vanligast förekommande, samt i vilken utsträckning ni själva gjort er "skyldiga" till dessa. 
 
-**Tips:** Använd er av listan över argumentationsmisstag i [argumentationsavsnittet](2_4_argumentation.md) för att ha ett par typer att utgå ifrån. Har ni svårt att komma igång, kan ni även använda resten av internet som inspiration...
+<!--* Fundera också på i vilka situationer olika typer av argumentationsfel uppkommer, samt i vilken utsträckning ni själva gjort er "skyldiga" till dessa. -->
+
+<!--**Tips:** Använd er av listan över argumentationsmisstag i [argumentationsavsnittet](2_4_argumentation.md#Argumentationsfel) för att ha ett par typer att utgå ifrån. Har ni svårt att komma igång, kan ni även använda resten av internet som inspiration... -->
+
+
+## Övningsuppgift 9
+
+Analysera en valfri debattartikel utifrån följande frågor:
+
+1. Vilken är tesen som drivs? Är denna enkel eller svår att identifiera? 
+2. Vilka är de huvudsakliga argumenten? Är dessa relevanta och hållbara? 
+
+
+> _Sidor där ni finner debattartiklar:_
+>
+> - http://www.dn.se/debatt/
+> - http://www.aftonbladet.se/debatt
+> - http://www.gp.se/nyheter/debatt
