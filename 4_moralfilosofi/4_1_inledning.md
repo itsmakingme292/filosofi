@@ -1,13 +1,13 @@
 # Inledning
 ## Vad är moralfilosofi?
 
-Moralfilosofi är, som Sokrates en gång uttryckte det, ingen liten ”bagatell”. Inom moralfilosofin ställs den kanske viktigaste frågan en människa kan ställa sig: frågan om *hur vi bör leva*. Vad som är *rätt och fel* och för vem och vad vi i slutändan har ett *ansvar*.  
+Moralfilosofi är, som Sokrates en gång uttryckte det, ingen liten ”bagatell”. Inom moralfilosofin ställs den kanske viktigaste frågan en människa kan ställa sig: frågan om *hur vi bör leva*. Vad som är *rätt och fel* och för vem och vad vi i slutändan har ett *ansvar*. 
 
-Moralfilosofi handlar i detta om en vilja att rikta sig till en ”större publik”. Om att tala för *hela mänskligheten* – och inte enbart för *sig själv*. Om att på ett systematiskt vis resonera kring vad vi *alla borde* göra (åtminstone under samma förutsättningar och situation). 
+Moralfilosofi handlar i detta, som den samtida moralfilosofen Peter Singer uttryckte det, om en vilja att rikta sig till en ”större publik”. Om att tala för *hela mänskligheten* – och inte enbart för *sig själv*. Om att på ett systematiskt vis resonera kring vad vi *alla borde* göra (åtminstone under samma förutsättningar och situation). 
 
-Att ägna sig åt moralfilosofi innebär därför att vi går bortom fördomar och sociala normer för att istället undersöka möjligheten till någon, eller några, mer *allmängiltiga* principer för moralen. För om vi inte kan argumentera kring varför det är fel att exempelvis mörda, våldta, tortera och så vidare: hur ska vi då kunna rättfärdiga att vi försöker förhindra att sådant sker och att vi straffar människor som begår dessa handlingar? Att enbart hänvisa till kulturen, sociala normer eller ett ”ogillande” kan aldrig utgöra tillräckliga skäl. 
+Att ägna sig åt moralfilosofi innebär därför att vi går bortom personlig smak och sociala normer för att istället undersöka möjligheten till någon, eller några, mer *allmängiltiga* principer för moralen. För om vi inte kan argumentera kring varför det är fel att exempelvis mörda, våldta, tortera och så vidare: varför försöker vi då förhindra att sådant sker och straffa dem som begår dessa handlingar? Att enbart hänvisa till "kulturen" eller ett ”allmänt ogillande” är en alldeles för svag grund att stå på. 
 
-**Kommentar:** Om något är allmängiltigt så gäller det för alla människor (eller åtminstone för de allra flesta). Det allmängiltiga går alltså bortom det personliga och det kulturella. 
+**Kommentar:** Om något är allmängiltigt så gäller det (i princip) för alla människor. Hur hårt vi ska tolka detta begrepp är en diskussionsfråga. Möjligen kan något vara tämligen allmängiltigt även om det finns undantag. Hursom är det allmängiltighet vi har som _mål_ då vi resonerar kring moralfilosofi.
 
 Vissa skiljer ibland mellan det som kallas etik och det som kallas moral. I dessa sammanhang blir etiken "läran om moralen" och moralen "det beteende som etiken lär oss" eller ”den moraliska praktiken”. Filosofer har dock traditionellt inte lagt någon större vikt vid denna möjliga skiljelinje. Det ena ordet är från början grekiska och det andra från början latin och de har ursprungligen samma betydelse. Hädanefter kommer jag därför att använda orden (i stort sett) synonymt. 
 
