@@ -57,7 +57,7 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I det fall ditt etiska dilemma är beroende av fakta och forskning som inte är allmängods (sådant som "alla" vet) _bör_ du göra det. I ett sådant fall bifogar du en *källförteckning*. Vid direkta citat eller referat krävs *källhänvisning* i text. 
 
-3. Du skapar ett **Docs**-dokument under uppgiften i **Classroom** och lämnar in före deadline (se deadline i provschema på schoolsoft). Du genomför uppgiften på **minst 1 A4** och **max 3 A4** (teckenstorlek 12, vanligt radavstånd, standard sid-marginaler, exklusive ev. källförteckning). 
+3. Du skapar ett **Docs**-dokument under uppgiften i **Classroom** och lämnar in före deadline (se deadline i provschema på schoolsoft). Du genomför uppgiften (med standard teckenstorlek, radavstånd och sid-marginaler) på **minst 1 A4** och **max 3 A4** (exkl. källförteckning). 
 
 
 **OBS:** Misslyckas man med punkt 3 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
