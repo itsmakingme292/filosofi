@@ -237,6 +237,8 @@ Hume ska här inte misstas för en _subjektiv_ idealist. Hume representerar ist�
 
 Kant fortsätter i Humes spår. Enligt Kant hade Hume väckt honom ur, vad han själv kallade för, ett "dogmatiskt slummer". Ingen före Hume, menade Kant, hade på ett sådant allvar angripit de förgivettagna sanningarna i filosofin. Kants projekt var dock större än att bara acceptera Humes filosofi. Kant ville rädda kunskapen (och inte minst vetenskapen) från den skepticism som Hume så övertygande hade framlagt. Kant ville kort och gott ge ett svar på hur vi kan gå vidare efter det att Hume har "skakat om oss". 
 
+**Ordförklaring:** En dogm är en föreställning eller "sanning" som inte ifrågasätts. Är man dogmatisk håller man fast vid dogmer som kanske _borde_ ifrågasättas. Slummer betyder att man inte är helt vaken (halvsömn). 
+
 Med sin filosofiska gärning försöker Kant lösa den skepticism Hume introducerar via empirismen genom att kombinera [empirismen](3_3_2_kunskapens_kalla.md#Empirismen) (och Humes filosofi) med [rationalism](3_3_2_kunskapens_kalla.md#Rationalismen). 
 
 ### Förnuft och erfarenhet

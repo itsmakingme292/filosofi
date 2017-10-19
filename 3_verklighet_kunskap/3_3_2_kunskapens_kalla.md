@@ -25,11 +25,18 @@ Alla våra tankar och idéer har en yttre källa, ibland på komplexa sätt, men
 
 
 ## Rationalismen
-Rationalismen menar att kunskap i första hand är en produkt av  mänskligt förnuft. I den mån vi får kunskap genom sinnliga erfarenheter måste dessa bearbetas av förnuftet, men framförallt menar rationalisterna att perception är en mycket opålitlig källa till kunskap. Våra upplevelser verkar allt som oftast bedra oss (vi upplever saker som faktiskt inte är sanna eller verkliga). Det slutgiltiga berättigandet för vår tro är därför alltid vårt förnuft. 
+Rationalismen menar att kunskap i första hand är en produkt av  mänskligt förnuft. I den mån vi får kunskap genom sinnliga erfarenheter måste dessa bearbetas av förnuftet, men framförallt menar rationalisterna att perception är en mycket opålitlig källa till kunskap. Våra upplevelser kan som sagt bedra oss (vi upplever saker som faktiskt inte är sanna eller verkliga). Det slutgiltiga berättigandet för vår tro är därför alltid vårt förnuft. 
+
+> **Exempel:** Vi vet att det finns optiska illusioner. Men det är mycket svårt att _sluta_ _se_ dem. Bara med förnuftet förstår vi att vi ser fel. 
+> 
+> ![BILD](0_material/optisk_illusion.jpg)
+> 
+> *I ovanstående bild ser det ut som att de horisontella linjerna böjer sig. Men om vi sätter en linjal mot dem, ser vi tvärtom att de är helt raka. Förnuftsmässigt förstår vi att bilden inte ändras, utan att det är vår perception som gör det.*
+
 
 När vi ställer rationalism mot empirism handlar det inte nödvändigtvis om ett "antingen eller". [Platon](3_5_filosoferna.md#Platon) är ett exempel på en radikal rationalist då han helt avfärdar perception som en möjlig källa till kunskap (sinnevärlden är för honom helt skenbar). Men exempelvis [Descartes](3_5_filosoferna.md#Descartes) och andra rationalister ser sinnliga erfarenheter som en viktig komponent i vår kunskap.
 
-Det sagt säger rationalismen att den enda riktigt säkra kunskapen alltid är den rent logiska eller matematiska. Detta eftersom logiska (deduktiva) slutledningar i någon mening alltid är självevidenta (de säger sig själva) och nödvändiga (det kan inte vara på något annat sätt). Vi behöver inte gå ut i världen för att veta om en logisk slutledning stämmer eller inte, det räcker att vi "blickar inåt" och använder vårt förnuft. I detta säger rationalismen att vi har viss medfödd kunskap. Vi lär oss inte logik och matematik via våra sinnen, vi upptäcker dessa inom oss och i detta finns de så att säga "redan där".
+Det sagt säger rationalismen att den enda riktigt säkra kunskapen _alltid_ är den rent förnuftsmässiga, logiska eller matematiska. Detta eftersom logiska (deduktiva) slutledningar i någon mening alltid är självevidenta (de säger sig själva) och nödvändiga (det kan inte vara på något annat sätt). Vi behöver inte gå ut i världen för att veta om en logisk slutledning stämmer eller inte, det räcker att vi "blickar inåt" och använder vårt förnuft. I detta säger rationalismen att vi har viss medfödd kunskap. Vi lär oss inte logik och matematik via våra sinnen, vi upptäcker dessa inom oss och i detta finns de så att säga "redan där".
 
 <!--**Fotnot:** Generellt sett är empirister oftast realister och rationalister oftast idealister. Ett undantag som bekräftar regeln är [Kant](3_5_filosoferna.md#Kant) som kan sägas vara en blandning av alla fyra. Ett annat undantag är [Descartes](3_5_filosoferna.md#Descartes) som kan sägas vara kritisk realist och samtidigt rationalist.  -->
 

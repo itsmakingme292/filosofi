@@ -151,7 +151,7 @@ I halmgubbar kan det finnas olika grader av sanning. Men framförallt handlar de
 >
 > > “Peter talar sanning, om han säger att han talar sanning.”
 
-Ovanstående är mer enkla exempel på cirkelresonemang. Oftast handlar det om ganska komplexa cirklar som bildas i längre slutledningar och dessa är svårare att upptäcka.
+Ovanstående är mer enkla exempel på cirkelresonemang. Ofta handlar detta felslut om mer komplexa och/eller svårupptäckta cirklar.
 
 **Ensidigt urval** är då man endast fokuserar på det som stödjer ens tes och i stort undviker allt som talar emot den. Ett ensidigt urval handlar alltså om att bara ge den del av “sanningen” som styrker ens egen ståndpunkt. Detta är ett ganska mänskligt misstag, och ofta svårt att undvika helt, men det handlar likväl om ett misstag.
 
