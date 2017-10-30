@@ -17,7 +17,7 @@ Realismen kan i sin enklaste form beskrivas som uppfattningen att
 
 I sin mest ”extrema” form talar man om **naiv realism**. En sådan realism menar att yttervärlden är exakt så som vi upplever den. Med andra ord att vår subjektiva uppfattning av verkligheten helt överensstämmer med den faktiska/objektiva verkligheten. Upplever jag att något är på ett visst sätt så är detta något också på detta sätt. 
 
-**Ordförklaring:** Begreppet subjekt syftar till "det som upplever" (vanligen en människa), begreppet objekt syftar till allt som kan upplevas (ex saker). Begreppen subjektiv och objektiv handlar om distinktionen mellan den inre och yttre verkligheten. En subjektiv uppfattning är *personlig*, den handlar om _hur något upplevs_. Den objektiva verkligheten handlar tvärtom hur saker är _oberoende_ av vår *personliga* uppfattning – hur saker _faktiskt_ är. 
+**Ordförklaring:** Begreppet _subjekt_ syftar till "det som upplever" (vanligen en människa), begreppet _objekt_ syftar till allt som kan upplevas (ex saker). Begreppen subjekt*ivt* och objekt*ivt* handlar om distinktionen mellan den inre och yttre verkligheten. En subjektiv uppfattning är *personlig*, den handlar om _hur något upplevs_. Den objektiva verkligheten handlar tvärtom hur saker är _oberoende av vår personliga uppfattning_ – hur saker _faktiskt_ är. 
 
 De flesta behöver inte tänka särskilt länge för att inse att en sådan ståndpunkt verkar orimlig. Vår upplevelse av verkligheten verkar ofta bedra oss (enkelt uttryckt: vi ser och hör ofta fel). 
 Den vanligaste formen av realismen är därför inte den *naiva* utan den *kritiska*. Enligt den **kritiska realismen** är yttervärlden bara *delvis* så som vi upplever den. 
