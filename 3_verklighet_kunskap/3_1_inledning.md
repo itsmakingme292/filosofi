@@ -15,7 +15,7 @@ För om ontologin är ”listan” över det existerande är **metafysiken** lä
 
 **Kommentar:** Många filosofer ser ontologin som en en _gren_ av metafysiken och de båda begreppen används ibland på likartade sätt eller rentav synonymt. Men om man ska göra en distinktion är ovanstående den enklaste. Ontologin är ett snävare begrepp – den _kan_ behandla ett fåtal existenser. Metafysiken är ett vidare begrepp som också behandlar _hur_ saker existerar. 
 
-Att metafysiken handlar om det som befinner sig bortom vår upplevelse behöver dock inte betyda att metafysiken handlar om någon slags alternativ verklighet. Det vi upplever och den metafysiska verkligheten behöver inte vara två helt olika saker. En **naiv realist** skulle exempelvis tvärtom påstå att verkligheten till fullo överensstämmer med det vi upplever. 
+Att metafysiken handlar om det som befinner sig bortom vår upplevelse behöver dock inte betyda att metafysiken handlar om någon slags alternativ verklighet. Det vi upplever och den metafysiska verkligheten behöver inte vara två helt olika saker. En **[naiv realist](3_2_verkligheten.md#Realism)** skulle exempelvis tvärtom påstå att verkligheten till fullo överensstämmer med det vi upplever. 
 
 > För mer om naiv realism och andra typer av verklighetsuppfattningar se avsnittet *[Verkligheten](3_2_verkligheten.md)*
 

@@ -14,7 +14,7 @@ Att utveckla sin förmåga att argumentera handlar lika mycket om att kunna *ge*
 
 ## Relevans & hållbarhet
   
-Ett argument är i grund och botten ett påstående man ger för att antingen styrka eller försvaga ett annat påstående (tesen). De argument vi ger i syfte att _styrka_ ett annat påstående kallar vi för ***pro*-argument** eller *för*-argument och de vi ger i syfte att _försvaga_ ett annat påstående kallar vi för ***kontra*-argument** eller *mot*-argument. 
+Ett argument är i grund och botten ett påstående man ger för att antingen styrka eller försvaga ett annat påstående (i slutändan: tesen). De argument vi ger i syfte att _styrka_ ett annat påstående kallar vi för ***pro*-argument** eller *för*-argument och de vi ger i syfte att _försvaga_ ett annat påstående kallar vi för ***kontra*-argument** eller *mot*-argument. 
 
 Då vi avgör värdet eller styrkan hos ett argument ser vi till två olika egenskaper: _hållbarhet_ och _relevans_.
 
@@ -42,9 +42,36 @@ Vad gäller argumentet ”Stinas guldsmycke” skulle vi möjligen kunna säga a
 
 ## Olika nivåer av argument
 
-När vi argumenterar gör vi oftast detta i _flera led_. Med andra ord: vi argumenterar för eller emot en tes med flera påståenden som i sin tur styrks av ytterligare påståenden. När vi analyserar argument kan vi därför dela upp argumentationen i _olika nivåer_ för att på så vis få en tydligare överblick. När vi gör detta delar vi upp argumenten i **argument av olika ordning**.
+När vi argumenterar gör vi oftast detta i _flera led_. Med andra ord: vi argumenterar för eller emot en tes med flera påståenden som i sin tur styrks eller försvagas av ytterligare påståenden. När vi analyserar argument kan vi därför dela upp argumentationen i _olika nivåer_ för att på så vis få en tydligare överblick. När vi gör detta delar vi upp argumenten i **argument av olika ordning**.
 
-Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt själva tesen (eller om det är ett motargument: *försvagar* rimligheten hos tesen). Ett *argument av andra ordningen* är ett argument som i sin tur ger stöd åt (eller försvagar) ett argument av den första ordningen (och därmed _indirekt_ åt tesen). Och så vidare.
+Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt själva tesen (eller om det är ett motargument: *försvagar* tesen). Sådana argument kallar vi _huvudargument_. Ett *argument av andra ordningen* är ett argument som i sin tur stödjer (om det är ett _stödargument_) eller försvagar (om det är ett _motargument_) ett argument av den första ordningen (och därmed endast _indirekt_ tesen). Och så vidare (tredje, fjärde...)
+
+> *Ett exempel på en argumentations struktur:*
+> 
+> > **Tes:** Man borde inte stanna uppe så länge natten innan en arbetsdag.
+> >
+> > > **För:** Man är trött under hela arbetsdagen om man stannat uppe för länge.
+> > >
+> > > > **Stöd:** Är man trött gör man ett sämre arbete.
+> > > > 
+> > > > > **Stöd:** Gör man ett sämre arbete drabbas arbetskollegor av detta.
+> > > > > 
+> > > > > > **Mot:** Jag har inget ansvar för mina arbetskollegor.
+> > > > > > 
+> > > > > > > **Mot:** På en arbetsplats är man beroende av varandra och det är därför viktigt att man kan lita på sina kollegor.
+> > >
+> > > **För:** Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
+> > > 
+> > > > **För:** Då blir jag sen till jobbet.
+> > > > 
+> > > > > **Mot:** Ingen bryr sig om jag blir sen. 
+> > > > > 
+> > > > > > **Mot:** Chefen bryr sig.
+> > > > > > 
+> > > > > > > **Stöd:** Det är dumt att göra chefen arg. 
+
+<!-- 
+Tidigare exempel:
 
 > *Ett exempel på en argumentations struktur:*
 > 
@@ -66,7 +93,9 @@ Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt 
 > > > > > > 
 > > > > > > *Argument av fjärde ordningen:* Det är dumt att göra chefen arg.
 
-Som ni ser i exemplet kan man ha flera nedstigande led av argument. Detta eftersom vi helt enkelt kan ha flera argument av varje ordning. Har vi en mer komplex argumentation kan vi alltså få fler nedstigande led under varje ordning, i ytterligare ordning. Dessutom kan vi få handskas med både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt – att analysera strukturen i argumenterande texter är inte alltid lätt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argumentation och dels då man vill skapa en överblick då man bygger en egen.
+-->
+
+Som ni ser i exemplet kan man ha flera nedstigande led av argument av varje ordning (i detta exempel har vi två argument av första ordningen med underargument av olika ordning). Dessutom kan vi få handskas med både för- och mot-argument på både för- och mot-argument. Om detta låter knepigt, så är det för att det också *är* lite knepigt – att analysera strukturen i argumenterande texter är inte alltid lätt. Men att dela upp argument på detta vis kan ändå vara ett bra verktyg, dels då man analyserar andras argumentation och dels då man vill skapa en överblick då man bygger en egen.
 
 _Tre viktiga punkter i detta:_
 
@@ -152,6 +181,8 @@ I halmgubbar kan det finnas olika grader av sanning. Men framförallt handlar de
 > > “Peter talar sanning, om han säger att han talar sanning.”
 
 Ovanstående är mer enkla exempel på cirkelresonemang. Ofta handlar detta felslut om mer komplexa och/eller svårupptäckta cirklar.
+
+<!--Kanske få in något mer avancerat exempel här på sikt... -->
 
 **Ensidigt urval** är då man endast fokuserar på det som stödjer ens tes och i stort undviker allt som talar emot den. Ett ensidigt urval handlar alltså om att bara ge den del av “sanningen” som styrker ens egen ståndpunkt. Detta är ett ganska mänskligt misstag, och ofta svårt att undvika helt, men det handlar likväl om ett misstag.
 
