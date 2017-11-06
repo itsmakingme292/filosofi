@@ -52,7 +52,7 @@ Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrå
 
 <!--Skilja mellan metafysisk och epistemologisk solipsism här? -->
 
-En tredje form av idealism är Kants (och hans efterföljares) **kritiska idealism**. Enligt Kant finns det förvisso någonting bakom det vi kallar för yttervärlden, men om detta ”något” kan vi inget veta. Kant delar upp världen i *tinget-i-sig* (så som världen är oberoende av oss) och *tinget-som-fenomen* (så som världen framträder för oss, mao så som vi upplever den). Endast om tinget-som-fenomen kan vi ha kunskap, enligt Kant.
+En tredje form av idealism är Kants (och hans efterföljares) **kritiska idealism**. Enligt Kant finns det förvisso någonting bakom det vi kallar för yttervärlden, men om detta ”något” kan vi inget veta. Kant delar här upp världen i *tinget-i-sig* (så som världen är oberoende av oss) och *tinget-som-fenomen* (så som människor upplever den). Endast om tinget-som-fenomen kan vi ha kunskap, enligt Kant.
 
 <!--Göra en skillnad gentemot solipsismen här? Koppla till universalismen i Kant? -->
 
