@@ -10,7 +10,7 @@ Till de vanligare mer godtagbara kunskapskällorna räknar vi  sådant som: _per
 
 <!--Se simons PDF och stanford för mer här… https://plato.stanford.edu/entries/epistemology/#SOU -->
 
-Vad som utgör den mest starka och/eller mest grundläggande källan till kunskap har man inom filosofin bråkat om så länge filosofin funnits. I denna fråga finner vi den huvudsakliga skiljelinjen mellan **rationalism** och **empirism**.
+Vad som utgör den mest grundläggande och starka källan till kunskap har man inom filosofin bråkat om så länge filosofin funnits. I denna fråga finner vi den huvudsakliga skiljelinjen mellan **rationalism** och **empirism**.
 
 ## Empirismen
 Empirismen menar att kunskap i första hand är en produkt av sinnliga erfarenheter (perception). I den mån vi får kunskap genom förnuft och introspektion baseras den ändå i slutändan på tidigare upplevelser och observationer. Ingen kunskap är medfödd: det finns aldrig någonting "inuti oss" som inte från början kommit utifrån. Det slutgiltiga berättigandet för vår tro är därför alltid sinnesupplevelser. 
