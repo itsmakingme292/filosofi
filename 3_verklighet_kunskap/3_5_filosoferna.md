@@ -278,7 +278,7 @@ Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid _
 
 Kant säger inte bara att det uppstått ett onödigt motsatsförhållande mellan förnuft och erfarenhet. Han menar också att det är dags att formulera en filosofi bortom en ren idealism och bortom en ren realism (det sagt kategoriserar man traditionellt Kants filosofi som en kritisk _idealism_).
 
-För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_. Vi har endast tillgång till _världen-som-fenomen_ och _tinget-som-fenomen_.
+För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_ (hur vi som människor upplever den). Vi har endast tillgång till _världen-som-fenomen_ och _tinget-som-fenomen_.
 
 **Ordförklaring:** Terminologi är de termer (begrepp) man använder inom ett visst fackområde. Vad gäller filosofer utformar de gärna en egen terminologi (de uppfinner nya begrepp). Därtill uppstår det ofta olika varianter av terminologin, inte minst genom olika översättningar. Kants _tinget-i-sig_ har exempelvis många namn. Vanligt förekommande är bland annat _varat-i-sig_ och *noumenon*.
 
