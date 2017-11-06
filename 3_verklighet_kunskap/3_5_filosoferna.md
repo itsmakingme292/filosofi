@@ -119,10 +119,9 @@ Med sitt resonemang anser sig Descartes också bevisat två ytterligare saker:
 
 1. Yttervärlden har en objektiv existens (icke-solipsism). Detta eftersom Gud aldrig skulle tillåta att hela vårt liv var en dröm eller liknande. 
 
-2.  Medvetandet verkar tillhöra något annat än den materiella verkligheten. Detta eftersom tänkandet inte är beroende av yttervärlden – Descartes kunde ju tänka sig en verklighet där bara hans tänkande existerade. Det materiella är _utsträckt_ och existerar i tid och rum, men tänkandet är  inte utsträckt, det existerar inte i rummet. Alltså är medvetandet icke fysiskt. 
+2.  Medvetandet verkar tillhöra något annat än den materiella verkligheten. Detta eftersom tänkandet inte är beroende av yttervärlden – Descartes kunde ju tänka sig en verklighet där bara hans tänkande existerade. Det materiella är _utsträckt_ och existerar i tid och rum, men tänkandet är  inte utsträckt, det existerar inte i rummet. Alltså är medvetandet icke-fysiskt. 
 
-Descartes är **dualist**: Det existerar både en materiell och en icke-materiell verklighet – vi har både en kropp och en själ. 
-
+Descartes är [**dualist**](3_1_inledning.md#Grundläggande_typer_av_metafysiska_teorier): Det existerar både en materiell och en icke-materiell verklighet – vi har både en kropp och en själ. 
 
 <!--Kanske få med en del med lite mer av hans rationalism: Se min outline! Samt inte minst: på vilket sätt han är en slags kritisk realist ändå, i vilken utsträckning vi kan lita på våra sinnen osv. -->
 
@@ -142,7 +141,7 @@ _Lockes argument har i huvudsak två delar:_
 Locke drar här slutsatsen att vi alla föds som **tabula rasa** (tomma blad). Vi är helt tomma när vi föds och vår kunskap kommer från det att vi fylls på av sinnesupplevelser under våra liv. I den mån vi har liknande eller kanske till och med allmängiltiga uppfattningar handlar det om att vi har _liknande erfarenheter_ – inte att vi har någon medfödd kunskap. 
 
 ### Enkla och komplexa idéer
-Allt vi kan tänka har för Locke en grund i något vi upplevt. Det finns ingen Platonsk idévärld vi kan blicka in i – bara vår erfarenhet. Detta gäller även sådant som vi inte _direkt_ har upplevt. Ett exempel på en sådan sak är enörningen, denna existerar bara i vår fantasi, men idén bygger likväl på sinnesintryck. För att förklara hur detta är möjligt delar Locke upp våra idéer i _enkla_ och _komplexa_ idéer. ![BILD_halv](0_kartor/enhorning.jpg)
+Allt vi kan tänka har för Locke en grund i något vi upplevt. Det finns ingen Platonsk idévärld vi kan blicka in i – bara vår erfarenhet. Detta gäller även sådant som vi _inte_ _direkt_ har upplevt. Ett exempel på en sådan sak är enörningen, denna existerar bara i vår fantasi, men idén bygger likväl på sinnesintryck. För att förklara hur detta är möjligt delar Locke upp våra idéer i _enkla_ och _komplexa_ idéer. ![BILD_halv](0_kartor/enhorning.jpg)
 
 - **Enkla idéer** står i _direkt_ relation till sinneserfarenheten. Att vi har en idé om vad det innebär att något är en häst beror på att vi upplevt hästar (har en _direkt upplevelse_). 
 
@@ -177,7 +176,7 @@ Sekundära egenskaper existerar inte i yttervärlden, men primära egenskaper (s
 
 Hume var influerad av de _brittiska empiristerna_ men ansåg att dessa introducerat allt för många antaganden utan grund i sina teorier. Hume ville istället dra empirismen till sin spets och verkligen utgå ifrån vad den i grunden säger. I detta landar Hume i en en långt mer radikal empirism och en stark _skepticism_.
 
-Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som empirist också följa denna tanke till vägs ände, menade Hume. Det enda vi kan veta är det vi erfar. Och om vi nu ska tala om  verklig kunskap så måste denna därför också bygga på de _faktiska_ erfarenheter vi har. I detta menade Hume att det fanns en hel del som filosofer antagit som vi faktiskt inte har en direkt upplevelse av. 
+Om nu sinnesupplevelserna är den enda grunden för kunskap, så får man som empirist också följa denna tanke till vägs ände, menade Hume. Det _enda_ vi kan veta är _det vi erfar_. Och om vi nu ska tala om  verklig kunskap så måste denna därför också bygga på de _faktiska_ erfarenheter vi har. I detta menade Hume att det fanns en hel del som filosofer antagit som vi faktiskt inte har en direkt upplevelse av. 
 
 <!-- Vi kan endast vara säkra på de direkt upplevelser vi har. Den stora frågan blir därför vad vi egentligen kan erfara (observera, uppleva, osv.). -->
 
@@ -273,11 +272,11 @@ Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid _
 
 <!--Kanske ha Kants 12 kategorier i tre klasser??!?  **Kvantitet**  * Enhet * Pluralitet * Totalitet  **Kvalitet**  * Verklighet * Negation * Begränsning  **Relation**  * Tillhörighet och substans * Kausalitet * Ömsesidighet  **Modalitet**  * Möjlighet * Existens * Nödvändighet -->
 
-**Kommentar:** Kant menar att vårt tänkande utgår ifrån tolv grundläggande kategorier. Om man är intresserad av en mer fullständig lista: [se här](https://plato.stanford.edu/entries/categories/#KanCon)
+**Kommentar:** Kant anser att vårt tänkande utgår ifrån tolv grundläggande kategorier. Om man är intresserad av en mer fullständig lista: [se här](https://plato.stanford.edu/entries/categories/#KanCon)
 
 ### Kritisk idealism
 
-Kant menar inte bara att det uppstått ett onödigt motsatsförhållande mellan förnuft och erfarenhet. Han menar också att det är dags att formulera en filosofi bortom en ren idealism och bortom en ren realism (det sagt kategoriserar man traditionellt Kants filosofi som en kritisk _idealism_).
+Kant säger inte bara att det uppstått ett onödigt motsatsförhållande mellan förnuft och erfarenhet. Han menar också att det är dags att formulera en filosofi bortom en ren idealism och bortom en ren realism (det sagt kategoriserar man traditionellt Kants filosofi som en kritisk _idealism_).
 
 För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_. Vi har endast tillgång till _världen-som-fenomen_ och _tinget-som-fenomen_.
 
