@@ -100,7 +100,7 @@ Vid detta laget finner Descartes idén om en Gud inom sig och resonerar som föl
 
 2. Denna Gudsidé eller uppfattning måste därför vara planterad i oss av just detta gudomliga, fullkomliga väsen. 
 
-3. En Gud som är fullkomlig (perfekt: har alla goda egenskaper) är också allsmäktig (kan styra över allt) och allgod (vill oss väl).
+3. En Gud som är fullkomlig (har alla goda egenskaper) är allsmäktig (kan styra över allt), allvetande (vet allt) och allgod (vill oss väl).
 
 4. En sådan Gud skulle aldrig tillåta att våra sinnen alltid bedrar oss, att vi endast drömmer eller att en illvillig demon skulle lura oss att tänka fel. 
 
