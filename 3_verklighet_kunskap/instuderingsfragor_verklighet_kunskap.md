@@ -150,11 +150,6 @@ _Tid och antal elever per grupp:_
 * ca 4-5 elever per grupp 
 * ca 40 minuter per grupp
 
-**Uppdatering:** [Gruppindelningen finns nu här](https://docs.google.com/document/d/1mPHVKDPxab9bEDOR1-uKyrsfOPNCtFX-K4Ju5u2N4fg/edit?usp=sharing)
-
-
-
-
 ***
 
 **LYCKA TILL!**
