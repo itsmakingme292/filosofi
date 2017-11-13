@@ -27,7 +27,7 @@ Och inte minst: [se kunskapskraven](../1_intro/kursplan.md#Kunskapskrav).
 
 ## Instuderingsfrågor
 
-**Tips:** Läs först igenom alla instuderingsfrågor och lägg upp en strategi för hur du tänker jobba med dem. Det är exempelvis inte nödvändigt att göra dem i samma ordning som de står i här. Fundera under dina förberedelser också på olika sätt som nedanstående frågor hänger ihop.
+**Tips:** Läs först igenom alla instuderingsfrågor och lägg upp en strategi för hur du tänker jobba med dem. Det är exempelvis inte nödvändigt att göra dem i samma ordning som de står i här. Fundera under dina förberedelser också på olika sätt som nedanstående frågor hänger ihop, samt hur du vill samtala om dem under seminariet.
 
 <!--Se inspiration här: (thomas) Kunskap_verklighet_Matrix.docx -->
 
