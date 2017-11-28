@@ -142,7 +142,7 @@ Och inte minst: [se kunskapskraven](../1_intro/kursplan.md#Kunskapskrav).
 _Datum:_
 
 * Se datum i provschemat på Schoolsoft (kommer ut ett par veckor innan)
-* Meddelande om gruppindelning kommer senast en vecka innan första seminarietillfället.  
+* Se classroom för gruppindelning (kommer senast en vecka innan första seminarietillfället).  
 * De tider andra grupper än ens egen har seminarium är man ledig.
 
 _Tid och antal elever per grupp:_
