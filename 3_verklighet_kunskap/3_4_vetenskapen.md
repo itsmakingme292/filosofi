@@ -122,7 +122,9 @@ En viktig anledning till att Popper framhåller _falsifierbarhet_ som det vetens
 
 Ett exempel på en sådan teori är (enligt Popper) Freuds teori om _oidpuskomplexet_. Kortfattat säger Freuds teori att alla pojkar vill ha sex med sin mamma och att de därför ser sin pappa som en rival. För varje pojke som var fientlig gentemot sin pappa såg Freud att teorin var verifierad. Men för varje pojke som hade en mer neutral (eller rentav kärleksfull) hållning gentemot sin pappa introducerade Freud _stödhypotesen_ att dessa pojkar endast förnekade sina _egentliga_ känslor. 
 
-För Popper kan vetenskapliga teorier inte innehålla stödhypoteser som  ”immuniserar” och gör dem icke-falsifierbara (eller svårfalsiferbara) på detta sätt. För att avgöra vad som är pseudovetenskapligt och inte kan vi  inte bara gå till det som går att *verifiera*, en teori måste också, i princip, gå att *falsifiera*. Det som för stunden kan verka som en styrka hos en teori kan likväl vara dess svaghet.  En teori, menade han, måste *förbjuda* något, en teori får inte *tillåta allt*. 
+**Ordförklaring:** En stödhypotes innebär i detta fall en hypotes som förklarar ett _undantag_ från en (huvud)hypotes. Ibland används ordet dock i sin något motsatta mening: _en hypotes som bekräftar eller förstärker en annan_. Dessa två betydelser kan dock sägas hänga ihop (inte minst i vårt fall). 
+
+För Popper kan/bör vetenskapliga teorier inte innehålla stödhypoteser som  ”immuniserar” och gör dem icke-falsifierbara (eller svårfalsiferbara) på detta sätt. För att avgöra vad som är pseudovetenskapligt och inte ska vi inte bara gå till det som går att *verifiera*, en teori måste också, i princip, gå att *falsifiera*. Det som för stunden kan verka som en styrka hos en teori kan likväl vara dess svaghet. En teori, menade han, måste *förbjuda* något, en teori får inte *tillåta allt*. 
 
 <!-- Ett exempel som motsvarar problemet med Freuds teori är ”Alla gillar glass, om de inte gillar glass så ljuger de”. I detta exempel gör stödhypotesen "om de inte gillar glass så ljuger de" hypotesen ”Alla gillar glass” omöjlig att falsifiera.  -->
 
