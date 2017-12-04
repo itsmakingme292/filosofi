@@ -62,7 +62,7 @@ Ett *argument av första ordningen* är ett argument som ger *direkt stöd* åt 
 > > >
 > > > **För:** Har jag sovit för lite kanske jag inte vaknar när väckarklockan ringer.
 > > > 
-> > > > **För:** Då blir jag sen till jobbet.
+> > > > **Stöd:** Då blir jag sen till jobbet.
 > > > > 
 > > > > > **Mot:** Ingen bryr sig om jag blir sen. 
 > > > > > 
