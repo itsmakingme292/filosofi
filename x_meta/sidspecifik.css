@@ -18,6 +18,64 @@ img[alt=BILD_halv] {max-width: 300px !important; height: auto !important;}
 /* om jag vill göra alla bilder så de sträcks över hela sidan = img[alt=BILD] {width:100%;} */
 
 
- /* OBS: innan fungerade inte det hela med den responsiva versionen, med min width 550px bör dock detta vara löst och funka för de mesta /*
+ /* OBS: innan fungerade inte det hela med den responsiva versionen, med min width 550px bör dock detta vara löst och funka för de mesta */
+ 
+ .presentation {
+
+box-shadow:inset 0px 1px 0px 0px #ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+	text-align: center;
+	background: url('presentation.png') left center no-repeat ;
+	background-size: 30px;
+	background-position-x: 20px;
+	padding-left: 70px;
+  	background-color:#f9f9f9;
+  	margin-right: 44px;
+
+
+  	float:right;
+  	
+
+	/*
+	box-shadow:inset 0px 1px 0px 0px #81b4de;
+	background-color:#639ed1;
+	border-radius:6px;
+	border:1px solid #487eab;
+	display:inline-block;
+	cursor:pointer;
+	color:#f0f0f0;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2c4e69;
+	*/
+}
+
+
+
+.presentation:hover {
+	background-color:#e9e9e9;
+	color: #333;
+		text-decoration:none;
+}
+.presentation:active {
+	position:relative;
+	top:1px;
+		text-decoration:none;
+
+}
+ 
+ 
  
  

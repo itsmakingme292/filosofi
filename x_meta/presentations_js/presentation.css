@@ -1,0 +1,45 @@
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
+
+      body { font-family: 'Lora'; color:#333 }
+    .remark-slide-content h1 {
+          font-size:88px;
+    }  
+        .remark-slide-content h2 {
+             font-size:64px;
+    }
+           .remark-slide-content h3 {
+             font-size:50px;
+    }
+      h1, h2, h3 {
+        font-family: 'Lora';
+        font-weight: 700;
+      }
+      h1 {
+	      padding-bottom: 138px;
+	      padding-top: 138px;
+	      border: 6px solid white;
+	      border-top: 6px solid white;
+
+      }
+      p, li, ul, ol, ul ul, ol ul{
+      font-size:26px;
+      }
+
+   div {
+   background-size:105% 100%!important;
+
+      }
+      
+      .remark-slide>.middle
+      {
+      background-color:#c14d4d !important;
+      color: white; !important;
+      }
+      
+      .remark-slide-content
+      {
+      background-color:#f9f9f9 !important;
+      }

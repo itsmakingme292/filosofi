@@ -1,6 +1,7 @@
 # Filosoferna
 
 ## Platon
+
 > **Kort om:** Platon (427-347 f.Kr.) är en av filosofihistoriens allra mest kända och betydelsefulla filosofer. Vissa har till och med sagt att all filosofi sedan Platon endast utgör små fotnoter till hans filosofi. 
 
 <!--Filosofen Alfred North Whitehead menade till och med att den västerländska filosofins historia närmast kunde beskrivas som en serie fotnoter till Platon.  -->
@@ -228,7 +229,7 @@ Hume ska här inte misstas för en _subjektiv_ idealist. Hume representerar ist�
 <!--Ha något om Hume som en slags idealist och empirist samtidigt. (Ovanlig kombination) -->
 
 
-## Kant
+## Kant <a href="3_5_kant_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
 > **Kort om:** Immanuel Kant (1724-1804), tysk filosof som av många anses vara den största filosofen sedan Platon. Hans filosofi är komplex och intressant men som person sägs det han var utomordentligt tråkig. 
 
@@ -278,7 +279,7 @@ Vår kunskap om världen bygger på erfarenhet, men vår erfarenhet är alltid _
 
 Kant säger inte bara att det uppstått ett onödigt motsatsförhållande mellan förnuft och erfarenhet. Han menar också att det är dags att formulera en filosofi bortom en ren idealism och bortom en ren realism (det sagt kategoriserar man traditionellt Kants filosofi som en kritisk _idealism_).
 
-För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_ (hur vi som människor upplever den). Vi har endast tillgång till _världen-som-fenomen_ och _tinget-som-fenomen_.
+För Kant finns det en värld oberoende av oss. Det finns med Kants terminologi en _värld-i-sig_ och ett _tinget-i-sig_. Men om denna värld, och så som tingen verkligen är, kan vi som människor inget veta. Tinget-i-sig är bortanför vår erfarenhet. Vi kan endast ha kunskap om hur världen och tingen _framträder för oss_ (hur vi som människor upplever den). Vi har endast tillgång till _världen-som-fenomen_ och _tinget-som-fenomen_.
 
 **Ordförklaring:** Terminologi är de termer (begrepp) man använder inom ett visst fackområde. Vad gäller filosofer utformar de gärna en egen terminologi (de uppfinner nya begrepp). Därtill uppstår det ofta olika varianter av terminologin, inte minst genom olika översättningar. Kants _tinget-i-sig_ har exempelvis många namn. Vanligt förekommande är bland annat _varat-i-sig_ och *noumenon*.
 
