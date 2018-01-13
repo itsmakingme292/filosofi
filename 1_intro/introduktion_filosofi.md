@@ -62,7 +62,7 @@ Filosofi är lika mycket grunden som gränsen för vårt tänkande. Gränsen dä
 
 Att ägna sig åt filosofi är i slutändan, som Sokrates påpekar, att leva det reflekterade livet, eller som Nietzsche omformulerade det, att bli författaren till sitt eget liv. Och detta är både *ämnet, syftet och metoden*.
 
-## Vad filosofi kan vara
+## Vad filosofi kan och bör vara
 Filosofi handlar om en vilja att blottlägga våra föreställningar om världen och utsätta dessa för kritiska prövningar. 
 
 I detta handlar filosofi alltid om att *gå till botten* med det ämne vi tar för oss. Om att söka en frågas allra mest grundläggande natur och problematik. Och i denna mening kan man också säga att de flesta frågor någonstans slutar i filosofi – om vi bara synar dem tillräckligt noga. För om det är något som utmärker den filosofiska frågan så är det att den alltid är allmängiltig och principiell. Att den går på djupet och *bortom* det individuella och enskilda. 

@@ -6,7 +6,7 @@
 1. Introduktion
 2. Filosofins verktyg
 3. Moralfilosofi
-	* Hemtenta
+	* Inlämningsuppgift
 4. Verklighet & kunskap
 	* Seminarium
 
