@@ -8,7 +8,7 @@
 
 
 > **Försök definiera följande begrepp:**  
-> > “Skola”, ”Bok”, "Kärlek", "Frihet" <!--Ha med , ”Rättvisa” här? -->
+> > “Skola”, ”Bok”, "Frihet" <!--Ha med , ”Rättvisa” här? Tog bort "Kärlek", -->
 
 
 #### Att göra i grupp...

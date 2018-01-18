@@ -1,4 +1,4 @@
-# Språk: Inledning & Begrepp
+# Språk: Inledning & Begrepp <a href="2_fil_verktyg/2_2_1_sprak_begrepp_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
 ## Vad är språk?
 
@@ -35,7 +35,7 @@ Bakom de ord vi använder och sammansätter i satser finns det alltid en viss me
 
 <!-- Gammal version: Ett ords begreppsliga innehåll är den information som ligger bakom ordet. Den information som låter oss peka ut de objekt i världen vi åsyftar då vi använder just detta ord. Inom språkfilosofin skiljer man här mellan ett begrepps **mening** (det begreppsliga innehållet – alltså själva innebörden hos ordet) och ett begrepps **referens** eller **omfång** (det som pekas ut – alltså alla de faktiska ”saker” man vill/kan sätta den tänkta ”etiketten” på). Hur dessa två hänger ihop har man inom språkfilosofin genom åren tvistat om. I princip handlar det om att vi genom begreppets mening kan sluta oss till referensen, men vi kan också tänka oss fall där kopplingen kanske inte är lika glasklar.  -->
 
-Ett ords begreppsliga innehåll är den  bakomliggande beskrivningen av ordet. Den information som ryms inom ett visst begrepp och som låter oss peka ut de objekt i världen vi åsyftar då vi använder just detta begrepp/ord. Inom språkfilosofin skiljer man här mellan ett begrepps **mening** och ett begrepps **referens** eller **omfång**. Meningen är själva beskrivningen (det begreppsliga innehållet) och omfånget (referensen) är summan av alla de "saker" som faktiskt stämmer in på denna beskrivning (allt det som "pekas ut"). 
+Ett ords begreppsliga innehåll är den bakomliggande beskrivningen av ordet. Den information som ryms inom ett visst begrepp och som låter oss peka ut de objekt i världen vi åsyftar då vi använder just detta begrepp/ord. Inom språkfilosofin skiljer man här mellan ett begrepps **mening** och ett begrepps **referens** eller **omfång**. Meningen är själva beskrivningen (det begreppsliga innehållet) och omfånget (referensen) är summan av alla de "saker" som faktiskt stämmer in på denna beskrivning (allt det som "pekas ut"). 
 
 <!--Tog bort detta, förvirrar bara? : Hur dessa två hänger ihop i vår vardagliga användning av ord har man inom språkfilosofin genom åren tvistat om. I princip handlar det om att vi genom begreppets mening kan sluta oss till referensen, men vi kan också tänka oss fall där kopplingen kanske inte är lika glasklar.  -->
 
