@@ -1,4 +1,4 @@
-# Språk: Satser
+# Språk: Satser <a href="2_fil_verktyg/2_2_2_sprak_satser_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
 
 ## Satsers funktion
 
