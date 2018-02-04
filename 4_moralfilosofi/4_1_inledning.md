@@ -1,4 +1,5 @@
-# Inledning
+# Inledning <a href="4_moralfilosofi/4_1_inledning_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
+
 ## Vad är moralfilosofi?
 
 Moralfilosofi är, som Sokrates en gång uttryckte det, ingen liten ”bagatell”. Inom moralfilosofin ställs den kanske viktigaste frågan en människa kan ställa sig: frågan om *hur vi bör leva*. Vad som är *rätt och fel* och för vem och vad vi i slutändan har ett *ansvar*. 
@@ -9,7 +10,7 @@ Att ägna sig åt moralfilosofi innebär därför att vi går bortom personlig s
 
 **Kommentar:** Om något är allmängiltigt så gäller det (i princip) för alla människor. Hur hårt vi ska tolka detta begrepp är en diskussionsfråga. Möjligen kan något vara tämligen allmängiltigt även om det finns undantag. Hursom är det allmängiltighet vi har som _mål_ då vi resonerar kring moralfilosofi.
 
-Vissa skiljer ibland mellan det som kallas etik och det som kallas moral. I dessa sammanhang blir etiken "läran om moralen" och moralen "det beteende som etiken lär oss" eller ”den moraliska praktiken”. Filosofer har dock traditionellt inte lagt någon större vikt vid denna möjliga skiljelinje. Det ena ordet är från början grekiska och det andra från början latin och de har ursprungligen samma betydelse. Hädanefter kommer jag därför att använda orden (i stort sett) synonymt. 
+Vissa skiljer ibland mellan det som kallas etik och det som kallas moral. I dessa sammanhang blir etiken "läran om moralen" och moralen "det beteende som etiken lär oss" eller ”den moraliska praktiken”. Filosofer har dock traditionellt inte lagt någon större vikt vid denna möjliga skiljelinje. Det ena ordet är från början grekiska (etik) och det andra från början latin (moral) och de har ursprungligen samma betydelse. Hädanefter kommer jag därför att använda orden (i stort sett) synonymt. 
 
 Vad man däremot, mer konsekvent, brukar göra är att skilja mellan tre olika *nivåer* av etiska teorier.
 
