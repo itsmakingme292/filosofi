@@ -1,4 +1,5 @@
-# Utilitaristisk konsekvensetik
+# Utilitaristisk konsekvensetik <a href="4_moralfilosofi/4_2_utilitarismen_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
+
 ## Konsekvensen framför allt!
 
 I en *konsekvensetik* är det konsekvenserna av en handling som avgör det moraliska värdet hos handlingen ifråga. Vilka avsikter man har med en viss handling spelar mindre roll, det som räknas är själva *effekten*. I detta säger en konsekvensetik att vi alltid ska handla på ett sådant sätt att vår handling *maximerar* det som är gott.
