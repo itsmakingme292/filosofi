@@ -17,6 +17,8 @@ Att vi börjar vår genomgång av moralfilosofiska skolor med utilitarismen är 
 
 Utilitarismen är kort och gott en bra  utgångspunkt för vår fortsatta färd in i moralfilosofin. 
 
+**Kommentar:** Ordet "utilitarism" kommer av engelskans _utility_ som betyder _nytta_. Det som ska maximeras kan alltså sägas vara "nyttan". Det (enda) som är verkligt nyttigt för utilitarismen är dock lycka (men vi återkommer till detta). 
+
 ## Maximering för vem?
 
 En konsekvensetik kan antingen vara *egoistisk*, *altruistisk* eller *universalistisk*. Utilitarismen är det senare.
