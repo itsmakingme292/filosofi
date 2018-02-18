@@ -24,8 +24,12 @@
 	      border-top: 6px solid white;
 
       }
-      p, li, ul, ol, ul ul, ol ul{
+      p, li, ul, ol {
       font-size:26px;
+      }
+      
+      li li, li ul li ul li, ol ul, blockquote blockquote {
+            font-size:24px !important;
       }
 
    div {
