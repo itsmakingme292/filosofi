@@ -1,4 +1,4 @@
-# Logik
+# Logik <a href="2_fil_verktyg/2_3_logik_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
 
 ## Vad är logik?
 
@@ -66,7 +66,7 @@ Inom logiken skiljer man mellan två olika typer av slutledningar: *deduktiva* o
 
 Den uppmärksamme märker dock att det finns något lite lurigt med induktiva resonemang. Ovanstående slutsats är mer uppenbart förhastad, men även slutsatsen att det endast finns vita svanar har visat sig felaktig. Att alla svanar är vita var vad man länge trodde, och vad all erfarenhet sa. Men på 1800-talet upptäckte man att det faktiskt fanns svarta svanar (även om de var få). Och då kan man fråga sig: om nu inte århundrade efter århundrade av erfarenhet av endast vita svanar räckte för att korrekt kunna dra slutsatsen att *alla* svanar är vita, hur mycket erfarenhet är då någonsin tillräckligt?
 
-Detta har ändå sedan 1700-talet varit en stor fråga bland filosofer. Vissa, ganska många rentav, har hävdat att en induktiv slutledning överhuvudtaget inte kan vara logiskt giltig. Detta eftersom det alltid verkar finnas en viss lucka mellan vår erfarenhet om en begränsad mängd företeelser/saker/händelser och vår slutsats om att alla företeelser/saker/händelser av denna sort alltid är på ett visst sätt. Generaliseringar är kort och gott alltid problematiska (inte minst generaliseringar av typen "endast vettiga människor gillar glass).
+Detta har genom historien varit en återkommande fråga bland filosofer. Vissa, ganska många rentav, har hävdat att en induktiv slutledning överhuvudtaget inte kan vara logiskt giltig. Detta eftersom det alltid verkar finnas en viss lucka mellan vår erfarenhet om en begränsad mängd företeelser/saker/händelser och vår slutsats om att alla företeelser/saker/händelser av denna sort alltid är på ett visst sätt. Generaliseringar är kort och gott alltid problematiska (inte minst generaliseringar av typen "endast vettiga människor gillar glass).
 
 <!--Få in referens till Hume är eller är det dumt eftersom vi ännu inte kommit till det momentet? Borde jag bara referera bakåt så att säga? -->
 
@@ -128,9 +128,9 @@ Två saker kan alltid eller ofta förekomma samtidigt, men det betyder inte _nö
 
 I detta ska vi komma ihåg att det oftast inte bara är ett fåtal saker som korrelerar utan ett stort antal. Vetenskap handlar därför om att försöka isolera olika faktorer/variabler för att verkligen hitta den eller de som _spelar roll_. Ett tydligt exempel på detta är att personer med y-namn (Johnny, Conny, osv) löper större risk att hamna i fängelse. 
 
-* Med lite kritiskt tänkande bör vi komma fram till att det knappast kan vara denna korrelation som i sig är själva kausaliteten. Y-namn orsakar rimligen inte automatiskt brottslighet. Det händer inget magiskt när vi döper ett barn till ett visst namn. 
-* Vad vi däremot också vet är att Y-namn även korrelerar med socialgruppstillhörighet (y-namn är typiska arbetarklassnamn) och att detta i sin tur korrelerar med ökad brottsbenägenhet (lite förenklat: har man det sämre är man ibland mer benägen att begå brott). 
-* Därtill kan vi tänka oss ytterligare faktorer, så som att personer med y-namn kanske möter vissa fördomar och att dessa fördomar formar deras person eller att de kanske rentav inte får en lika rättvis rättegång (obs detta är ett exempel, huruvida det är så har man inte riktigt forskat tillräckligt på).
+* Med lite kritiskt tänkande bör vi komma fram till att det knappast kan vara denna korrelation som i sig är själva kausaliteten. Y-namn _orsakar_ rimligen inte brottslighet. Det händer inget magiskt när vi döper ett barn till ett visst namn. 
+* Vad vi däremot vet är att Y-namn även korrelerar med socialgruppstillhörighet (y-namn är typiska arbetarklassnamn) och att detta i sin tur korrelerar med ökad brottsbenägenhet (lite förenklat: har man det sämre är man ibland mer benägen att begå brott). 
+* Därtill kan vi tänka oss ytterligare faktorer, så som att personer med y-namn kanske möter vissa fördomar och att dessa fördomar formar deras person, eller att de kanske rentav inte får en lika rättvis rättegång (denna sista punkt finns det dock för lite forskning på).
 
 När man upptäckt en korrelation som verkar vara ett orsakssamband måste man vidare avgöra i vilken **riktning** denna går. Exempelvis: om vi kan se att positiva människor generellt tillhör de som lyckats bättre på arbetsmarknaden, är det *för att de är positiva* som de lyckas, eller är det snarare så att de *blivit positiva av* att lyckas? 
 
