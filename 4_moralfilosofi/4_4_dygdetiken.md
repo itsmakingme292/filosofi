@@ -1,4 +1,4 @@
-# Aristotelisk dygdetik
+# Aristotelisk dygdetik <a href="4_moralfilosofi/4_4_dygdetiken_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
 **Kommentar:** Vi kommer i första hand utgå från den dygdetik som bygger på Aristoteles (384 f.Kr. - 322 f.Kr.)
 
 ## Dygden framför allt!
