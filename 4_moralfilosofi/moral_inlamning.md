@@ -116,6 +116,8 @@ _I kursplansspråk är betygskriterierna för C-nivå följande:_
 
 **För A krävs:** Du för ett självständigt resonemang med god argumentation i flera led och med en röd tråd. Du finner och analyserar möjliga (och därmed i någon utsträckning: godtagbara) lösningar på olika problem hos de etiska teoriernas och deras möjliga tillämpning på den valda etiska frågan. Du räknar själv ut vilken kritik ett filosofiskt läger skulle kunna ge ett annat filosofiskt läger och bemöter denna kritik utifrån hur du tänker dig att olika teoretiker i det första lägret skulle kunna svara. Du pekar i detta på flera möjliga tolkningar inom de moralfilosofiska skolorna och visar därmed att du behärskar teoriernas innehåll i mycket stor utsträckning.
 
+**OBS:** För högre betyg krävs att man redogör för och tar hänsyn till förgreningarna inom utilitarismen (hedonism preferentialism) samt både Kant _och_ modern pliktetik.
+
 _I kursplansspråk är betygskriterierna för A-nivå följande:_
 
 * Eleven redogör utförligt och nyanserat för de moralfilosofiska teorierna och tillämpar utförligt och nyanserat dessa på den valda etiska frågan. 
