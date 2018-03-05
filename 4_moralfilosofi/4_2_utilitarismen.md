@@ -65,7 +65,7 @@ Både den hedonistiska och den preferentialistiska utilitarismen kommer i många
 ### Hedonism: Kvantitet eller kvalité?
 Den stora skiljelinjen inom hedonismen kan dras mellan två av de tidigare och mycket betydelsefulla förespråkarna för utilitarismen: Jeremy Bentham (1748-1832) och John Stuart Mill (1806-1873).
 
-För Bentham var frågan om lycka förhållandevis okomplicerad. Lycka handlar om ett välbehag som rent kvantitativt går att mäta, en slags enhet, likt centimeter eller kilo. För Bentham kan man alltså, i både teori och praktik, sätta en siffra på lyckan. Graden av lycka är endast en fråga om mängd och källan till denna lycka är helt och hållet oväsentlig: att spela plockepinn kan vara lika gott som ett läsa poesi. 
+För Bentham var frågan om lycka förhållandevis okomplicerad. Lycka handlar om ett välbehag som rent kvantitativt går att mäta, en slags enhet, likt centimeter eller kilo. För Bentham kan man alltså, i både teori och praktik, sätta en siffra på lyckan. Graden av lycka är endast en fråga om mängd och källan till denna lycka är helt och hållet oväsentlig: att spela plockepinn kan vara lika gott som att läsa poesi. 
 
 Det sätt på vilket vi rent praktiskt kan gå tillväga för att mäta lycka är att vi ser till sådant som lyckans/ njutningens/ välbehagets följande egenskaper:
 

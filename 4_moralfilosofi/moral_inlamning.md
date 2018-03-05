@@ -55,7 +55,7 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 1. Du läser på och reflekterar kring samtliga avsnitt under kapitlet/delmomentet "moralfilosofi" på denna hemsida.
 
-2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I det fall ditt etiska dilemma är beroende av fakta och forskning som inte är allmängods (sådant som "alla" vet) _bör_ du göra det. I ett sådant fall bifogar du en *källförteckning*. Vid direkta citat eller referat krävs *källhänvisning* i text. 
+2. Du *kan* för denna uppgift använda dig av *ytterligare källor*. I det fall ditt etiska dilemma är beroende av fakta och forskning som inte är allmängods (sådant som "alla" vet) _bör_ du göra det. I ett sådant fall bifogar du en *källförteckning* och *källhänvisar* i text. 
 
 3. Du skapar ett **Docs**-dokument under uppgiften i **Classroom** och lämnar in före deadline (se deadline i provschema på schoolsoft). Du genomför uppgiften (med standard teckenstorlek, radavstånd och sid-marginaler) på **minst 1 A4** och **max 3 A4** (exkl. källförteckning). 
 
@@ -74,7 +74,7 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 **Kommentar:** Detta är bara _några_ exempel, ni är helt fria att välja andra etiska frågor/problem. Men diskutera gärna era val med mig. 
 
-
+**OBS:** I de fall ens etiska dilemma är beroende av fakta/forskning krävs det att man läser på om och _använder_ denna för att underbygga sin argumentation. 
 
 ## Kunskapskrav för denna uppgift
 
@@ -116,7 +116,7 @@ _I kursplansspråk är betygskriterierna för C-nivå följande:_
 
 **För A krävs:** Du för ett självständigt resonemang med god argumentation i flera led och med en röd tråd. Du finner och analyserar möjliga (och därmed i någon utsträckning: godtagbara) lösningar på olika problem hos de etiska teoriernas och deras möjliga tillämpning på den valda etiska frågan. Du räknar själv ut vilken kritik ett filosofiskt läger skulle kunna ge ett annat filosofiskt läger och bemöter denna kritik utifrån hur du tänker dig att olika teoretiker i det första lägret skulle kunna svara. Du pekar i detta på flera möjliga tolkningar inom de moralfilosofiska skolorna och visar därmed att du behärskar teoriernas innehåll i mycket stor utsträckning.
 
-**OBS:** För högre betyg krävs att man redogör för och tar hänsyn till förgreningarna inom utilitarismen (hedonism preferentialism) samt både Kant _och_ modern pliktetik.
+**OBS:** För högre betyg krävs att man redogör för och tar hänsyn till förgreningarna inom utilitarismen (hedonism preferentialism) samt både Kant _och_ modern pliktetik. 
 
 _I kursplansspråk är betygskriterierna för A-nivå följande:_
 
