@@ -1,4 +1,4 @@
-# Verkligheten
+# Verkligheten <a href="3_verklighet_kunskap/3_2_verkligheten_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
 
 ## Vad är verkligt? 
 Att resonera kring verkligheten är att resonera kring vad som faktiskt existerar och hur. En dröm kan _upplevas_ som verklig när vi drömmer den, men vi vet alla att drömmar inte händer "på riktigt". I den mån drömmar existerar så existerar de endast inom oss och inte utanför oss. I detta kan vi finna en intuition som många av oss bär på: att verkligheten är något som är oberoende av oss själva, att den handlar om något yttre och inte om något inre. 
@@ -42,7 +42,7 @@ Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrå
 
 <!--, sidorna 30-32 i läroboken  -->
 
-**Den subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande. Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i **solipsism**. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar.
+Den **subjektiva idealismen** menar att det inte finns någon anledning att tro på en yttervärld och att den ”inre verkligheten” är den enda existerande. Om vi drar den subjektiv idealismen till sin absoluta spets landar vi i **solipsism**. Enligt solipsismen finns det heller ingen anledning att tro på existensen av andra medvetanden (eftersom dessa måste tillhöra en yttre verklighet). Det enda vi kan veta är att vårt eget medvetande existerar.
 
 <!--Tog bort Berkeley nu, kommer inte hinna ta upp honom ändå > se [Berkeley](3_5_filosoferna.md#Berkeley) -->
 

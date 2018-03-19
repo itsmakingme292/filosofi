@@ -1,5 +1,7 @@
 # Filosoferna 
 
+**OBS:** Tänk på att läsa texterna 1-3 innan du läser denna text om filosoferna. Texten nedan refererar bakåt och förutsätter att man läst tidigare text. 
+
 ## Platon
 
 > **Kort om:** Platon (427-347 f.Kr.) är en av filosofihistoriens allra mest kända och betydelsefulla filosofer. Vissa har till och med sagt att all filosofi sedan Platon endast utgör små fotnoter till hans filosofi. 

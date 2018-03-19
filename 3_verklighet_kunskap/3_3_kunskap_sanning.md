@@ -1,4 +1,4 @@
-# Kunskap & Sanning
+# Kunskap & Sanning <a href="3_verklighet_kunskap/3_3_kunskap_sanning_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
 
 <!--Döp om till bara ”Kunskap”? Eller? Kanske inte om jag ska ha en del om kunskapens källa? -->
 
@@ -99,11 +99,9 @@ All kunskap är för pragmatismen i grund och botten problemlösande och hur vä
 
 ## Kunskapen & verkligheten...
 
-Som ni märker hänger frågan om kunskapen tätt samman med frågan om verkligen. Det är dock inte så enkelt att vi kan säga att alla idealister är relativister och att alla realister är objektivister. Exempelvis kan Kant sägas vara både relativist och objektivist beroende på tolkning. Likaså är Platon en klassisk objektivist även om han inte är realist. 
+Som ni märker hänger frågan om kunskapen tätt samman med frågan om verkligheten. Det är dock inte så enkelt att vi kan säga att alla idealister är relativister och att alla realister är objektivister. Exempelvis kan Kant sägas vara både relativist och objektivist beroende på tolkning. Likaså är Platon en klassisk objektivist även om han inte är realist.  [Men mer om detta under avsnittet "Filosoferna".](3_5_filosoferna.md)
 
 Det är av denna anledning de två frågorna ändå måste hållas isär. De berör på många sätt samma sak, men de behandlar olika aspekter. 
-
-<!--Fylla på något här? -->
 
 
 ## [Frågeformulär]

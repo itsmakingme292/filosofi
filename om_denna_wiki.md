@@ -1,5 +1,5 @@
 
-**Viktigt:** Glöm inte att bokmärka denna hemsida för att lätt ha den tillgänglig.
+**Viktigt:** Tänk på att läsa texterna i rätt ordning (de är numrerade för varje moment) då senare texter förutsätter att man läst de tidigare. Glöm inte heller att bokmärka denna hemsida för att ha den lätt tillgänglig.
 
 ## Välkomna!
 
