@@ -17,6 +17,9 @@
 	- Vad kan vi ha kunskap om? Kan vi veta något överhuvudtaget?
 	- Hur får vi kunskap?
 	- Vad är motsatsen till kunskap?
+- Varför är det viktigt att ställa frågor som dessa?
+	- I det egna livet?
+	- I samhället?
 
 <!-- - Finns det olika typer av kunskap?  	- Finns det något som kännetecknar all kunskap? -->
 
