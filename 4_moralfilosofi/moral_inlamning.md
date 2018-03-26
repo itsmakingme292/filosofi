@@ -72,9 +72,14 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 * Skillnaden mellan vänner och främlingar?
 * Dödshjälp, aktiv såväl som passiv?
 
-**Kommentar:** Detta är bara _några_ exempel, ni är helt fria att välja andra etiska frågor/problem. Men diskutera gärna era val med mig. 
+#### Viktigt angående ämne: 
+1. Detta är bara några exempel, ni är helt fria att välja andra etiska frågor/problem. Men diskutera gärna era val med mig. 
 
-**OBS:** I de fall ens etiska dilemma är beroende av fakta/forskning krävs det att man läser på om och _använder_ denna för att underbygga sin argumentation. 
+2. I de fall ens etiska dilemma är beroende av fakta/forskning krävs det att man läser på om och använder denna för att underbygga sin argumentation. 
+
+3. Inled er text med att beskriva ert etiska dilemma så tydligt och klart som möjligt. Ni behöver inte ha en "intresseväckande inledning" men ni behöver förklara vad det är ni ska reda ut.
+
+
 
 ## Kunskapskrav för denna uppgift
 

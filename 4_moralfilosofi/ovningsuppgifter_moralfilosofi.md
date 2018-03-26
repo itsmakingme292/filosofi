@@ -34,7 +34,11 @@ En spårvagns bromsar har mitt i en lång och brant nedförsbacke slutat att fun
 
 Se fler variationer på temat här: [Lesser-known trolley problem variations](http://www.mcsweeneys.net/articles/lesser-known-trolley-problem-variations)
 
-   
+## Övning: Dygder
+Vilka egenskaper behöver en bra människa? 
+
+1. Diskutera och försök komma fram till en gemensam lista över dygder
+2. Förklara och motivera er lista
 
 ## Diskussionsunderlag:  Att ljuga eller tala sanning? 
    

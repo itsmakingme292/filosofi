@@ -1,4 +1,4 @@
-# Kunskapens källa
+# Kunskapens källa <a href="3_verklighet_kunskap/3_3_2_kunskapens_kalla_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
 
 <!--Kanske ha denna som sista del under ”Kunskap & Sanning” och döpa om denna till ”Kunskap”? Istället för att det är en egen?-->
 
