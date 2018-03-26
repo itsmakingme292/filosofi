@@ -79,7 +79,7 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 
 3. Inled er text med att beskriva ert etiska dilemma så tydligt och klart som möjligt. Ni behöver inte ha en "intresseväckande inledning" men ni behöver förklara vad det är ni ska reda ut.
 
-
+**OBS:** Punkt 2 och 3 är krav för högre betyg
 
 ## Kunskapskrav för denna uppgift
 
