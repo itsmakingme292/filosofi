@@ -155,15 +155,15 @@ För Popper kräver vetenskaplighet att vi är långt mer specifika än så här
 
 <!--På samma sätt som Popper är en reaktion på den logiska positivismen så är Kuhns vetenskapsfilosofi en reaktion på Poppers falsifikationism. -->
 
-Kuhn var mycket kritisk mot Poppers falsifikationism. För Kuhn var Popper allt för naiv och orealistisk – ingen vetenskapsman vaknar upp varje dag med målet att försöka falsifiera sina egna teorier. Därtill skulle vi inte ha några teorier kvar om vi gav upp våra teorier varje gång vi hittade något som talade emot dem. 
+Kuhn var mycket kritisk mot Poppers falsifikationism. För Kuhn var Popper allt för naiv och orealistisk – ingen vetenskapsman vaknar upp varje dag med målet att försöka falsifiera sina egna teorier. Det är inte praktiskt möjligt att ge upp teorier och börja om från början så fort vi finner något som talar emot dem. Vetenskaplig vardag handlar inte så mycket om att ifrågasätta, som att *jobba med det man har*. 
 
 <!--Teorier kommer alltid ha saker de för stunden inte kan förklara – vi måste ge dem en ärlig chans! -->
 
 <!--- Kuhn i gränslandet mellan sociologi och filosofi 	- Oklart hur mycket Kuhn faktiskt försöker ge ett ideal för vetenskapen 		- Eller om han mest beskriver hur den faktiskt är 		- Kanske går dessa frågor delvis ihop 		* Kanske är Poppers projekt naivt, -->
 
-I detta har Kuhn ett annorlunda fokus än Popper. Kuhn försökte inte säga så mycket om hur vetenskapen *borde vara* (normativt) utan mer om *hur den faktiskt är* (deskriptivt). I verkligheten ger man upp teorier först när man har ett _gångbart alternativ_. 
+I detta har Kuhn ett annat fokus än Popper. Kuhn försökte inte säga så mycket om hur vetenskapen *borde vara* (normativt) utan mer om *hur den faktiskt är* (deskriptivt) – alltså hur vetenskapsmän _faktiskt gör_. I verkligheten ger man upp teorier först när man har _gångbara alternativ_. 
 
-Vetenskapen går därför framåt, inte så mycket i små steg, som i stora kliv (revolutioner). För Kuhn är vetenskaplig utveckling inte en rät linje där kunskapen bara blir större och större. För Kuhn består istället vetenskapens ”utveckling” i att den pendlar mellan två olika stadier: **normalvetenskap** och **revolution**. 
+Vetenskapen går inte stadigt och stegvis framåt, ibland trampar den vatten, och i bland tar den stora kliv. För Kuhn är vetenskaplig utveckling inte en rak linje där kunskapen bara blir större och större. För Kuhn består istället vetenskapens ”utveckling” i att den pendlar mellan två olika stadier: **normalvetenskap** och **revolution**. 
 
 ### Normalvetenskap
 Det vanligaste vetenskaplig stadiet är vad Kuhn kallar för **normalvetenskapen**. I detta stadie arbetar vetenskapsmän inom de _ramar_ som en viss _dominerande_ teori ger. Dessa ramar är det vetenskapliga **paradigmet**. Ett paradigm innehåller föreställningar om hur *världen är* och *hur vetenskap skall bedrivas*. Ett paradigm är en teoretisk utgångspunkt med vissa antaganden (ex vissa naturlagar) och värderingar (forskningsmetodik som föredras) vilken den stora majoriteten forskare inom ett visst vetenskapligt område accepterar. 
