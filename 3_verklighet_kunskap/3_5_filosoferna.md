@@ -59,6 +59,7 @@ Den kanske mest berömda delen i Platons skrifter är hans _grottliknelse_. [Den
 
 
 ## Descartes <a href="3_5_descartes_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
+
 > **Kort om:** René Descartes (1596-1650) var en fransk filosof, matematiker och vetenskapsman. Han tillhör 1600-talets största tänkare och var på sin tid mycket populär bland Europas makthavare. Drottning Kristina, dåvarande regent i Sverige som sökte god bildning, bjöd in Descartes till svenska hovet för att tjäna som hennes privata lärare. Ett par kyliga veckor i ett kallt slott senare dog Descartes av lunginflammation. 
 
 ### Tvivlet som metod
@@ -128,9 +129,9 @@ Descartes är [**dualist**](3_1_inledning.md#Grundläggande_typer_av_metafysiska
 
 <!--Kanske få med en del med lite mer av hans rationalism: Se min outline! Samt inte minst: på vilket sätt han är en slags kritisk realist ändå, i vilken utsträckning vi kan lita på våra sinnen osv. -->
 
-## Locke
+## Locke <a href="3_5_locke_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
-> **Kort om:** John Locke (1634-1704). Grundade vad som kommit att kallas _den Brittiska empirismen_. Eller som Wikipedia säger "Den här artikeln handlar om filosofen John Locke. För karaktären i TV-serien Lost, se John Locke (Lost)." 
+> **Kort om:** John Locke (1634-1704) är en av filosofihistoriens mer betydande empirister och grundade vad som kommit att kallas _den Brittiska empirismen_. Inte minst har Lockes idéer influerat hur många idag ser på människan. 
 
 ### Tabula rasa
 Lockes filosofi är till stora delar en reaktion och kritik av Descartes rationalism – Locke förespråkar istället [**empirismen**](3_3_2_kunskapens_kalla.md#Empirismen). För Locke finns det ingen anledning att tänka sig att förnuftet kommer före sinneserfarenheten. Inte heller kan vi tala om någon slags "medfödd kunskap". Enligt Locke pekar det mesta på det motsatta. 
