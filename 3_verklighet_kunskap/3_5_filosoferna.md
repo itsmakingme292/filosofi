@@ -174,7 +174,7 @@ Sekundära egenskaper existerar inte i yttervärlden, men primära egenskaper (s
 <!--![BILD](0_kartor/farg.gif) -->
 
 
-## Hume
+## Hume <a href="3_5_hume_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
 > **Kort om:** David Hume (1711-1776) var en skotsk filosof som ifrågasatte det mesta. Hume var en av de stora tänkarna under upplysningstiden och är än idag en mycket betydelsefull filosof. 
 
