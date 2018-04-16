@@ -1,6 +1,6 @@
 # Vetenskapen
 
-## Vad är vetenskap?
+## Vad är vetenskap? <a href="3_4_vetenskapen_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
 Vetenskap är för de flesta en särskild form av kunskap som hålls högre än all annan typ av kunskap. Detta blir inte minst tydligt i vår vardagliga användning av begreppet. Ordet "vetenskaplig" använder vi för föreställningar som vi anser är mer trovärdiga än andra. Och när vi tvärtom kallar en föreställning för "ovetenskaplig" är det nästan alltid som en slags förolämpning. 
 
@@ -41,7 +41,7 @@ _Innan vi går vidare kan det vara bra att först ge en kortare förklaring av e
 <!--Ska jag ha med ockhams rakkniv och enkelhet framöver här? -->
 
 
-## Logisk positivism
+## Logisk positivism <a href="3_4_logisk_positivism.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
 > **Kort om:** Den logiska positivismen är en filosofisk riktning som var mycket populär under 1900-talet (framförallt dess första hälft). Den logiska positivismen utvecklades ursprungligen av ett antal filosofer i den så kallade Wienerkretsen på 20- och 30-talet.
 
@@ -61,7 +61,10 @@ Den logiska positivismen (som också ibland kallas för den logiska empirismen) 
 
 <!--Angående hårdföra empirister (logisk poitivism) så bör det väl vara: även om logiken utgör en viss rationalistisk komponent? Ska jag utreda detta mer? -->
 
-Påståenden som varken är analytiska eller empiriska är helt och komplett kognitivt meningslösa. Sådana påståenden kan tyckas hävda någonting, men vad de hävdar går inte att verifiera, och de är därför enbart ”tomma ord”. I detta ville de logiska positivisterna inte minst göra upp med [_metafysiken_](3_1_inledning.md#Metafysik_&_Ontologi), vilken de ansåg inte hade någon plats i en modern värld. När exempelvis Kant påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående (bara "tomma ord"). Detta eftersom att ingen upplevelse någonsin kan verifiera påståendet. 
+Påståenden som varken är analytiska eller empiriska är helt och komplett kognitivt meningslösa. Sådana påståenden kan tyckas hävda någonting, men vad de hävdar går inte att verifiera, och de är därför enbart ”tomma ord”. I detta ville de logiska positivisterna göra upp med all form av filosofisk spekulation. När exempelvis Kant påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående (bara "tomma ord"). Detta eftersom att ingen upplevelse någonsin kan verifiera påståendet. 
+
+<!--I detta ville de logiska positivisterna inte minst göra upp med [_metafysiken_](3_1_inledning.md#Metafysik_&_Ontologi), vilken de ansåg inte hade någon plats i en modern värld -->
+
 
 <!--: de kan varken bekräftas vara sanna eller falska och kan därför inte heller förmedla någon kunskap.  -->
 
@@ -95,7 +98,7 @@ Den logiska positivismens tankesätt mynnar ut (eller bottnar) i dess **verifika
 
 **Kommentar:** Om ni tycker att det känns som att jag vacklar något i min beskrivning av exempelvis logikens meningsfullhet så är det för att också de logiska positivisterna gjorde det. Inte minst var de inte helt överens och på det klara med hur hårt de i slutändan faktiskt skulle formulera verifierbarhetsprincipen. 
 
-## Popper
+## Popper <a href="3_4_popper.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
 > **Kort om:** Karl Popper (1902-1994) var en österrikisk filosof som levde merparten av sitt liv i Storbritannien. Popper hade kontakt med Wienerkretsen men var aldrig själv en del av den. Tvärtom kom Popper att bli en stark motståndare till många av den logiska positivismens idéer. Hans vetenskapsfilosofi är tillsammans med Kuhns den mest inflytelserika under 1900-talets andra hälft och framåt. 
 
