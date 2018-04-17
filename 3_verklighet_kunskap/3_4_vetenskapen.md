@@ -49,7 +49,7 @@ Den logiska positivismen tar avstamp i _positivismen_ som menar att vetenskaplig
 
 ### Meningslösa påståenden och begrepp
 
-De logiska positivisterna menar att det endast existerar två typer av kognitivt meningsfulla påståenden: rent logiska _analytiska_ påståenden och rent _empiriska_ påståenden. 
+De logiska positivisterna menar att det endast existerar två typer av meningsfulla påståenden: rent logiska _analytiska_ påståenden och rent _empiriska_ påståenden. 
 
 Ett analytiskt påståendes sanningsvärde är inte beroende av empiriska förhållanden, utan endast av en i satsen inneboende logisk relation. En klassisk sådan sats är ”alla ungkarlar är ogifta”. För de logiska positivisterna är logiken här än mer "tom" på innehåll än vad exempelvis Kant menade. Logisk kunskap består endast i att vi kan utföra avancerade former av cirkelresonemang – logiken är _tautologisk_. Att "alla ungkarlar är ogifta män" kan vi förstå utan att gå ut i världen och se efter –  vi förstår att påståendet är sant därför att "ungkarl" och "ogift man" rent språkligt är exakt samma sak. Analytiska satser hävdar därför inget om omvärlden, de saknar _realinnehåll_ (de är så att säga "inte jättemeningsfulla"). 
 
@@ -57,11 +57,11 @@ Ett analytiskt påståendes sanningsvärde är inte beroende av empiriska förh�
 
 <!--Likaså betyder "1+1" samma sak som "2" – att förstå matematik handlar endast om att inse denna logiska relation. -->
 
-Den logiska positivismen (som också ibland kallas för den logiska empirismen) är en särskilt hårdför form av empirism. För den logiska positivismen finns det ingen större skillnad mellan vetenskap och kunskap. Allt som är meningsfullt är också vetenskapligt och _endast det iakttagbara är verkligt meningsfullt_. Logiken, hur nödvändig den är, bär exempelvis inte på någon _större_ mening (även om den inte är meningslös, så bär den inte på något realinnehåll). Den andra (och därför främsta) typen av kognitivt meningsfulla utsagor är empiriska påståenden: utsagor som har ett realinnehåll, vars sanningsvärde är beroende av förhållanden ”ute i världen”. 
+Den logiska positivismen (som också ibland kallas för den logiska empirismen) är en särskilt hårdför form av empirism. För den logiska positivismen finns det ingen större skillnad mellan vetenskap och kunskap. Allt som är meningsfullt är också vetenskapligt och _endast det iakttagbara är verkligt meningsfullt_. Logiken, hur nödvändig den är, bär exempelvis inte på någon _större_ mening (även om den inte är nonsens, så bär den inte på något realinnehåll). Den andra (och därför främsta) typen av meningsfulla utsagor är empiriska påståenden: utsagor som har ett realinnehåll, vars sanningsvärde är beroende av förhållanden ”ute i världen”. 
 
 <!--Angående hårdföra empirister (logisk poitivism) så bör det väl vara: även om logiken utgör en viss rationalistisk komponent? Ska jag utreda detta mer? -->
 
-Påståenden som varken är analytiska eller empiriska är helt och komplett kognitivt meningslösa. Sådana påståenden kan tyckas hävda någonting, men vad de hävdar går inte att verifiera, och de är därför enbart ”tomma ord”. I detta ville de logiska positivisterna göra upp med all form av filosofisk spekulation. När exempelvis Kant påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående (bara "tomma ord"). Detta eftersom att ingen upplevelse någonsin kan verifiera påståendet. 
+Påståenden som varken är analytiska eller empiriska är helt och komplett meningslösa. Sådana påståenden kan tyckas hävda någonting, men vad de hävdar går inte att verifiera, och de är därför enbart ”tomma ord”. I detta ville de logiska positivisterna göra upp med all form av filosofisk spekulation. När exempelvis Kant påstår att det finns ett ting-i-sig bortom vår upplevelse så är detta enligt de logiska positivisterna ett helt meningslöst påstående (bara "tomma ord"). Detta eftersom att ingen upplevelse någonsin kan verifiera påståendet. 
 
 <!--I detta ville de logiska positivisterna inte minst göra upp med [_metafysiken_](3_1_inledning.md#Metafysik_&_Ontologi), vilken de ansåg inte hade någon plats i en modern värld -->
 
@@ -84,7 +84,7 @@ Filosofins enda uppgift är för de logiska positivisterna att städa upp den or
 
 <!--Endast vetenskapen kan syssla med det verkligt meningsfulla och det enda meningsfulla (som också bär på ett realinnehåll) är det som går att verifiera med observationer.  -->
 
-Den logiska positivismens tankesätt mynnar ut (eller bottnar) i dess **verifikationism** och **verifierbarhetsprincip**: bara det som går att verifiera genom observation är vetenskaplig och verklig kunskap. Allt annat (bortsett från den "tomma logiken") är pseudo-vetenskap (och kognitivt meningslöst). Skillnaden mellan påståenden så som ”jorden är rund” och påståenden så som ”gud existerar” ligger i att vi kan finna en metod för att ta reda på om det första påståendet är sant, medan det är mycket svårt att finna någon metod för att ta reda på om det andra är sant. 
+Den logiska positivismens tankesätt mynnar ut (eller bottnar) i dess **verifikationism** och **verifierbarhetsprincip**: bara det som går att verifiera genom observation är vetenskaplig och verklig kunskap. Allt annat (bortsett från den "tomma logiken") är pseudo-vetenskap (och meningslöst). Skillnaden mellan påståenden så som ”jorden är rund” och påståenden så som ”gud existerar” ligger i att vi kan finna en metod för att ta reda på om det första påståendet är sant, medan det är mycket svårt att finna någon metod för att ta reda på om det andra är sant. 
 
 <!--Få in en kommentar om att om de tycker att jag vacklar i min beskrivning av logiken så var det för att de logiska positivisterna också gjorde det -->
 
@@ -152,7 +152,7 @@ För Popper kräver vetenskaplighet att vi är långt mer specifika än så här
 **Att fundera på:** Leta upp ditt eget horoskop för denna vecka eller dag. Går horoskopet att falsifiera? Varför? Varför inte? 
 
 
-## Kuhn
+## Kuhn <a href="3_4_kuhn.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a>
 
 > **Kort om:** Thomas Kuhn (1922-1996) var en amerikansk vetenskapshistoriker och filosof. Hans vetenskapsfilosofi är tillsammans med Poppers den mest inflytelserika under 1900-talets andra hälft och framåt. 
 
