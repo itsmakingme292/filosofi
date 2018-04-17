@@ -191,6 +191,8 @@ Två konkurrerande paradigm är enligt Kuhn nämligen helt _inkommensurabla_ (ej
 
 Kuhn förespråkar alltså inte en klassisk "rent objektiv" syn på vetenskapen. Tvärtom understryker han på vetenskapens _intersubjektivitet_. Att vetenskapen i första hand bygger på ett slags _samförstånd_ vetenskapsmän emellan. I vilken utsträckning detta gör honom till en relativist är dock ett debatterat ämne. 
 
+**Ordförklaring:** Intersubjektivitet innebär lite förenklat att vi kan dela samma subjektiva uppfattning och därför förstå varandra inom en viss grupp eller ett visst sammanhang.
+
 <!--### Förparadigmatiskt stadie: Se outline -->
 
 
