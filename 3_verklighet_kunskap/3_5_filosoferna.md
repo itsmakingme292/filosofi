@@ -87,7 +87,7 @@ Descartes representerar här vad som kallas _metodologisk skepticism_. Med detta
 
 Hur mycket Descartes än tvivlade fann han en sak som var omöjlig att betvivla: _han själv existerade_. För hur skulle han kunna tvivla om han inte existerade? Tvivlet förutsätter att _någon/något_ tvivlar.
 
->  _I detta formulerar Descartes en av filosofihistoriens allra mest berömda meningar:_
+>  _I detta formulerar Descartes en av filosofihistoriens allra mest berömda satser:_
 > 
 > > På latin: "Cogito, ergo sum" 
 > > På svenska: "Jag tänker, alltså finns jag"

@@ -1,7 +1,7 @@
 # Verkligheten <a href="3_verklighet_kunskap/3_2_verkligheten_presentation.html" class="presentation" data-featherlight="iframe" data-featherlight-iframe-allowfullscreen="true" data-featherlight-iframe-width="600" data-featherlight-iframe-height="450">Se som presentation <span style="font-size:smaller;"><br>(ersätter <i>inte</i> läsning av texten)</span></a> 
 
 ## Vad är verkligt? 
-Att resonera kring verkligheten är att resonera kring vad som faktiskt existerar och hur. En dröm kan _upplevas_ som verklig när vi drömmer den, men vi vet alla att drömmar inte händer "på riktigt". I den mån drömmar existerar så existerar de endast inom oss och inte utanför oss. I detta kan vi finna en intuition som många av oss bär på: att verkligheten är något som är oberoende av oss själva, att den handlar om något yttre och inte om något inre. 
+Att resonera kring verkligheten är att resonera kring vad som faktiskt existerar och hur. En dröm kan _upplevas_ som verklig när vi drömmer den, men vi vet alla att drömmar inte händer "på riktigt". I den mån drömmar existerar så existerar de endast inom oss och inte utanför oss. I detta kan vi finna en intuition som många av oss bär på: att verkligheten är något som är oberoende av oss själva, att den handlar om något *yttre* och inte om något *inre*. 
 
 Samtidigt kan vi ställa oss frågan om vi någonsin kan veta att det vi upplever som verkligt faktiskt är verkligt? Kanske är rentav hela livet en dröm? Kanske är den "inre verkligheten" den enda verklighet som vi faktiskt har tillgång till? 
 

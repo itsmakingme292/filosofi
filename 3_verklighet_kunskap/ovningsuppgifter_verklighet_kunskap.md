@@ -61,3 +61,9 @@ _Se ovanstående youtube-klipp från TED-Ed och fundera på:_
 1. På vilket sätt är Kant relativist? 
 2. På vilket sätt är Kant objektivist?
 3. Vad anser du väger över? 
+
+## Vetenskapsfilosofi
+
+- Är endast det observerbara och enkelt mätbara  meningsfullt? Har logiska positivismen rätt eller fel? Vad händer då med filosofiska frågor som berör moral och politik? Är det nonsens att tala om rättvisa? 
+
+<!--Få in detta som frågeruta i texten? -->

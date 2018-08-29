@@ -43,7 +43,9 @@
   * [Övningsuppgifter](4_moralfilosofi/ovningsuppgifter_moralfilosofi.md)
   - - - -
   * # Examinerande moment
-  * [Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md)
+  * [*Kommer...*](...)
+
+<!--[Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md) -->
     
 [Verklighet & Kunskap]()
 
@@ -55,15 +57,17 @@
   * [4. Filosoferna](3_verklighet_kunskap/3_5_filosoferna.md)
   * [5. Vetenskapen](3_verklighet_kunskap/3_4_vetenskapen.md)
 
-
   - - - -
   * # Övningar & Diskussionsunderlag
   * [En första diskussion](3_verklighet_kunskap/diskussion_verklighet_kunskap.md)
   * [Övningsuppgifter](3_verklighet_kunskap/ovningsuppgifter_verklighet_kunskap.md)
   - - - -
   * # Examinerande moment
-  * [Seminarium](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md)
-  
+   * [*Kommer...*](...)
+
+<!--  * [Seminarium](3_verklighet_kunskap/instuderingsfragor_verklighet_kunskap.md) -->
+
+
 [Länktips]()
 
   * [Länktips](x_lankar/lanklista.md)
