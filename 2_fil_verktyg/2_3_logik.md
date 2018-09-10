@@ -90,7 +90,7 @@ Ett **implicit** påstående är ett påstående som *logiskt följer* _av_ ett 
 
 Att se till det implicita är alltid en bra början för kritisk granskning. Om vi talar om den implicita meningen, eller det implicita budskapet, i en bok, film, eller liknande, så frågar vi oss vad som _verkligen_ sägs. Och då vi kritiserar någon i en diskussion gör vi ofta detta lika mycket på grund av det som sagts implicit, som på grund av det som sagts explicit. 
 
-Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts explicit. 
+Om en person hävdar att “alla i Sverige måste jobba” kan en annan raskt svara: “så du menar att man inte ska få vara barn, utbilda sig, vara sjukskriven, föräldraledig eller pensionär?”. Vad den andra personen i ett sådant fall gör är att den utsätter den första för *implikationen* av det som sagts explicit. 
 
 > _Fler exempel på implikation_
 > > **Explicit**: Alla borde träna, minst två dagar i veckan
