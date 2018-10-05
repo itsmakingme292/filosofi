@@ -43,9 +43,7 @@
   * [Övningsuppgifter](4_moralfilosofi/ovningsuppgifter_moralfilosofi.md)
   - - - -
   * # Examinerande moment
-  * [*Kommer...*](...)
-
-<!--[Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md) -->
+* [Inlämningsuppgift](4_moralfilosofi/moral_inlamning.md)
     
 [Verklighet & Kunskap]()
 
