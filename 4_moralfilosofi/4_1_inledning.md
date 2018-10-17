@@ -58,7 +58,7 @@ Det sagt får vi aldrig fastna i att blott ”tycka”. Målet för moralfilosof
 
 
 ## Moralen som kompass & bumerang
-Ibland talar vi här om moralen som en kompass. Om att vi intuitivt eller förnuftsmässigt har en egen ”känsla” för vad som är rätt och fel. Att alla människor har en *förmåga* eller en *potential* till moraliska överväganden. Moralfilosofi handlar dock (som sagt) inte om tycke och smak utan om verkliga och betydande ställningstaganden som alltid måste uppbackas med argument. Om vi själva vill vara moraliska måste vi därför själva förstå _varför_ vi bör göra det en eller det andra. Vi kan inte överlåta etiska överväganden åt andra – dessa är alltid upp till oss. 
+Ibland talar vi här om moralen som en kompass. Om att vi intuitivt eller förnuftsmässigt har en egen ”känsla” för vad som är rätt och fel. Att alla människor har en *förmåga* eller en *potential* till moraliska överväganden. Moralfilosofi handlar dock (som sagt) inte om tycke och smak utan om verkliga och betydande ställningstaganden som alltid måste uppbackas med argument. Om vi själva vill vara moraliska måste vi därför själva förstå _varför_ vi bör göra det ena eller det andra. Vi kan inte överlåta etiska överväganden åt andra – dessa är alltid upp till oss. 
 
 <!--Så fort vi väljer att följa någon viss auktoritet i en viss moralfråga (en påve, en rockstjärna, en filosof…) måste vi likväl vara beredda på att ge argument för varför vi valt att följa just denna auktoritet. -->
 

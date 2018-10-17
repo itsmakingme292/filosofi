@@ -60,7 +60,7 @@ Denna uppgift går ut på att resonera kring hur de etiska teorierna kan använd
 3. Du skapar ett **Docs**-dokument under uppgiften i **Classroom** och lämnar in före deadline (se deadline i provschema på schoolsoft). Du genomför uppgiften (med standard teckenstorlek, radavstånd och sid-marginaler) på **minst 1 A4** och **max 3 A4** (exkl. källförteckning). 
 
 
-**OBS:** Misslyckas man med punkt 3 räknas det som en icke inlämnad uppgift... Vid osäkerhet om vad detta innebär: fråga mig.
+**OBS:** Misslyckas man med punkt 3 räknas det som en icke inlämnad uppgift (tills det att man lämnar in korrekt)... Vid osäkerhet om vad detta innebär: fråga mig.
 
 ## Exempel på etiska frågor/problem
 
