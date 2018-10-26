@@ -176,9 +176,11 @@ I det normalvetenskapliga stadiet gör forskare allt annat än att försöka fal
 **Kommentar:** I de fall vi har att göra med ett nytt vetenskapligt område har det kanske ännu inte framträtt någon dominerande teori. Ett sådant stadie är för Kuhn **för-paradigmatiskt** även om de konkurrerande teorierna i en svagare mening också kan sägas utgöra olika "paradigm". 
 
 ### Revolution
-Förr eller senare uppstår det _kriser_ för de vetenskapliga paradigmen. Dessa sker när mängden observationsresultat som den dominerande teorin inte kan förklara (mängden _anomalier_) blivit större än vad forskargemenskapen kan acceptera. Med andra ord: när vetenskapsmännen inte längre kan blunda för allt som talar emot den dominerande teorin. Om det i samband med detta vuxit fram en alternativ teori som kan lösa det gamla paradigmets problem finns möjligheten att det sker en vetenskaplig **revolution**. En sådan revolution kännetecknas av att forskare ger upp det gamla paradigmet, tar till sig det nya och i detta förändrar hela sin blick på världen och de vetenskapliga problem som de försöker lösa. 
+Förr eller senare uppstår det _kriser_ för de vetenskapliga paradigmen. Dessa sker när mängden observationsresultat som den dominerande teorin inte kan förklara (mängden _anomalier_) blivit större än vad forskargemenskapen kan acceptera. Med andra ord: när vetenskapsmännen inte längre kan blunda för allt som talar emot den dominerande teorin. Om det i samband med detta vuxit fram en alternativ teori som kan lösa det gamla paradigmets problem finns möjligheten att det sker en vetenskaplig **revolution**. En sådan revolution kännetecknas av att forskare ger upp det gamla paradigmet, tar till sig det nya och i detta förändrar hela sin blick på världen och de vetenskapliga problem som de försöker lösa. Det sker med andra ord ett _paradigmskifte_. 
 
 > Ett klassiskt exempel på en vetenskaplig revolution är den [_kopernikanska revolutionen_](https://en.wikipedia.org/wiki/Copernican_Revolution ). Denna innebar att vi gick från en [_geocentrisk_](https://sv.wikipedia.org/wiki/Geocentrisk_v%C3%A4rldsbild) till en [_heliocentrisk_](https://sv.wikipedia.org/wiki/Heliocentrisk_v%C3%A4rldsbild) världsbild
+> 
+> [Klicka här för fler **exempel på vetenskapliga revolutioner**](https://en.wikipedia.org/wiki/Paradigm_shift#Examples_of_paradigm_shifts)
 
 ### Inkommensurabilitet
 
