@@ -67,6 +67,20 @@ _Se ovanstående youtube-klipp från TED-Ed och fundera på:_
 
 ## Vetenskapsfilosofi
 
-- Är endast det observerbara och enkelt mätbara  meningsfullt? Har logiska positivismen rätt eller fel? Vad händer då med filosofiska frågor som berör moral och politik? Är det nonsens att tala om rättvisa? 
+- Är endast det observerbara och enkelt mätbara  meningsfullt? Har logiska positivismen rätt? Vad händer då med filosofiska frågor som berör moral och politik? Är det nonsens att tala om rättvisa? 
+
+- Borde vi jobba mer för att falsifiera, snarare än verifiera, våra hypoteser och teorier? Har Popper något viktigt att säga här? 
+
+- Är Kuhns beskrivning av vetenskapens utveckling rimlig? Vad tror ni? 
+
+## Popper & Horoskåp
+
+#### Att göra på egen hand
+1. Leta upp ett horoskop för din dag, vecka eller månad.
+2. Analysera horoskåpet med hjälp av Poppers idé om själv-verifierande hypoteser. 
+
+#### Att göra i grupp
+* Jämför era horoskop och vad ni kommit fram till
+* Gjorde ni liknande analys? 
 
 <!--Få in detta som frågeruta i texten? -->
