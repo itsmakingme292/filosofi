@@ -48,6 +48,9 @@ _Se ovanstående youtube-klipp från TED-Ed och fundera på:_
 
 <!--Se även filen: Grottliknelsen återberättad v1 -->
 
+## Kant: Universellt förnuft?
+* Har Kant rätt? Har vi människor en gemensam förnuftsmässig grund att stå på? Finns det kategorier i tänkandet som är oberoende av samhälle och kultur? 
+
 ## Kant: Relativist eller objektivist? 
 
 **Att göra:**
