@@ -36,7 +36,9 @@ Viktigt att tänka på är att inte sammanblanda den grundläggande formen av re
 <!-- Se sidorna 30-32. För att göra kopplingen mellan Platons objektiva idealism och realism med avseende på matematiken och allmänbegreppen, se även sidorna 14-16.  -->
 
 ## Idealism
-Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter (den materiella) yttervärlden. Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” verklighet existerar.
+Gemensamt för alla typer av idealism är att de på ett eller annat sätt ifrågasätter (den materiella) yttervärlden. 
+
+Den **objektiva idealismen** menar att yttervärlden endast är skenbar och att en ”högre” (icke-fysisk) verklighet existerar. Vad detta innebär är dock mycket svårt att förstå om vi inte går till en konkret filosof. Lättast förstår vi den objektiva idealismen via Platon.
 
 > se [Platons](3_5_filosoferna.md#Platon) idévärld
 
