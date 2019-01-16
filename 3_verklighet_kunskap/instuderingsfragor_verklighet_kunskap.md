@@ -148,7 +148,7 @@ _Datum:_
 _Tid och antal elever per grupp:_
 
 * ca 4-5 elever per grupp 
-* ca 40 minuter per grupp
+* ca 30-40 minuter per grupp
 
 ***
 
