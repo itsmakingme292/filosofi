@@ -32,7 +32,7 @@ I detta exempel har vi tydligt skrivit ut en premiss som förmodligen lika gärn
 
 Huruvida exempelvis människor faktiskt är dödliga eller ej, eller vilken invandringspolitik vi bör bedriva, är dock inget själva logiken intresserar sig för. Logiken intresserar sig bara för vad som logiskt *kan följa* av ett antal premisser. Exempelvis att Pelle *måste* vara dödlig *om* alla människor är dödliga och han också *är* en människa. Inte om premisserna i sig stämmer överens med verkligheten. Detta är upp till andra kunskapsområden att avgöra.
 
-En slutledning som kan vara sann eller falsk kallas för en *logiskt giltig* eller en *korrekt slutledning*. En slutledning som faller redan på sin bristande logik, alltså innan vi ens behöver jämföra premisserna med verkligheten, kallas för ett *felslut* eller en *logiskt ogiltig slutledning*. En sådan ogiltig slutledning kan förvisso av en *slump* producera en *slutsats* som trots allt är sann – men bara om vi har ”tur”, inte för att vi resonerat  korrekt (och själva *slutledningen* är därav likväl ogiltig). 
+En slutledning som "fungerar" och faktiskt producerar en slutsats som måste vara sann om premisserna är sanna kallas för en *logiskt giltig* eller en *korrekt slutledning*. En slutledning som faller redan på sin bristande logik, alltså innan vi ens behöver jämföra premisserna med verkligheten, kallas för ett *felslut* eller en *logiskt ogiltig slutledning*. En sådan ogiltig slutledning kan förvisso av en *slump* råka producera en *slutsats* som trots allt är sann – men bara för att vi haft ”tur”, inte för att vi resonerat korrekt (och själva *slutledningen* är därav likväl ogiltig). 
 
 > *Exempel på en slutledning som är logiskt ogiltig, men som ändå kan "råka" producera en sann slutsats*
 > 
