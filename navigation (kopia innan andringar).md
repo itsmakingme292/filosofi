@@ -1,4 +1,4 @@
-<!-- Tog bort hypothesis här-->
+<script async defer src="//hypothes.is/embed.js"></script>
 
 # Filosofi 1 &nbsp; &nbsp; &nbsp;
 
